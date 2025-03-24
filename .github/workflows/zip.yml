@@ -7,12 +7,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: vimtor/action-zip@v1.2
-        with:
-          files: assets/ pack.mcmeta pack.png
-          dest: OrdinarySMP.zip
       - name: save artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: Artifacts
-          path: ./OrdinarySMP.zip
+          name: OrdinarySMP
+          path: |
+            assets/
+            pack.mcmeta
+            pack.png
