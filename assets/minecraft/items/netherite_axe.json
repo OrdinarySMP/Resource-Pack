@@ -1,0 +1,26 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/netherite_axe"
+        },
+        "entries": [
+            {
+                "threshold": 5478001,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cookie_netherite_axe"
+                }
+            },
+			{
+                "threshold": 5478002,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/netherite_axe"
+                }
+            }
+        ]
+    }
+}

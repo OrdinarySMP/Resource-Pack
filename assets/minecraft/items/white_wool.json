@@ -1,0 +1,40 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:block/white_wool"
+        },
+        "entries": [
+            {
+                "threshold": 6390501,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plush_blue_shark"
+                }
+            },
+            {
+                "threshold": 6390502,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plush_blue_whale"
+                }
+            },
+            {
+                "threshold": 6390503,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plush_gray_shark"
+                }
+            },
+			{
+                "threshold": 6390504,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:block/white_wool"
+                }
+            }
+        ]
+    }
+}

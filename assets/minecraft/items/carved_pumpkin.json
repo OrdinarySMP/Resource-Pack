@@ -1,0 +1,145 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:block/carved_pumpkin"
+        },
+        "entries": [
+            {
+                "threshold": 5478001,
+                "model": {
+                    "type": "model",
+                    "model": "custom/hat"
+                }
+            },
+            {
+                "threshold": 5478002,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:block/carved_pumpkin"
+                }
+            },
+            {
+                "threshold": 5550101,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/bobafetthelmet"
+                }
+            },
+            {
+                "threshold": 5550102,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/mandalorianhelmet"
+                }
+            },
+            {
+                "threshold": 5550103,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/stormtrooper"
+                }
+            },
+            {
+                "threshold": 5550104,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/yodaears"
+                }
+            },
+            {
+                "threshold": 5550105,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:block/carved_pumpkin"
+                }
+            },
+            {
+                "threshold": 7083501,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/antlers"
+                }
+            },
+            {
+                "threshold": 7083502,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/elfhat"
+                }
+            },
+            {
+                "threshold": 7083503,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/santahat"
+                }
+            },
+            {
+                "threshold": 7083504,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:block/carved_pumpkin"
+                }
+            },
+            {
+                "threshold": 8643001,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/ella_antlers"
+                }
+            },
+            {
+                "threshold": 8643002,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:block/carved_pumpkin"
+                }
+            },
+            {
+                "threshold": 8547801,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/dunce_hat"
+                }
+            },
+            {
+                "threshold": 8547802,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:block/carved_pumpkin"
+                }
+            },
+            {
+                "threshold": 9208801,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/spingus_axolotlhat"
+                }
+            },
+            {
+                "threshold": 9208802,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/spingus_cowboyhat"
+                }
+            },
+            {
+                "threshold": 9208803,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/spingus_flowercrown"
+                }
+            },
+            {
+                "threshold": 9208804,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:block/carved_pumpkin"
+                }
+            }
+        ]
+    }
+}

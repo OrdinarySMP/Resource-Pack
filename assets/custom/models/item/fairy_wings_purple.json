@@ -1,0 +1,57 @@
+{
+	"credit": "Made by MrCookiePrincess with Blockbench ",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "custom:item/fairy_wings_purple",
+		"particle": "custom:item/fairy_wings_purple"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, 0],
+			"to": [0, 30, 0],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [8, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 8, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [16, 30, 0],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 8, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [8, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_lefthand": {
+			"rotation": [70, 0, 0],
+			"translation": [-13.5, -15.75, 3.75]
+		},
+		"firstperson_righthand": {
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_lefthand": {
+			"translation": [-80, -80, 3.25],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"ground": {
+			"rotation": [-84, 0, 0],
+			"translation": [9.25, 2, 3.75]
+		},
+		"gui": {
+			"translation": [4, -3.5, 0.5],
+			"scale": [0.5, 0.5, 0.49]
+		}
+	}
+}

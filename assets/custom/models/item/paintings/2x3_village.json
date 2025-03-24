@@ -1,0 +1,56 @@
+{
+	"credit": "Made by MrCookiePrincess with Blockbench ",
+	"texture_size": [48, 48],
+	"textures": {
+		"2": "custom:item/paintings/2x3_village",
+		"4": "custom:item/paintings/back",
+		"particle": "custom:item/paintings/2x3_village"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, -16],
+			"to": [16, 1, 32],
+			"faces": {
+				"north": {"uv": [0, 15.66667, 10.66667, 16], "texture": "#2"},
+				"east": {"uv": [0, 0, 0.33333, 16], "rotation": 90, "texture": "#2"},
+				"south": {"uv": [0, 15.66667, 10.66667, 16], "texture": "#2"},
+				"west": {"uv": [0, 0, 0.33333, 16], "rotation": 90, "texture": "#2"},
+				"up": {"uv": [0, 0, 10.66667, 16], "texture": "#2"},
+				"down": {"uv": [0, 0, 8, 12], "texture": "#4"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [50, 0, 0],
+			"translation": [10, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [50, 0, 0],
+			"translation": [30, 0, 0]
+		},
+		"ground": {
+			"translation": [-8, 3.5, -8],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [4, 4, 0],
+			"scale": [0.5, 1, 0.5]
+		},
+		"head": {
+			"translation": [-8, 14, -8]
+		},
+		"fixed": {
+			"rotation": [-90, 180, 0],
+			"translation": [0, 0, -16],
+			"scale": [2, 2, 2]
+		}
+	}
+}

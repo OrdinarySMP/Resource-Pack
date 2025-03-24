@@ -1,0 +1,159 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/written_book"
+        },
+        "entries": [
+            {
+                "threshold": 7263701,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/alarm_letter"
+                }
+            },
+            {
+                "threshold": 7263702,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/blank_letter"
+                }
+            },
+            {
+                "threshold": 7263703,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/bloody_letter"
+                }
+            },
+            {
+                "threshold": 7263704,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/cash_letter"
+                }
+            },
+            {
+                "threshold": 7263705,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/clover_letter"
+                }
+            },
+            {
+                "threshold": 7263706,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/death_letter"
+                }
+            },
+            {
+                "threshold": 7263707,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/earth_letter"
+                }
+            },
+            {
+                "threshold": 7263708,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/ender_letter"
+                }
+            },
+            {
+                "threshold": 7263709,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/flag_letter"
+                }
+            },
+            {
+                "threshold": 7263710,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/fox_letter"
+                }
+            },
+            {
+                "threshold": 7263711,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/frog_letter"
+                }
+            },
+            {
+                "threshold": 7263712,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/ghost_letter"
+                }
+            },
+            {
+                "threshold": 7263713,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/love_letter"
+                }
+            },
+            {
+                "threshold": 7263714,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/modern_letter"
+                }
+            },
+            {
+                "threshold": 7263715,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/mushroom_letter"
+                }
+            },
+            {
+                "threshold": 7263716,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/old_letter"
+                }
+            },
+            {
+                "threshold": 7263717,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/pumpkin_letter"
+                }
+            },
+            {
+                "threshold": 7263718,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/rainbow_letter"
+                }
+            },
+            {
+                "threshold": 7263719,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/star_letter"
+                }
+            },
+            {
+                "threshold": 7263720,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/trident_letter"
+                }
+            },
+            {
+                "threshold": 7263721,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/written_book"
+                }
+            }
+        ]
+    }
+}

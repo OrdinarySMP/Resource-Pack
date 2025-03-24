@@ -1,0 +1,313 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/paper"
+        },
+        "entries": [
+            {
+                "threshold": 1856301,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paintings/1x2_monalisa"
+                }
+            },
+            {
+                "threshold": 1856302,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paintings/2x2_painting_1"
+                }
+            },
+            {
+                "threshold": 1856303,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paintings/2x2_pearl_earring"
+                }
+            },
+            {
+                "threshold": 1856304,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paintings/2x2_port"
+                }
+            },
+            {
+                "threshold": 1856305,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paintings/2x2_temple"
+                }
+            },
+            {
+                "threshold": 1856306,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paintings/2x3_scream"
+                }
+            },
+            {
+                "threshold": 1856307,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paintings/2x3_village"
+                }
+            },
+            {
+                "threshold": 1856308,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paintings/3x2_road"
+                }
+            },
+            {
+                "threshold": 1856309,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paintings/3x3_american_gothic"
+                }
+            },
+            {
+                "threshold": 1856310,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paintings/3x3_pandemonium"
+                }
+            },
+            {
+                "threshold": 1856311,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/paper"
+                }
+            },
+            {
+                "threshold": 5478002,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/trophy_gold"
+                }
+            },
+            {
+                "threshold": 5478003,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/trophy_iron"
+                }
+            },
+            {
+                "threshold": 5478004,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/trophy_copper"
+                }
+            },
+            {
+                "threshold": 5478005,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/trophy_ghost"
+                }
+            },
+            {
+                "threshold": 5478006,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/fairy_wings_purple"
+                }
+            },
+            {
+                "threshold": 5478007,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/butterfly_wings_pink"
+                }
+            },
+            {
+                "threshold": 5478008,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/fairy_wings_clear"
+                }
+            },
+            {
+                "threshold": 5478009,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/trophy_fish"
+                }
+            },
+            {
+                "threshold": 5478010,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/paper"
+                }
+            },
+            {
+                "threshold": 9208801,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/spingus_coin"
+                }
+            },
+            {
+                "threshold": 9208802,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/paper"
+                }
+            },
+            {
+                "threshold": 7263701,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/alarm_letter"
+                }
+            },
+            {
+                "threshold": 7263702,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/blank_letter"
+                }
+            },
+            {
+                "threshold": 7263703,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/bloody_letter"
+                }
+            },
+            {
+                "threshold": 7263704,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/cash_letter"
+                }
+            },
+            {
+                "threshold": 7263705,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/clover_letter"
+                }
+            },
+            {
+                "threshold": 7263706,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/death_letter"
+                }
+            },
+            {
+                "threshold": 7263707,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/earth_letter"
+                }
+            },
+            {
+                "threshold": 7263708,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/ender_letter"
+                }
+            },
+            {
+                "threshold": 7263709,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/flag_letter"
+                }
+            },
+            {
+                "threshold": 7263710,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/fox_letter"
+                }
+            },
+            {
+                "threshold": 7263711,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/frog_letter"
+                }
+            },
+            {
+                "threshold": 7263712,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/ghost_letter"
+                }
+            },
+            {
+                "threshold": 7263713,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/love_letter"
+                }
+            },
+            {
+                "threshold": 7263714,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/modern_letter"
+                }
+            },
+            {
+                "threshold": 7263715,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/mushroom_letter"
+                }
+            },
+            {
+                "threshold": 7263716,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/old_letter"
+                }
+            },
+            {
+                "threshold": 7263717,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/pumpkin_letter"
+                }
+            },
+            {
+                "threshold": 7263718,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/rainbow_letter"
+                }
+            },
+            {
+                "threshold": 7263719,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/star_letter"
+                }
+            },
+            {
+                "threshold": 7263720,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/letters/trident_letter"
+                }
+            },
+            {
+                "threshold": 7263721,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/paper"
+                }
+            }
+        ]
+    }
+}

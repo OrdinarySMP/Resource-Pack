@@ -1,0 +1,6 @@
+{
+    "parent": "custom:item/easter_eggs/easter_egg_1",
+    "textures": {
+        "layer0": "custom:item/easter_eggs/easter_egg_6"
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/diamond_sword"
+        },
+        "entries": [
+            {
+                "threshold": 2796701,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/blade_ahsoka_tano_white_lightsaber"
+                }
+            },
+			{
+                "threshold": 2796702,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/blade_anakin_skywalker_jedi_knight_lightsaber"
+                }
+            },
+			{
+                "threshold": 2796703,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/blade_darth_vader_lightsaber"
+                }
+            },
+			{
+                "threshold": 2796704,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/blade_count_dooku_lightsaber"
+                }
+            },
+			{
+                "threshold": 2796705,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/blade_darth_maul_apprentice_lightsaber"
+                }
+            },
+			{
+                "threshold": 2796706,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/blade_dark_saber"
+                }
+            },
+			{
+                "threshold": 2796707,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/blade_luke_skywalker_green_lightsaber"
+                }
+            },
+			{
+                "threshold": 2796708,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/blade_mace_windu_lightsaber"
+                }
+            },
+			{
+                "threshold": 2796709,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/blade_obi-wan_kenobi_jedi_master_lightsaber"
+                }
+            },
+			{
+                "threshold": 2796710,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/blade_qui-gon_jinn_lightsaber"
+                }
+            },
+			{
+                "threshold": 2796711,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/blade_yoda_lightsaber"
+                }
+            },
+			{
+                "threshold": 2796712,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/diamond_sword"
+                }
+            }
+        ]
+    }
+}
