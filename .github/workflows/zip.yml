@@ -8,4 +8,9 @@ jobs:
       - name: Generate ZIP
         uses: byteever/action-build-zip@master
         with:
-          filename: 'release.zip'
+          filename: 'OrdinarySMP.zip'
+      - name: save artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: Artifacts
+          path: OrdinarySMP.zip
