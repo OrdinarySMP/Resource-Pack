@@ -1,0 +1,28 @@
+name: Release Artifacts
+
+on:
+  release:
+    types: [created]
+
+jobs:
+  upload-artifacts:
+    name: Upload Release Artifacts
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create ZIP Archive
+        run: zip -r OrdinarySMP.zip assets/ pack.mcmeta pack.png
+
+      - name: Save artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: OrdinarySMP
+          path: OrdinarySMP.zip
+
+      - name: Upload Release Asset
+        uses: softprops/action-gh-release@v1
+        with:
+          files: OrdinarySMP.zip
