@@ -130,13 +130,6 @@
                 "threshold": 9208803,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/spingus_flowercrown"
-                }
-            },
-            {
-                "threshold": 9208804,
-                "model": {
-                    "type": "model",
                     "model": "minecraft:block/carved_pumpkin"
                 }
             }

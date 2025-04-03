@@ -1,0 +1,33 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/golden_carrot"
+        },
+        "entries": [
+            {
+                "threshold": 5569101,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/gingerbread"
+                }
+            },
+			{
+                "threshold": 5569102,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/bamboo"
+                }
+            },
+			{
+                "threshold": 5569103,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/golden_carrot"
+                }
+            }
+        ]
+    }
+}

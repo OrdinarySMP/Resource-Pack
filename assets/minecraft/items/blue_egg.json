@@ -1,0 +1,117 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/blue_egg"
+        },
+        "entries": [
+            {
+                "threshold": 2682101,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/easter_eggs/easter_egg_1"
+                }
+            },
+            {
+                "threshold": 2682102,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/easter_eggs/easter_egg_2"
+                }
+            },
+            {
+                "threshold": 2682103,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/easter_eggs/easter_egg_3"
+                }
+            },
+            {
+                "threshold": 2682104,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/easter_eggs/easter_egg_4"
+                }
+            },
+            {
+                "threshold": 2682105,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/easter_eggs/easter_egg_5"
+                }
+            },
+            {
+                "threshold": 2682106,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/easter_eggs/easter_egg_6"
+                }
+            },
+            {
+                "threshold": 2682107,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/easter_eggs/easter_egg_7"
+                }
+            },
+            {
+                "threshold": 2682108,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/easter_eggs/easter_egg_8"
+                }
+            },
+            {
+                "threshold": 2682109,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/easter_eggs/easter_egg_9"
+                }
+            },
+            {
+                "threshold": 2682110,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/easter_eggs/easter_egg_10"
+                }
+            },
+            {
+                "threshold": 2682111,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/easter_eggs/easter_egg_11"
+                }
+            },
+            {
+                "threshold": 2682112,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/easter_eggs/easter_egg_12"
+                }
+            },
+            {
+                "threshold": 2682113,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/easter_eggs/easter_egg_13"
+                }
+            },
+            {
+                "threshold": 2682114,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/easter_eggs/easter_egg_14"
+                }
+            },
+            {
+                "threshold": 2682115,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/easter_eggs/easter_egg_15"
+                }
+            }
+        ]
+    }
+}
