@@ -10,7 +10,7 @@
           "threshold": 5958201,
           "model": {
             "type": "minecraft:model",
-            "model": "custom:item/fishing_rod_gold_cast"
+            "model": "custom:item/tools/fishing_rod_gold_cast"
           }
         },
 		{
@@ -34,7 +34,7 @@
           "threshold": 5958201,
           "model": {
             "type": "minecraft:model",
-            "model": "custom:item/fishing_rod_gold"
+            "model": "custom:item/tools/fishing_rod_gold"
           }
         },
 		{

@@ -13,27 +13,27 @@
                      "threshold":1,
                      "model":{
                         "type":"model",
-                        "model":"custom:item/cookie_bow_pulling_0"
+                        "model":"custom:item/tools/cookie/cookie_bow_pulling_0"
                      }
                   },
                   {
                      "threshold":13,
                      "model":{
                         "type":"model",
-                        "model":"custom:item/cookie_bow_pulling_1"
+                        "model":"custom:item/tools/cookie/cookie_bow_pulling_1"
                      }
                   },
                   {
                      "threshold":18,
                      "model":{
                         "type":"model",
-                        "model":"custom:item/cookie_bow_pulling_2"
+                        "model":"custom:item/tools/cookie/cookie_bow_pulling_2"
                      }
                   }
                ],
                "fallback":{
                   "type":"model",
-                  "model":"custom:item/cookie_bow"
+                  "model":"custom:item/tools/cookie/cookie_bow"
                }
             }
          },

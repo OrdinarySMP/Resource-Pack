@@ -1,0 +1,117 @@
+{
+	"credit": "JustTimm's Lightsaber Workshop Resource Pack by JustTimm - https://linktr.ee/JustTimm",
+	"texture_size": [64, 64],
+	"textures": {
+		"hilt": "custom:item/tools/lightsaber/blade_darth_maul_apprentice_lightsaber",
+		"blade_center": "custom:item/tools/lightsaber/blade_center",
+		"blade_color": "custom:item/tools/lightsaber/blade_red"
+	},
+	"elements": [
+		{
+			"from": [7.75, 15.5, 7.7],
+			"to": [8.25, 30, 8.2],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#blade_center"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#blade_center"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#blade_center"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#blade_center"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#blade_center"}
+			}
+		},
+		{
+			"from": [7.25, 15.5, 7.2],
+			"to": [8.75, 30.5, 8.7],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#blade_color"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#blade_color"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#blade_color"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#blade_color"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#blade_color"}
+			}
+		},
+		{
+			"from": [7.75, -15.5, 7.7],
+			"to": [8.25, -1, 8.2],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#blade_center"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#blade_center"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#blade_center"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#blade_center"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#blade_center"}
+			}
+		},
+		{
+			"from": [7.25, -16, 7.2],
+			"to": [8.75, -1, 8.7],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#blade_color"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#blade_color"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#blade_color"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#blade_color"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#blade_color"}
+			}
+		},
+		{
+			"from": [7.25, -1, 7.2],
+			"to": [8.75, 15.5, 8.7],
+			"faces": {
+				"north": {"uv": [0.75, 0.75, 1.5, 8.5], "texture": "#hilt"},
+				"east": {"uv": [0, 0.75, 0.75, 8.5], "texture": "#hilt"},
+				"south": {"uv": [2.25, 0.75, 3, 8.5], "texture": "#hilt"},
+				"west": {"uv": [1.5, 0.75, 2.25, 8.5], "texture": "#hilt"},
+				"up": {"uv": [0.75, 0, 1.5, 0.75], "texture": "#hilt"},
+				"down": {"uv": [1.5, 0, 2.25, 0.75], "texture": "#hilt"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -1.25, 1.5],
+			"scale": [1.1, 1.1, 1.1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [0, -1.25, 1.25],
+			"scale": [1.1, 1.1, 1.1]
+		},
+		"firstperson_righthand": {
+			"translation": [4.5, -1.75, -2.25],
+			"scale": [1.36, 1.36, 1.36]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [4.5, -1.75, -2.25],
+			"scale": [1.36, 1.36, 1.36]
+		},
+		"ground": {
+			"translation": [0, 21, 0]
+		},
+		"gui": {
+			"rotation": [48, 27, -43],
+			"translation": [0.25, 0.25, 0],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"head": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"rotation": [0, -90, 0],
+			"translation": [-0.25, 1.5, -1.5],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "blade",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		},
+		{
+			"name": "hilt",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [4]
+		}
+	]
+}

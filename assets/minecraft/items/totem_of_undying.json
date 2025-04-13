@@ -11,14 +11,14 @@
                 "threshold": 3222701,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/totem_of_undying_m3raluna"
+                    "model": "custom:item/totem/totem_of_undying_m3raluna"
                 }
             },
             {
                 "threshold": 3222702,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/totem_of_undying_hudscraft"
+                    "model": "custom:item/totem/totem_of_undying_hudscraft"
                 }
             },
             {
@@ -32,14 +32,14 @@
                 "threshold": 8643001,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/totem_of_undying_padbro"
+                    "model": "custom:item/totem/totem_of_undying_padbro"
                 }
             },
             {
                 "threshold": 8643002,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/totem_of_undying_xkellfeine"
+                    "model": "custom:item/totem/totem_of_undying_xkellfeine"
                 }
             },
             {

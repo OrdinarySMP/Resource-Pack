@@ -11,77 +11,77 @@
                 "threshold": 2796701,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blade_ahsoka_tano_white_lightsaber"
+                    "model": "custom:item/tools/lightsaber/blade_ahsoka_tano_white_lightsaber"
                 }
             },
 			{
                 "threshold": 2796702,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blade_anakin_skywalker_jedi_knight_lightsaber"
+                    "model": "custom:item/tools/lightsaber/blade_anakin_skywalker_jedi_knight_lightsaber"
                 }
             },
 			{
                 "threshold": 2796703,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blade_darth_vader_lightsaber"
+                    "model": "custom:item/tools/lightsaber/blade_darth_vader_lightsaber"
                 }
             },
 			{
                 "threshold": 2796704,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blade_count_dooku_lightsaber"
+                    "model": "custom:item/tools/lightsaber/blade_count_dooku_lightsaber"
                 }
             },
 			{
                 "threshold": 2796705,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blade_darth_maul_apprentice_lightsaber"
+                    "model": "custom:item/tools/lightsaber/blade_darth_maul_apprentice_lightsaber"
                 }
             },
 			{
                 "threshold": 2796706,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blade_dark_saber"
+                    "model": "custom:item/tools/lightsaber/blade_dark_saber"
                 }
             },
 			{
                 "threshold": 2796707,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blade_luke_skywalker_green_lightsaber"
+                    "model": "custom:item/tools/lightsaber/blade_luke_skywalker_green_lightsaber"
                 }
             },
 			{
                 "threshold": 2796708,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blade_mace_windu_lightsaber"
+                    "model": "custom:item/tools/lightsaber/blade_mace_windu_lightsaber"
                 }
             },
 			{
                 "threshold": 2796709,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blade_obi-wan_kenobi_jedi_master_lightsaber"
+                    "model": "custom:item/tools/lightsaber/blade_obi-wan_kenobi_jedi_master_lightsaber"
                 }
             },
 			{
                 "threshold": 2796710,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blade_qui-gon_jinn_lightsaber"
+                    "model": "custom:item/tools/lightsaber/blade_qui-gon_jinn_lightsaber"
                 }
             },
 			{
                 "threshold": 2796711,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blade_yoda_lightsaber"
+                    "model": "custom:item/tools/lightsaber/blade_yoda_lightsaber"
                 }
             },
 			{
@@ -95,7 +95,7 @@
                 "threshold": 5478001,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cookie_netherite_sword"
+                    "model": "custom:item/tools/cookie/cookie_netherite_sword"
                 }
             },
 			{
