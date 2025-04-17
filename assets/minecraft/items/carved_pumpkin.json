@@ -158,6 +158,20 @@
                 "threshold": 5550120,
                 "model": {
                     "type": "model",
+                    "model": "custom:item/hats/pirate_hat_1"
+                }
+            },
+            {
+                "threshold": 5550121,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/hats/pirate_hat_2"
+                }
+            },
+            {
+                "threshold": 5550122,
+                "model": {
+                    "type": "model",
                     "model": "minecraft:block/carved_pumpkin"
                 }
             },
