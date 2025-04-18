@@ -176,6 +176,20 @@
                 }
             },
             {
+                "threshold": 7083499,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/hats/mushroomhat"
+                }
+            },
+            {
+                "threshold": 7083500,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/hats/mushroomhatantlers"
+                }
+            },
+            {
                 "threshold": 7083501,
                 "model": {
                     "type": "model",
