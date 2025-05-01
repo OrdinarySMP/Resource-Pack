@@ -98,7 +98,7 @@
                     "model": "custom:item/tools/cookie/cookie_netherite_sword"
                 }
             },
-			{
+            {
                 "threshold": 5478002,
                 "model": {
                     "type": "model",
@@ -114,6 +114,20 @@
             },
             {
                 "threshold": 7125402,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/netherite_sword"
+                }
+            },
+            {
+                "threshold": 8237501,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/tools/crab_sword"
+                }
+            },
+            {
+                "threshold": 8237502,
                 "model": {
                     "type": "model",
                     "model": "minecraft:item/netherite_sword"
