@@ -172,6 +172,55 @@
                 "threshold": 5550122,
                 "model": {
                     "type": "model",
+                    "model": "custom:item/hats/jellie_ears_headband"
+                }
+            },
+            {
+                "threshold": 5550123,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/hats/jellie_hat"
+                }
+            },
+            {
+                "threshold": 5550124,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/hats/catearsblack"
+                }
+            },
+            {
+                "threshold": 5550125,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/hats/catearscream"
+                }
+            },
+            {
+                "threshold": 5550126,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/hats/catearsorange"
+                }
+            },
+            {
+                "threshold": 5550127,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/hats/catearspink"
+                }
+            },
+            {
+                "threshold": 5550128,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/hats/catearswhite"
+                }
+            },
+            {
+                "threshold": 5550129,
+                "model": {
+                    "type": "model",
                     "model": "minecraft:block/carved_pumpkin"
                 }
             },
