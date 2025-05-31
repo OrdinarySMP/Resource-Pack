@@ -10,7 +10,7 @@
           "threshold": 5478001,
           "model": {
             "type": "minecraft:model",
-            "model": "custom/camer"
+            "model": "custom:item/tools/cookie/cookie_camera"
           }
         },
 		{
@@ -34,7 +34,7 @@
           "threshold": 5478001,
           "model": {
             "type": "minecraft:model",
-            "model": "custom/camer"
+            "model": "custom:item/tools/cookie/cookie_camera"
           }
         },
 		{

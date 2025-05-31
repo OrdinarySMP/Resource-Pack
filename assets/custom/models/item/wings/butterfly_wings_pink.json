@@ -1,0 +1,10 @@
+{
+    "parent": "custom:item/wings/fairy_wings_purple",
+    "texture_size": [
+        32,
+        32
+    ],
+    "textures": {
+        "0": "custom:item/wings/butterfly_wings_pink"
+    }
+}
