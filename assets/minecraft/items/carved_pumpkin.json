@@ -11,7 +11,7 @@
                 "threshold": 5478001,
                 "model": {
                     "type": "model",
-                    "model": "custom/hat"
+                    "model": "custom:item/hats/cookies_hat"
                 }
             },
             {

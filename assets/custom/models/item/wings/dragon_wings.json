@@ -1,5 +1,5 @@
 {
-    "parent": "custom:item/fairy_wings_purple",
+    "parent": "custom:item/wings/fairy_wings_purple",
     "texture_size": [
         32,
         32

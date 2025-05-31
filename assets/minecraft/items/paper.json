@@ -193,18 +193,11 @@
                 "threshold": 5478017,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/wings/pink_butterfly_wings"
-                }
-            },
-            {
-                "threshold": 5478018,
-                "model": {
-                    "type": "model",
                     "model": "custom:item/wings/yellow_butterly_wings"
                 }
             },
             {
-                "threshold": 5478019,
+                "threshold": 5478018,
                 "model": {
                     "type": "model",
                     "model": "minecraft:item/paper"
