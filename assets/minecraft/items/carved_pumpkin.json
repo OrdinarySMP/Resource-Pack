@@ -277,6 +277,62 @@
                 "threshold": 8643002,
                 "model": {
                     "type": "model",
+                    "model": "custom:item/hats/strawberry"
+                }
+            },
+            {
+                "threshold": 8643003,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/hats/forest_witch"
+                }
+            },
+            {
+                "threshold": 8643004,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/hats/froghat"
+                }
+            },
+            {
+                "threshold": 8643005,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/hats/marisa_hat"
+                }
+            },
+            {
+                "threshold": 8643006,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/hats/bear_hat"
+                }
+            },
+            {
+                "threshold": 8643007,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/hats/foxhat"
+                }
+            },
+            {
+                "threshold": 8643008,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/hats/bunny_mask"
+                }
+            },
+            {
+                "threshold": 8643009,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/hats/bunny_hat"
+                }
+            },
+            {
+                "threshold": 8643010,
+                "model": {
+                    "type": "model",
                     "model": "minecraft:block/carved_pumpkin"
                 }
             },
