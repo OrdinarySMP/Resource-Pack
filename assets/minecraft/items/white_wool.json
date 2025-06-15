@@ -11,25 +11,543 @@
                 "threshold": 6390501,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plush_blue_shark"
+                    "model": "custom:item/plushies/plush_blue_shark"
                 }
             },
             {
                 "threshold": 6390502,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plush_blue_whale"
+                    "model": "custom:item/plushies/plush_blue_whale"
                 }
             },
             {
                 "threshold": 6390503,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plush_gray_shark"
+                    "model": "custom:item/plushies/plush_gray_shark"
                 }
             },
-			{
+            {
                 "threshold": 6390504,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_allay"
+                }
+            },
+            {
+                "threshold": 6390505,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_armadillo"
+                }
+            },
+            {
+                "threshold": 6390506,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_axolotl"
+                }
+            },
+            {
+                "threshold": 6390507,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_bat"
+                }
+            },
+            {
+                "threshold": 6390508,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_bee"
+                }
+            },
+            {
+                "threshold": 6390509,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_blaze"
+                }
+            },
+            {
+                "threshold": 6390510,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_breeze"
+                }
+            },
+            {
+                "threshold": 6390511,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_camel"
+                }
+            },
+            {
+                "threshold": 6390512,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_cat"
+                }
+            },
+            {
+                "threshold": 6390513,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_cave_spider"
+                }
+            },
+            {
+                "threshold": 6390514,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_chicken"
+                }
+            },
+            {
+                "threshold": 6390515,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_cow"
+                }
+            },
+            {
+                "threshold": 6390516,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_creeper"
+                }
+            },
+            {
+                "threshold": 6390517,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_dark_father"
+                }
+            },
+            {
+                "threshold": 6390518,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_dolphin"
+                }
+            },
+            {
+                "threshold": 6390519,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_donkey"
+                }
+            },
+            {
+                "threshold": 6390520,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_drowned"
+                }
+            },
+            {
+                "threshold": 6390521,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_elder_guardian"
+                }
+            },
+            {
+                "threshold": 6390522,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_emperor"
+                }
+            },
+            {
+                "threshold": 6390523,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_enderdragon"
+                }
+            },
+            {
+                "threshold": 6390524,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_enderman"
+                }
+            },
+            {
+                "threshold": 6390525,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_evoker"
+                }
+            },
+            {
+                "threshold": 6390526,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_fox"
+                }
+            },
+            {
+                "threshold": 6390527,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_frog"
+                }
+            },
+            {
+                "threshold": 6390528,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_ghast"
+                }
+            },
+            {
+                "threshold": 6390529,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_glow_squid"
+                }
+            },
+            {
+                "threshold": 6390530,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_goat"
+                }
+            },
+            {
+                "threshold": 6390531,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_guardian"
+                }
+            },
+            {
+                "threshold": 6390532,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_hoglin"
+                }
+            },
+            {
+                "threshold": 6390533,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_horse"
+                }
+            },
+            {
+                "threshold": 6390534,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_husk"
+                }
+            },
+            {
+                "threshold": 6390535,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_iron_golem"
+                }
+            },
+            {
+                "threshold": 6390536,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_llama"
+                }
+            },
+            {
+                "threshold": 6390537,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_magma_cube"
+                }
+            },
+            {
+                "threshold": 6390538,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_mooshroom"
+                }
+            },
+            {
+                "threshold": 6390539,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_mule"
+                }
+            },
+            {
+                "threshold": 6390540,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_panda"
+                }
+            },
+            {
+                "threshold": 6390541,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_parrot"
+                }
+            },
+            {
+                "threshold": 6390542,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_phantom"
+                }
+            },
+            {
+                "threshold": 6390543,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_pig"
+                }
+            },
+            {
+                "threshold": 6390544,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_piglin"
+                }
+            },
+            {
+                "threshold": 6390545,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_piglin_brute"
+                }
+            },
+            {
+                "threshold": 6390546,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_pillager"
+                }
+            },
+            {
+                "threshold": 6390547,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_polar_bear"
+                }
+            },
+            {
+                "threshold": 6390548,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_pufferfish"
+                }
+            },
+            {
+                "threshold": 6390549,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_rabbit"
+                }
+            },
+            {
+                "threshold": 6390550,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_ravager"
+                }
+            },
+            {
+                "threshold": 6390551,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_sheep"
+                }
+            },
+            {
+                "threshold": 6390552,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_shulker"
+                }
+            },
+            {
+                "threshold": 6390553,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_skeleton"
+                }
+            },
+            {
+                "threshold": 6390554,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_skeleton_horse"
+                }
+            },
+            {
+                "threshold": 6390555,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_slime"
+                }
+            },
+            {
+                "threshold": 6390556,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_sniffer"
+                }
+            },
+            {
+                "threshold": 6390557,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_spider"
+                }
+            },
+            {
+                "threshold": 6390558,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_squid"
+                }
+            },
+            {
+                "threshold": 6390559,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_storm_soldier"
+                }
+            },
+            {
+                "threshold": 6390560,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_stray"
+                }
+            },
+            {
+                "threshold": 6390561,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_strider"
+                }
+            },
+            {
+                "threshold": 6390562,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_trader_lama"
+                }
+            },
+            {
+                "threshold": 6390563,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_turtle"
+                }
+            },
+            {
+                "threshold": 6390564,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_vex"
+                }
+            },
+            {
+                "threshold": 6390565,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_villager"
+                }
+            },
+            {
+                "threshold": 6390566,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_vindicator"
+                }
+            },
+            {
+                "threshold": 6390567,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_wandering_trader"
+                }
+            },
+            {
+                "threshold": 6390568,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_warden"
+                }
+            },
+            {
+                "threshold": 6390569,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_witch"
+                }
+            },
+            {
+                "threshold": 6390570,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_wither"
+                }
+            },
+            {
+                "threshold": 6390571,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_wither_skeleton"
+                }
+            },
+            {
+                "threshold": 6390572,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_wolf"
+                }
+            },
+            {
+                "threshold": 6390573,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_yoda"
+                }
+            },
+            {
+                "threshold": 6390574,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_zoglin"
+                }
+            },
+            {
+                "threshold": 6390575,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_zombie"
+                }
+            },
+            {
+                "threshold": 6390576,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_zombie_villager"
+                }
+            },
+            {
+                "threshold": 6390577,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_zombified_piglin"
+                }
+            },
+            {
+                "threshold": 6390578,
                 "model": {
                     "type": "model",
                     "model": "minecraft:block/white_wool"

@@ -2,8 +2,8 @@
 	"credit": "Made by MrCookiePrincess with Blockbench ",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "custom:item/plush_shork",
-		"particle": "custom:item/plush_shork"
+		"0": "custom:item/plushies/plush_shork",
+		"particle": "custom:item/plushies/plush_shork"
 	},
 	"elements": [
 		{
