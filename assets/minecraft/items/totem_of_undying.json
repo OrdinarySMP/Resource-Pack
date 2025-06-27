@@ -29,6 +29,13 @@
                 }
             },
             {
+                "threshold": 8643000,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/totem/totem_of_undying_mrcookieprincess"
+                }
+            },
+            {
                 "threshold": 8643001,
                 "model": {
                     "type": "model",
