@@ -225,6 +225,20 @@
                 }
             },
             {
+                "threshold": 6849601,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/hats/snorkel"
+                }
+            },
+            {
+                "threshold": 6849602,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:block/carved_pumpkin"
+                }
+            },
+            {
                 "threshold": 7083499,
                 "model": {
                     "type": "model",
