@@ -291,6 +291,20 @@
                 "threshold": 6042111,
                 "model": {
                     "type": "model",
+                    "model": "custom:item/food/icecream/mango_slushy"
+                }
+            },
+            {
+                "threshold": 6042112,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/food/icecream/mango_sorbet"
+                }
+            },
+            {
+                "threshold": 6042113,
+                "model": {
+                    "type": "model",
                     "model": "minecraft:item/carrot"
                 }
             }
