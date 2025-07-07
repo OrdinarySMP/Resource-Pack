@@ -363,6 +363,391 @@
                     "type": "model",
                     "model": "minecraft:item/paper"
                 }
+            },
+            {
+                "threshold": 8444701,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/c_01"
+                }
+            },
+            {
+                "threshold": 8444702,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/c_02"
+                }
+            },
+            {
+                "threshold": 8444703,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/c_03"
+                }
+            },
+            {
+                "threshold": 8444704,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/c_04"
+                }
+            },
+            {
+                "threshold": 8444705,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/c_05"
+                }
+            },
+            {
+                "threshold": 8444706,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/c_06"
+                }
+            },
+            {
+                "threshold": 8444707,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/c_07"
+                }
+            },
+            {
+                "threshold": 8444708,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/c_08"
+                }
+            },
+            {
+                "threshold": 8444709,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/c_09"
+                }
+            },
+            {
+                "threshold": 8444710,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/c_10"
+                }
+            },
+            {
+                "threshold": 8444711,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/c_11"
+                }
+            },
+            {
+                "threshold": 8444712,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/c_12"
+                }
+            },
+            {
+                "threshold": 8444713,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/c_13"
+                }
+            },
+            {
+                "threshold": 8444721,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/d_01"
+                }
+            },
+            {
+                "threshold": 8444722,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/d_02"
+                }
+            },
+            {
+                "threshold": 8444723,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/d_03"
+                }
+            },
+            {
+                "threshold": 8444724,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/d_04"
+                }
+            },
+            {
+                "threshold": 8444725,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/d_05"
+                }
+            },
+            {
+                "threshold": 8444726,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/d_06"
+                }
+            },
+            {
+                "threshold": 8444727,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/d_07"
+                }
+            },
+            {
+                "threshold": 8444728,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/d_08"
+                }
+            },
+            {
+                "threshold": 8444729,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/d_09"
+                }
+            },
+            {
+                "threshold": 8444730,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/d_10"
+                }
+            },
+            {
+                "threshold": 8444731,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/d_11"
+                }
+            },
+            {
+                "threshold": 8444732,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/d_12"
+                }
+            },
+            {
+                "threshold": 8444733,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/d_13"
+                }
+            },
+            {
+                "threshold": 8444741,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/h_01"
+                }
+            },
+            {
+                "threshold": 8444742,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/h_02"
+                }
+            },
+            {
+                "threshold": 8444743,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/h_03"
+                }
+            },
+            {
+                "threshold": 8444744,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/h_04"
+                }
+            },
+            {
+                "threshold": 8444745,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/h_05"
+                }
+            },
+            {
+                "threshold": 8444746,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/h_06"
+                }
+            },
+            {
+                "threshold": 8444747,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/h_07"
+                }
+            },
+            {
+                "threshold": 8444748,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/h_08"
+                }
+            },
+            {
+                "threshold": 8444749,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/h_09"
+                }
+            },
+            {
+                "threshold": 8444750,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/h_10"
+                }
+            },
+            {
+                "threshold": 8444751,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/h_11"
+                }
+            },
+            {
+                "threshold": 8444752,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/h_12"
+                }
+            },
+            {
+                "threshold": 8444753,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/h_13"
+                }
+            },
+            {
+                "threshold": 8444761,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/s_01"
+                }
+            },
+            {
+                "threshold": 8444762,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/s_02"
+                }
+            },
+            {
+                "threshold": 8444763,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/s_03"
+                }
+            },
+            {
+                "threshold": 8444764,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/s_04"
+                }
+            },
+            {
+                "threshold": 8444765,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/s_05"
+                }
+            },
+            {
+                "threshold": 8444766,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/s_06"
+                }
+            },
+            {
+                "threshold": 8444767,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/s_07"
+                }
+            },
+            {
+                "threshold": 8444768,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/s_08"
+                }
+            },
+            {
+                "threshold": 8444769,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/s_09"
+                }
+            },
+            {
+                "threshold": 8444770,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/s_10"
+                }
+            },
+            {
+                "threshold": 8444771,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/s_11"
+                }
+            },
+            {
+                "threshold": 8444772,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/s_12"
+                }
+            },
+            {
+                "threshold": 8444773,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/s_13"
+                }
+            },
+            {
+                "threshold": 8444778,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/joker_red"
+                }
+            },
+            {
+                "threshold": 8444779,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/cards/joker_black"
+                }
+            },
+            {
+                "threshold": 8444780,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/paper"
+                }
             }
         ]
     }

@@ -1,0 +1,6 @@
+{
+  "parent": "custom:item/cards/base",
+  "textures": {
+    "0": "custom:item/cards/s_11"
+  }
+}
