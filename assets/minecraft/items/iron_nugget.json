@@ -1,0 +1,103 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/iron_nugget"
+        },
+        "entries": [
+            {
+                "threshold": 2649601,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/chips/chip_1"
+                }
+            },
+            {
+                "threshold": 2649602,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/chips/chip_5"
+                }
+            },
+            {
+                "threshold": 2649603,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/chips/chip_10"
+                }
+            },
+            {
+                "threshold": 2649604,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/chips/chip_25"
+                }
+            },
+            {
+                "threshold": 2649605,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/chips/chip_50"
+                }
+            },
+            {
+                "threshold": 2649606,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/chips/chip_100"
+                }
+            },
+            {
+                "threshold": 2649607,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/chips/chip_green"
+                }
+            },
+            {
+                "threshold": 2649608,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/chips/chip_blue"
+                }
+            },
+            {
+                "threshold": 2649609,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/chips/chip_purple"
+                }
+            },
+            {
+                "threshold": 2649610,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/chips/chip_red"
+                }
+            },
+            {
+                "threshold": 2649611,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/chips/chip_orange"
+                }
+            },
+            {
+                "threshold": 2649612,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/chips/chip_black"
+                }
+            },
+            {
+                "threshold": 2649613,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/iron_nugget"
+                }
+            }
+        ]
+    }
+}

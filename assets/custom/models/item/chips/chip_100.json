@@ -1,0 +1,6 @@
+{
+	"parent": "custom:item/chips/chip_1",
+	"textures": {
+		"0": "custom:item/chips/chip_100"
+	}
+}

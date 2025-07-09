@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "custom:item/cards/blank",
@@ -105,7 +106,7 @@
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"gui": {
-			"rotation": [90, 85, 0]
+			"rotation": [90, 90, 0]
 		},
 		"head": {
 			"rotation": [78, -79, 161],
