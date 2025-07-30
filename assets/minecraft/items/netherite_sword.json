@@ -8,6 +8,13 @@
         },
         "entries": [
             {
+                "threshold": 2690801,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/tools/cutlass"
+                }
+            },
+            {
                 "threshold": 2796701,
                 "model": {
                     "type": "model",
