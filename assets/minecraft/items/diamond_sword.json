@@ -8,6 +8,20 @@
         },
         "entries": [
             {
+                "threshold": 2690801,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/tools/cutlass"
+                }
+            },
+            {
+                "threshold": 2690802,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/diamond_sword"
+                }
+            },
+            {
                 "threshold": 2796701,
                 "model": {
                     "type": "model",
