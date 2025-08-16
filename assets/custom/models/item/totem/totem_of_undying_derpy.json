@@ -1,13 +1,214 @@
 {
-  "parent":"minecraft:item/generated",
-  "textures":{
-	  "layer0":"custom:item/totem/totem_of_undying_derpy"
-  },
-  "display":{
-	  "ground":{
-		  "rotation":[0,0,0],
-		  "translation":[0,2,0],
-		  "scale":[0.5,0.5,0.5]
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom:item/totem/totem_of_undying_derpy",
+		"particle": "custom:item/totem/totem_of_undying_derpy"
+	},
+	"elements": [
+		{
+			"name": "Derpy_0",
+			"from": [2, 3, 0],
+			"to": [4, 16, 1],
+			"faces": {
+				"north": {"uv": [4, 0, 2, 13], "texture": "#0"},
+				"east": {"uv": [3, 0, 4, 13], "texture": "#0"},
+				"south": {"uv": [2, 0, 4, 13], "texture": "#0"},
+				"west": {"uv": [2, 0, 3, 13], "texture": "#0"},
+				"up": {"uv": [2, 0, 4, 1], "texture": "#0"},
+				"down": {"uv": [2, 12, 4, 13], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Derpy_1",
+			"from": [12, 3, 0],
+			"to": [14, 16, 1],
+			"faces": {
+				"north": {"uv": [14, 0, 12, 13], "texture": "#0"},
+				"east": {"uv": [13, 0, 14, 13], "texture": "#0"},
+				"south": {"uv": [12, 0, 14, 13], "texture": "#0"},
+				"west": {"uv": [12, 0, 13, 13], "texture": "#0"},
+				"up": {"uv": [12, 0, 14, 1], "texture": "#0"},
+				"down": {"uv": [12, 12, 14, 13], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Derpy_2",
+			"from": [1, 4, 0],
+			"to": [2, 15, 1],
+			"faces": {
+				"north": {"uv": [2, 1, 1, 12], "texture": "#0"},
+				"east": {"uv": [1, 1, 2, 12], "texture": "#0"},
+				"south": {"uv": [1, 1, 2, 12], "texture": "#0"},
+				"west": {"uv": [1, 1, 2, 12], "texture": "#0"},
+				"up": {"uv": [1, 1, 2, 2], "texture": "#0"},
+				"down": {"uv": [1, 11, 2, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Derpy_3",
+			"from": [4, 1, 0],
+			"to": [5, 15, 1],
+			"faces": {
+				"north": {"uv": [5, 1, 4, 15], "texture": "#0"},
+				"east": {"uv": [4, 1, 5, 15], "texture": "#0"},
+				"south": {"uv": [4, 1, 5, 15], "texture": "#0"},
+				"west": {"uv": [4, 1, 5, 15], "texture": "#0"},
+				"up": {"uv": [4, 1, 5, 2], "texture": "#0"},
+				"down": {"uv": [4, 14, 5, 15], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Derpy_4",
+			"from": [6, 0, 0],
+			"to": [10, 15, 1],
+			"faces": {
+				"north": {"uv": [10, 1, 6, 16], "texture": "#0"},
+				"east": {"uv": [9, 1, 10, 16], "texture": "#0"},
+				"south": {"uv": [6, 1, 10, 16], "texture": "#0"},
+				"west": {"uv": [6, 1, 7, 16], "texture": "#0"},
+				"up": {"uv": [6, 1, 10, 2], "texture": "#0"},
+				"down": {"uv": [6, 15, 10, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Derpy_5",
+			"from": [11, 1, 0],
+			"to": [12, 15, 1],
+			"faces": {
+				"north": {"uv": [12, 1, 11, 15], "texture": "#0"},
+				"east": {"uv": [11, 1, 12, 15], "texture": "#0"},
+				"south": {"uv": [11, 1, 12, 15], "texture": "#0"},
+				"west": {"uv": [11, 1, 12, 15], "texture": "#0"},
+				"up": {"uv": [11, 1, 12, 2], "texture": "#0"},
+				"down": {"uv": [11, 14, 12, 15], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Derpy_6",
+			"from": [14, 4, 0],
+			"to": [15, 15, 1],
+			"faces": {
+				"north": {"uv": [15, 1, 14, 12], "texture": "#0"},
+				"east": {"uv": [14, 1, 15, 12], "texture": "#0"},
+				"south": {"uv": [14, 1, 15, 12], "texture": "#0"},
+				"west": {"uv": [14, 1, 15, 12], "texture": "#0"},
+				"up": {"uv": [14, 1, 15, 2], "texture": "#0"},
+				"down": {"uv": [14, 11, 15, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Derpy_7",
+			"from": [5, 1, 0],
+			"to": [6, 14, 1],
+			"faces": {
+				"north": {"uv": [6, 2, 5, 15], "texture": "#0"},
+				"east": {"uv": [5, 2, 6, 15], "texture": "#0"},
+				"south": {"uv": [5, 2, 6, 15], "texture": "#0"},
+				"west": {"uv": [5, 2, 6, 15], "texture": "#0"},
+				"up": {"uv": [5, 2, 6, 3], "texture": "#0"},
+				"down": {"uv": [5, 14, 6, 15], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Derpy_8",
+			"from": [10, 1, 0],
+			"to": [11, 14, 1],
+			"faces": {
+				"north": {"uv": [11, 2, 10, 15], "texture": "#0"},
+				"east": {"uv": [10, 2, 11, 15], "texture": "#0"},
+				"south": {"uv": [10, 2, 11, 15], "texture": "#0"},
+				"west": {"uv": [10, 2, 11, 15], "texture": "#0"},
+				"up": {"uv": [10, 2, 11, 3], "texture": "#0"},
+				"down": {"uv": [10, 14, 11, 15], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Derpy_9",
+			"from": [0, 5, 0],
+			"to": [1, 11, 1],
+			"faces": {
+				"north": {"uv": [1, 5, 0, 11], "texture": "#0"},
+				"east": {"uv": [0, 5, 1, 11], "texture": "#0"},
+				"south": {"uv": [0, 5, 1, 11], "texture": "#0"},
+				"west": {"uv": [0, 5, 1, 11], "texture": "#0"},
+				"up": {"uv": [0, 5, 1, 6], "texture": "#0"},
+				"down": {"uv": [0, 10, 1, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Derpy_10",
+			"from": [15, 5, 0],
+			"to": [16, 11, 1],
+			"faces": {
+				"north": {"uv": [16, 5, 15, 11], "texture": "#0"},
+				"east": {"uv": [15, 5, 16, 11], "texture": "#0"},
+				"south": {"uv": [15, 5, 16, 11], "texture": "#0"},
+				"west": {"uv": [15, 5, 16, 11], "texture": "#0"},
+				"up": {"uv": [15, 5, 16, 6], "texture": "#0"},
+				"down": {"uv": [15, 10, 16, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Derpy_11",
+			"from": [3, 2, 0],
+			"to": [4, 3, 1],
+			"faces": {
+				"north": {"uv": [4, 13, 3, 14], "texture": "#0"},
+				"east": {"uv": [3, 13, 4, 14], "texture": "#0"},
+				"south": {"uv": [3, 13, 4, 14], "texture": "#0"},
+				"west": {"uv": [3, 13, 4, 14], "texture": "#0"},
+				"up": {"uv": [3, 13, 4, 14], "texture": "#0"},
+				"down": {"uv": [3, 13, 4, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Derpy_12",
+			"from": [12, 2, 0],
+			"to": [13, 3, 1],
+			"faces": {
+				"north": {"uv": [13, 13, 12, 14], "texture": "#0"},
+				"east": {"uv": [12, 13, 13, 14], "texture": "#0"},
+				"south": {"uv": [12, 13, 13, 14], "texture": "#0"},
+				"west": {"uv": [12, 13, 13, 14], "texture": "#0"},
+				"up": {"uv": [12, 13, 13, 14], "texture": "#0"},
+				"down": {"uv": [12, 13, 13, 14], "texture": "#0"}
+			}
 		}
-	}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 1.75, 2.75],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 1.75, 2.75],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 25],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, 25],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"fixed": {
+			"translation": [0, 0, 8.25]
+		}
+	},
+	"groups": [
+		{
+			"name": "Derpy",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+		}
+	]
 }
