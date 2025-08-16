@@ -118,6 +118,20 @@
                     "type": "model",
                     "model": "minecraft:item/diamond_sword"
                 }
+            },
+            {
+                "threshold": 9222701,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/tools/huntrix/rumi_sword"
+                }
+            },
+            {
+                "threshold": 9222702,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/tools/crab_sword"
+                }
             }
         ]
     }
