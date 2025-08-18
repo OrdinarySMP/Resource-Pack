@@ -384,6 +384,20 @@
                     "type": "model",
                     "model": "minecraft:block/carved_pumpkin"
                 }
+            },
+            {
+                "threshold": 9307201,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/hats/ribbon_hat"
+                }
+            },
+            {
+                "threshold": 9307202,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:block/carved_pumpkin"
+                }
             }
         ]
     }
