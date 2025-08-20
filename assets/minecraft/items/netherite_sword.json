@@ -116,6 +116,13 @@
                 "threshold": 5478002,
                 "model": {
                     "type": "model",
+                    "model": "custom:item/tools/cookie/xadale_sword"
+                }
+            },
+            {
+                "threshold": 5478003,
+                "model": {
+                    "type": "model",
                     "model": "minecraft:item/netherite_sword"
                 }
             },
