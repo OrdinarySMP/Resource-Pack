@@ -1,0 +1,26 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/diamond"
+        },
+        "entries": [
+            {
+                "threshold": 7133201,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/diamond_purple"
+                }
+            },
+            {
+                "threshold": 7133202,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/diamond"
+                }
+            }
+		]
+	}
+}
