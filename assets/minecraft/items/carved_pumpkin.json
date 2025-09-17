@@ -8,6 +8,20 @@
         },
         "entries": [
             {
+                "threshold": 3714801,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/hats/oscar_hat"
+                }
+            },
+            {
+                "threshold": 3714802,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:block/carved_pumpkin"
+                }
+            },
+            {
                 "threshold": 5478001,
                 "model": {
                     "type": "model",
