@@ -1,0 +1,26 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/bread"
+        },
+        "entries": [
+            {
+                "threshold": 7410801,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/food/garlic/bread"
+                }
+            },
+            {
+                "threshold": 7410802,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/bread"
+                }
+            }
+        ]
+    }
+}
