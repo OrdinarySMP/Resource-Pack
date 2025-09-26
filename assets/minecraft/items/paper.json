@@ -748,6 +748,20 @@
                     "type": "model",
                     "model": "minecraft:item/paper"
                 }
+            },
+            {
+                "threshold": 8444781,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/horse_trophy"
+                }
+            },
+            {
+                "threshold": 8444782,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/paper"
+                }
             }
         ]
     }
