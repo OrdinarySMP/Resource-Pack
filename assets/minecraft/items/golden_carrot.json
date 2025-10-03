@@ -321,6 +321,27 @@
                     "type": "model",
                     "model": "minecraft:item/golden_carrot"
                 }
+            },
+            {
+                "threshold": 7513201,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/food/fastfood/burger"
+                }
+            },
+            {
+                "threshold": 7513202,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/food/fastfood/fries"
+                }
+            },
+            {
+                "threshold": 7513203,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/golden_carrot"
+                }
             }
         ]
     }
