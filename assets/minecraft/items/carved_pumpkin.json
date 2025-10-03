@@ -295,6 +295,20 @@
                 }
             },
             {
+                "threshold": 7133201,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/hats/eevee_hat"
+                }
+            },
+            {
+                "threshold": 7133202,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:block/carved_pumpkin"
+                }
+            },
+            {
                 "threshold": 8643001,
                 "model": {
                     "type": "model",
