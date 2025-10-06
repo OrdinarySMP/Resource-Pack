@@ -4,8 +4,6 @@
     "min_format": 34,
     "max_format": 200,
     "supported_formats": {"min_inclusive": 34, "max_inclusive": 200},
-    "description": [
-      {"text": "OrdinarySMP"}
-    ]
+    "description": "OrdinarySMP"
   }
 }
