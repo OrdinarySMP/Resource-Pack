@@ -71,6 +71,76 @@
                 }
             },
             {
+                "threshold": 3854701,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/totem/devils_toys/toy_of_undying_bleamly"
+                }
+            },
+            {
+                "threshold": 3854702,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/totem/devils_toys/toy_of_undying_cherry"
+                }
+            },
+            {
+                "threshold": 3854703,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/totem/devils_toys/toy_of_undying_cheter"
+                }
+            },
+            {
+                "threshold": 3854704,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/totem/devils_toys/toy_of_undying_piano"
+                }
+            },
+            {
+                "threshold": 3854705,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/totem/devils_toys/toy_of_undying_smooch"
+                }
+            },
+            {
+                "threshold": 3854706,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/totem/devils_toys/toy_of_undying_supremeGuru"
+                }
+            },
+            {
+                "threshold": 3854707,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/totem/devils_toys/toy_of_undying_the_devil"
+                }
+            },
+            {
+                "threshold": 3854708,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/totem/devils_toys/toy_of_undying_tolemor"
+                }
+            },
+            {
+                "threshold": 3854709,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/totem/devils_toys/toy_of_undying_worker"
+                }
+            },
+            {
+                "threshold": 3854710,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/totem_of_undying"
+                }
+            },
+            {
                 "threshold": 8643000,
                 "model": {
                     "type": "model",
