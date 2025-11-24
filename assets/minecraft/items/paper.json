@@ -755,7 +755,22 @@
                     "type": "model",
                     "model": "minecraft:item/paper"
                 }
+            },
+            {
+                "threshold": 7333501,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/masons_market_sign"
+                }
+            },
+            {
+                "threshold": 7333502,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/paper"
+                }
             }
+
         ]
     }
 }
