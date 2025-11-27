@@ -342,6 +342,27 @@
                     "type": "model",
                     "model": "minecraft:item/golden_carrot"
                 }
+            },
+            {
+                "threshold": 7706401,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/food/cocacola"
+                }
+            },
+            {
+                "threshold": 7706402,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/food/tea"
+                }
+            },
+            {
+                "threshold": 7706403,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/golden_carrot"
+                }
             }
         ]
     }
