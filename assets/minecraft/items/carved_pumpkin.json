@@ -11,7 +11,7 @@
                 "threshold": 3714801,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/oscar_hat"
+                    "model": "custom:item/hats/pirate_co/oscar_hat"
                 }
             },
             {
@@ -39,196 +39,196 @@
                 "threshold": 5550101,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/bobafetthelmet"
+                    "model": "custom:item/hats/star_wars/bobafetthelmet"
                 }
             },
             {
                 "threshold": 5550102,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/mandalorianhelmet"
+                    "model": "custom:item/hats/star_wars/mandalorianhelmet"
                 }
             },
             {
                 "threshold": 5550103,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/stormtrooper"
+                    "model": "custom:item/hats/star_wars/stormtrooper"
                 }
             },
             {
                 "threshold": 5550104,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/yodaears"
+                    "model": "custom:item/hats/star_wars/yodaears"
                 }
             },
             {
                 "threshold": 5550105,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/wizard_hat"
+                    "model": "custom:item/hats/other/wizard_hat"
                 }
             },
             {
                 "threshold": 5550106,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/gift_hat"
+                    "model": "custom:item/hats/other/gift_hat"
                 }
             },
             {
                 "threshold": 5550107,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/merchant_hat"
+                    "model": "custom:item/hats/other/merchant_hat"
                 }
             },
             {
                 "threshold": 5550108,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/crown"
+                    "model": "custom:item/hats/other/crown"
                 }
             },
             {
                 "threshold": 5550109,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/fancy_hat"
+                    "model": "custom:item/hats/other/fancy_hat"
                 }
             },
             {
                 "threshold": 5550110,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/very_fancy_hat"
+                    "model": "custom:item/hats/other/very_fancy_hat"
                 }
             },
             {
                 "threshold": 5550111,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/chef_hat"
+                    "model": "custom:item/hats/other/chef_hat"
                 }
             },
             {
                 "threshold": 5550112,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/farmer_hat"
+                    "model": "custom:item/hats/other/farmer_hat"
                 }
             },
             {
                 "threshold": 5550113,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/top_hat"
+                    "model": "custom:item/hats/other/top_hat"
                 }
             },
             {
                 "threshold": 5550114,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/wig"
+                    "model": "custom:item/hats/other/wig"
                 }
             },
             {
                 "threshold": 5550115,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/wizard_hat_green"
+                    "model": "custom:item/hats/other/wizard_hat_green"
                 }
             },
             {
                 "threshold": 5550116,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/joker_hat"
+                    "model": "custom:item/hats/other/joker_hat"
                 }
             },
             {
                 "threshold": 5550117,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/cluckshroom_hat"
+                    "model": "custom:item/hats/other/cluckshroom_hat"
                 }
             },
             {
                 "threshold": 5550118,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/explorer_hat"
+                    "model": "custom:item/hats/other/explorer_hat"
                 }
             },
             {
                 "threshold": 5550119,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/detective_hat"
+                    "model": "custom:item/hats/other/detective_hat"
                 }
             },
             {
                 "threshold": 5550120,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/pirate_hat_1"
+                    "model": "custom:item/hats/pirate_co/pirate_hat_1"
                 }
             },
             {
                 "threshold": 5550121,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/pirate_hat_2"
+                    "model": "custom:item/hats/pirate_co/pirate_hat_2"
                 }
             },
             {
                 "threshold": 5550122,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/jellie_ears_headband"
+                    "model": "custom:item/hats/cat_ears/jellie_ears_headband"
                 }
             },
             {
                 "threshold": 5550123,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/jellie_hat"
+                    "model": "custom:item/hats/cat_ears/jellie_hat"
                 }
             },
             {
                 "threshold": 5550124,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/catearsblack"
+                    "model": "custom:item/hats/cat_ears/catearsblack"
                 }
             },
             {
                 "threshold": 5550125,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/catearscream"
+                    "model": "custom:item/hats/cat_ears/catearscream"
                 }
             },
             {
                 "threshold": 5550126,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/catearsorange"
+                    "model": "custom:item/hats/cat_ears/catearsorange"
                 }
             },
             {
                 "threshold": 5550127,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/catearspink"
+                    "model": "custom:item/hats/cat_ears/catearspink"
                 }
             },
             {
                 "threshold": 5550128,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/catearswhite"
+                    "model": "custom:item/hats/cat_ears/catearswhite"
                 }
             },
             {
@@ -256,35 +256,35 @@
                 "threshold": 7083499,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/mushroomhat"
+                    "model": "custom:item/hats/mooshroom/mushroomhat"
                 }
             },
             {
                 "threshold": 7083500,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/mushroomhatantlers"
+                    "model": "custom:item/hats/mooshroom/mushroomhatantlers"
                 }
             },
             {
                 "threshold": 7083501,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/antlers"
+                    "model": "custom:item/hats/xmas/antlers"
                 }
             },
             {
                 "threshold": 7083502,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/elfhat"
+                    "model": "custom:item/hats/xmas/elfhat"
                 }
             },
             {
                 "threshold": 7083503,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/santahat"
+                    "model": "custom:item/hats/xmas/santahat"
                 }
             },
             {
@@ -312,63 +312,63 @@
                 "threshold": 8643001,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/ella_antlers"
+                    "model": "custom:item/hats/mooshroom/ella_antlers"
                 }
             },
             {
                 "threshold": 8643002,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/strawberry"
+                    "model": "custom:item/hats/glitter_grove/strawberry"
                 }
             },
             {
                 "threshold": 8643003,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/forest_witch"
+                    "model": "custom:item/hats/glitter_grove/forest_witch"
                 }
             },
             {
                 "threshold": 8643004,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/froghat"
+                    "model": "custom:item/hats/glitter_grove/froghat"
                 }
             },
             {
                 "threshold": 8643005,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/marisa_hat"
+                    "model": "custom:item/hats/glitter_grove/marisa_hat"
                 }
             },
             {
                 "threshold": 8643006,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/bear_hat"
+                    "model": "custom:item/hats/glitter_grove/bear_hat"
                 }
             },
             {
                 "threshold": 8643007,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/foxhat"
+                    "model": "custom:item/hats/glitter_grove/foxhat"
                 }
             },
             {
                 "threshold": 8643008,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/bunny_mask"
+                    "model": "custom:item/hats/glitter_grove/bunny_mask"
                 }
             },
             {
                 "threshold": 8643009,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/bunny_hat"
+                    "model": "custom:item/hats/glitter_grove/bunny_hat"
                 }
             },
             {
@@ -382,7 +382,7 @@
                 "threshold": 8547801,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/dunce_hat"
+                    "model": "custom:item/hats/other/dunce_hat"
                 }
             },
             {
@@ -396,14 +396,14 @@
                 "threshold": 9208801,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/spingus_axolotlhat"
+                    "model": "custom:item/hats/other/spingus_axolotlhat"
                 }
             },
             {
                 "threshold": 9208802,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/hats/spingus_cowboyhat"
+                    "model": "custom:item/hats/other/spingus_cowboyhat"
                 }
             },
             {
@@ -422,6 +422,34 @@
             },
             {
                 "threshold": 9307202,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:block/carved_pumpkin"
+                }
+            },
+            {
+                "threshold": 4944201,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/hats/glitter_grove/xmas/christmas_deer"
+                }
+            },
+            {
+                "threshold": 4944202,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/hats/glitter_grove/xmas/christmas_lights"
+                }
+            },
+            {
+                "threshold": 4944203,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/hats/glitter_grove/xmas/green_dark_elf_hat"
+                }
+            },
+            {
+                "threshold": 4944204,
                 "model": {
                     "type": "model",
                     "model": "minecraft:block/carved_pumpkin"
