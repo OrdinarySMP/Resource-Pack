@@ -118,6 +118,34 @@
                     "type": "model",
                     "model": "custom:item/tools/crab_sword"
                 }
+            },
+            {
+                "threshold": 1304101,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/tools/witch_wand"
+                }
+            },
+            {
+                "threshold": 1304102,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/copper_sword"
+                }
+            },
+            {
+                "threshold": 5478002,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/tools/cookie/xadale_sword"
+                }
+            },
+            {
+                "threshold": 5478003,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/copper_sword"
+                }
             }
         ]
     }

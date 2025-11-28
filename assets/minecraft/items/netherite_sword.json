@@ -167,8 +167,21 @@
                     "type": "model",
                     "model": "custom:item/tools/crab_sword"
                 }
+            },
+            {
+                "threshold": 1304101,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/tools/witch_wand"
+                }
+            },
+            {
+                "threshold": 1304102,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/netherite_sword"
+                }
             }
-            
         ]
     }
 }
