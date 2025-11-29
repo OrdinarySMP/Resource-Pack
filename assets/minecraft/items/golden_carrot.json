@@ -214,6 +214,34 @@
                 "threshold": 5569130,
                 "model": {
                     "type": "model",
+                    "model": "custom:item/food/pastries/christmas/gingerbreadman"
+                }
+            },
+            {
+                "threshold": 5569131,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/food/pastries/christmas/candycane"
+                }
+            },
+            {
+                "threshold": 5569132,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/food/pastries/christmas/hotchocolate"
+                }
+            },
+            {
+                "threshold": 5569133,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/food/pastries/christmas/smores"
+                }
+            },
+            {
+                "threshold": 5569134,
+                "model": {
+                    "type": "model",
                     "model": "minecraft:item/golden_carrot"
                 }
             },
