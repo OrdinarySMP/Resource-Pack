@@ -769,8 +769,84 @@
                     "type": "model",
                     "model": "minecraft:item/paper"
                 }
+            },
+            {
+                "threshold": 3341301,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paintings/billboards/billboard_generic"
+                }
+            },
+            {
+                "threshold": 3341302,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paintings/billboards/barge"
+                }
+            },
+            {
+                "threshold": 3341303,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paintings/billboards/cs"
+                }
+            },
+            {
+                "threshold": 3341304,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paintings/billboards/moonlight"
+                }
+            },
+            {
+                "threshold": 3341305,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paintings/billboards/mooshroom"
+                }
+            },
+            {
+                "threshold": 3341306,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paintings/billboards/pbn"
+                }
+            },
+            {
+                "threshold": 3341307,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paintings/billboards/pigston"
+                }
+            },
+            {
+                "threshold": 3341308,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paintings/billboards/plunderers"
+                }
+            },
+            {
+                "threshold": 3341309,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paintings/billboards/princess"
+                }
+            },
+            {
+                "threshold": 3341310,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paintings/billboards/ravager"
+                }
+            },
+            {
+                "threshold": 3341311,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/paper"
+                }
             }
-
         ]
     }
 }
