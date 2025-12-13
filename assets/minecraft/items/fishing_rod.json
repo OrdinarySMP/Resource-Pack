@@ -13,8 +13,22 @@
             "model": "custom:item/tools/fishing_rod_gold_cast"
           }
         },
-		{
+        {
           "threshold": 5958202,
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/fishing_rod_cast"
+          }
+        },
+        {
+          "threshold": 6151004,
+          "model": {
+            "type": "minecraft:model",
+            "model": "custom:item/tools/blossom/blossom_fishing_rod_cast"
+          }
+        },
+        {
+          "threshold": 6151005,
           "model": {
             "type": "minecraft:model",
             "model": "minecraft:item/fishing_rod_cast"
@@ -37,8 +51,22 @@
             "model": "custom:item/tools/fishing_rod_gold"
           }
         },
-		{
+        {
           "threshold": 5958202,
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/fishing_rod"
+          }
+        },
+        {
+          "threshold": 6151004,
+          "model": {
+            "type": "minecraft:model",
+            "model": "custom:item/tools/blossom/blossom_fishing_rod"
+          }
+        },
+        {
+          "threshold": 6151005,
           "model": {
             "type": "minecraft:model",
             "model": "minecraft:item/fishing_rod"

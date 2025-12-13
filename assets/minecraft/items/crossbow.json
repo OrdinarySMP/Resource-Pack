@@ -112,6 +112,171 @@
                         }
                     }
                 }
+            },
+            {
+                "threshold": 6151003,
+                "model": {
+                    "type": "range_dispatch",
+                    "property": "use_duration",
+                    "entries": [
+                        {
+                            "threshold": 1,
+                            "model": {
+                                "type": "model",
+                                "model": "custom:item/tools/ender/ender_crossbow_pulling_0"
+                            }
+                        },
+                        {
+                            "threshold": 13,
+                            "model": {
+                                "type": "model",
+                                "model": "custom:item/tools/ender/ender_crossbow_pulling_1"
+                            }
+                        },
+                        {
+                            "threshold": 18,
+                            "model": {
+                                "type": "model",
+                                "model": "custom:item/tools/ender/ender_crossbow_pulling_2"
+                            }
+                        }
+                    ],
+                    "fallback": {
+                        "type": "minecraft:select",
+                        "property": "minecraft:charge_type",
+                        "components": "minecraft:charged_projectiles",
+                        "cases": [
+                            {
+                                "when": "arrow",
+                                "model": {
+                                    "type": "model",
+                                    "model": "custom:item/tools/ender/ender_crossbow_arrow"
+                                }
+                            },
+                            {
+                                "when": "rocket",
+                                "model": {
+                                    "type": "model",
+                                    "model": "custom:item/tools/ender/ender_crossbow_firework"
+                                }
+                            }
+                        ],
+                        "fallback": {
+                            "type": "model",
+                            "model": "custom:item/tools/ender/ender_crossbow"
+                        }
+                    }
+                }
+            },
+            {
+                "threshold": 6151004,
+                "model": {
+                    "type": "range_dispatch",
+                    "property": "use_duration",
+                    "entries": [
+                        {
+                            "threshold": 1,
+                            "model": {
+                                "type": "model",
+                                "model": "custom:item/tools/blossom/blossom_crossbow_pulling_0"
+                            }
+                        },
+                        {
+                            "threshold": 13,
+                            "model": {
+                                "type": "model",
+                                "model": "custom:item/tools/blossom/blossom_crossbow_pulling_1"
+                            }
+                        },
+                        {
+                            "threshold": 18,
+                            "model": {
+                                "type": "model",
+                                "model": "custom:item/tools/blossom/blossom_crossbow_pulling_2"
+                            }
+                        }
+                    ],
+                    "fallback": {
+                        "type": "minecraft:select",
+                        "property": "minecraft:charge_type",
+                        "components": "minecraft:charged_projectiles",
+                        "cases": [
+                            {
+                                "when": "arrow",
+                                "model": {
+                                    "type": "model",
+                                    "model": "custom:item/tools/blossom/blossom_crossbow_arrow"
+                                }
+                            },
+                            {
+                                "when": "rocket",
+                                "model": {
+                                    "type": "model",
+                                    "model": "custom:item/tools/blossom/blossom_crossbow_firework"
+                                }
+                            }
+                        ],
+                        "fallback": {
+                            "type": "model",
+                            "model": "custom:item/tools/blossom/blossom_crossbow"
+                        }
+                    }
+                }
+            },
+            {
+                "threshold": 6151005,
+                "model": {
+                    "type": "range_dispatch",
+                    "property": "use_duration",
+                    "entries": [
+                        {
+                            "threshold": 1,
+                            "model": {
+                                "type": "model",
+                                "model": "item/crossbow_pulling_0"
+                            }
+                        },
+                        {
+                            "threshold": 13,
+                            "model": {
+                                "type": "model",
+                                "model": "item/crossbow_pulling_1"
+                            }
+                        },
+                        {
+                            "threshold": 18,
+                            "model": {
+                                "type": "model",
+                                "model": "item/crossbow_pulling_2"
+                            }
+                        }
+                    ],
+                    "fallback": {
+                        "type": "minecraft:select",
+                        "property": "minecraft:charge_type",
+                        "components": "minecraft:charged_projectiles",
+                        "cases": [
+                            {
+                                "when": "arrow",
+                                "model": {
+                                    "type": "model",
+                                    "model": "item/crossbow_arrow"
+                                }
+                            },
+                            {
+                                "when": "rocket",
+                                "model": {
+                                    "type": "model",
+                                    "model": "item/crossbow_firework"
+                                }
+                            }
+                        ],
+                        "fallback": {
+                            "type": "model",
+                            "model": "item/crossbow"
+                        }
+                    }
+                }
             }
         ],
         "fallback": {
