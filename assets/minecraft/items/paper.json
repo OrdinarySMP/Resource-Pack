@@ -771,13 +771,6 @@
                 }
             },
             {
-                "threshold": 3341301,
-                "model": {
-                    "type": "model",
-                    "model": "custom:item/paintings/billboards/billboard_generic"
-                }
-            },
-            {
                 "threshold": 3341302,
                 "model": {
                     "type": "model",

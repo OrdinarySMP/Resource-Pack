@@ -1,9 +1,9 @@
 {
 	"credit": "Made by MrCookiePrincess with Blockbench ",
 	"textures": {
-		"0": "custom:item/filter_f",
+		"0": "custom:block/filter_f",
 		"1": "minecraft:block/granite",
-		"particle": "custom:item/filter_f"
+		"particle": "custom:block/filter_f"
 	},
 	"elements": [
 		{
