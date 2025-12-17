@@ -412,6 +412,20 @@
                     "type": "model",
                     "model": "minecraft:item/golden_carrot"
                 }
+            },
+            {
+                "threshold": 7360901,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/food/soul_food"
+                }
+            },
+            {
+                "threshold": 7360902,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/golden_carrot"
+                }
             }
         ]
     }
