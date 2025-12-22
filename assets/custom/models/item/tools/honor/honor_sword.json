@@ -1,1 +1,1 @@
-{"parent":"minecraft:item/netherite_axe","texture_size":[16,16],"textures":{"layer0":"custom:item/tools/honor/honor_sword"}}
+{"parent":"minecraft:item/netherite_sword","texture_size":[16,16],"textures":{"layer0":"custom:item/tools/honor/honor_sword"}}

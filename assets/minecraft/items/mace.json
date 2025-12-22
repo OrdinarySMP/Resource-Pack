@@ -32,7 +32,14 @@
                 "threshold": 6151004,
                 "model": {
                     "type": "model",
-                    "model": "minecraft:item/netherite_axe"
+                    "model": "custom:item/tools/blossom/blossom_mace"
+                }
+            },
+            {
+                "threshold": 6151005,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/mace"
                 }
             }
 	]

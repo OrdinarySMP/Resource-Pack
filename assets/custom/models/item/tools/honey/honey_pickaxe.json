@@ -1,1 +1,1 @@
-{"parent":"minecraft:item/netherite_axe","texture_size":[16,16],"textures":{"layer0":"custom:item/tools/honey/honey_pickaxe"}}
+{"parent":"minecraft:item/netherite_pickaxe","texture_size":[16,16],"textures":{"layer0":"custom:item/tools/honey/honey_pickaxe"}}
