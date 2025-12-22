@@ -146,6 +146,20 @@
                     "type": "model",
                     "model": "minecraft:item/diamond_sword"
                 }
+            },
+            {
+                "threshold": 6151001,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/tools/honey/honey_sword"
+                }
+            },
+            {
+                "threshold": 6151002,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/diamond_sword"
+                }
             }
         ]
     }

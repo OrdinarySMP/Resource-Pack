@@ -391,6 +391,41 @@
                     "type": "model",
                     "model": "minecraft:item/golden_carrot"
                 }
+            },
+            {
+                "threshold": 1346101,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/food/choco/hot_choco_cyan"
+                }
+            },
+            {
+                "threshold": 1346102,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/food/choco/hot_choco_pink"
+                }
+            },
+            {
+                "threshold": 1346103,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/golden_carrot"
+                }
+            },
+            {
+                "threshold": 7360901,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/food/soul_food"
+                }
+            },
+            {
+                "threshold": 7360902,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/golden_carrot"
+                }
             }
         ]
     }
