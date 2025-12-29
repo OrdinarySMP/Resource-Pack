@@ -32,6 +32,27 @@
                 "threshold": 6151002,
                 "model": {
                     "type": "model",
+                    "model": "custom:item/tools/honor/honor_hoe"
+                }
+            },
+            {
+                "threshold": 6151003,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/tools/ender/ender_hoe"
+                }
+            },
+            {
+                "threshold": 6151004,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/tools/blossom/blossom_hoe"
+                }
+            },
+            {
+                "threshold": 6151005,
+                "model": {
+                    "type": "model",
                     "model": "minecraft:item/diamond_hoe"
                 }
             }

@@ -214,7 +214,7 @@
                 "threshold": 6151005,
                 "model": {
                     "type": "model",
-                    "model": "minecraft:item/netherite_axe"
+                    "model": "minecraft:item/netherite_sword"
                 }
             }
         ]
