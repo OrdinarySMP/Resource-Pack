@@ -1,0 +1,26 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/copper_ingot"
+        },
+        "entries": [
+            {
+                "threshold": 3596601,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/turquoise_copper"
+                }
+            },
+            {
+                "threshold": 3596602,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/copper_ingot"
+                }
+            }
+		]
+	}
+}
