@@ -34,6 +34,20 @@
                     "type": "model",
                     "model": "minecraft:item/diamond_axe"
                 }
+            },
+            {
+                "threshold": 7961301,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/tools/crystal/crystal_axe"
+                }
+            },
+            {
+                "threshold": 7961302,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/diamond_axe"
+                }
             }
         ]
     }

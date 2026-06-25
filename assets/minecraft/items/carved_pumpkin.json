@@ -291,6 +291,13 @@
                 "threshold": 7083504,
                 "model": {
                     "type": "model",
+                    "model": "custom:block/hats/astronaut_helmet"
+                }
+            },
+            {
+                "threshold": 7083505,
+                "model": {
+                    "type": "model",
                     "model": "minecraft:block/carved_pumpkin"
                 }
             },

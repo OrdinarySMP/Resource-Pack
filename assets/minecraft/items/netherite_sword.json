@@ -216,6 +216,20 @@
                     "type": "model",
                     "model": "minecraft:item/netherite_sword"
                 }
+            },
+            {
+                "threshold": 7961301,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/tools/crystal/crystal_sword"
+                }
+            },
+            {
+                "threshold": 7961302,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/netherite_sword"
+                }
             }
         ]
     }
