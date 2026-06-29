@@ -468,6 +468,20 @@
                     "type": "model",
                     "model": "minecraft:block/carved_pumpkin"
                 }
+            },
+            {
+                "threshold": 9444201,
+                "model": {
+                    "type": "model",
+                    "model": "custom:block/hats/other/wizard_hat_black"
+                }
+            },
+            {
+                "threshold": 9444202,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:block/carved_pumpkin"
+                }
             }
         ]
     }
