@@ -480,6 +480,13 @@
                 "threshold": 9444202,
                 "model": {
                     "type": "model",
+                    "model": "custom:block/hats/other/conductor_hat"
+                }
+            },
+            {
+                "threshold": 9444203,
+                "model": {
+                    "type": "model",
                     "model": "minecraft:block/carved_pumpkin"
                 }
             }
