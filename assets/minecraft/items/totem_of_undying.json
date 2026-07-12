@@ -461,6 +461,20 @@
                     "type": "model",
                     "model": "minecraft:item/totem_of_undying"
                 }
+            },
+            {
+                "threshold": 9827601,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/totem/totem_of_golden_snitch"
+                }
+            },
+            {
+                "threshold": 9827602,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/totem_of_undying"
+                }
             }
         ]
     }
