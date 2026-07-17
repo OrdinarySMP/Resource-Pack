@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "custom:block/hats/other/conductor_hat",
-		"particle": "custom:block/hats/other/conductor_hat"
+		"0": "custom:block/hats/suhatsu/conductor_hat",
+		"particle": "custom:block/hats/suhatsu/conductor_hat"
 	},
 	"elements": [
 		{

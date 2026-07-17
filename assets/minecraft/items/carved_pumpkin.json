@@ -480,11 +480,60 @@
                 "threshold": 9444202,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/other/conductor_hat"
+                    "model": "custom:block/hats/suhatsu/conductor_hat"
                 }
             },
             {
                 "threshold": 9444203,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:block/carved_pumpkin"
+                }
+            },
+            {
+                "threshold": 4170701,
+                "model": {
+                    "type": "model",
+                    "model": "custom:block/hats/bottlers"
+                }
+            },
+            {
+                "threshold": 4170702,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:block/carved_pumpkin"
+                }
+            },
+            {
+                "threshold": 5319601,
+                "model": {
+                    "type": "model",
+                    "model": "custom:block/hats/suhatsu/dracatys"
+                }
+            },
+            {
+                "threshold": 5319602,
+                "model": {
+                    "type": "model",
+                    "model": "custom:block/hats/suhatsu/kiara"
+                }
+            },
+            {
+                "threshold": 5319603,
+                "model": {
+                    "type": "model",
+                    "model": "custom:block/hats/suhatsu/mohawk"
+                }
+            },
+            {
+                "threshold": 5319604,
+                "model": {
+                    "type": "model",
+                    "model": "custom:block/hats/suhatsu/suhatsublink"
+                }
+            },
+            {
+                "threshold": 5319605,
                 "model": {
                     "type": "model",
                     "model": "minecraft:block/carved_pumpkin"
