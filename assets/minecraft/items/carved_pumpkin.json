@@ -489,6 +489,13 @@
                     "type": "model",
                     "model": "minecraft:block/carved_pumpkin"
                 }
+            },
+            {
+                "threshold": 9444204,
+                "model": {
+                    "type": "model",
+                    "model": "custom:block/hats/bottlers"
+                }
             }
         ]
     }
