@@ -1,0 +1,26 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/snowball"
+        },
+        "entries": [
+            {
+                "threshold": 1495101,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/snowball/tomato"
+                }
+            },
+            {
+                "threshold": 1495102,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/snowball"
+                }
+            }
+        ]
+    }
+}
