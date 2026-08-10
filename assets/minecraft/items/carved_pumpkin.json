@@ -494,6 +494,34 @@
                 "threshold": 9444203,
                 "model": {
                     "type": "model",
+                    "model": "custom:block/hats/suhatsu/laurel_bewitching"
+                }
+            },
+            {
+                "threshold": 9444204,
+                "model": {
+                    "type": "model",
+                    "model": "custom:block/hats/suhatsu/laurel_infernal"
+                }
+            },
+            {
+                "threshold": 9444205,
+                "model": {
+                    "type": "model",
+                    "model": "custom:block/hats/suhatsu/laurel_pink"
+                }
+            },
+            {
+                "threshold": 9444206,
+                "model": {
+                    "type": "model",
+                    "model": "custom:block/hats/suhatsu/laurel_gold"
+                }
+            },
+            {
+                "threshold": 9444207,
+                "model": {
+                    "type": "model",
                     "model": "minecraft:block/carved_pumpkin"
                 }
             },

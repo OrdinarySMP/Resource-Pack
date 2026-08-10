@@ -426,6 +426,34 @@
                     "type": "model",
                     "model": "minecraft:item/golden_carrot"
                 }
+            },
+            {
+                "threshold": 5888701,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/food/mcdevilsmeals/cherry_tarte"
+                }
+            },
+            {
+                "threshold": 5888702,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/food/mcdevilsmeals/mc_devil_burger"
+                }
+            },
+            {
+                "threshold": 5888703,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/food/mcdevilsmeals/chips"
+                }
+            },
+            {
+                "threshold": 5888704,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/golden_carrot"
+                }
             }
         ]
     }
