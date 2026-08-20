@@ -573,6 +573,20 @@
                     "type": "model",
                     "model": "minecraft:block/carved_pumpkin"
                 }
+            },
+            {
+                "threshold": 5697801,
+                "model": {
+                    "type": "model",
+                    "model": "custom:block/hats/tpt/anubis_hat"
+                }
+            },
+            {
+                "threshold": 5697802,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:block/carved_pumpkin"
+                }
             }
         ]
     }
