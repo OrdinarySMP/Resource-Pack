@@ -839,6 +839,27 @@
                     "type": "model",
                     "model": "minecraft:item/paper"
                 }
+            },
+            {
+                "threshold": 8337101,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/flower/mera_bouquet"
+                }
+            },
+            {
+                "threshold": 8337102,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/flower/rose_bouquet"
+                }
+            },
+            {
+                "threshold": 8337103,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/paper"
+                }
             }
         ]
     }
