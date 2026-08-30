@@ -573,7 +573,22 @@
                     "type": "model",
                     "model": "minecraft:block/carved_pumpkin"
                 }
+            },
+            {
+                "threshold": 9498001,
+                "model": {
+                    "type": "model",
+                    "model": "custom:block/hats/other/lilypad_hat"
+                }
+            },
+            {
+                "threshold": 9498002,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:block/carved_pumpkin"
+                }
             }
+
         ]
     }
 }
