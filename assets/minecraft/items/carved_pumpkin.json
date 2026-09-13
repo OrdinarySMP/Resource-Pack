@@ -587,8 +587,21 @@
                     "type": "model",
                     "model": "minecraft:block/carved_pumpkin"
                 }
+            },
+            {
+                "threshold": 9247201,
+                "model": {
+                    "type": "model",
+                    "model": "custom:block/hats/void_pendant"
+                }
+            },
+            {
+                "threshold": 9247202,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:block/carved_pumpkin"
+                }
             }
-
         ]
     }
 }
