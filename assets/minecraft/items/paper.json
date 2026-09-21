@@ -860,6 +860,20 @@
                     "type": "model",
                     "model": "minecraft:item/paper"
                 }
+            },
+            {
+                "threshold": 4172001,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/plushies/plushie_allien"
+                }
+            },
+            {
+                "threshold": 4172002,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/paper"
+                }
             }
         ]
     }
