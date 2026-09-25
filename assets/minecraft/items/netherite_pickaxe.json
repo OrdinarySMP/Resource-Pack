@@ -69,6 +69,20 @@
                     "type": "model",
                     "model": "minecraft:item/netherite_pickaxe"
                 }
+            },
+            {
+                "threshold": 2245501,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/tools/dylan_pickaxe"
+                }
+            },
+            {
+                "threshold": 2245502,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/netherite_pickaxe"
+                }
             }
         ]
     }
