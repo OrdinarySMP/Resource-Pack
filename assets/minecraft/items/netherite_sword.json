@@ -230,6 +230,20 @@
                     "type": "model",
                     "model": "minecraft:item/netherite_sword"
                 }
+            },
+            {
+                "threshold": 5319901,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/tools/ice_sword"
+                }
+            },
+            {
+                "threshold": 5319902,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/netherite_sword"
+                }
             }
         ]
     }
