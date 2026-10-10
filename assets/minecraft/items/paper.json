@@ -874,6 +874,55 @@
                     "type": "model",
                     "model": "minecraft:item/paper"
                 }
+            },
+            {
+                "threshold": 5500901,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/blood/blood_drips"
+                }
+            },
+            {
+                "threshold": 5500902,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/blood/blood_droplets"
+                }
+            },
+            {
+                "threshold": 5500903,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/blood/blood_handprint"
+                }
+            },
+            {
+                "threshold": 5500904,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/blood/blood_pool"
+                }
+            },
+            {
+                "threshold": 5500905,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/blood/blood_smear"
+                }
+            },
+            {
+                "threshold": 5500906,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/blood/blood_splatter"
+                }
+            },
+            {
+                "threshold": 5500907,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/paper"
+                }
             }
         ]
     }
