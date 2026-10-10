@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:item/paper",
+    "parent": "minecraft:item/generated",
     "textures": {
         "layer0": "custom:item/blood/blood_handprint"
     }
