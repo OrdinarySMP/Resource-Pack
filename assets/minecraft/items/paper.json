@@ -921,6 +921,62 @@
                 "threshold": 5500907,
                 "model": {
                     "type": "model",
+                    "model": "custom:item/blood/rune_compass"
+                }
+            },
+            {
+                "threshold": 5500908,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/blood/rune_crescent_core"
+                }
+            },
+            {
+                "threshold": 5500909,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/blood/rune_diamond_cross"
+                }
+            },
+            {
+                "threshold": 5500910,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/blood/rune_eye_triangle"
+                }
+            },
+            {
+                "threshold": 5500911,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/blood/rune_magic_circle"
+                }
+            },
+            {
+                "threshold": 5500912,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/blood/rune_maze_square"
+                }
+            },
+            {
+                "threshold": 5500913,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/blood/rune_ritual_star"
+                }
+            },
+            {
+                "threshold": 5500914,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/blood/rune_totem"
+                }
+            },
+            {
+                "threshold": 5500915,
+                "model": {
+                    "type": "model",
                     "model": "minecraft:item/paper"
                 }
             }
