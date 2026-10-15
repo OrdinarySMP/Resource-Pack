@@ -11,7 +11,7 @@
                 "threshold": 5569101,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/gingerbread"
+                    "model": "custom:item/food/pastries/s3/gingerbread"
                 }
             },
             {
@@ -25,189 +25,189 @@
                 "threshold": 5569103,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/cheesecake"
+                    "model": "custom:item/food/pastries/s3/cheesecake"
                 }
             },
             {
                 "threshold": 5569104,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/glazed_donut"
+                    "model": "custom:item/food/pastries/s3/glazed_donut"
                 }
             },
             {
                 "threshold": 5569105,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/iced_chocolate"
+                    "model": "custom:item/food/pastries/s3/iced_chocolate"
                 }
             },
             {
                 "threshold": 5569106,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/pineapple_cake"
+                    "model": "custom:item/food/pastries/s3/pineapple_cake"
                 }
             },
             {
                 "threshold": 5569107,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/grape_jello"
+                    "model": "custom:item/food/pastries/s3/grape_jello"
                 }
             },
             {
                 "threshold": 5569108,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/strawberry_cinnamon_roll"
+                    "model": "custom:item/food/pastries/s3/strawberry_cinnamon_roll"
                 }
             },
             {
                 "threshold": 5569109,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/americano"
+                    "model": "custom:item/food/pastries/s3/americano"
                 }
             },
             {
                 "threshold": 5569110,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/pancakes"
+                    "model": "custom:item/food/pastries/s3/pancakes"
                 }
             },
             {
                 "threshold": 5569111,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/cherry_pie"
+                    "model": "custom:item/food/pastries/s3/cherry_pie"
                 }
             },
             {
                 "threshold": 5569112,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/strawberry_shortcake"
+                    "model": "custom:item/food/pastries/s3/strawberry_shortcake"
                 }
             },
             {
                 "threshold": 5569113,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/matcha_donut"
+                    "model": "custom:item/food/pastries/s3/matcha_donut"
                 }
             },
             {
                 "threshold": 5569114,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/iced_mocha"
+                    "model": "custom:item/food/pastries/s3/iced_mocha"
                 }
             },
             {
                 "threshold": 5569115,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/raspberry_tart"
+                    "model": "custom:item/food/pastries/s3/raspberry_tart"
                 }
             },
             {
                 "threshold": 5569116,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/chocolate_mousse"
+                    "model": "custom:item/food/pastries/s3/chocolate_mousse"
                 }
             },
             {
                 "threshold": 5569117,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/blueberry_cinnamon_roll"
+                    "model": "custom:item/food/pastries/s3/blueberry_cinnamon_roll"
                 }
             },
             {
                 "threshold": 5569118,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/cappuccino"
+                    "model": "custom:item/food/pastries/s3/cappuccino"
                 }
             },
             {
                 "threshold": 5569119,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/maple_pancakes"
+                    "model": "custom:item/food/pastries/s3/maple_pancakes"
                 }
             },
             {
                 "threshold": 5569120,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/key_lime_pie"
+                    "model": "custom:item/food/pastries/s3/key_lime_pie"
                 }
             },
             {
                 "threshold": 5569121,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/apple_pie"
+                    "model": "custom:item/food/pastries/s3/apple_pie"
                 }
             },
             {
                 "threshold": 5569122,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/raspberry_donut"
+                    "model": "custom:item/food/pastries/s3/raspberry_donut"
                 }
             },
             {
                 "threshold": 5569123,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/iced_catto_latte"
+                    "model": "custom:item/food/pastries/s3/iced_catto_latte"
                 }
             },
             {
                 "threshold": 5569124,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/french_toast"
+                    "model": "custom:item/food/pastries/s3/french_toast"
                 }
             },
             {
                 "threshold": 5569125,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/lime_jello"
+                    "model": "custom:item/food/pastries/s3/lime_jello"
                 }
             },
             {
                 "threshold": 5569126,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/cinnamon_roll"
+                    "model": "custom:item/food/pastries/s3/cinnamon_roll"
                 }
             },
             {
                 "threshold": 5569127,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/catto_latte"
+                    "model": "custom:item/food/pastries/s3/catto_latte"
                 }
             },
             {
                 "threshold": 5569128,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/berry_pancakes"
+                    "model": "custom:item/food/pastries/s3/berry_pancakes"
                 }
             },
             {
                 "threshold": 5569129,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/blueberry_cake"
+                    "model": "custom:item/food/pastries/s3/blueberry_cake"
                 }
             },
             {

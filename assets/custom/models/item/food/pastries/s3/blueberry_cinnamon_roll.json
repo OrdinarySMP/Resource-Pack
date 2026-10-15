@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "custom:item/food/pastries/s3/blueberry_cinnamon_roll"
+    }
+}
