@@ -26,3 +26,26 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           files: OrdinarySMP.zip
+
+      - name: Upload to Pterodactyl
+        env:
+          PTERODACTYL_HOST: ${{ secrets.PTERODACTYL_HOST }}
+          PTERODACTYL_SERVER_ID: ${{ secrets.PTERODACTYL_SERVER_ID }}
+          PTERODACTYL_TOKEN: ${{ secrets.PTERODACTYL_TOKEN }}
+          PTERODACTYL_UPLOAD_DIR: ${{ secrets.PTERODACTYL_UPLOAD_DIR }}
+        run: |
+          set -euo pipefail
+          HOST="${PTERODACTYL_HOST%/}"
+          DIR="${PTERODACTYL_UPLOAD_DIR:-/}"
+
+          # Request a signed upload URL from the Pterodactyl Client API
+          UPLOAD_URL=$(curl -fsS \
+            -H "Authorization: Bearer ${PTERODACTYL_TOKEN}" \
+            -H "Accept: application/json" \
+            "${HOST}/api/client/servers/${PTERODACTYL_SERVER_ID}/files/upload" \
+            | jq -r '.attributes.url')
+
+          # Upload the ZIP to the target directory (overwrites an existing file)
+          curl -fsS -X POST \
+            -F "files=@OrdinarySMP.zip" \
+            "${UPLOAD_URL}&directory=$(jq -rn --arg d "$DIR" '$d|@uri')"
