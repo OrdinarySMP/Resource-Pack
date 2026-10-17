@@ -1,33 +1,44 @@
-name: Release Artifacts
+name: Release
 
 on:
-  release:
-    types: [created]
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
 
 jobs:
-  upload-artifacts:
-    name: Upload Release Artifacts
+  release:
+    name: Semantic Release
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Create ZIP Archive
         run: zip -r OrdinarySMP.zip assets/ pack.mcmeta pack.png
 
+      - name: Semantic Release
+        id: semantic
+        uses: cycjimmy/semantic-release-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Save artifacts
+        if: steps.semantic.outputs.new_release_published == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: OrdinarySMP
           path: OrdinarySMP.zip
 
-      - name: Upload Release Asset
-        uses: softprops/action-gh-release@v1
-        with:
-          files: OrdinarySMP.zip
-
       - name: Upload to Pterodactyl
+        if: steps.semantic.outputs.new_release_published == 'true'
         env:
           PTERODACTYL_HOST: ${{ secrets.PTERODACTYL_HOST }}
           PTERODACTYL_SERVER_ID: ${{ secrets.PTERODACTYL_SERVER_ID }}
