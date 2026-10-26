@@ -601,6 +601,34 @@
                     "type": "model",
                     "model": "minecraft:block/carved_pumpkin"
                 }
+            },
+            {
+                "threshold": 4566601,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/bouncepad_target"
+                }
+            },
+            {
+                "threshold": 4566602,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/bouncepad_target_2"
+                }
+            },
+            {
+                "threshold": 4566603,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/bouncepad_target_3"
+                }
+            },
+            {
+                "threshold": 4566604,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/bouncepad_target_4"
+                }
             }
         ]
     }
