@@ -20,18 +20,6 @@
                 "category": "equipment"
             },
             {
-                "threshold": 6151002,
-                "model": {
-                    "type": "model",
-                    "model": "custom:item/equipment/sets/honor/honor_mace"
-                },
-                "owners": [
-                    "PadBro"
-                ],
-                "name": "HonorMace",
-                "category": "equipment"
-            },
-            {
                 "threshold": 6151003,
                 "model": {
                     "type": "model",
