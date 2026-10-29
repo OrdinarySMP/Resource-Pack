@@ -16,139 +16,139 @@
                 "owners": [
                     "ThePianoMann"
                 ],
-                "name": "CutlassSword",
+                "name": "Cutlass",
                 "category": "equipment"
             },
             {
                 "threshold": 2796701,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/equipment/weapons/lightsabers/blade_ahsoka_tano_white_lightsaber"
+                    "model": "custom:item/equipment/weapons/lightsabers/ahsoka_tano_white_lightsaber"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "SabreAhsokaWhiteSword",
+                "name": "AhsokaWhiteLightsaber",
                 "category": "equipment"
             },
             {
                 "threshold": 2796702,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/equipment/weapons/lightsabers/blade_anakin_skywalker_jedi_knight_lightsaber"
+                    "model": "custom:item/equipment/weapons/lightsabers/anakin_skywalker_jedi_knight_lightsaber"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "SabreAnakingSkywalkerJediKnightSword",
+                "name": "AnakinSkywalkerJediKnightLightsaber",
                 "category": "equipment"
             },
             {
                 "threshold": 2796703,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/equipment/weapons/lightsabers/blade_darth_vader_lightsaber"
+                    "model": "custom:item/equipment/weapons/lightsabers/darth_vader_lightsaber"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "SabreDarthVaderSword",
+                "name": "DarthVaderLightsaber",
                 "category": "equipment"
             },
             {
                 "threshold": 2796704,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/equipment/weapons/lightsabers/blade_count_dooku_lightsaber"
+                    "model": "custom:item/equipment/weapons/lightsabers/count_dooku_lightsaber"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "SabreCountDookuSword",
+                "name": "CountDookuLightsaber",
                 "category": "equipment"
             },
             {
                 "threshold": 2796705,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/equipment/weapons/lightsabers/blade_darth_maul_apprentice_lightsaber"
+                    "model": "custom:item/equipment/weapons/lightsabers/darth_maul_apprentice_lightsaber"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "SabreDarthMaulApprenticeSword",
+                "name": "DarthMaulApprenticeLightsaber",
                 "category": "equipment"
             },
             {
                 "threshold": 2796706,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/equipment/weapons/lightsabers/blade_dark_saber"
+                    "model": "custom:item/equipment/weapons/lightsabers/dark_saber"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "SabreDarkSaberSword",
+                "name": "Darksaber",
                 "category": "equipment"
             },
             {
                 "threshold": 2796707,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/equipment/weapons/lightsabers/blade_luke_skywalker_green_lightsaber"
+                    "model": "custom:item/equipment/weapons/lightsabers/luke_skywalker_green_lightsaber"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "SabreLukeSkywalkerGreenSword",
+                "name": "LukeSkywalkerGreenLightsaber",
                 "category": "equipment"
             },
             {
                 "threshold": 2796708,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/equipment/weapons/lightsabers/blade_mace_windu_lightsaber"
+                    "model": "custom:item/equipment/weapons/lightsabers/mace_windu_lightsaber"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "SabreMaceWinduSword",
+                "name": "MaceWinduLightsaber",
                 "category": "equipment"
             },
             {
                 "threshold": 2796709,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/equipment/weapons/lightsabers/blade_obi_wan_kenobi_jedi_master_lightsaber"
+                    "model": "custom:item/equipment/weapons/lightsabers/obi_wan_kenobi_jedi_master_lightsaber"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "SabreObiWanSword",
+                "name": "ObiWanLightsaber",
                 "category": "equipment"
             },
             {
                 "threshold": 2796710,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/equipment/weapons/lightsabers/blade_qui_gon_jinn_lightsaber"
+                    "model": "custom:item/equipment/weapons/lightsabers/qui_gon_jinn_lightsaber"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "SabreQuiGonJinnSword",
+                "name": "QuiGonJinnLightsaber",
                 "category": "equipment"
             },
             {
                 "threshold": 2796711,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/equipment/weapons/lightsabers/blade_yoda_lightsaber"
+                    "model": "custom:item/equipment/weapons/lightsabers/yoda_lightsaber"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "SabreYodaSword",
+                "name": "YodaLightsaber",
                 "category": "equipment"
             },
             {
@@ -172,7 +172,7 @@
                 "owners": [
                     "Hot_Chocolateee"
                 ],
-                "name": "WitchWandSword",
+                "name": "WitchWand",
                 "category": "equipment"
             },
             {
@@ -184,7 +184,7 @@
                 "owners": [
                     "MrCookiePrincess"
                 ],
-                "name": "XadalesSailorMoonToolSword",
+                "name": "XadaleSailorMoonSword",
                 "category": "equipment"
             }
         ]

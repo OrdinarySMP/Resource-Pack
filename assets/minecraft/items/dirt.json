@@ -16,7 +16,7 @@
                 "owners": [
                     "@unkown"
                 ],
-                "name": "FilterDirt",
+                "name": "DirtFilter",
                 "category": "filter"
             }
         ]

@@ -16,7 +16,7 @@
                 "owners": [
                     "@unkown"
                 ],
-                "name": "FilterCobblestone",
+                "name": "CobblestoneFilter",
                 "category": "filter"
             }
         ]

@@ -1,1 +1,10 @@
-{"parent":"minecraft:item/diamond_shovel","texture_size":[16,16],"textures":{"layer0":"custom:item/equipment/sets/cookie/xadales_shovel"}}
+{
+    "parent": "minecraft:item/diamond_shovel",
+    "texture_size": [
+        16,
+        16
+    ],
+    "textures": {
+        "layer0": "custom:item/equipment/sets/cookie/xadale_shovel"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "credit": "Made by MrCookiePrincess with Blockbench ",
+    "parent": "custom:item/decorations/plushies/blue_shark",
+    "textures": {
+        "0": "custom:item/decorations/plushies/gray_shork"
+    }
+}

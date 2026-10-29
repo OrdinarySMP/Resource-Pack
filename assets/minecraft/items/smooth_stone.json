@@ -16,7 +16,7 @@
                 "owners": [
                     "@unkown"
                 ],
-                "name": "FilterSmoothStone",
+                "name": "SmoothStoneFilter",
                 "category": "filter"
             }
         ]

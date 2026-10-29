@@ -1,8 +1,0 @@
-{
-  "credit": "JustTimm's Lightsaber Workshop Resource Pack by JustTimm - https://linktr.ee/JustTimm",
-  "parent": "custom:item/equipment/weapons/lightsabers/blade_anakin_skywalker_padawan_lightsaber",
-  "textures": {
-    "hilt": "custom:item/equipment/weapons/lightsabers/blade_darth_vader_lightsaber",
-	"blade_color": "custom:item/equipment/weapons/lightsabers/blade_red"
-  }
-}

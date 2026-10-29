@@ -11,925 +11,925 @@
                 "threshold": 6390501,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plush_blue_shark"
+                    "model": "custom:item/decorations/plushies/blue_shark"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieBlahaj",
-                "category": "plushies"
+                "name": "BlahajPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390502,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plush_blue_whale"
+                    "model": "custom:item/decorations/plushies/blue_whale"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieBlavingad",
-                "category": "plushies"
+                "name": "BlavingadPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390503,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plush_gray_shark"
+                    "model": "custom:item/decorations/plushies/gray_shark"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieGrossby",
-                "category": "plushies"
+                "name": "GrossbyPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390504,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_allay"
+                    "model": "custom:item/decorations/plushies/allay"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieAllay",
-                "category": "plushies"
+                "name": "AllayPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390505,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_armadillo"
+                    "model": "custom:item/decorations/plushies/armadillo"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieArmadillo",
-                "category": "plushies"
+                "name": "ArmadilloPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390506,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_axolotl"
+                    "model": "custom:item/decorations/plushies/axolotl"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieAxolotl",
-                "category": "plushies"
+                "name": "AxolotlPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390507,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_bat"
+                    "model": "custom:item/decorations/plushies/bat"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieBat",
-                "category": "plushies"
+                "name": "BatPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390508,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_bee"
+                    "model": "custom:item/decorations/plushies/bee"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieBee",
-                "category": "plushies"
+                "name": "BeePlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390509,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_blaze"
+                    "model": "custom:item/decorations/plushies/blaze"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieBlaze",
-                "category": "plushies"
+                "name": "BlazePlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390510,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_breeze"
+                    "model": "custom:item/decorations/plushies/breeze"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieBreeze",
-                "category": "plushies"
+                "name": "BreezePlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390511,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_camel"
+                    "model": "custom:item/decorations/plushies/camel"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieCamel",
-                "category": "plushies"
+                "name": "CamelPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390512,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_cat"
+                    "model": "custom:item/decorations/plushies/cat"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieCat",
-                "category": "plushies"
+                "name": "CatPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390513,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_cave_spider"
+                    "model": "custom:item/decorations/plushies/cave_spider"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieCaveSpider",
-                "category": "plushies"
+                "name": "CaveSpiderPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390514,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_chicken"
+                    "model": "custom:item/decorations/plushies/chicken"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieChicken",
-                "category": "plushies"
+                "name": "ChickenPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390515,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_cow"
+                    "model": "custom:item/decorations/plushies/cow"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieCow",
-                "category": "plushies"
+                "name": "CowPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390516,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_creeper"
+                    "model": "custom:item/decorations/plushies/creeper"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieCreeper",
-                "category": "plushies"
+                "name": "CreeperPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390517,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_dark_father"
+                    "model": "custom:item/decorations/plushies/dark_father"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieDarkFather",
-                "category": "plushies"
+                "name": "DarkFatherPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390518,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_dolphin"
+                    "model": "custom:item/decorations/plushies/dolphin"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieDolphin",
-                "category": "plushies"
+                "name": "DolphinPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390519,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_donkey"
+                    "model": "custom:item/decorations/plushies/donkey"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieDonkey",
-                "category": "plushies"
+                "name": "DonkeyPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390520,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_drowned"
+                    "model": "custom:item/decorations/plushies/drowned"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieDrowned",
-                "category": "plushies"
+                "name": "DrownedPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390521,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_elder_guardian"
+                    "model": "custom:item/decorations/plushies/elder_guardian"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieElderGuardian",
-                "category": "plushies"
+                "name": "ElderGuardianPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390522,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_emperor"
+                    "model": "custom:item/decorations/plushies/emperor"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieEmperor",
-                "category": "plushies"
+                "name": "EmperorPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390523,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_enderdragon"
+                    "model": "custom:item/decorations/plushies/ender_dragon"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieEnderdragon",
-                "category": "plushies"
+                "name": "EnderDragonPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390524,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_enderman"
+                    "model": "custom:item/decorations/plushies/enderman"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieEnderman",
-                "category": "plushies"
+                "name": "EndermanPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390525,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_evoker"
+                    "model": "custom:item/decorations/plushies/evoker"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieEvoker",
-                "category": "plushies"
+                "name": "EvokerPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390526,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_fox"
+                    "model": "custom:item/decorations/plushies/fox"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieFox",
-                "category": "plushies"
+                "name": "FoxPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390527,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_frog"
+                    "model": "custom:item/decorations/plushies/frog"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieFrog",
-                "category": "plushies"
+                "name": "FrogPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390528,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_ghast"
+                    "model": "custom:item/decorations/plushies/ghast"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieGhast",
-                "category": "plushies"
+                "name": "GhastPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390529,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_glow_squid"
+                    "model": "custom:item/decorations/plushies/glow_squid"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieGlowSquid",
-                "category": "plushies"
+                "name": "GlowSquidPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390530,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_goat"
+                    "model": "custom:item/decorations/plushies/goat"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieGoat",
-                "category": "plushies"
+                "name": "GoatPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390531,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_guardian"
+                    "model": "custom:item/decorations/plushies/guardian"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieGuardian",
-                "category": "plushies"
+                "name": "GuardianPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390532,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_hoglin"
+                    "model": "custom:item/decorations/plushies/hoglin"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieHoglin",
-                "category": "plushies"
+                "name": "HoglinPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390533,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_horse"
+                    "model": "custom:item/decorations/plushies/horse"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieHorse",
-                "category": "plushies"
+                "name": "HorsePlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390534,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_husk"
+                    "model": "custom:item/decorations/plushies/husk"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieHusk",
-                "category": "plushies"
+                "name": "HuskPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390535,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_iron_golem"
+                    "model": "custom:item/decorations/plushies/iron_golem"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieIronGolem",
-                "category": "plushies"
+                "name": "IronGolemPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390536,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_llama"
+                    "model": "custom:item/decorations/plushies/llama"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieLlama",
-                "category": "plushies"
+                "name": "LlamaPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390537,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_magma_cube"
+                    "model": "custom:item/decorations/plushies/magma_cube"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieMagmaCube",
-                "category": "plushies"
+                "name": "MagmaCubePlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390538,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_mooshroom"
+                    "model": "custom:item/decorations/plushies/mooshroom"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieMooshroom",
-                "category": "plushies"
+                "name": "MooshroomPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390539,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_mule"
+                    "model": "custom:item/decorations/plushies/mule"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieMule",
-                "category": "plushies"
+                "name": "MulePlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390540,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_panda"
+                    "model": "custom:item/decorations/plushies/panda"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushiePanda",
-                "category": "plushies"
+                "name": "PandaPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390541,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_parrot"
+                    "model": "custom:item/decorations/plushies/parrot"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieParrot",
-                "category": "plushies"
+                "name": "ParrotPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390542,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_phantom"
+                    "model": "custom:item/decorations/plushies/phantom"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushiePhantom",
-                "category": "plushies"
+                "name": "PhantomPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390543,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_pig"
+                    "model": "custom:item/decorations/plushies/pig"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushiePig",
-                "category": "plushies"
+                "name": "PigPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390544,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_piglin"
+                    "model": "custom:item/decorations/plushies/piglin"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushiePiglin",
-                "category": "plushies"
+                "name": "PiglinPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390545,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_piglin_brute"
+                    "model": "custom:item/decorations/plushies/piglin_brute"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushiePiglinBrute",
-                "category": "plushies"
+                "name": "PiglinBrutePlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390546,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_pillager"
+                    "model": "custom:item/decorations/plushies/pillager"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushiePillager",
-                "category": "plushies"
+                "name": "PillagerPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390547,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_polar_bear"
+                    "model": "custom:item/decorations/plushies/polar_bear"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushiePolarBear",
-                "category": "plushies"
+                "name": "PolarBearPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390548,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_pufferfish"
+                    "model": "custom:item/decorations/plushies/pufferfish"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushiePufferfish",
-                "category": "plushies"
+                "name": "PufferfishPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390549,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_rabbit"
+                    "model": "custom:item/decorations/plushies/rabbit"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieRabbit",
-                "category": "plushies"
+                "name": "RabbitPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390550,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_ravager"
+                    "model": "custom:item/decorations/plushies/ravager"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieRavager",
-                "category": "plushies"
+                "name": "RavagerPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390551,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_sheep"
+                    "model": "custom:item/decorations/plushies/sheep"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieSheep",
-                "category": "plushies"
+                "name": "SheepPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390552,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_shulker"
+                    "model": "custom:item/decorations/plushies/shulker"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieShulker",
-                "category": "plushies"
+                "name": "ShulkerPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390553,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_skeleton"
+                    "model": "custom:item/decorations/plushies/skeleton"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieSkeleton",
-                "category": "plushies"
+                "name": "SkeletonPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390554,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_skeleton_horse"
+                    "model": "custom:item/decorations/plushies/skeleton_horse"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieSkeletonHorse",
-                "category": "plushies"
+                "name": "SkeletonHorsePlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390555,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_slime"
+                    "model": "custom:item/decorations/plushies/slime"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieSlime",
-                "category": "plushies"
+                "name": "SlimePlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390556,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_sniffer"
+                    "model": "custom:item/decorations/plushies/sniffer"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieSniffer",
-                "category": "plushies"
+                "name": "SnifferPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390557,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_spider"
+                    "model": "custom:item/decorations/plushies/spider"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieSpider",
-                "category": "plushies"
+                "name": "SpiderPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390558,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_squid"
+                    "model": "custom:item/decorations/plushies/squid"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieSquid",
-                "category": "plushies"
+                "name": "SquidPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390559,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_storm_soldier"
+                    "model": "custom:item/decorations/plushies/storm_soldier"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieStormSoldier",
-                "category": "plushies"
+                "name": "StormSoldierPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390560,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_stray"
+                    "model": "custom:item/decorations/plushies/stray"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieStray",
-                "category": "plushies"
+                "name": "StrayPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390561,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_strider"
+                    "model": "custom:item/decorations/plushies/strider"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieStrider",
-                "category": "plushies"
+                "name": "StriderPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390562,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_trader_lama"
+                    "model": "custom:item/decorations/plushies/trader_llama"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieTraderLama",
-                "category": "plushies"
+                "name": "TraderLlamaPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390563,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_turtle"
+                    "model": "custom:item/decorations/plushies/turtle"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieTurtle",
-                "category": "plushies"
+                "name": "TurtlePlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390564,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_vex"
+                    "model": "custom:item/decorations/plushies/vex"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieVex",
-                "category": "plushies"
+                "name": "VexPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390565,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_villager"
+                    "model": "custom:item/decorations/plushies/villager"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieVillager",
-                "category": "plushies"
+                "name": "VillagerPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390566,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_vindicator"
+                    "model": "custom:item/decorations/plushies/vindicator"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieVindicator",
-                "category": "plushies"
+                "name": "VindicatorPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390567,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_wandering_trader"
+                    "model": "custom:item/decorations/plushies/wandering_trader"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieWanderingTrader",
-                "category": "plushies"
+                "name": "WanderingTraderPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390568,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_warden"
+                    "model": "custom:item/decorations/plushies/warden"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieWarden",
-                "category": "plushies"
+                "name": "WardenPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390569,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_witch"
+                    "model": "custom:item/decorations/plushies/witch"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieWitch",
-                "category": "plushies"
+                "name": "WitchPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390570,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_wither"
+                    "model": "custom:item/decorations/plushies/wither"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieWither",
-                "category": "plushies"
+                "name": "WitherPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390571,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_wither_skeleton"
+                    "model": "custom:item/decorations/plushies/wither_skeleton"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieWitherSkeleton",
-                "category": "plushies"
+                "name": "WitherSkeletonPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390572,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_wolf"
+                    "model": "custom:item/decorations/plushies/wolf"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieWolf",
-                "category": "plushies"
+                "name": "WolfPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390573,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_yoda"
+                    "model": "custom:item/decorations/plushies/yoda"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieYoda",
-                "category": "plushies"
+                "name": "YodaPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390574,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_zoglin"
+                    "model": "custom:item/decorations/plushies/zoglin"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieZoglin",
-                "category": "plushies"
+                "name": "ZoglinPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390575,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_zombie"
+                    "model": "custom:item/decorations/plushies/zombie"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieZombie",
-                "category": "plushies"
+                "name": "ZombiePlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390576,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_zombie_villager"
+                    "model": "custom:item/decorations/plushies/zombie_villager"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieZombieVillager",
-                "category": "plushies"
+                "name": "ZombieVillagerPlushie",
+                "category": "plushie"
             },
             {
                 "threshold": 6390577,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/decorations/plushies/plushie_zombified_piglin"
+                    "model": "custom:item/decorations/plushies/zombified_piglin"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "PlushieZombifiedPiglin",
-                "category": "plushies"
+                "name": "ZombifiedPiglinPlushie",
+                "category": "plushie"
             }
         ]
     }

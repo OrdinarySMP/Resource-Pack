@@ -10,7 +10,7 @@
                     "threshold": 5958201,
                     "model": {
                         "type": "minecraft:model",
-                        "model": "custom:item/equipment/fishing_rods/fishing_rod_gold_cast"
+                        "model": "custom:item/equipment/fishing_rods/golden_fishing_rod_cast"
                     },
                     "owners": [
                         "@staff"
@@ -27,7 +27,7 @@
                     "owners": [
                         "PadBro"
                     ],
-                    "name": "BlossomRod",
+                    "name": "BlossomFishingRod",
                     "category": "equipment"
                 }
             ],
@@ -44,7 +44,7 @@
                     "threshold": 5958201,
                     "model": {
                         "type": "minecraft:model",
-                        "model": "custom:item/equipment/fishing_rods/fishing_rod_gold"
+                        "model": "custom:item/equipment/fishing_rods/golden_fishing_rod"
                     },
                     "owners": [
                         "@staff"
@@ -61,7 +61,7 @@
                     "owners": [
                         "PadBro"
                     ],
-                    "name": "BlossomRod",
+                    "name": "BlossomFishingRod",
                     "category": "equipment"
                 }
             ],

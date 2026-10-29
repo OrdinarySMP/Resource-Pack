@@ -763,8 +763,8 @@
                 "owners": [
                     "PadBro"
                 ],
-                "name": "EnchantedBooksReCovered",
-                "category": "enchantedbooks"
+                "name": "ReCoveredEnchantedBook",
+                "category": "enchanted_book"
             }
         ]
     }

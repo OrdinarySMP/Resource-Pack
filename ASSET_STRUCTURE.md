@@ -60,6 +60,14 @@ its category when useful; otherwise put the asset directly in the category.
 Keep equipment sets and all their animation states together. New names should
 use lowercase `snake_case`.
 
+Use full words in asset identifiers: `boba_fett_helmet`, `ace_of_spades`,
+`yellow_butterfly_wings`, and `progress_pride_flag`. Within the plushie and
+totem folders, use the subject alone (`bee`, `alien`, `padbro_astronaut`).
+For colored variants, put the color before the object (`black_wizard_hat`,
+`purple_fairy_wings`). Use underscore-separated layer numbers such as
+`christmas_lights_1`; keep animation state suffixes such as `_pulling_0` and
+`_cast`. Animation sidecars retain the complete texture filename plus `.mcmeta`.
+
 Model and texture filenames can differ when a model uses multiple layers or
 shares a texture. Their references remain explicit in each JSON file. Move
 animation sidecars with their texture and update model, parent, and texture

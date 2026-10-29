@@ -1,0 +1,6 @@
+{
+    "parent": "custom:item/games/chips/value_1_chip",
+    "textures": {
+        "0": "custom:item/games/chips/value_5_chip"
+    }
+}

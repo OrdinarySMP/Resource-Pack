@@ -16,8 +16,8 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "LetterAlarm",
-                "category": "letters"
+                "name": "AlarmLetter",
+                "category": "letter"
             },
             {
                 "threshold": 7263702,
@@ -28,8 +28,8 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "LetterBlank",
-                "category": "letters"
+                "name": "BlankLetter",
+                "category": "letter"
             },
             {
                 "threshold": 7263703,
@@ -40,8 +40,8 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "LetterBloody",
-                "category": "letters"
+                "name": "BloodyLetter",
+                "category": "letter"
             },
             {
                 "threshold": 7263704,
@@ -52,8 +52,8 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "LetterCash",
-                "category": "letters"
+                "name": "CashLetter",
+                "category": "letter"
             },
             {
                 "threshold": 7263705,
@@ -64,8 +64,8 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "LetterClover",
-                "category": "letters"
+                "name": "CloverLetter",
+                "category": "letter"
             },
             {
                 "threshold": 7263706,
@@ -76,8 +76,8 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "LetterDeath",
-                "category": "letters"
+                "name": "DeathLetter",
+                "category": "letter"
             },
             {
                 "threshold": 7263707,
@@ -88,8 +88,8 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "LetterEarth",
-                "category": "letters"
+                "name": "EarthLetter",
+                "category": "letter"
             },
             {
                 "threshold": 7263708,
@@ -100,8 +100,8 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "LetterEnder",
-                "category": "letters"
+                "name": "EnderLetter",
+                "category": "letter"
             },
             {
                 "threshold": 7263709,
@@ -112,8 +112,8 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "LetterFlag",
-                "category": "letters"
+                "name": "FlagLetter",
+                "category": "letter"
             },
             {
                 "threshold": 7263710,
@@ -124,8 +124,8 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "LetterFox",
-                "category": "letters"
+                "name": "FoxLetter",
+                "category": "letter"
             },
             {
                 "threshold": 7263711,
@@ -136,8 +136,8 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "LetterFrog",
-                "category": "letters"
+                "name": "FrogLetter",
+                "category": "letter"
             },
             {
                 "threshold": 7263712,
@@ -148,8 +148,8 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "LetterGhost",
-                "category": "letters"
+                "name": "GhostLetter",
+                "category": "letter"
             },
             {
                 "threshold": 7263713,
@@ -160,8 +160,8 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "LetterLove",
-                "category": "letters"
+                "name": "LoveLetter",
+                "category": "letter"
             },
             {
                 "threshold": 7263714,
@@ -172,8 +172,8 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "LetterModern",
-                "category": "letters"
+                "name": "ModernLetter",
+                "category": "letter"
             },
             {
                 "threshold": 7263715,
@@ -184,8 +184,8 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "LetterMushroom",
-                "category": "letters"
+                "name": "MushroomLetter",
+                "category": "letter"
             },
             {
                 "threshold": 7263716,
@@ -196,8 +196,8 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "LetterOld",
-                "category": "letters"
+                "name": "OldLetter",
+                "category": "letter"
             },
             {
                 "threshold": 7263717,
@@ -208,8 +208,8 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "LetterPumpkin",
-                "category": "letters"
+                "name": "PumpkinLetter",
+                "category": "letter"
             },
             {
                 "threshold": 7263718,
@@ -220,8 +220,8 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "LetterRainbow",
-                "category": "letters"
+                "name": "RainbowLetter",
+                "category": "letter"
             },
             {
                 "threshold": 7263719,
@@ -232,8 +232,8 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "LetterStar",
-                "category": "letters"
+                "name": "StarLetter",
+                "category": "letter"
             },
             {
                 "threshold": 7263720,
@@ -244,8 +244,8 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "LetterTrident",
-                "category": "letters"
+                "name": "TridentLetter",
+                "category": "letter"
             }
         ]
     }

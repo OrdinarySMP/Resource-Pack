@@ -359,12 +359,12 @@
                 "threshold": 5569130,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/bakery/gingerbreadman"
+                    "model": "custom:item/food/bakery/gingerbread_man"
                 },
                 "owners": [
                     "MrCookiePrincess"
                 ],
-                "name": "Gingerbreadman",
+                "name": "GingerbreadMan",
                 "category": "food"
             },
             {
@@ -376,7 +376,7 @@
                 "owners": [
                     "MrCookiePrincess"
                 ],
-                "name": "Candycane",
+                "name": "CandyCane",
                 "category": "food"
             },
             {
@@ -611,24 +611,24 @@
                 "threshold": 1346101,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/drinks/hot_choco_cyan"
+                    "model": "custom:item/food/drinks/hot_chocolate_cyan"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "HotChocoCyan",
+                "name": "HotChocolateCyan",
                 "category": "food"
             },
             {
                 "threshold": 1346102,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/drinks/hot_choco_pink"
+                    "model": "custom:item/food/drinks/hot_chocolate_pink"
                 },
                 "owners": [
                     "@public"
                 ],
-                "name": "HotChocoPink",
+                "name": "HotChocolatePink",
                 "category": "food"
             },
             {
@@ -647,12 +647,12 @@
                 "threshold": 5888701,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/desserts/mc_devils_cherry_tarte"
+                    "model": "custom:item/food/desserts/mc_devils_cherry_tart"
                 },
                 "owners": [
                     "DevilPowers"
                 ],
-                "name": "McDevilsCherryTarte",
+                "name": "McDevilsCherryTart",
                 "category": "food"
             },
             {
@@ -664,7 +664,7 @@
                 "owners": [
                     "DevilPowers"
                 ],
-                "name": "McDevilBurger",
+                "name": "McDevilsBurger",
                 "category": "food"
             },
             {
@@ -779,7 +779,7 @@
                 "threshold": 2106509,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/drinks/chocolate_gateau"
+                    "model": "custom:item/food/desserts/chocolate_gateau"
                 },
                 "owners": [
                     "xKellfeine"
