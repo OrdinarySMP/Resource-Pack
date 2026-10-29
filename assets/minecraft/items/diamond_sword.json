@@ -152,6 +152,18 @@
                 "category": "equipment"
             },
             {
+                "threshold": 2796712,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/weapons/lightsabers/anakin_skywalker_padawan_lightsaber"
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "AnakinSkywalkerPadawanLightsaber",
+                "category": "equipment"
+            },
+            {
                 "threshold": 5478002,
                 "model": {
                     "type": "model",
