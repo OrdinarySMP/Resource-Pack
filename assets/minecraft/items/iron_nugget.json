@@ -11,145 +11,145 @@
                 "threshold": 2649601,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/games/chips/chip_1"
+                    "model": "custom:item/games/chips/value_1_chip"
                 },
                 "owners": [
                     "@public"
                 ],
                 "name": "GreenChip1",
-                "category": "chips"
+                "category": "chip"
             },
             {
                 "threshold": 2649602,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/games/chips/chip_5"
+                    "model": "custom:item/games/chips/value_5_chip"
                 },
                 "owners": [
                     "@public"
                 ],
                 "name": "BlueChip5",
-                "category": "chips"
+                "category": "chip"
             },
             {
                 "threshold": 2649603,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/games/chips/chip_10"
+                    "model": "custom:item/games/chips/value_10_chip"
                 },
                 "owners": [
                     "@public"
                 ],
                 "name": "PurpleChip10",
-                "category": "chips"
+                "category": "chip"
             },
             {
                 "threshold": 2649604,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/games/chips/chip_25"
+                    "model": "custom:item/games/chips/value_25_chip"
                 },
                 "owners": [
                     "@public"
                 ],
                 "name": "RedChip25",
-                "category": "chips"
+                "category": "chip"
             },
             {
                 "threshold": 2649605,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/games/chips/chip_50"
+                    "model": "custom:item/games/chips/value_50_chip"
                 },
                 "owners": [
                     "@public"
                 ],
                 "name": "OrangeChip50",
-                "category": "chips"
+                "category": "chip"
             },
             {
                 "threshold": 2649606,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/games/chips/chip_100"
+                    "model": "custom:item/games/chips/value_100_chip"
                 },
                 "owners": [
                     "@public"
                 ],
                 "name": "BlackChip100",
-                "category": "chips"
+                "category": "chip"
             },
             {
                 "threshold": 2649607,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/games/chips/chip_green"
+                    "model": "custom:item/games/chips/green_chip"
                 },
                 "owners": [
                     "@public"
                 ],
                 "name": "GreenChip",
-                "category": "chips"
+                "category": "chip"
             },
             {
                 "threshold": 2649608,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/games/chips/chip_blue"
+                    "model": "custom:item/games/chips/blue_chip"
                 },
                 "owners": [
                     "@public"
                 ],
                 "name": "BlueChip",
-                "category": "chips"
+                "category": "chip"
             },
             {
                 "threshold": 2649609,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/games/chips/chip_purple"
+                    "model": "custom:item/games/chips/purple_chip"
                 },
                 "owners": [
                     "@public"
                 ],
                 "name": "PurpleChip",
-                "category": "chips"
+                "category": "chip"
             },
             {
                 "threshold": 2649610,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/games/chips/chip_red"
+                    "model": "custom:item/games/chips/red_chip"
                 },
                 "owners": [
                     "@public"
                 ],
                 "name": "RedChip",
-                "category": "chips"
+                "category": "chip"
             },
             {
                 "threshold": 2649611,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/games/chips/chip_orange"
+                    "model": "custom:item/games/chips/orange_chip"
                 },
                 "owners": [
                     "@public"
                 ],
                 "name": "OrangeChip",
-                "category": "chips"
+                "category": "chip"
             },
             {
                 "threshold": 2649612,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/games/chips/chip_black"
+                    "model": "custom:item/games/chips/black_chip"
                 },
                 "owners": [
                     "@public"
                 ],
                 "name": "BlackChip",
-                "category": "chips"
+                "category": "chip"
             }
         ]
     }

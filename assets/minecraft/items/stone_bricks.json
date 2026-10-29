@@ -16,7 +16,7 @@
                 "owners": [
                     "@unkown"
                 ],
-                "name": "FilterStoneBricks",
+                "name": "StoneBricksFilter",
                 "category": "filter"
             }
         ]

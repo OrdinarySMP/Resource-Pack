@@ -9,6 +9,12 @@ fields from the staged resource pack and exports them to `models.json`.
   requested placeholder for ownership that has not been established.
 - `category` and `name`: identifiers beginning with a letter, followed by
   letters, digits, or underscores. Together they identify a registry model.
+  Categories use singular snake_case based on the model's purpose (`plushie`,
+  `card`, `letter`, `material`, `blood_effect`, `easter_egg`, `enchanted_book`).
+  Names use PascalCase with the subject before the object where appropriate:
+  `BeePlushie`, `AlarmLetter`, `FishTrophy`, `PrincessBillboard`, `HoneyPickaxe`.
+  Card names use `AceOfSpades`; painting names use `MonaLisa1x2Painting`.
+  Existing proper-name capitalization is preserved.
 - Entries sharing a category/name must have identical owners and CMD and are
   combined into one registry model with multiple base items. Equipment types
   use separate names, for example `BlossomSword` and `BlossomPickaxe`.
@@ -33,7 +39,16 @@ The Honey, Honor, Ender, and Blossom equipment additions use PadBro, consistent
 with their documented sets. Other undocumented entries use `@unkown`.
 
 The CSV gives both Lilvyse totems the same name; the second is named
-`TotemOfUndyingLilvyseVariant` to retain both CMDs.
+`LilvyseVariantTotem` to retain both CMDs.
+
+Totem registry names consistently use `<Subject>Totem` in PascalCase, with
+`Christmas`, `Halloween`, `DemonHunter`, or `Toy` prefixes for collection
+members. For example, `SoulTotem` and `HalloweenSoulTotem` are distinct models.
+The totem filenames use short snake_case subjects within their category:
+`players/padbro_astronaut.json`, `animals/bee.json`, and
+`collections/halloween/soul.json`. Model and texture basenames match.
+Renaming registry entries changes their lookup names; CMDs and owners stay the
+same.
 
 The CSV-only Anubis Hat entry has no matching custom mapping. Bamboo at golden
 carrot CMD 5569102 intentionally uses `minecraft:item/bamboo` and is registered

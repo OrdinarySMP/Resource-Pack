@@ -11,13 +11,13 @@
                 "threshold": 7133201,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/materials/diamond_purple"
+                    "model": "custom:item/materials/purple_diamond"
                 },
                 "owners": [
                     "_Smooch_"
                 ],
                 "name": "PurpleDiamond",
-                "category": "diamond"
+                "category": "material"
             }
         ]
     }
