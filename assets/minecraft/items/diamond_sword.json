@@ -20,13 +20,6 @@
                 "category": "equipment"
             },
             {
-                "threshold": 2690802,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/diamond_sword"
-                }
-            },
-            {
                 "threshold": 2796701,
                 "model": {
                     "type": "model",
@@ -159,13 +152,6 @@
                 "category": "equipment"
             },
             {
-                "threshold": 2796712,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/diamond_sword"
-                }
-            },
-            {
                 "threshold": 5478002,
                 "model": {
                     "type": "model",
@@ -178,13 +164,6 @@
                 "category": "equipment"
             },
             {
-                "threshold": 5478003,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/diamond_sword"
-                }
-            },
-            {
                 "threshold": 9222701,
                 "model": {
                     "type": "model",
@@ -194,18 +173,6 @@
                     "xKellfeine"
                 ],
                 "name": "HuntrixRumiSword",
-                "category": "equipment"
-            },
-            {
-                "threshold": 9222702,
-                "model": {
-                    "type": "model",
-                    "model": "custom:item/tools/crab_sword"
-                },
-                "owners": [
-                    "sUPr3meXBuRRiTo"
-                ],
-                "name": "CrabSword",
                 "category": "equipment"
             },
             {
@@ -221,13 +188,6 @@
                 "category": "equipment"
             },
             {
-                "threshold": 1304102,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/diamond_sword"
-                }
-            },
-            {
                 "threshold": 6151001,
                 "model": {
                     "type": "model",
@@ -240,13 +200,6 @@
                 "category": "equipment"
             },
             {
-                "threshold": 6151002,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/diamond_sword"
-                }
-            },
-            {
                 "threshold": 7961301,
                 "model": {
                     "type": "model",
@@ -257,13 +210,6 @@
                 ],
                 "name": "CrystalToolsSword",
                 "category": "equipment"
-            },
-            {
-                "threshold": 7961302,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/diamond_sword"
-                }
             }
         ]
     }

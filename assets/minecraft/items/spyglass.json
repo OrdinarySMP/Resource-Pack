@@ -17,13 +17,6 @@
                     ],
                     "name": "CookiesCameraSpyglass",
                     "category": "equipment"
-                },
-                {
-                    "threshold": 5478002,
-                    "model": {
-                        "type": "minecraft:model",
-                        "model": "minecraft:item/spyglass_in_hand"
-                    }
                 }
             ],
             "fallback": {
@@ -46,13 +39,6 @@
                     ],
                     "name": "CookiesCameraSpyglass",
                     "category": "equipment"
-                },
-                {
-                    "threshold": 5478002,
-                    "model": {
-                        "type": "minecraft:model",
-                        "model": "minecraft:item/spyglass"
-                    }
                 }
             ],
             "fallback": {

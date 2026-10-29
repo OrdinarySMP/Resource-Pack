@@ -930,13 +930,6 @@
                 ],
                 "name": "PlushieZombifiedPiglin",
                 "category": "plushies"
-            },
-            {
-                "threshold": 6390578,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:block/white_wool"
-                }
             }
         ]
     }

@@ -128,13 +128,6 @@
                 "category": "paintings"
             },
             {
-                "threshold": 1856311,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/paper"
-                }
-            },
-            {
                 "threshold": 5478001,
                 "model": {
                     "type": "model",
@@ -337,32 +330,6 @@
                 ],
                 "name": "YellowButterlyWings",
                 "category": "wings"
-            },
-            {
-                "threshold": 5478018,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/paper"
-                }
-            },
-            {
-                "threshold": 9208801,
-                "model": {
-                    "type": "model",
-                    "model": "custom:item/spingus_coin"
-                },
-                "owners": [
-                    "@unkown"
-                ],
-                "name": "SpingusCoin",
-                "category": "paper"
-            },
-            {
-                "threshold": 9208802,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/paper"
-                }
             },
             {
                 "threshold": 7263701,
@@ -603,13 +570,6 @@
                 ],
                 "name": "LetterTrident",
                 "category": "letters"
-            },
-            {
-                "threshold": 7263721,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/paper"
-                }
             },
             {
                 "threshold": 8444701,
@@ -1260,13 +1220,6 @@
                 "category": "cards"
             },
             {
-                "threshold": 8444780,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/paper"
-                }
-            },
-            {
                 "threshold": 7333501,
                 "model": {
                     "type": "model",
@@ -1277,13 +1230,6 @@
                 ],
                 "name": "MasonMarketSign",
                 "category": "paper"
-            },
-            {
-                "threshold": 7333502,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/paper"
-                }
             },
             {
                 "threshold": 3341302,
@@ -1394,13 +1340,6 @@
                 "category": "paintings"
             },
             {
-                "threshold": 3341311,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/paper"
-                }
-            },
-            {
                 "threshold": 8337101,
                 "model": {
                     "type": "model",
@@ -1425,13 +1364,6 @@
                 "category": "flower"
             },
             {
-                "threshold": 8337103,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/paper"
-                }
-            },
-            {
                 "threshold": 4172001,
                 "model": {
                     "type": "model",
@@ -1442,13 +1374,6 @@
                 ],
                 "name": "AllienPlushy",
                 "category": "plushies"
-            },
-            {
-                "threshold": 4172002,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/paper"
-                }
             },
             {
                 "threshold": 5500901,
@@ -1617,13 +1542,6 @@
                 ],
                 "name": "RuneTotem",
                 "category": "blood"
-            },
-            {
-                "threshold": 5500915,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/paper"
-                }
             }
         ]
     }

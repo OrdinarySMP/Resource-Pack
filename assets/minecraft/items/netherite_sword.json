@@ -20,13 +20,6 @@
                 "category": "equipment"
             },
             {
-                "threshold": 2690802,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/netherite_sword"
-                }
-            },
-            {
                 "threshold": 2796701,
                 "model": {
                     "type": "model",
@@ -159,13 +152,6 @@
                 "category": "equipment"
             },
             {
-                "threshold": 2796712,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/netherite_sword"
-                }
-            },
-            {
                 "threshold": 5478001,
                 "model": {
                     "type": "model",
@@ -190,13 +176,6 @@
                 "category": "equipment"
             },
             {
-                "threshold": 5478003,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/netherite_sword"
-                }
-            },
-            {
                 "threshold": 7125401,
                 "model": {
                     "type": "model",
@@ -207,32 +186,6 @@
                 ],
                 "name": "LoudBloodySchytheSword",
                 "category": "equipment"
-            },
-            {
-                "threshold": 7125402,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/netherite_sword"
-                }
-            },
-            {
-                "threshold": 8237501,
-                "model": {
-                    "type": "model",
-                    "model": "custom:item/tools/crab_sword"
-                },
-                "owners": [
-                    "sUPr3meXBuRRiTo"
-                ],
-                "name": "CrabSwordLegacy",
-                "category": "equipment"
-            },
-            {
-                "threshold": 8237502,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/netherite_sword"
-                }
             },
             {
                 "threshold": 9222701,
@@ -247,18 +200,6 @@
                 "category": "equipment"
             },
             {
-                "threshold": 9222702,
-                "model": {
-                    "type": "model",
-                    "model": "custom:item/tools/crab_sword"
-                },
-                "owners": [
-                    "sUPr3meXBuRRiTo"
-                ],
-                "name": "CrabSword",
-                "category": "equipment"
-            },
-            {
                 "threshold": 1304101,
                 "model": {
                     "type": "model",
@@ -269,13 +210,6 @@
                 ],
                 "name": "WitchWandSword",
                 "category": "equipment"
-            },
-            {
-                "threshold": 1304102,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/netherite_sword"
-                }
             },
             {
                 "threshold": 6151001,
@@ -326,13 +260,6 @@
                 "category": "equipment"
             },
             {
-                "threshold": 6151005,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/netherite_sword"
-                }
-            },
-            {
                 "threshold": 7961301,
                 "model": {
                     "type": "model",
@@ -343,13 +270,6 @@
                 ],
                 "name": "CrystalToolsSword",
                 "category": "equipment"
-            },
-            {
-                "threshold": 7961302,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/netherite_sword"
-                }
             },
             {
                 "threshold": 5319901,
@@ -364,13 +284,6 @@
                 "category": "equipment"
             },
             {
-                "threshold": 5319902,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/netherite_sword"
-                }
-            },
-            {
                 "threshold": 1532701,
                 "model": {
                     "type": "model",
@@ -381,13 +294,6 @@
                 ],
                 "name": "SalatToolsSword",
                 "category": "equipment"
-            },
-            {
-                "threshold": 1532702,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/netherite_sword"
-                }
             }
         ]
     }

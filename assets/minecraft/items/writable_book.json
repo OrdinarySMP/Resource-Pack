@@ -246,13 +246,6 @@
                 ],
                 "name": "LetterTrident",
                 "category": "letters"
-            },
-            {
-                "threshold": 7263721,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/writable_book"
-                }
             }
         ]
     }

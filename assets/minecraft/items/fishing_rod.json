@@ -19,13 +19,6 @@
                     "category": "equipment"
                 },
                 {
-                    "threshold": 5958202,
-                    "model": {
-                        "type": "minecraft:model",
-                        "model": "minecraft:item/fishing_rod_cast"
-                    }
-                },
-                {
                     "threshold": 6151004,
                     "model": {
                         "type": "minecraft:model",
@@ -36,13 +29,6 @@
                     ],
                     "name": "BlossomRod",
                     "category": "equipment"
-                },
-                {
-                    "threshold": 6151005,
-                    "model": {
-                        "type": "minecraft:model",
-                        "model": "minecraft:item/fishing_rod_cast"
-                    }
                 }
             ],
             "fallback": {
@@ -67,13 +53,6 @@
                     "category": "equipment"
                 },
                 {
-                    "threshold": 5958202,
-                    "model": {
-                        "type": "minecraft:model",
-                        "model": "minecraft:item/fishing_rod"
-                    }
-                },
-                {
                     "threshold": 6151004,
                     "model": {
                         "type": "minecraft:model",
@@ -84,13 +63,6 @@
                     ],
                     "name": "BlossomRod",
                     "category": "equipment"
-                },
-                {
-                    "threshold": 6151005,
-                    "model": {
-                        "type": "minecraft:model",
-                        "model": "minecraft:item/fishing_rod"
-                    }
                 }
             ],
             "fallback": {

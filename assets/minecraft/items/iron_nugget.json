@@ -150,13 +150,6 @@
                 ],
                 "name": "BlackChip",
                 "category": "chips"
-            },
-            {
-                "threshold": 2649613,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/iron_nugget"
-                }
             }
         ]
     }

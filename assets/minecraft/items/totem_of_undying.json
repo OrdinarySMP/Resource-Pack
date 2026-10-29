@@ -44,13 +44,6 @@
                 "category": "totem"
             },
             {
-                "threshold": 3222704,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/totem_of_undying"
-                }
-            },
-            {
                 "threshold": 3552101,
                 "model": {
                     "type": "model",
@@ -75,13 +68,6 @@
                 "category": "totem"
             },
             {
-                "threshold": 3552103,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/totem_of_undying"
-                }
-            },
-            {
                 "threshold": 3662001,
                 "model": {
                     "type": "model",
@@ -92,13 +78,6 @@
                 ],
                 "name": "SealOfUndying",
                 "category": "totem"
-            },
-            {
-                "threshold": 3662002,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/totem_of_undying"
-                }
             },
             {
                 "threshold": 3854701,
@@ -257,13 +236,6 @@
                 "category": "totem"
             },
             {
-                "threshold": 3854714,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/totem_of_undying"
-                }
-            },
-            {
                 "threshold": 8643000,
                 "model": {
                     "type": "model",
@@ -396,13 +368,6 @@
                 "category": "totem"
             },
             {
-                "threshold": 8643011,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/totem_of_undying"
-                }
-            },
-            {
                 "threshold": 9108301,
                 "model": {
                     "type": "model",
@@ -413,13 +378,6 @@
                 ],
                 "name": "Sushikuromi",
                 "category": "totem"
-            },
-            {
-                "threshold": 9108302,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/totem_of_undying"
-                }
             },
             {
                 "threshold": 9222701,
@@ -480,13 +438,6 @@
                 ],
                 "name": "Sussie",
                 "category": "totem"
-            },
-            {
-                "threshold": 9222707,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/totem_of_undying"
-                }
             },
             {
                 "threshold": 9223701,
@@ -561,13 +512,6 @@
                 "category": "totem"
             },
             {
-                "threshold": 9223707,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/totem_of_undying"
-                }
-            },
-            {
                 "threshold": 1300401,
                 "model": {
                     "type": "model",
@@ -578,13 +522,6 @@
                 ],
                 "name": "Kitty",
                 "category": "totem"
-            },
-            {
-                "threshold": 1300402,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/totem_of_undying"
-                }
             },
             {
                 "threshold": 8075201,
@@ -659,13 +596,6 @@
                 "category": "totem"
             },
             {
-                "threshold": 8075207,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/totem_of_undying"
-                }
-            },
-            {
                 "threshold": 9072301,
                 "model": {
                     "type": "model",
@@ -714,13 +644,6 @@
                 "category": "totem"
             },
             {
-                "threshold": 9072305,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/totem_of_undying"
-                }
-            },
-            {
                 "threshold": 7360901,
                 "model": {
                     "type": "model",
@@ -731,13 +654,6 @@
                 ],
                 "name": "TotemOfUndyingSoul",
                 "category": "totem"
-            },
-            {
-                "threshold": 7360902,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/totem_of_undying"
-                }
             },
             {
                 "threshold": 5408601,
@@ -752,13 +668,6 @@
                 "category": "totem"
             },
             {
-                "threshold": 5408602,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/totem_of_undying"
-                }
-            },
-            {
                 "threshold": 9827601,
                 "model": {
                     "type": "model",
@@ -769,13 +678,6 @@
                 ],
                 "name": "TotemOfGoldenSnitch",
                 "category": "totem"
-            },
-            {
-                "threshold": 9827602,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/totem_of_undying"
-                }
             },
             {
                 "threshold": 5098601,
@@ -802,13 +704,6 @@
                 "category": "totem"
             },
             {
-                "threshold": 5098603,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/totem_of_undying"
-                }
-            },
-            {
                 "threshold": 4172001,
                 "model": {
                     "type": "model",
@@ -833,13 +728,6 @@
                 "category": "totem"
             },
             {
-                "threshold": 4172003,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/totem_of_undying"
-                }
-            },
-            {
                 "threshold": 8384801,
                 "model": {
                     "type": "model",
@@ -850,13 +738,6 @@
                 ],
                 "name": "AlienOfUndying",
                 "category": "totem"
-            },
-            {
-                "threshold": 8384802,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/totem_of_undying"
-                }
             }
         ]
     }
