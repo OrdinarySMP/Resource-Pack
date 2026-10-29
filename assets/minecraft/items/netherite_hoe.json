@@ -20,13 +20,6 @@
                 "category": "equipment"
             },
             {
-                "threshold": 5478002,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/netherite_hoe"
-                }
-            },
-            {
                 "threshold": 6151001,
                 "model": {
                     "type": "model",
@@ -75,13 +68,6 @@
                 "category": "equipment"
             },
             {
-                "threshold": 6151005,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/netherite_hoe"
-                }
-            },
-            {
                 "threshold": 7961301,
                 "model": {
                     "type": "model",
@@ -92,13 +78,6 @@
                 ],
                 "name": "CrystalToolsHoe",
                 "category": "equipment"
-            },
-            {
-                "threshold": 7961302,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/netherite_hoe"
-                }
             }
         ]
     }

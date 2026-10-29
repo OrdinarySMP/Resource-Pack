@@ -54,13 +54,6 @@
                 ],
                 "name": "BlossomMace",
                 "category": "equipment"
-            },
-            {
-                "threshold": 6151005,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/mace"
-                }
             }
         ]
     }

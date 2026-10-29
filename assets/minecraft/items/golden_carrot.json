@@ -24,7 +24,12 @@
                 "model": {
                     "type": "model",
                     "model": "minecraft:item/bamboo"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "Bamboo",
+                "category": "food"
             },
             {
                 "threshold": 5569103,
@@ -399,13 +404,6 @@
                 "category": "food"
             },
             {
-                "threshold": 5569134,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/golden_carrot"
-                }
-            },
-            {
                 "threshold": 6042101,
                 "model": {
                     "type": "model",
@@ -550,13 +548,6 @@
                 "category": "food"
             },
             {
-                "threshold": 6042113,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/golden_carrot"
-                }
-            },
-            {
                 "threshold": 7410801,
                 "model": {
                     "type": "model",
@@ -567,13 +558,6 @@
                 ],
                 "name": "Garlic",
                 "category": "food"
-            },
-            {
-                "threshold": 7410802,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/golden_carrot"
-                }
             },
             {
                 "threshold": 7513201,
@@ -600,13 +584,6 @@
                 "category": "food"
             },
             {
-                "threshold": 7513203,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/golden_carrot"
-                }
-            },
-            {
                 "threshold": 7706401,
                 "model": {
                     "type": "model",
@@ -629,13 +606,6 @@
                 ],
                 "name": "Tea",
                 "category": "food"
-            },
-            {
-                "threshold": 7706403,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/golden_carrot"
-                }
             },
             {
                 "threshold": 1346101,
@@ -662,13 +632,6 @@
                 "category": "food"
             },
             {
-                "threshold": 1346103,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/golden_carrot"
-                }
-            },
-            {
                 "threshold": 7360901,
                 "model": {
                     "type": "model",
@@ -679,13 +642,6 @@
                 ],
                 "name": "SoulFood",
                 "category": "food"
-            },
-            {
-                "threshold": 7360902,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/golden_carrot"
-                }
             },
             {
                 "threshold": 5888701,
@@ -722,13 +678,6 @@
                 ],
                 "name": "McDevilsChips",
                 "category": "food"
-            },
-            {
-                "threshold": 5888704,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/golden_carrot"
-                }
             },
             {
                 "threshold": 2106501,
@@ -1017,13 +966,6 @@
                 ],
                 "name": "Waffle",
                 "category": "food"
-            },
-            {
-                "threshold": 2106525,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/golden_carrot"
-                }
             }
         ]
     }

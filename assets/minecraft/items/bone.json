@@ -18,13 +18,6 @@
                 ],
                 "name": "WitherBone",
                 "category": "bone"
-            },
-            {
-                "threshold": 4161902,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/bone"
-                }
             }
         ]
     }

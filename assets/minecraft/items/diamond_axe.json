@@ -20,13 +20,6 @@
                 "category": "equipment"
             },
             {
-                "threshold": 5478003,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/diamond_axe"
-                }
-            },
-            {
                 "threshold": 6151001,
                 "model": {
                     "type": "model",
@@ -39,13 +32,6 @@
                 "category": "equipment"
             },
             {
-                "threshold": 6151002,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/diamond_axe"
-                }
-            },
-            {
                 "threshold": 7961301,
                 "model": {
                     "type": "model",
@@ -56,13 +42,6 @@
                 ],
                 "name": "CrystalToolsAxe",
                 "category": "equipment"
-            },
-            {
-                "threshold": 7961302,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/diamond_axe"
-                }
             }
         ]
     }

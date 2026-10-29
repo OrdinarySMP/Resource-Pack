@@ -402,13 +402,6 @@
                 ],
                 "name": "TransFlag",
                 "category": "flags"
-            },
-            {
-                "threshold": 40424434,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/stick"
-                }
             }
         ]
     }

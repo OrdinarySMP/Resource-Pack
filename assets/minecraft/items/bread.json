@@ -20,13 +20,6 @@
                 ],
                 "name": "GarlicBread",
                 "category": "food"
-            },
-            {
-                "threshold": 7410802,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/bread"
-                }
             }
         ]
     }

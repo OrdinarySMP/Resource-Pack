@@ -765,13 +765,6 @@
                 ],
                 "name": "EnchantedBooksReCovered",
                 "category": "enchantedbooks"
-            },
-            {
-                "threshold": 2846502,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/enchanted_book"
-                }
             }
         ]
     }

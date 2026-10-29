@@ -33,10 +33,15 @@ The Honey, Honor, Ender, and Blossom equipment additions use PadBro, consistent
 with their documented sets. Other undocumented entries use `@unkown`.
 
 The CSV gives both Lilvyse totems the same name; the second is named
-`TotemOfUndyingLilvyseVariant` to retain both CMDs. The netherite-only Crab Sword
-at CMD 8237501 uses `CrabSwordLegacy` to distinguish it from CMD 9222702.
+`TotemOfUndyingLilvyseVariant` to retain both CMDs.
 
-The CSV-only Anubis Hat and bamboo entries have no matching custom mappings;
-metadata does not introduce new models. The existing paper/9208801 mapping
-references the absent `custom:item/spingus_coin` model file; metadata preserves
-that mapping without supplying an invented asset.
+The CSV-only Anubis Hat entry has no matching custom mapping. Bamboo at golden
+carrot CMD 5569102 intentionally uses `minecraft:item/bamboo` and is registered
+as food/Bamboo owned by PadBro, as documented in the CSV.
+Spingus Coin (paper/9208801) and all
+Crab Sword mappings and assets have been removed.
+
+Vanilla reset thresholds have also been removed from the source dispatches.
+Range dispatch selects the highest threshold at or below the supplied CMD, so
+unassigned values between thresholds now retain the preceding custom model.
+The dispatch-level fallback remains intact for values below the first threshold.

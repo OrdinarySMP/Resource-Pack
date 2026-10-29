@@ -20,13 +20,6 @@
                 "category": "equipment"
             },
             {
-                "threshold": 2690802,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/copper_sword"
-                }
-            },
-            {
                 "threshold": 2796701,
                 "model": {
                     "type": "model",
@@ -159,13 +152,6 @@
                 "category": "equipment"
             },
             {
-                "threshold": 2796712,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/copper_sword"
-                }
-            },
-            {
                 "threshold": 9222701,
                 "model": {
                     "type": "model",
@@ -175,18 +161,6 @@
                     "xKellfeine"
                 ],
                 "name": "HuntrixRumiSword",
-                "category": "equipment"
-            },
-            {
-                "threshold": 9222702,
-                "model": {
-                    "type": "model",
-                    "model": "custom:item/tools/crab_sword"
-                },
-                "owners": [
-                    "sUPr3meXBuRRiTo"
-                ],
-                "name": "CrabSword",
                 "category": "equipment"
             },
             {
@@ -202,13 +176,6 @@
                 "category": "equipment"
             },
             {
-                "threshold": 1304102,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/copper_sword"
-                }
-            },
-            {
                 "threshold": 5478002,
                 "model": {
                     "type": "model",
@@ -219,13 +186,6 @@
                 ],
                 "name": "XadalesSailorMoonToolSword",
                 "category": "equipment"
-            },
-            {
-                "threshold": 5478003,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/copper_sword"
-                }
             }
         ]
     }

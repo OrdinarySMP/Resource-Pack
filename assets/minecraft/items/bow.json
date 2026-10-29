@@ -43,40 +43,6 @@
                 "category": "equipment"
             },
             {
-                "threshold": 5478002,
-                "model": {
-                    "type": "range_dispatch",
-                    "property": "use_duration",
-                    "entries": [
-                        {
-                            "threshold": 1,
-                            "model": {
-                                "type": "model",
-                                "model": "item/bow_pulling_0"
-                            }
-                        },
-                        {
-                            "threshold": 13,
-                            "model": {
-                                "type": "model",
-                                "model": "item/bow_pulling_1"
-                            }
-                        },
-                        {
-                            "threshold": 18,
-                            "model": {
-                                "type": "model",
-                                "model": "item/bow_pulling_2"
-                            }
-                        }
-                    ],
-                    "fallback": {
-                        "type": "model",
-                        "model": "item/bow"
-                    }
-                }
-            },
-            {
                 "threshold": 6151003,
                 "model": {
                     "type": "range_dispatch",
@@ -153,40 +119,6 @@
                 ],
                 "name": "BlossomBow",
                 "category": "equipment"
-            },
-            {
-                "threshold": 6151005,
-                "model": {
-                    "type": "range_dispatch",
-                    "property": "use_duration",
-                    "entries": [
-                        {
-                            "threshold": 1,
-                            "model": {
-                                "type": "model",
-                                "model": "item/bow_pulling_0"
-                            }
-                        },
-                        {
-                            "threshold": 13,
-                            "model": {
-                                "type": "model",
-                                "model": "item/bow_pulling_1"
-                            }
-                        },
-                        {
-                            "threshold": 18,
-                            "model": {
-                                "type": "model",
-                                "model": "item/bow_pulling_2"
-                            }
-                        }
-                    ],
-                    "fallback": {
-                        "type": "model",
-                        "model": "item/bow"
-                    }
-                }
             }
         ],
         "fallback": {

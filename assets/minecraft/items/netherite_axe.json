@@ -20,13 +20,6 @@
                 "category": "equipment"
             },
             {
-                "threshold": 5478002,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/netherite_axe"
-                }
-            },
-            {
                 "threshold": 6151001,
                 "model": {
                     "type": "model",
@@ -75,13 +68,6 @@
                 "category": "equipment"
             },
             {
-                "threshold": 6151005,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/netherite_axe"
-                }
-            },
-            {
                 "threshold": 7961301,
                 "model": {
                     "type": "model",
@@ -94,13 +80,6 @@
                 "category": "equipment"
             },
             {
-                "threshold": 7961302,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/netherite_axe"
-                }
-            },
-            {
                 "threshold": 1532701,
                 "model": {
                     "type": "model",
@@ -111,13 +90,6 @@
                 ],
                 "name": "SalatToolsAxe",
                 "category": "equipment"
-            },
-            {
-                "threshold": 1532702,
-                "model": {
-                    "type": "model",
-                    "model": "minecraft:item/netherite_axe"
-                }
             }
         ]
     }
