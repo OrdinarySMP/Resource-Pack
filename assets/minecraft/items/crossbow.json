@@ -56,7 +56,12 @@
                             "model": "custom:item/tools/golden_crossbow"
                         }
                     }
-                }
+                },
+                "owners": [
+                    "@staff"
+                ],
+                "name": "GoldenCrossbow",
+                "category": "equipment"
             },
             {
                 "threshold": 3141502,
@@ -166,7 +171,12 @@
                             "model": "custom:item/tools/ender/ender_crossbow"
                         }
                     }
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "EnderCrossbow",
+                "category": "equipment"
             },
             {
                 "threshold": 6151004,
@@ -221,7 +231,12 @@
                             "model": "custom:item/tools/blossom/blossom_crossbow"
                         }
                     }
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "BlossomCrossbow",
+                "category": "equipment"
             },
             {
                 "threshold": 6151005,

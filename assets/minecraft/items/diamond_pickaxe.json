@@ -12,9 +12,14 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/cookie/xadale_pickaxe"
-                }
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "XadalesSailorMoonToolPickaxe",
+                "category": "equipment"
             },
-			{
+            {
                 "threshold": 5478003,
                 "model": {
                     "type": "model",
@@ -26,7 +31,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/honey/honey_pickaxe"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "HoneyPickaxe",
+                "category": "equipment"
             },
             {
                 "threshold": 6151002,
@@ -40,7 +50,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/crystal/crystal_pickaxe"
-                }
+                },
+                "owners": [
+                    "Apieboy"
+                ],
+                "name": "CrystalToolsPickaxe",
+                "category": "equipment"
             },
             {
                 "threshold": 7961302,

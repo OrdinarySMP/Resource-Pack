@@ -1,82 +1,102 @@
 {
-  "model": {
-    "type": "minecraft:condition",
-    "property": "minecraft:fishing_rod/cast",
-    "on_true": {
-      "type": "minecraft:range_dispatch",
-      "property": "minecraft:custom_model_data",
-      "entries": [
-        {
-          "threshold": 5958201,
-          "model": {
-            "type": "minecraft:model",
-            "model": "custom:item/tools/fishing_rod_gold_cast"
-          }
+    "model": {
+        "type": "minecraft:condition",
+        "property": "minecraft:fishing_rod/cast",
+        "on_true": {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "entries": [
+                {
+                    "threshold": 5958201,
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "custom:item/tools/fishing_rod_gold_cast"
+                    },
+                    "owners": [
+                        "@staff"
+                    ],
+                    "name": "GoldenFishingRod",
+                    "category": "equipment"
+                },
+                {
+                    "threshold": 5958202,
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/fishing_rod_cast"
+                    }
+                },
+                {
+                    "threshold": 6151004,
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "custom:item/tools/blossom/blossom_fishing_rod_cast"
+                    },
+                    "owners": [
+                        "PadBro"
+                    ],
+                    "name": "BlossomRod",
+                    "category": "equipment"
+                },
+                {
+                    "threshold": 6151005,
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/fishing_rod_cast"
+                    }
+                }
+            ],
+            "fallback": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/fishing_rod_cast"
+            }
         },
-        {
-          "threshold": 5958202,
-          "model": {
-            "type": "minecraft:model",
-            "model": "minecraft:item/fishing_rod_cast"
-          }
-        },
-        {
-          "threshold": 6151004,
-          "model": {
-            "type": "minecraft:model",
-            "model": "custom:item/tools/blossom/blossom_fishing_rod_cast"
-          }
-        },
-        {
-          "threshold": 6151005,
-          "model": {
-            "type": "minecraft:model",
-            "model": "minecraft:item/fishing_rod_cast"
-          }
+        "on_false": {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "entries": [
+                {
+                    "threshold": 5958201,
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "custom:item/tools/fishing_rod_gold"
+                    },
+                    "owners": [
+                        "@staff"
+                    ],
+                    "name": "GoldenFishingRod",
+                    "category": "equipment"
+                },
+                {
+                    "threshold": 5958202,
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/fishing_rod"
+                    }
+                },
+                {
+                    "threshold": 6151004,
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "custom:item/tools/blossom/blossom_fishing_rod"
+                    },
+                    "owners": [
+                        "PadBro"
+                    ],
+                    "name": "BlossomRod",
+                    "category": "equipment"
+                },
+                {
+                    "threshold": 6151005,
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/fishing_rod"
+                    }
+                }
+            ],
+            "fallback": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/fishing_rod"
+            }
         }
-      ],
-      "fallback": {
-        "type": "minecraft:model",
-        "model": "minecraft:item/fishing_rod_cast"
-      }
-    },
-    "on_false": {
-      "type": "minecraft:range_dispatch",
-      "property": "minecraft:custom_model_data",
-      "entries": [
-        {
-          "threshold": 5958201,
-          "model": {
-            "type": "minecraft:model",
-            "model": "custom:item/tools/fishing_rod_gold"
-          }
-        },
-        {
-          "threshold": 5958202,
-          "model": {
-            "type": "minecraft:model",
-            "model": "minecraft:item/fishing_rod"
-          }
-        },
-        {
-          "threshold": 6151004,
-          "model": {
-            "type": "minecraft:model",
-            "model": "custom:item/tools/blossom/blossom_fishing_rod"
-          }
-        },
-        {
-          "threshold": 6151005,
-          "model": {
-            "type": "minecraft:model",
-            "model": "minecraft:item/fishing_rod"
-          }
-        }
-      ],
-      "fallback": {
-        "type": "minecraft:model",
-        "model": "minecraft:item/fishing_rod"
-      }
     }
-  }
 }

@@ -12,9 +12,14 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/cookie/xadale_shovel"
-                }
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "XadalesSailorMoonToolShovel",
+                "category": "equipment"
             },
-			{
+            {
                 "threshold": 5478003,
                 "model": {
                     "type": "model",
@@ -26,7 +31,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/honey/honey_shovel"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "HoneyShovel",
+                "category": "equipment"
             },
             {
                 "threshold": 6151002,
@@ -40,7 +50,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/crystal/crystal_shovel"
-                }
+                },
+                "owners": [
+                    "Apieboy"
+                ],
+                "name": "CrystalToolsShovel",
+                "category": "equipment"
             },
             {
                 "threshold": 7961302,

@@ -12,9 +12,14 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/cookie/xadale_hoe"
-                }
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "XadalesSailorMoonToolHoe",
+                "category": "equipment"
             },
-			{
+            {
                 "threshold": 5478003,
                 "model": {
                     "type": "model",
@@ -26,28 +31,48 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/honey/honey_hoe"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "HoneyHoe",
+                "category": "equipment"
             },
             {
                 "threshold": 6151002,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/honor/honor_hoe"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "HonorHoe",
+                "category": "equipment"
             },
             {
                 "threshold": 6151003,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/ender/ender_hoe"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "EnderHoe",
+                "category": "equipment"
             },
             {
                 "threshold": 6151004,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/blossom/blossom_hoe"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "BlossomHoe",
+                "category": "equipment"
             },
             {
                 "threshold": 6151005,
@@ -61,7 +86,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/crystal/crystal_hoe"
-                }
+                },
+                "owners": [
+                    "Apieboy"
+                ],
+                "name": "CrystalToolsHoe",
+                "category": "equipment"
             },
             {
                 "threshold": 7961302,

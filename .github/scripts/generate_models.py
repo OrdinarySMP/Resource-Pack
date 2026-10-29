@@ -104,6 +104,10 @@ def process_entry(entry, item_id, path):
     # Report them, but never add them to the registry automatically.
     has_metadata = bool(METADATA_FIELDS.intersection(entry.keys()))
 
+    # Vanilla reset thresholds delimit custom ranges; they are not registry models.
+    if not has_metadata and not has_custom_model(model_data):
+        return
+
     if not has_metadata:
         for field in ("owners", "name", "category"):
             audit[field].append(location)
@@ -183,6 +187,17 @@ def process_entry(entry, item_id, path):
         models[key] = model
 
 
+def has_custom_model(value):
+    if isinstance(value, dict):
+        model = value.get("model")
+        if isinstance(model, str) and not model.startswith("minecraft:") and ":" in model:
+            return True
+        return any(has_custom_model(child) for child in value.values())
+    if isinstance(value, list):
+        return any(has_custom_model(child) for child in value)
+    return False
+
+
 def strip_metadata(value):
     """
     Remove source-only metadata from range_dispatch entries.
@@ -251,19 +266,20 @@ def main():
         for entry in find_dispatches(data):
             process_entry(entry, item_id, path.relative_to(ROOT))
 
-    # Detect CustomModelData collisions between distinct registry models.
+    # CMD numbers are scoped to base items, not globally unique.
     threshold_owners = {}
     for (category, name), model in models.items():
         threshold = model["custom_model_data"]
-        previous = threshold_owners.get(threshold)
-
-        if previous is not None and previous != (category, name):
-            errors.append(
-                f"Duplicate CustomModelData {threshold}: "
-                f"{previous[0]}/{previous[1]} and {category}/{name}"
-            )
-        else:
-            threshold_owners[threshold] = (category, name)
+        for item_id in model["items"]:
+            key = (item_id, threshold)
+            previous = threshold_owners.get(key)
+            if previous is not None and previous != (category, name):
+                errors.append(
+                    f"Duplicate CustomModelData {threshold} for {item_id}: "
+                    f"{previous[0]}/{previous[1]} and {category}/{name}"
+                )
+            else:
+                threshold_owners[key] = (category, name)
 
     # Strip custom metadata from JSON files in the staged pack.
     # The original source assets remain untouched.

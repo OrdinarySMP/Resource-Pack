@@ -12,7 +12,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/cookie/cookie_netherite_axe"
-                }
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "CookieFrostfireToolAxe",
+                "category": "equipment"
             },
             {
                 "threshold": 5478002,
@@ -26,28 +31,48 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/honey/honey_axe"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "HoneyAxe",
+                "category": "equipment"
             },
             {
                 "threshold": 6151002,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/honor/honor_axe"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "HonorAxe",
+                "category": "equipment"
             },
             {
                 "threshold": 6151003,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/ender/ender_axe"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "EnderAxe",
+                "category": "equipment"
             },
             {
                 "threshold": 6151004,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/blossom/blossom_axe"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "BlossomAxe",
+                "category": "equipment"
             },
             {
                 "threshold": 6151005,
@@ -61,7 +86,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/crystal/crystal_axe"
-                }
+                },
+                "owners": [
+                    "Apieboy"
+                ],
+                "name": "CrystalToolsAxe",
+                "category": "equipment"
             },
             {
                 "threshold": 7961302,
@@ -75,7 +105,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/salat/salat_axe"
-                }
+                },
+                "owners": [
+                    "SalatGurke9440"
+                ],
+                "name": "SalatToolsAxe",
+                "category": "equipment"
             },
             {
                 "threshold": 1532702,

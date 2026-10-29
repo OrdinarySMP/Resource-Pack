@@ -12,7 +12,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/diamond_purple"
-                }
+                },
+                "owners": [
+                    "_Smooch_"
+                ],
+                "name": "PurpleDiamond",
+                "category": "diamond"
             },
             {
                 "threshold": 7133202,
@@ -21,6 +26,6 @@
                     "model": "minecraft:item/diamond"
                 }
             }
-		]
-	}
+        ]
+    }
 }

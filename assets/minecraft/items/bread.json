@@ -12,7 +12,14 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/garlic/bread"
-                }
+                },
+                "owners": [
+                    "PadBro",
+                    "MrCookiePrincess",
+                    "Garlicas"
+                ],
+                "name": "GarlicBread",
+                "category": "food"
             },
             {
                 "threshold": 7410802,

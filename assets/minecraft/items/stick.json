@@ -12,231 +12,396 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/abroflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "AbroFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042402,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/aceflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "AceFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042403,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/agenderflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "AgenderFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042404,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/aroaceflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "AroaceFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042405,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/aroflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "AroFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042406,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/bearflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "BearFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042407,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/biflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "BiFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042408,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/bigenderflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "BigenderFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042409,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/demiboyflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "DemiboyFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042410,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/demigirlflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "DemigirlFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042411,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/demiromanticflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "DemiromanticFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042412,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/demisexualflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "DemisexualFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042413,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/gayflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "GayFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042414,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/genderfluidflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "GenderfluidFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042415,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/genderqueerflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "GenderqueerFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042416,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/intersexflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "IntersexFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042417,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/labrysflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "LabrysFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042418,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/lesbianflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "LesbianFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042419,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/minecraftheartflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "MinecraftheartFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042420,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/nonbinaryflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "NonbinaryFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042421,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/omnisexualflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "OmnisexualFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042422,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/panflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "PanFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042423,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/pangenderflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "PangenderFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042424,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/polyamoryflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "PolyamoryFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042425,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/polysexualflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "PolysexualFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042426,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/prideflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "PrideFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042427,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/progressflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "ProgressFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042428,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/progressprideflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "ProgressprideFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042429,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/queerflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "QueerFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042430,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/rainbowflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "RainbowFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042431,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/simplifiedgayflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "SimplifiedgayFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042432,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/simplifiedlesbianflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "SimplifiedlesbianFlag",
+                "category": "flags"
             },
             {
                 "threshold": 4042433,
                 "model": {
                     "type": "model",
                     "model": "custom:item/flags/transflag"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "TransFlag",
+                "category": "flags"
             },
             {
                 "threshold": 40424434,

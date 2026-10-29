@@ -1,886 +1,719 @@
 {
-    "model":
-    {
+    "model": {
         "type": "range_dispatch",
         "property": "custom_model_data",
-        "fallback":
-        {
+        "fallback": {
             "type": "model",
             "model": "minecraft:item/enchanted_book"
         },
-        "entries":
-        [
+        "entries": [
             {
                 "threshold": 2846501,
-                "model":
-                {
+                "model": {
                     "type": "minecraft:condition",
                     "property": "minecraft:component",
                     "predicate": "minecraft:stored_enchantments",
-                    "value":
-                    [
+                    "value": [
                         {
                             "enchantments": "minecraft:wind_burst",
-                            "levels":
-                            {
+                            "levels": {
                                 "min": 1,
                                 "max": 3
                             }
                         }
                     ],
-                    "on_true":
-                    {
+                    "on_true": {
                         "type": "minecraft:model",
                         "model": "custom:item/enchanted_books/wind_burst"
                     },
-                    "on_false":
-                    {
+                    "on_false": {
                         "type": "minecraft:condition",
                         "property": "minecraft:component",
                         "predicate": "minecraft:stored_enchantments",
-                        "value":
-                        [
+                        "value": [
                             {
                                 "enchantments": "minecraft:vanishing_curse",
                                 "levels": 1
                             }
                         ],
-                        "on_true":
-                        {
+                        "on_true": {
                             "type": "minecraft:model",
                             "model": "custom:item/enchanted_books/vanishing_curse"
                         },
-                        "on_false":
-                        {
+                        "on_false": {
                             "type": "minecraft:condition",
                             "property": "minecraft:component",
                             "predicate": "minecraft:stored_enchantments",
-                            "value":
-                            [
+                            "value": [
                                 {
                                     "enchantments": "minecraft:breach",
-                                    "levels":
-                                    {
+                                    "levels": {
                                         "min": 1,
                                         "max": 4
                                     }
                                 }
                             ],
-                            "on_true":
-                            {
+                            "on_true": {
                                 "type": "minecraft:model",
                                 "model": "custom:item/enchanted_books/breach"
                             },
-                            "on_false":
-                            {
+                            "on_false": {
                                 "type": "minecraft:condition",
                                 "property": "minecraft:component",
                                 "predicate": "minecraft:stored_enchantments",
-                                "value":
-                                [
+                                "value": [
                                     {
                                         "enchantments": "minecraft:density",
-                                        "levels":
-                                        {
+                                        "levels": {
                                             "min": 1,
                                             "max": 5
                                         }
                                     }
                                 ],
-                                "on_true":
-                                {
+                                "on_true": {
                                     "type": "minecraft:model",
                                     "model": "custom:item/enchanted_books/density"
                                 },
-                                "on_false":
-                                {
+                                "on_false": {
                                     "type": "minecraft:condition",
                                     "property": "minecraft:component",
                                     "predicate": "minecraft:stored_enchantments",
-                                    "value":
-                                    [
+                                    "value": [
                                         {
                                             "enchantments": "minecraft:fortune",
-                                            "levels":
-                                            {
+                                            "levels": {
                                                 "min": 1,
                                                 "max": 3
                                             }
                                         }
                                     ],
-                                    "on_true":
-                                    {
+                                    "on_true": {
                                         "type": "minecraft:model",
                                         "model": "custom:item/enchanted_books/fortune"
                                     },
-                                    "on_false":
-                                    {
+                                    "on_false": {
                                         "type": "minecraft:condition",
                                         "property": "minecraft:component",
                                         "predicate": "minecraft:stored_enchantments",
-                                        "value":
-                                        [
+                                        "value": [
                                             {
                                                 "enchantments": "minecraft:silk_touch",
                                                 "levels": 1
                                             }
                                         ],
-                                        "on_true":
-                                        {
+                                        "on_true": {
                                             "type": "minecraft:model",
                                             "model": "custom:item/enchanted_books/silk_touch"
                                         },
-                                        "on_false":
-                                        {
+                                        "on_false": {
                                             "type": "minecraft:condition",
                                             "property": "minecraft:component",
                                             "predicate": "minecraft:stored_enchantments",
-                                            "value":
-                                            [
+                                            "value": [
                                                 {
                                                     "enchantments": "minecraft:efficiency",
-                                                    "levels":
-                                                    {
+                                                    "levels": {
                                                         "min": 1,
                                                         "max": 5
                                                     }
                                                 }
                                             ],
-                                            "on_true":
-                                            {
+                                            "on_true": {
                                                 "type": "minecraft:model",
                                                 "model": "custom:item/enchanted_books/efficiency"
                                             },
-                                            "on_false":
-                                            {
+                                            "on_false": {
                                                 "type": "minecraft:condition",
                                                 "property": "minecraft:component",
                                                 "predicate": "minecraft:stored_enchantments",
-                                                "value":
-                                                [
+                                                "value": [
                                                     {
                                                         "enchantments": "minecraft:infinity",
                                                         "levels": 1
                                                     }
                                                 ],
-                                                "on_true":
-                                                {
+                                                "on_true": {
                                                     "type": "minecraft:model",
                                                     "model": "custom:item/enchanted_books/infinity"
                                                 },
-                                                "on_false":
-                                                {
+                                                "on_false": {
                                                     "type": "minecraft:condition",
                                                     "property": "minecraft:component",
                                                     "predicate": "minecraft:stored_enchantments",
-                                                    "value":
-                                                    [
+                                                    "value": [
                                                         {
                                                             "enchantments": "minecraft:smite",
-                                                            "levels":
-                                                            {
+                                                            "levels": {
                                                                 "min": 1,
                                                                 "max": 5
                                                             }
                                                         }
                                                     ],
-                                                    "on_true":
-                                                    {
+                                                    "on_true": {
                                                         "type": "minecraft:model",
                                                         "model": "custom:item/enchanted_books/smite"
                                                     },
-                                                    "on_false":
-                                                    {
+                                                    "on_false": {
                                                         "type": "minecraft:condition",
                                                         "property": "minecraft:component",
                                                         "predicate": "minecraft:stored_enchantments",
-                                                        "value":
-                                                        [
+                                                        "value": [
                                                             {
                                                                 "enchantments": "minecraft:fire_aspect",
-                                                                "levels":
-                                                                {
+                                                                "levels": {
                                                                     "min": 1,
                                                                     "max": 2
                                                                 }
                                                             }
                                                         ],
-                                                        "on_true":
-                                                        {
+                                                        "on_true": {
                                                             "type": "minecraft:model",
                                                             "model": "custom:item/enchanted_books/fire_aspect"
                                                         },
-                                                        "on_false":
-                                                        {
+                                                        "on_false": {
                                                             "type": "minecraft:condition",
                                                             "property": "minecraft:component",
                                                             "predicate": "minecraft:stored_enchantments",
-                                                            "value":
-                                                            [
+                                                            "value": [
                                                                 {
                                                                     "enchantments": "minecraft:aqua_affinity",
                                                                     "levels": 1
                                                                 }
                                                             ],
-                                                            "on_true":
-                                                            {
+                                                            "on_true": {
                                                                 "type": "minecraft:model",
                                                                 "model": "custom:item/enchanted_books/aqua_affinity"
                                                             },
-                                                            "on_false":
-                                                            {
+                                                            "on_false": {
                                                                 "type": "minecraft:condition",
                                                                 "property": "minecraft:component",
                                                                 "predicate": "minecraft:stored_enchantments",
-                                                                "value":
-                                                                [
+                                                                "value": [
                                                                     {
                                                                         "enchantments": "minecraft:lunge",
-                                                                        "levels":
-                                                                        {
+                                                                        "levels": {
                                                                             "min": 1,
                                                                             "max": 3
                                                                         }
                                                                     }
                                                                 ],
-                                                                "on_true":
-                                                                {
+                                                                "on_true": {
                                                                     "type": "minecraft:model",
                                                                     "model": "custom:item/enchanted_books/lunge"
                                                                 },
-                                                                "on_false":
-                                                                {
+                                                                "on_false": {
                                                                     "type": "minecraft:condition",
                                                                     "property": "minecraft:component",
                                                                     "predicate": "minecraft:stored_enchantments",
-                                                                    "value":
-                                                                    [
+                                                                    "value": [
                                                                         {
                                                                             "enchantments": "minecraft:sharpness",
-                                                                            "levels":
-                                                                            {
+                                                                            "levels": {
                                                                                 "min": 1,
                                                                                 "max": 5
                                                                             }
                                                                         }
                                                                     ],
-                                                                    "on_true":
-                                                                    {
+                                                                    "on_true": {
                                                                         "type": "minecraft:model",
                                                                         "model": "custom:item/enchanted_books/sharpness"
                                                                     },
-                                                                    "on_false":
-                                                                    {
+                                                                    "on_false": {
                                                                         "type": "minecraft:condition",
                                                                         "property": "minecraft:component",
                                                                         "predicate": "minecraft:stored_enchantments",
-                                                                        "value":
-                                                                        [
+                                                                        "value": [
                                                                             {
                                                                                 "enchantments": "minecraft:knockback",
-                                                                                "levels":
-                                                                                {
+                                                                                "levels": {
                                                                                     "min": 1,
                                                                                     "max": 2
                                                                                 }
                                                                             }
                                                                         ],
-                                                                        "on_true":
-                                                                        {
+                                                                        "on_true": {
                                                                             "type": "minecraft:model",
                                                                             "model": "custom:item/enchanted_books/knockback"
                                                                         },
-                                                                        "on_false":
-                                                                        {
+                                                                        "on_false": {
                                                                             "type": "minecraft:condition",
                                                                             "property": "minecraft:component",
                                                                             "predicate": "minecraft:stored_enchantments",
-                                                                            "value":
-                                                                            [
+                                                                            "value": [
                                                                                 {
                                                                                     "enchantments": "minecraft:channeling",
                                                                                     "levels": 1
                                                                                 }
                                                                             ],
-                                                                            "on_true":
-                                                                            {
+                                                                            "on_true": {
                                                                                 "type": "minecraft:model",
                                                                                 "model": "custom:item/enchanted_books/channeling"
                                                                             },
-                                                                            "on_false":
-                                                                            {
+                                                                            "on_false": {
                                                                                 "type": "minecraft:condition",
                                                                                 "property": "minecraft:component",
                                                                                 "predicate": "minecraft:stored_enchantments",
-                                                                                "value":
-                                                                                [
+                                                                                "value": [
                                                                                     {
                                                                                         "enchantments": "minecraft:flame",
                                                                                         "levels": 1
                                                                                     }
                                                                                 ],
-                                                                                "on_true":
-                                                                                {
+                                                                                "on_true": {
                                                                                     "type": "minecraft:model",
                                                                                     "model": "custom:item/enchanted_books/flame"
                                                                                 },
-                                                                                "on_false":
-                                                                                {
+                                                                                "on_false": {
                                                                                     "type": "minecraft:condition",
                                                                                     "property": "minecraft:component",
                                                                                     "predicate": "minecraft:stored_enchantments",
-                                                                                    "value":
-                                                                                    [
+                                                                                    "value": [
                                                                                         {
                                                                                             "enchantments": "minecraft:punch",
-                                                                                            "levels":
-                                                                                            {
+                                                                                            "levels": {
                                                                                                 "min": 1,
                                                                                                 "max": 2
                                                                                             }
                                                                                         }
                                                                                     ],
-                                                                                    "on_true":
-                                                                                    {
+                                                                                    "on_true": {
                                                                                         "type": "minecraft:model",
                                                                                         "model": "custom:item/enchanted_books/punch"
                                                                                     },
-                                                                                    "on_false":
-                                                                                    {
+                                                                                    "on_false": {
                                                                                         "type": "minecraft:condition",
                                                                                         "property": "minecraft:component",
                                                                                         "predicate": "minecraft:stored_enchantments",
-                                                                                        "value":
-                                                                                        [
+                                                                                        "value": [
                                                                                             {
                                                                                                 "enchantments": "minecraft:power",
-                                                                                                "levels":
-                                                                                                {
+                                                                                                "levels": {
                                                                                                     "min": 1,
                                                                                                     "max": 5
                                                                                                 }
                                                                                             }
                                                                                         ],
-                                                                                        "on_true":
-                                                                                        {
+                                                                                        "on_true": {
                                                                                             "type": "minecraft:model",
                                                                                             "model": "custom:item/enchanted_books/power"
                                                                                         },
-                                                                                        "on_false":
-                                                                                        {
+                                                                                        "on_false": {
                                                                                             "type": "minecraft:condition",
                                                                                             "property": "minecraft:component",
                                                                                             "predicate": "minecraft:stored_enchantments",
-                                                                                            "value":
-                                                                                            [
+                                                                                            "value": [
                                                                                                 {
                                                                                                     "enchantments": "minecraft:riptide",
-                                                                                                    "levels":
-                                                                                                    {
+                                                                                                    "levels": {
                                                                                                         "min": 1,
                                                                                                         "max": 3
                                                                                                     }
                                                                                                 }
                                                                                             ],
-                                                                                            "on_true":
-                                                                                            {
+                                                                                            "on_true": {
                                                                                                 "type": "minecraft:model",
                                                                                                 "model": "custom:item/enchanted_books/riptide"
                                                                                             },
-                                                                                            "on_false":
-                                                                                            {
+                                                                                            "on_false": {
                                                                                                 "type": "minecraft:condition",
                                                                                                 "property": "minecraft:component",
                                                                                                 "predicate": "minecraft:stored_enchantments",
-                                                                                                "value":
-                                                                                                [
+                                                                                                "value": [
                                                                                                     {
                                                                                                         "enchantments": "minecraft:loyalty",
-                                                                                                        "levels":
-                                                                                                        {
+                                                                                                        "levels": {
                                                                                                             "min": 1,
                                                                                                             "max": 3
                                                                                                         }
                                                                                                     }
                                                                                                 ],
-                                                                                                "on_true":
-                                                                                                {
+                                                                                                "on_true": {
                                                                                                     "type": "minecraft:model",
                                                                                                     "model": "custom:item/enchanted_books/loyalty"
                                                                                                 },
-                                                                                                "on_false":
-                                                                                                {
+                                                                                                "on_false": {
                                                                                                     "type": "minecraft:condition",
                                                                                                     "property": "minecraft:component",
                                                                                                     "predicate": "minecraft:stored_enchantments",
-                                                                                                    "value":
-                                                                                                    [
+                                                                                                    "value": [
                                                                                                         {
                                                                                                             "enchantments": "minecraft:impaling",
-                                                                                                            "levels":
-                                                                                                            {
+                                                                                                            "levels": {
                                                                                                                 "min": 1,
                                                                                                                 "max": 5
                                                                                                             }
                                                                                                         }
                                                                                                     ],
-                                                                                                    "on_true":
-                                                                                                    {
+                                                                                                    "on_true": {
                                                                                                         "type": "minecraft:model",
                                                                                                         "model": "custom:item/enchanted_books/impaling"
                                                                                                     },
-                                                                                                    "on_false":
-                                                                                                    {
+                                                                                                    "on_false": {
                                                                                                         "type": "minecraft:condition",
                                                                                                         "property": "minecraft:component",
                                                                                                         "predicate": "minecraft:stored_enchantments",
-                                                                                                        "value":
-                                                                                                        [
+                                                                                                        "value": [
                                                                                                             {
                                                                                                                 "enchantments": "minecraft:looting",
-                                                                                                                "levels":
-                                                                                                                {
+                                                                                                                "levels": {
                                                                                                                     "min": 1,
                                                                                                                     "max": 3
                                                                                                                 }
                                                                                                             }
                                                                                                         ],
-                                                                                                        "on_true":
-                                                                                                        {
+                                                                                                        "on_true": {
                                                                                                             "type": "minecraft:model",
                                                                                                             "model": "custom:item/enchanted_books/looting"
                                                                                                         },
-                                                                                                        "on_false":
-                                                                                                        {
+                                                                                                        "on_false": {
                                                                                                             "type": "minecraft:condition",
                                                                                                             "property": "minecraft:component",
                                                                                                             "predicate": "minecraft:stored_enchantments",
-                                                                                                            "value":
-                                                                                                            [
+                                                                                                            "value": [
                                                                                                                 {
                                                                                                                     "enchantments": "minecraft:sweeping_edge",
-                                                                                                                    "levels":
-                                                                                                                    {
+                                                                                                                    "levels": {
                                                                                                                         "min": 1,
                                                                                                                         "max": 3
                                                                                                                     }
                                                                                                                 }
                                                                                                             ],
-                                                                                                            "on_true":
-                                                                                                            {
+                                                                                                            "on_true": {
                                                                                                                 "type": "minecraft:model",
                                                                                                                 "model": "custom:item/enchanted_books/sweeping_edge"
                                                                                                             },
-                                                                                                            "on_false":
-                                                                                                            {
+                                                                                                            "on_false": {
                                                                                                                 "type": "minecraft:condition",
                                                                                                                 "property": "minecraft:component",
                                                                                                                 "predicate": "minecraft:stored_enchantments",
-                                                                                                                "value":
-                                                                                                                [
+                                                                                                                "value": [
                                                                                                                     {
                                                                                                                         "enchantments": "minecraft:binding_curse",
                                                                                                                         "levels": 1
                                                                                                                     }
                                                                                                                 ],
-                                                                                                                "on_true":
-                                                                                                                {
+                                                                                                                "on_true": {
                                                                                                                     "type": "minecraft:model",
                                                                                                                     "model": "custom:item/enchanted_books/binding_curse"
                                                                                                                 },
-                                                                                                                "on_false":
-                                                                                                                {
+                                                                                                                "on_false": {
                                                                                                                     "type": "minecraft:condition",
                                                                                                                     "property": "minecraft:component",
                                                                                                                     "predicate": "minecraft:stored_enchantments",
-                                                                                                                    "value":
-                                                                                                                    [
+                                                                                                                    "value": [
                                                                                                                         {
                                                                                                                             "enchantments": "minecraft:respiration",
-                                                                                                                            "levels":
-                                                                                                                            {
+                                                                                                                            "levels": {
                                                                                                                                 "min": 1,
                                                                                                                                 "max": 3
                                                                                                                             }
                                                                                                                         }
                                                                                                                     ],
-                                                                                                                    "on_true":
-                                                                                                                    {
+                                                                                                                    "on_true": {
                                                                                                                         "type": "minecraft:model",
                                                                                                                         "model": "custom:item/enchanted_books/respiration"
                                                                                                                     },
-                                                                                                                    "on_false":
-                                                                                                                    {
+                                                                                                                    "on_false": {
                                                                                                                         "type": "minecraft:condition",
                                                                                                                         "property": "minecraft:component",
                                                                                                                         "predicate": "minecraft:stored_enchantments",
-                                                                                                                        "value":
-                                                                                                                        [
+                                                                                                                        "value": [
                                                                                                                             {
                                                                                                                                 "enchantments": "minecraft:mending",
                                                                                                                                 "levels": 1
                                                                                                                             }
                                                                                                                         ],
-                                                                                                                        "on_true":
-                                                                                                                        {
+                                                                                                                        "on_true": {
                                                                                                                             "type": "minecraft:model",
                                                                                                                             "model": "custom:item/enchanted_books/mending"
                                                                                                                         },
-                                                                                                                        "on_false":
-                                                                                                                        {
+                                                                                                                        "on_false": {
                                                                                                                             "type": "minecraft:condition",
                                                                                                                             "property": "minecraft:component",
                                                                                                                             "predicate": "minecraft:stored_enchantments",
-                                                                                                                            "value":
-                                                                                                                            [
+                                                                                                                            "value": [
                                                                                                                                 {
                                                                                                                                     "enchantments": "minecraft:frost_walker",
-                                                                                                                                    "levels":
-                                                                                                                                    {
+                                                                                                                                    "levels": {
                                                                                                                                         "min": 1,
                                                                                                                                         "max": 2
                                                                                                                                     }
                                                                                                                                 }
                                                                                                                             ],
-                                                                                                                            "on_true":
-                                                                                                                            {
+                                                                                                                            "on_true": {
                                                                                                                                 "type": "minecraft:model",
                                                                                                                                 "model": "custom:item/enchanted_books/frost_walker"
                                                                                                                             },
-                                                                                                                            "on_false":
-                                                                                                                            {
+                                                                                                                            "on_false": {
                                                                                                                                 "type": "minecraft:condition",
                                                                                                                                 "property": "minecraft:component",
                                                                                                                                 "predicate": "minecraft:stored_enchantments",
-                                                                                                                                "value":
-                                                                                                                                [
+                                                                                                                                "value": [
                                                                                                                                     {
                                                                                                                                         "enchantments": "minecraft:depth_strider",
-                                                                                                                                        "levels":
-                                                                                                                                        {
+                                                                                                                                        "levels": {
                                                                                                                                             "min": 1,
                                                                                                                                             "max": 3
                                                                                                                                         }
                                                                                                                                     }
                                                                                                                                 ],
-                                                                                                                                "on_true":
-                                                                                                                                {
+                                                                                                                                "on_true": {
                                                                                                                                     "type": "minecraft:model",
                                                                                                                                     "model": "custom:item/enchanted_books/depth_strider"
                                                                                                                                 },
-                                                                                                                                "on_false":
-                                                                                                                                {
+                                                                                                                                "on_false": {
                                                                                                                                     "type": "minecraft:condition",
                                                                                                                                     "property": "minecraft:component",
                                                                                                                                     "predicate": "minecraft:stored_enchantments",
-                                                                                                                                    "value":
-                                                                                                                                    [
+                                                                                                                                    "value": [
                                                                                                                                         {
                                                                                                                                             "enchantments": "minecraft:thorns",
-                                                                                                                                            "levels":
-                                                                                                                                            {
+                                                                                                                                            "levels": {
                                                                                                                                                 "min": 1,
                                                                                                                                                 "max": 3
                                                                                                                                             }
                                                                                                                                         }
                                                                                                                                     ],
-                                                                                                                                    "on_true":
-                                                                                                                                    {
+                                                                                                                                    "on_true": {
                                                                                                                                         "type": "minecraft:model",
                                                                                                                                         "model": "custom:item/enchanted_books/thorns"
                                                                                                                                     },
-                                                                                                                                    "on_false":
-                                                                                                                                    {
+                                                                                                                                    "on_false": {
                                                                                                                                         "type": "minecraft:condition",
                                                                                                                                         "property": "minecraft:component",
                                                                                                                                         "predicate": "minecraft:stored_enchantments",
-                                                                                                                                        "value":
-                                                                                                                                        [
+                                                                                                                                        "value": [
                                                                                                                                             {
                                                                                                                                                 "enchantments": "minecraft:swift_sneak",
-                                                                                                                                                "levels":
-                                                                                                                                                {
+                                                                                                                                                "levels": {
                                                                                                                                                     "min": 1,
                                                                                                                                                     "max": 3
                                                                                                                                                 }
                                                                                                                                             }
                                                                                                                                         ],
-                                                                                                                                        "on_true":
-                                                                                                                                        {
+                                                                                                                                        "on_true": {
                                                                                                                                             "type": "minecraft:model",
                                                                                                                                             "model": "custom:item/enchanted_books/swift_sneak"
                                                                                                                                         },
-                                                                                                                                        "on_false":
-                                                                                                                                        {
+                                                                                                                                        "on_false": {
                                                                                                                                             "type": "minecraft:condition",
                                                                                                                                             "property": "minecraft:component",
                                                                                                                                             "predicate": "minecraft:stored_enchantments",
-                                                                                                                                            "value":
-                                                                                                                                            [
+                                                                                                                                            "value": [
                                                                                                                                                 {
                                                                                                                                                     "enchantments": "minecraft:fire_protection",
-                                                                                                                                                    "levels":
-                                                                                                                                                    {
+                                                                                                                                                    "levels": {
                                                                                                                                                         "min": 1,
                                                                                                                                                         "max": 4
                                                                                                                                                     }
                                                                                                                                                 }
                                                                                                                                             ],
-                                                                                                                                            "on_true":
-                                                                                                                                            {
+                                                                                                                                            "on_true": {
                                                                                                                                                 "type": "minecraft:model",
                                                                                                                                                 "model": "custom:item/enchanted_books/fire_protection"
                                                                                                                                             },
-                                                                                                                                            "on_false":
-                                                                                                                                            {
+                                                                                                                                            "on_false": {
                                                                                                                                                 "type": "minecraft:condition",
                                                                                                                                                 "property": "minecraft:component",
                                                                                                                                                 "predicate": "minecraft:stored_enchantments",
-                                                                                                                                                "value":
-                                                                                                                                                [
+                                                                                                                                                "value": [
                                                                                                                                                     {
                                                                                                                                                         "enchantments": "minecraft:blast_protection",
-                                                                                                                                                        "levels":
-                                                                                                                                                        {
+                                                                                                                                                        "levels": {
                                                                                                                                                             "min": 1,
                                                                                                                                                             "max": 4
                                                                                                                                                         }
                                                                                                                                                     }
                                                                                                                                                 ],
-                                                                                                                                                "on_true":
-                                                                                                                                                {
+                                                                                                                                                "on_true": {
                                                                                                                                                     "type": "minecraft:model",
                                                                                                                                                     "model": "custom:item/enchanted_books/blast_protection"
                                                                                                                                                 },
-                                                                                                                                                "on_false":
-                                                                                                                                                {
+                                                                                                                                                "on_false": {
                                                                                                                                                     "type": "minecraft:condition",
                                                                                                                                                     "property": "minecraft:component",
                                                                                                                                                     "predicate": "minecraft:stored_enchantments",
-                                                                                                                                                    "value":
-                                                                                                                                                    [
+                                                                                                                                                    "value": [
                                                                                                                                                         {
                                                                                                                                                             "enchantments": "minecraft:soul_speed",
-                                                                                                                                                            "levels":
-                                                                                                                                                            {
+                                                                                                                                                            "levels": {
                                                                                                                                                                 "min": 1,
                                                                                                                                                                 "max": 3
                                                                                                                                                             }
                                                                                                                                                         }
                                                                                                                                                     ],
-                                                                                                                                                    "on_true":
-                                                                                                                                                    {
+                                                                                                                                                    "on_true": {
                                                                                                                                                         "type": "minecraft:model",
                                                                                                                                                         "model": "custom:item/enchanted_books/soul_speed"
                                                                                                                                                     },
-                                                                                                                                                    "on_false":
-                                                                                                                                                    {
+                                                                                                                                                    "on_false": {
                                                                                                                                                         "type": "minecraft:condition",
                                                                                                                                                         "property": "minecraft:component",
                                                                                                                                                         "predicate": "minecraft:stored_enchantments",
-                                                                                                                                                        "value":
-                                                                                                                                                        [
+                                                                                                                                                        "value": [
                                                                                                                                                             {
                                                                                                                                                                 "enchantments": "minecraft:feather_falling",
-                                                                                                                                                                "levels":
-                                                                                                                                                                {
+                                                                                                                                                                "levels": {
                                                                                                                                                                     "min": 1,
                                                                                                                                                                     "max": 4
                                                                                                                                                                 }
                                                                                                                                                             }
                                                                                                                                                         ],
-                                                                                                                                                        "on_true":
-                                                                                                                                                        {
+                                                                                                                                                        "on_true": {
                                                                                                                                                             "type": "minecraft:model",
                                                                                                                                                             "model": "custom:item/enchanted_books/feather_falling"
                                                                                                                                                         },
-                                                                                                                                                        "on_false":
-                                                                                                                                                        {
+                                                                                                                                                        "on_false": {
                                                                                                                                                             "type": "minecraft:condition",
                                                                                                                                                             "property": "minecraft:component",
                                                                                                                                                             "predicate": "minecraft:stored_enchantments",
-                                                                                                                                                            "value":
-                                                                                                                                                            [
+                                                                                                                                                            "value": [
                                                                                                                                                                 {
                                                                                                                                                                     "enchantments": "minecraft:projectile_protection",
-                                                                                                                                                                    "levels":
-                                                                                                                                                                    {
+                                                                                                                                                                    "levels": {
                                                                                                                                                                         "min": 1,
                                                                                                                                                                         "max": 4
                                                                                                                                                                     }
                                                                                                                                                                 }
                                                                                                                                                             ],
-                                                                                                                                                            "on_true":
-                                                                                                                                                            {
+                                                                                                                                                            "on_true": {
                                                                                                                                                                 "type": "minecraft:model",
                                                                                                                                                                 "model": "custom:item/enchanted_books/projectile_protection"
                                                                                                                                                             },
-                                                                                                                                                            "on_false":
-                                                                                                                                                            {
+                                                                                                                                                            "on_false": {
                                                                                                                                                                 "type": "minecraft:condition",
                                                                                                                                                                 "property": "minecraft:component",
                                                                                                                                                                 "predicate": "minecraft:stored_enchantments",
-                                                                                                                                                                "value":
-                                                                                                                                                                [
+                                                                                                                                                                "value": [
                                                                                                                                                                     {
                                                                                                                                                                         "enchantments": "minecraft:protection",
-                                                                                                                                                                        "levels":
-                                                                                                                                                                        {
+                                                                                                                                                                        "levels": {
                                                                                                                                                                             "min": 1,
                                                                                                                                                                             "max": 4
                                                                                                                                                                         }
                                                                                                                                                                     }
                                                                                                                                                                 ],
-                                                                                                                                                                "on_true":
-                                                                                                                                                                {
+                                                                                                                                                                "on_true": {
                                                                                                                                                                     "type": "minecraft:model",
                                                                                                                                                                     "model": "custom:item/enchanted_books/protection"
                                                                                                                                                                 },
-                                                                                                                                                                "on_false":
-                                                                                                                                                                {
+                                                                                                                                                                "on_false": {
                                                                                                                                                                     "type": "minecraft:condition",
                                                                                                                                                                     "property": "minecraft:component",
                                                                                                                                                                     "predicate": "minecraft:stored_enchantments",
-                                                                                                                                                                    "value":
-                                                                                                                                                                    [
+                                                                                                                                                                    "value": [
                                                                                                                                                                         {
                                                                                                                                                                             "enchantments": "minecraft:bane_of_arthropods",
-                                                                                                                                                                            "levels":
-                                                                                                                                                                            {
+                                                                                                                                                                            "levels": {
                                                                                                                                                                                 "min": 1,
                                                                                                                                                                                 "max": 5
                                                                                                                                                                             }
                                                                                                                                                                         }
                                                                                                                                                                     ],
-                                                                                                                                                                    "on_true":
-                                                                                                                                                                    {
+                                                                                                                                                                    "on_true": {
                                                                                                                                                                         "type": "minecraft:model",
                                                                                                                                                                         "model": "custom:item/enchanted_books/bane_of_arthropods"
                                                                                                                                                                     },
-                                                                                                                                                                    "on_false":
-                                                                                                                                                                    {
+                                                                                                                                                                    "on_false": {
                                                                                                                                                                         "type": "minecraft:condition",
                                                                                                                                                                         "property": "minecraft:component",
                                                                                                                                                                         "predicate": "minecraft:stored_enchantments",
-                                                                                                                                                                        "value":
-                                                                                                                                                                        [
+                                                                                                                                                                        "value": [
                                                                                                                                                                             {
                                                                                                                                                                                 "enchantments": "minecraft:multishot",
                                                                                                                                                                                 "levels": 1
                                                                                                                                                                             }
                                                                                                                                                                         ],
-                                                                                                                                                                        "on_true":
-                                                                                                                                                                        {
+                                                                                                                                                                        "on_true": {
                                                                                                                                                                             "type": "minecraft:model",
                                                                                                                                                                             "model": "custom:item/enchanted_books/multishot"
                                                                                                                                                                         },
-                                                                                                                                                                        "on_false":
-                                                                                                                                                                        {
+                                                                                                                                                                        "on_false": {
                                                                                                                                                                             "type": "minecraft:condition",
                                                                                                                                                                             "property": "minecraft:component",
                                                                                                                                                                             "predicate": "minecraft:stored_enchantments",
-                                                                                                                                                                            "value":
-                                                                                                                                                                            [
+                                                                                                                                                                            "value": [
                                                                                                                                                                                 {
                                                                                                                                                                                     "enchantments": "minecraft:piercing",
-                                                                                                                                                                                    "levels":
-                                                                                                                                                                                    {
+                                                                                                                                                                                    "levels": {
                                                                                                                                                                                         "min": 1,
                                                                                                                                                                                         "max": 4
                                                                                                                                                                                     }
                                                                                                                                                                                 }
                                                                                                                                                                             ],
-                                                                                                                                                                            "on_true":
-                                                                                                                                                                            {
+                                                                                                                                                                            "on_true": {
                                                                                                                                                                                 "type": "minecraft:model",
                                                                                                                                                                                 "model": "custom:item/enchanted_books/piercing"
                                                                                                                                                                             },
-                                                                                                                                                                            "on_false":
-                                                                                                                                                                            {
+                                                                                                                                                                            "on_false": {
                                                                                                                                                                                 "type": "minecraft:condition",
                                                                                                                                                                                 "property": "minecraft:component",
                                                                                                                                                                                 "predicate": "minecraft:stored_enchantments",
-                                                                                                                                                                                "value":
-                                                                                                                                                                                [
+                                                                                                                                                                                "value": [
                                                                                                                                                                                     {
                                                                                                                                                                                         "enchantments": "minecraft:quick_charge",
-                                                                                                                                                                                        "levels":
-                                                                                                                                                                                        {
+                                                                                                                                                                                        "levels": {
                                                                                                                                                                                             "min": 1,
                                                                                                                                                                                             "max": 3
                                                                                                                                                                                         }
                                                                                                                                                                                     }
                                                                                                                                                                                 ],
-                                                                                                                                                                                "on_true":
-                                                                                                                                                                                {
+                                                                                                                                                                                "on_true": {
                                                                                                                                                                                     "type": "minecraft:model",
                                                                                                                                                                                     "model": "custom:item/enchanted_books/quick_charge"
                                                                                                                                                                                 },
-                                                                                                                                                                                "on_false":
-                                                                                                                                                                                {
+                                                                                                                                                                                "on_false": {
                                                                                                                                                                                     "type": "minecraft:condition",
                                                                                                                                                                                     "property": "minecraft:component",
                                                                                                                                                                                     "predicate": "minecraft:stored_enchantments",
-                                                                                                                                                                                    "value":
-                                                                                                                                                                                    [
+                                                                                                                                                                                    "value": [
                                                                                                                                                                                         {
                                                                                                                                                                                             "enchantments": "minecraft:lure",
-                                                                                                                                                                                            "levels":
-                                                                                                                                                                                            {
+                                                                                                                                                                                            "levels": {
                                                                                                                                                                                                 "min": 1,
                                                                                                                                                                                                 "max": 3
                                                                                                                                                                                             }
                                                                                                                                                                                         }
                                                                                                                                                                                     ],
-                                                                                                                                                                                    "on_true":
-                                                                                                                                                                                    {
+                                                                                                                                                                                    "on_true": {
                                                                                                                                                                                         "type": "minecraft:model",
                                                                                                                                                                                         "model": "custom:item/enchanted_books/lure"
                                                                                                                                                                                     },
-                                                                                                                                                                                    "on_false":
-                                                                                                                                                                                    {
+                                                                                                                                                                                    "on_false": {
                                                                                                                                                                                         "type": "minecraft:condition",
                                                                                                                                                                                         "property": "minecraft:component",
                                                                                                                                                                                         "predicate": "minecraft:stored_enchantments",
-                                                                                                                                                                                        "value":
-                                                                                                                                                                                        [
+                                                                                                                                                                                        "value": [
                                                                                                                                                                                             {
                                                                                                                                                                                                 "enchantments": "minecraft:luck_of_the_sea",
-                                                                                                                                                                                                "levels":
-                                                                                                                                                                                                {
+                                                                                                                                                                                                "levels": {
                                                                                                                                                                                                     "min": 1,
                                                                                                                                                                                                     "max": 3
                                                                                                                                                                                                 }
                                                                                                                                                                                             }
                                                                                                                                                                                         ],
-                                                                                                                                                                                        "on_true":
-                                                                                                                                                                                        {
+                                                                                                                                                                                        "on_true": {
                                                                                                                                                                                             "type": "minecraft:model",
                                                                                                                                                                                             "model": "custom:item/enchanted_books/luck_of_the_sea"
                                                                                                                                                                                         },
-                                                                                                                                                                                        "on_false":
-                                                                                                                                                                                        {
+                                                                                                                                                                                        "on_false": {
                                                                                                                                                                                             "type": "minecraft:condition",
                                                                                                                                                                                             "property": "minecraft:component",
                                                                                                                                                                                             "predicate": "minecraft:stored_enchantments",
-                                                                                                                                                                                            "value":
-                                                                                                                                                                                            [
+                                                                                                                                                                                            "value": [
                                                                                                                                                                                                 {
                                                                                                                                                                                                     "enchantments": "minecraft:unbreaking",
-                                                                                                                                                                                                    "levels":
-                                                                                                                                                                                                    {
+                                                                                                                                                                                                    "levels": {
                                                                                                                                                                                                         "min": 1,
                                                                                                                                                                                                         "max": 3
                                                                                                                                                                                                     }
                                                                                                                                                                                                 }
                                                                                                                                                                                             ],
-                                                                                                                                                                                            "on_true":
-                                                                                                                                                                                            {
+                                                                                                                                                                                            "on_true": {
                                                                                                                                                                                                 "type": "minecraft:model",
                                                                                                                                                                                                 "model": "custom:item/enchanted_books/unbreaking"
                                                                                                                                                                                             },
-                                                                                                                                                                                            "on_false":
-                                                                                                                                                                                            {
+                                                                                                                                                                                            "on_false": {
                                                                                                                                                                                                 "type": "minecraft:model",
                                                                                                                                                                                                 "model": "minecraft:item/enchanted_book"
                                                                                                                                                                                             }
@@ -926,7 +759,12 @@
                             }
                         }
                     }
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "EnchantedBooksReCovered",
+                "category": "enchantedbooks"
             },
             {
                 "threshold": 2846502,

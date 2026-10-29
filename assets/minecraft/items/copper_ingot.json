@@ -12,7 +12,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/turquoise_copper"
-                }
+                },
+                "owners": [
+                    "Dylam19"
+                ],
+                "name": "TurquoiseCopper",
+                "category": "copperingot"
             },
             {
                 "threshold": 3596602,
@@ -21,6 +26,6 @@
                     "model": "minecraft:item/copper_ingot"
                 }
             }
-		]
-	}
+        ]
+    }
 }

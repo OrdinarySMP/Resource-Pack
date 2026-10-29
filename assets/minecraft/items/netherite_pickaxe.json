@@ -12,9 +12,14 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/cookie/cookie_netherite_pickaxe"
-                }
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "CookieFrostfireToolPickaxe",
+                "category": "equipment"
             },
-			{
+            {
                 "threshold": 5478002,
                 "model": {
                     "type": "model",
@@ -26,28 +31,48 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/honey/honey_pickaxe"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "HoneyPickaxe",
+                "category": "equipment"
             },
             {
                 "threshold": 6151002,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/honor/honor_pickaxe"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "HonorPickaxe",
+                "category": "equipment"
             },
             {
                 "threshold": 6151003,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/ender/ender_pickaxe"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "EnderPickaxe",
+                "category": "equipment"
             },
             {
                 "threshold": 6151004,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/blossom/blossom_pickaxe"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "BlossomPickaxe",
+                "category": "equipment"
             },
             {
                 "threshold": 6151005,
@@ -61,7 +86,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/crystal/crystal_pickaxe"
-                }
+                },
+                "owners": [
+                    "Apieboy"
+                ],
+                "name": "CrystalToolsPickaxe",
+                "category": "equipment"
             },
             {
                 "threshold": 7961302,
@@ -75,7 +105,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/dylan_pickaxe"
-                }
+                },
+                "owners": [
+                    "dylanbr19"
+                ],
+                "name": "DylanPickaxe",
+                "category": "equipment"
             },
             {
                 "threshold": 2245502,
@@ -89,7 +124,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/salat/salat_pickaxe"
-                }
+                },
+                "owners": [
+                    "SalatGurke9440"
+                ],
+                "name": "SalatToolsPickaxe",
+                "category": "equipment"
             },
             {
                 "threshold": 1532702,
