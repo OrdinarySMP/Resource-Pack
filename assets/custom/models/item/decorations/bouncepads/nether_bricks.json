@@ -1,6 +1,0 @@
-{
-    "parent": "custom:item/decorations/bouncepads/oxidized_copper",
-    "textures": {
-        "2": "custom:item/decorations/bouncepads/nether_bricks"
-    }
-}

@@ -7,11 +7,11 @@ sidecars. Minecraft item definitions stay in `assets/minecraft/items/`.
 ```text
 block/
   filters/
+  hats/                   # carved-pumpkin hats, grouped by collection
+  accessories/            # carved-pumpkin accessories
+  bouncepads/             # carved-pumpkin bouncepad targets
 item/
   cosmetics/
-    hats/                 # astronaut, cat_ears, christmas, mushroom,
-                          # pirate, star_wars, wizard, laurels, bottlers
-    accessories/
     wings/
   equipment/
     sets/                 # blossom, cookie, crystal, ender, honey, honor,
@@ -38,7 +38,6 @@ item/
     flowers/
     plushies/
     trophies/
-    bouncepads/
     effects/
       blood/
       runes/
@@ -72,6 +71,17 @@ Model and texture filenames can differ when a model uses multiple layers or
 shares a texture. Their references remain explicit in each JSON file. Move
 animation sidecars with their texture and update model, parent, and texture
 identifiers whenever an asset moves.
+
+Carved-pumpkin model JSON files and textures live under matching `block/hats/`,
+`block/accessories/`, and `block/bouncepads/` paths, alongside the filters.
+Their textures must use the block atlas because the carved-pumpkin item
+definition also renders the vanilla pumpkin fallback. Since Minecraft 1.21.11,
+textures from the item and block atlases cannot be mixed within an item model.
+Moving model JSON files alone does not change which atlas their textures use.
+
+Models with explicit elements should define a `particle` texture using a valid
+local texture variable, such as `"particle": "#0"`. Do not leave face textures
+pointing at undefined variables such as `#missing`.
 
 Ownership, registry names, categories, and CMD numbers belong to the item-entry
 metadata; moving an asset does not change them. See

@@ -1,0 +1,400 @@
+{
+    "format_version": "1.21.11",
+    "credit": "Made with Blockbench",
+    "texture_size": [
+        32,
+        32
+    ],
+    "textures": {
+        "1": "custom:block/hats/laurels/pink_laurel",
+        "particle": "custom:block/hats/laurels/pink_laurel"
+    },
+    "elements": [
+        {
+            "from": [
+                -0.42417,
+                7,
+                9.90453
+            ],
+            "to": [
+                -0.42417,
+                17,
+                23.90453
+            ],
+            "rotation": {
+                "x": 0,
+                "y": 62.5,
+                "z": 0,
+                "origin": [
+                    0,
+                    11,
+                    13.1
+                ]
+            },
+            "faces": {
+                "east": {
+                    "uv": [
+                        0,
+                        5,
+                        7,
+                        10
+                    ],
+                    "texture": "#1"
+                },
+                "west": {
+                    "uv": [
+                        7,
+                        5,
+                        0,
+                        10
+                    ],
+                    "texture": "#1"
+                }
+            }
+        },
+        {
+            "from": [
+                16.42417,
+                7,
+                9.90453
+            ],
+            "to": [
+                16.42417,
+                17,
+                23.90453
+            ],
+            "rotation": {
+                "x": 0,
+                "y": -62.5,
+                "z": 0,
+                "origin": [
+                    16,
+                    11,
+                    13.1
+                ]
+            },
+            "faces": {
+                "east": {
+                    "uv": [
+                        0,
+                        5,
+                        7,
+                        10
+                    ],
+                    "texture": "#1"
+                },
+                "west": {
+                    "uv": [
+                        7,
+                        5,
+                        0,
+                        10
+                    ],
+                    "texture": "#1"
+                }
+            }
+        },
+        {
+            "from": [
+                16,
+                7,
+                -2
+            ],
+            "to": [
+                16,
+                17,
+                16
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    16,
+                    11,
+                    0
+                ]
+            },
+            "faces": {
+                "east": {
+                    "uv": [
+                        0,
+                        0,
+                        9,
+                        5
+                    ],
+                    "texture": "#1"
+                },
+                "west": {
+                    "uv": [
+                        9,
+                        0,
+                        0,
+                        5
+                    ],
+                    "texture": "#1"
+                }
+            }
+        },
+        {
+            "from": [
+                0,
+                7,
+                -2
+            ],
+            "to": [
+                0,
+                17,
+                16
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    0,
+                    11,
+                    0
+                ]
+            },
+            "faces": {
+                "east": {
+                    "uv": [
+                        0,
+                        0,
+                        9,
+                        5
+                    ],
+                    "texture": "#1"
+                },
+                "west": {
+                    "uv": [
+                        9,
+                        0,
+                        0,
+                        5
+                    ],
+                    "texture": "#1"
+                }
+            }
+        },
+        {
+            "from": [
+                18,
+                9,
+                -7.2
+            ],
+            "to": [
+                18,
+                19,
+                3.8
+            ],
+            "rotation": {
+                "x": 0,
+                "y": 52.5,
+                "z": 0,
+                "origin": [
+                    18,
+                    13,
+                    2.8
+                ]
+            },
+            "faces": {
+                "east": {
+                    "uv": [
+                        7,
+                        5,
+                        12.5,
+                        10
+                    ],
+                    "texture": "#1"
+                },
+                "west": {
+                    "uv": [
+                        12.5,
+                        5,
+                        7,
+                        10
+                    ],
+                    "texture": "#1"
+                }
+            }
+        },
+        {
+            "from": [
+                -2,
+                9,
+                -7.2
+            ],
+            "to": [
+                -2,
+                19,
+                3.8
+            ],
+            "rotation": {
+                "x": 0,
+                "y": -52.5,
+                "z": 0,
+                "origin": [
+                    -2,
+                    13,
+                    2.8
+                ]
+            },
+            "faces": {
+                "east": {
+                    "uv": [
+                        7,
+                        5,
+                        12.5,
+                        10
+                    ],
+                    "texture": "#1"
+                },
+                "west": {
+                    "uv": [
+                        12.5,
+                        5,
+                        7,
+                        10
+                    ],
+                    "texture": "#1"
+                }
+            }
+        }
+    ],
+    "display": {
+        "thirdperson_righthand": {
+            "scale": [
+                0.5,
+                0.5,
+                0.4
+            ]
+        },
+        "thirdperson_lefthand": {
+            "scale": [
+                0.5,
+                0.5,
+                0.4
+            ]
+        },
+        "firstperson_righthand": {
+            "scale": [
+                0.4,
+                0.4,
+                0.4
+            ]
+        },
+        "firstperson_lefthand": {
+            "scale": [
+                0.4,
+                0.4,
+                0.4
+            ]
+        },
+        "ground": {
+            "rotation": [
+                0,
+                -180,
+                0
+            ],
+            "scale": [
+                0.65,
+                0.65,
+                0.65
+            ]
+        },
+        "gui": {
+            "rotation": [
+                0,
+                -180,
+                0
+            ],
+            "translation": [
+                0,
+                -4.5,
+                0
+            ],
+            "scale": [
+                0.9,
+                0.9,
+                0.9
+            ]
+        },
+        "head": {
+            "translation": [
+                0,
+                -1.5,
+                0
+            ]
+        },
+        "fixed": {
+            "translation": [
+                0,
+                -3.5,
+                0
+            ]
+        },
+        "on_shelf": {
+            "rotation": [
+                0,
+                -180,
+                0
+            ]
+        }
+    },
+    "groups": [
+        {
+            "name": "group",
+            "origin": [
+                -2,
+                11,
+                12
+            ],
+            "scope": 0,
+            "color": 0,
+            "children": [
+                {
+                    "name": "group",
+                    "origin": [
+                        -2,
+                        11,
+                        12
+                    ],
+                    "scope": 0,
+                    "color": 0,
+                    "children": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "name": "group",
+                    "origin": [
+                        16,
+                        11,
+                        0
+                    ],
+                    "scope": 0,
+                    "color": 0,
+                    "children": [
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "name": "group",
+                    "origin": [
+                        -2,
+                        13,
+                        4
+                    ],
+                    "scope": 0,
+                    "color": 0,
+                    "children": [
+                        4,
+                        5
+                    ]
+                }
+            ]
+        }
+    ]
+}

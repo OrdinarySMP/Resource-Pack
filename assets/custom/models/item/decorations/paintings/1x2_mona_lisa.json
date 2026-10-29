@@ -2,7 +2,8 @@
     "credit": "Made by MrCookiePrincess with Blockbench ",
     "textures": {
         "2": "custom:item/decorations/paintings/back",
-        "4": "custom:item/decorations/paintings/1x2_mona_lisa"
+        "4": "custom:item/decorations/paintings/1x2_mona_lisa",
+        "particle": "#2"
     },
     "elements": [
         {
