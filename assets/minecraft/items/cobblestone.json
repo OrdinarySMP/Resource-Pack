@@ -11,7 +11,7 @@
                 "threshold": 1,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/filter_cobblestone"
+                    "model": "custom:block/filters/cobblestone"
                 },
                 "owners": [
                     "@unkown"

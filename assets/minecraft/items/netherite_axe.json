@@ -11,7 +11,7 @@
                 "threshold": 5478001,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/tools/cookie/cookie_netherite_axe"
+                    "model": "custom:item/equipment/sets/cookie/cookie_netherite_axe"
                 },
                 "owners": [
                     "MrCookiePrincess"
@@ -23,7 +23,7 @@
                 "threshold": 6151001,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/tools/honey/honey_axe"
+                    "model": "custom:item/equipment/sets/honey/honey_axe"
                 },
                 "owners": [
                     "PadBro"
@@ -35,7 +35,7 @@
                 "threshold": 6151002,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/tools/honor/honor_axe"
+                    "model": "custom:item/equipment/sets/honor/honor_axe"
                 },
                 "owners": [
                     "PadBro"
@@ -47,7 +47,7 @@
                 "threshold": 6151003,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/tools/ender/ender_axe"
+                    "model": "custom:item/equipment/sets/ender/ender_axe"
                 },
                 "owners": [
                     "PadBro"
@@ -59,7 +59,7 @@
                 "threshold": 6151004,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/tools/blossom/blossom_axe"
+                    "model": "custom:item/equipment/sets/blossom/blossom_axe"
                 },
                 "owners": [
                     "PadBro"
@@ -71,7 +71,7 @@
                 "threshold": 7961301,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/tools/crystal/crystal_axe"
+                    "model": "custom:item/equipment/sets/crystal/crystal_axe"
                 },
                 "owners": [
                     "Apieboy"
@@ -83,7 +83,7 @@
                 "threshold": 1532701,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/tools/salat/salat_axe"
+                    "model": "custom:item/equipment/sets/salat/salat_axe"
                 },
                 "owners": [
                     "SalatGurke9440"

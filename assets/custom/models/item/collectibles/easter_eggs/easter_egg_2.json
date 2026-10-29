@@ -1,0 +1,6 @@
+{
+    "parent": "custom:item/collectibles/easter_eggs/easter_egg_1",
+    "textures": {
+        "layer0": "custom:item/collectibles/easter_eggs/easter_egg_2"
+    }
+}

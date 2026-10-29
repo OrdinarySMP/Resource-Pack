@@ -11,7 +11,7 @@
                 "threshold": 2682101,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/easter_eggs/easter_egg_1"
+                    "model": "custom:item/collectibles/easter_eggs/easter_egg_1"
                 },
                 "owners": [
                     "@public"
@@ -23,7 +23,7 @@
                 "threshold": 2682102,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/easter_eggs/easter_egg_2"
+                    "model": "custom:item/collectibles/easter_eggs/easter_egg_2"
                 },
                 "owners": [
                     "@public"
@@ -35,7 +35,7 @@
                 "threshold": 2682103,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/easter_eggs/easter_egg_3"
+                    "model": "custom:item/collectibles/easter_eggs/easter_egg_3"
                 },
                 "owners": [
                     "@public"
@@ -47,7 +47,7 @@
                 "threshold": 2682104,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/easter_eggs/easter_egg_4"
+                    "model": "custom:item/collectibles/easter_eggs/easter_egg_4"
                 },
                 "owners": [
                     "@public"
@@ -59,7 +59,7 @@
                 "threshold": 2682105,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/easter_eggs/easter_egg_5"
+                    "model": "custom:item/collectibles/easter_eggs/easter_egg_5"
                 },
                 "owners": [
                     "@public"
@@ -71,7 +71,7 @@
                 "threshold": 2682106,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/easter_eggs/easter_egg_6"
+                    "model": "custom:item/collectibles/easter_eggs/easter_egg_6"
                 },
                 "owners": [
                     "@public"
@@ -83,7 +83,7 @@
                 "threshold": 2682107,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/easter_eggs/easter_egg_7"
+                    "model": "custom:item/collectibles/easter_eggs/easter_egg_7"
                 },
                 "owners": [
                     "@public"
@@ -95,7 +95,7 @@
                 "threshold": 2682108,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/easter_eggs/easter_egg_8"
+                    "model": "custom:item/collectibles/easter_eggs/easter_egg_8"
                 },
                 "owners": [
                     "@public"
@@ -107,7 +107,7 @@
                 "threshold": 2682109,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/easter_eggs/easter_egg_9"
+                    "model": "custom:item/collectibles/easter_eggs/easter_egg_9"
                 },
                 "owners": [
                     "@public"
@@ -119,7 +119,7 @@
                 "threshold": 2682110,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/easter_eggs/easter_egg_10"
+                    "model": "custom:item/collectibles/easter_eggs/easter_egg_10"
                 },
                 "owners": [
                     "@public"
@@ -131,7 +131,7 @@
                 "threshold": 2682111,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/easter_eggs/easter_egg_11"
+                    "model": "custom:item/collectibles/easter_eggs/easter_egg_11"
                 },
                 "owners": [
                     "@public"
@@ -143,7 +143,7 @@
                 "threshold": 2682112,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/easter_eggs/easter_egg_12"
+                    "model": "custom:item/collectibles/easter_eggs/easter_egg_12"
                 },
                 "owners": [
                     "@public"
@@ -155,7 +155,7 @@
                 "threshold": 2682113,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/easter_eggs/easter_egg_13"
+                    "model": "custom:item/collectibles/easter_eggs/easter_egg_13"
                 },
                 "owners": [
                     "@public"
@@ -167,7 +167,7 @@
                 "threshold": 2682114,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/easter_eggs/easter_egg_14"
+                    "model": "custom:item/collectibles/easter_eggs/easter_egg_14"
                 },
                 "owners": [
                     "@public"
@@ -179,7 +179,7 @@
                 "threshold": 2682115,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/easter_eggs/easter_egg_15"
+                    "model": "custom:item/collectibles/easter_eggs/easter_egg_15"
                 },
                 "owners": [
                     "@public"

@@ -11,7 +11,7 @@
                 "threshold": 5478001,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/tools/cookie/cookie_netherite_pickaxe"
+                    "model": "custom:item/equipment/sets/cookie/cookie_netherite_pickaxe"
                 },
                 "owners": [
                     "MrCookiePrincess"
@@ -23,7 +23,7 @@
                 "threshold": 6151001,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/tools/honey/honey_pickaxe"
+                    "model": "custom:item/equipment/sets/honey/honey_pickaxe"
                 },
                 "owners": [
                     "PadBro"
@@ -35,7 +35,7 @@
                 "threshold": 6151002,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/tools/honor/honor_pickaxe"
+                    "model": "custom:item/equipment/sets/honor/honor_pickaxe"
                 },
                 "owners": [
                     "PadBro"
@@ -47,7 +47,7 @@
                 "threshold": 6151003,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/tools/ender/ender_pickaxe"
+                    "model": "custom:item/equipment/sets/ender/ender_pickaxe"
                 },
                 "owners": [
                     "PadBro"
@@ -59,7 +59,7 @@
                 "threshold": 6151004,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/tools/blossom/blossom_pickaxe"
+                    "model": "custom:item/equipment/sets/blossom/blossom_pickaxe"
                 },
                 "owners": [
                     "PadBro"
@@ -71,7 +71,7 @@
                 "threshold": 7961301,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/tools/crystal/crystal_pickaxe"
+                    "model": "custom:item/equipment/sets/crystal/crystal_pickaxe"
                 },
                 "owners": [
                     "Apieboy"
@@ -83,7 +83,7 @@
                 "threshold": 2245501,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/tools/dylan_pickaxe"
+                    "model": "custom:item/equipment/pickaxes/dylan_pickaxe"
                 },
                 "owners": [
                     "dylanbr19"
@@ -95,7 +95,7 @@
                 "threshold": 1532701,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/tools/salat/salat_pickaxe"
+                    "model": "custom:item/equipment/sets/salat/salat_pickaxe"
                 },
                 "owners": [
                     "SalatGurke9440"

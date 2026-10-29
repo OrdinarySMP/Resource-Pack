@@ -11,7 +11,7 @@
                 "threshold": 3596601,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/turquoise_copper"
+                    "model": "custom:item/materials/turquoise_copper"
                 },
                 "owners": [
                     "Dylam19"

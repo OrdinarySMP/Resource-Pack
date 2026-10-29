@@ -11,7 +11,7 @@
                 "threshold": 1495101,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/snowball/tomato"
+                    "model": "custom:item/food/ingredients/tomato"
                 },
                 "owners": [
                     "dylanbr19"

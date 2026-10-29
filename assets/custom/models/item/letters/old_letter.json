@@ -1,6 +1,0 @@
-{
-    "parent": "custom:item/letters/alarm_letter",
-    "textures": {
-        "layer0": "custom:item/letters/old_letter"
-    }
-}

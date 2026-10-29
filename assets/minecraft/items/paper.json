@@ -11,7 +11,7 @@
                 "threshold": 1856301,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paintings/1x2_monalisa"
+                    "model": "custom:item/decorations/paintings/1x2_monalisa"
                 },
                 "owners": [
                     "@public"
@@ -23,7 +23,7 @@
                 "threshold": 1856302,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paintings/2x2_painting_1"
+                    "model": "custom:item/decorations/paintings/2x2_painting_1"
                 },
                 "owners": [
                     "@public"
@@ -35,7 +35,7 @@
                 "threshold": 1856303,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paintings/2x2_pearl_earring"
+                    "model": "custom:item/decorations/paintings/2x2_pearl_earring"
                 },
                 "owners": [
                     "@public"
@@ -47,7 +47,7 @@
                 "threshold": 1856304,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paintings/2x2_port"
+                    "model": "custom:item/decorations/paintings/2x2_port"
                 },
                 "owners": [
                     "@public"
@@ -59,7 +59,7 @@
                 "threshold": 1856305,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paintings/2x2_temple"
+                    "model": "custom:item/decorations/paintings/2x2_temple"
                 },
                 "owners": [
                     "@public"
@@ -71,7 +71,7 @@
                 "threshold": 1856306,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paintings/2x3_scream"
+                    "model": "custom:item/decorations/paintings/2x3_scream"
                 },
                 "owners": [
                     "@public"
@@ -83,7 +83,7 @@
                 "threshold": 1856307,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paintings/2x3_village"
+                    "model": "custom:item/decorations/paintings/2x3_village"
                 },
                 "owners": [
                     "@public"
@@ -95,7 +95,7 @@
                 "threshold": 1856308,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paintings/3x2_road"
+                    "model": "custom:item/decorations/paintings/3x2_road"
                 },
                 "owners": [
                     "@public"
@@ -107,7 +107,7 @@
                 "threshold": 1856309,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paintings/3x3_american_gothic"
+                    "model": "custom:item/decorations/paintings/3x3_american_gothic"
                 },
                 "owners": [
                     "@public"
@@ -119,7 +119,7 @@
                 "threshold": 1856310,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paintings/3x3_pandemonium"
+                    "model": "custom:item/decorations/paintings/3x3_pandemonium"
                 },
                 "owners": [
                     "@public"
@@ -131,7 +131,7 @@
                 "threshold": 5478001,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/horse_trophy"
+                    "model": "custom:item/decorations/trophies/horse"
                 },
                 "owners": [
                     "@staff"
@@ -143,7 +143,7 @@
                 "threshold": 5478002,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/trophy_gold"
+                    "model": "custom:item/decorations/trophies/gold"
                 },
                 "owners": [
                     "@staff"
@@ -155,7 +155,7 @@
                 "threshold": 5478003,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/trophy_iron"
+                    "model": "custom:item/decorations/trophies/iron"
                 },
                 "owners": [
                     "@staff"
@@ -167,7 +167,7 @@
                 "threshold": 5478004,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/trophy_copper"
+                    "model": "custom:item/decorations/trophies/copper"
                 },
                 "owners": [
                     "@staff"
@@ -179,7 +179,7 @@
                 "threshold": 5478005,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/trophy_ghost"
+                    "model": "custom:item/decorations/trophies/ghost"
                 },
                 "owners": [
                     "@staff"
@@ -191,7 +191,7 @@
                 "threshold": 5478006,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/wings/fairy_wings_purple"
+                    "model": "custom:item/cosmetics/wings/fairy_wings_purple"
                 },
                 "owners": [
                     "xKellfeine"
@@ -203,7 +203,7 @@
                 "threshold": 5478007,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/wings/butterfly_wings_pink"
+                    "model": "custom:item/cosmetics/wings/butterfly_wings_pink"
                 },
                 "owners": [
                     "xKellfeine"
@@ -215,7 +215,7 @@
                 "threshold": 5478008,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/wings/fairy_wings_clear"
+                    "model": "custom:item/cosmetics/wings/fairy_wings_clear"
                 },
                 "owners": [
                     "xKellfeine"
@@ -227,7 +227,7 @@
                 "threshold": 5478009,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/trophy_fish"
+                    "model": "custom:item/decorations/trophies/fish"
                 },
                 "owners": [
                     "@staff"
@@ -239,7 +239,7 @@
                 "threshold": 5478010,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/wings/angel_wings"
+                    "model": "custom:item/cosmetics/wings/angel_wings"
                 },
                 "owners": [
                     "xKellfeine"
@@ -251,7 +251,7 @@
                 "threshold": 5478011,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/wings/bee_wings"
+                    "model": "custom:item/cosmetics/wings/bee_wings"
                 },
                 "owners": [
                     "xKellfeine"
@@ -263,7 +263,7 @@
                 "threshold": 5478012,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/wings/blue_butterfly_wings"
+                    "model": "custom:item/cosmetics/wings/blue_butterfly_wings"
                 },
                 "owners": [
                     "xKellfeine"
@@ -275,7 +275,7 @@
                 "threshold": 5478013,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/wings/dragon_wings"
+                    "model": "custom:item/cosmetics/wings/dragon_wings"
                 },
                 "owners": [
                     "xKellfeine"
@@ -287,7 +287,7 @@
                 "threshold": 5478014,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/wings/earth_wings"
+                    "model": "custom:item/cosmetics/wings/earth_wings"
                 },
                 "owners": [
                     "xKellfeine"
@@ -299,7 +299,7 @@
                 "threshold": 5478015,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/wings/fairy_wings"
+                    "model": "custom:item/cosmetics/wings/fairy_wings"
                 },
                 "owners": [
                     "xKellfeine"
@@ -311,7 +311,7 @@
                 "threshold": 5478016,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/wings/night_wings"
+                    "model": "custom:item/cosmetics/wings/night_wings"
                 },
                 "owners": [
                     "xKellfeine"
@@ -323,7 +323,7 @@
                 "threshold": 5478017,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/wings/yellow_butterly_wings"
+                    "model": "custom:item/cosmetics/wings/yellow_butterly_wings"
                 },
                 "owners": [
                     "xKellfeine"
@@ -335,7 +335,7 @@
                 "threshold": 7263701,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/letters/alarm_letter"
+                    "model": "custom:item/stationery/letters/alarm_letter"
                 },
                 "owners": [
                     "@public"
@@ -347,7 +347,7 @@
                 "threshold": 7263702,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/letters/blank_letter"
+                    "model": "custom:item/stationery/letters/blank_letter"
                 },
                 "owners": [
                     "@public"
@@ -359,7 +359,7 @@
                 "threshold": 7263703,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/letters/bloody_letter"
+                    "model": "custom:item/stationery/letters/bloody_letter"
                 },
                 "owners": [
                     "@public"
@@ -371,7 +371,7 @@
                 "threshold": 7263704,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/letters/cash_letter"
+                    "model": "custom:item/stationery/letters/cash_letter"
                 },
                 "owners": [
                     "@public"
@@ -383,7 +383,7 @@
                 "threshold": 7263705,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/letters/clover_letter"
+                    "model": "custom:item/stationery/letters/clover_letter"
                 },
                 "owners": [
                     "@public"
@@ -395,7 +395,7 @@
                 "threshold": 7263706,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/letters/death_letter"
+                    "model": "custom:item/stationery/letters/death_letter"
                 },
                 "owners": [
                     "@public"
@@ -407,7 +407,7 @@
                 "threshold": 7263707,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/letters/earth_letter"
+                    "model": "custom:item/stationery/letters/earth_letter"
                 },
                 "owners": [
                     "@public"
@@ -419,7 +419,7 @@
                 "threshold": 7263708,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/letters/ender_letter"
+                    "model": "custom:item/stationery/letters/ender_letter"
                 },
                 "owners": [
                     "@public"
@@ -431,7 +431,7 @@
                 "threshold": 7263709,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/letters/flag_letter"
+                    "model": "custom:item/stationery/letters/flag_letter"
                 },
                 "owners": [
                     "@public"
@@ -443,7 +443,7 @@
                 "threshold": 7263710,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/letters/fox_letter"
+                    "model": "custom:item/stationery/letters/fox_letter"
                 },
                 "owners": [
                     "@public"
@@ -455,7 +455,7 @@
                 "threshold": 7263711,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/letters/frog_letter"
+                    "model": "custom:item/stationery/letters/frog_letter"
                 },
                 "owners": [
                     "@public"
@@ -467,7 +467,7 @@
                 "threshold": 7263712,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/letters/ghost_letter"
+                    "model": "custom:item/stationery/letters/ghost_letter"
                 },
                 "owners": [
                     "@public"
@@ -479,7 +479,7 @@
                 "threshold": 7263713,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/letters/love_letter"
+                    "model": "custom:item/stationery/letters/love_letter"
                 },
                 "owners": [
                     "@public"
@@ -491,7 +491,7 @@
                 "threshold": 7263714,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/letters/modern_letter"
+                    "model": "custom:item/stationery/letters/modern_letter"
                 },
                 "owners": [
                     "@public"
@@ -503,7 +503,7 @@
                 "threshold": 7263715,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/letters/mushroom_letter"
+                    "model": "custom:item/stationery/letters/mushroom_letter"
                 },
                 "owners": [
                     "@public"
@@ -515,7 +515,7 @@
                 "threshold": 7263716,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/letters/old_letter"
+                    "model": "custom:item/stationery/letters/old_letter"
                 },
                 "owners": [
                     "@public"
@@ -527,7 +527,7 @@
                 "threshold": 7263717,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/letters/pumpkin_letter"
+                    "model": "custom:item/stationery/letters/pumpkin_letter"
                 },
                 "owners": [
                     "@public"
@@ -539,7 +539,7 @@
                 "threshold": 7263718,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/letters/rainbow_letter"
+                    "model": "custom:item/stationery/letters/rainbow_letter"
                 },
                 "owners": [
                     "@public"
@@ -551,7 +551,7 @@
                 "threshold": 7263719,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/letters/star_letter"
+                    "model": "custom:item/stationery/letters/star_letter"
                 },
                 "owners": [
                     "@public"
@@ -563,7 +563,7 @@
                 "threshold": 7263720,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/letters/trident_letter"
+                    "model": "custom:item/stationery/letters/trident_letter"
                 },
                 "owners": [
                     "@public"
@@ -575,7 +575,7 @@
                 "threshold": 8444701,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/c_01"
+                    "model": "custom:item/games/cards/c_01"
                 },
                 "owners": [
                     "@public"
@@ -587,7 +587,7 @@
                 "threshold": 8444702,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/c_02"
+                    "model": "custom:item/games/cards/c_02"
                 },
                 "owners": [
                     "@public"
@@ -599,7 +599,7 @@
                 "threshold": 8444703,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/c_03"
+                    "model": "custom:item/games/cards/c_03"
                 },
                 "owners": [
                     "@public"
@@ -611,7 +611,7 @@
                 "threshold": 8444704,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/c_04"
+                    "model": "custom:item/games/cards/c_04"
                 },
                 "owners": [
                     "@public"
@@ -623,7 +623,7 @@
                 "threshold": 8444705,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/c_05"
+                    "model": "custom:item/games/cards/c_05"
                 },
                 "owners": [
                     "@public"
@@ -635,7 +635,7 @@
                 "threshold": 8444706,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/c_06"
+                    "model": "custom:item/games/cards/c_06"
                 },
                 "owners": [
                     "@public"
@@ -647,7 +647,7 @@
                 "threshold": 8444707,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/c_07"
+                    "model": "custom:item/games/cards/c_07"
                 },
                 "owners": [
                     "@public"
@@ -659,7 +659,7 @@
                 "threshold": 8444708,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/c_08"
+                    "model": "custom:item/games/cards/c_08"
                 },
                 "owners": [
                     "@public"
@@ -671,7 +671,7 @@
                 "threshold": 8444709,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/c_09"
+                    "model": "custom:item/games/cards/c_09"
                 },
                 "owners": [
                     "@public"
@@ -683,7 +683,7 @@
                 "threshold": 8444710,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/c_10"
+                    "model": "custom:item/games/cards/c_10"
                 },
                 "owners": [
                     "@public"
@@ -695,7 +695,7 @@
                 "threshold": 8444711,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/c_11"
+                    "model": "custom:item/games/cards/c_11"
                 },
                 "owners": [
                     "@public"
@@ -707,7 +707,7 @@
                 "threshold": 8444712,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/c_12"
+                    "model": "custom:item/games/cards/c_12"
                 },
                 "owners": [
                     "@public"
@@ -719,7 +719,7 @@
                 "threshold": 8444713,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/c_13"
+                    "model": "custom:item/games/cards/c_13"
                 },
                 "owners": [
                     "@public"
@@ -731,7 +731,7 @@
                 "threshold": 8444721,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/d_01"
+                    "model": "custom:item/games/cards/d_01"
                 },
                 "owners": [
                     "@public"
@@ -743,7 +743,7 @@
                 "threshold": 8444722,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/d_02"
+                    "model": "custom:item/games/cards/d_02"
                 },
                 "owners": [
                     "@public"
@@ -755,7 +755,7 @@
                 "threshold": 8444723,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/d_03"
+                    "model": "custom:item/games/cards/d_03"
                 },
                 "owners": [
                     "@public"
@@ -767,7 +767,7 @@
                 "threshold": 8444724,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/d_04"
+                    "model": "custom:item/games/cards/d_04"
                 },
                 "owners": [
                     "@public"
@@ -779,7 +779,7 @@
                 "threshold": 8444725,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/d_05"
+                    "model": "custom:item/games/cards/d_05"
                 },
                 "owners": [
                     "@public"
@@ -791,7 +791,7 @@
                 "threshold": 8444726,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/d_06"
+                    "model": "custom:item/games/cards/d_06"
                 },
                 "owners": [
                     "@public"
@@ -803,7 +803,7 @@
                 "threshold": 8444727,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/d_07"
+                    "model": "custom:item/games/cards/d_07"
                 },
                 "owners": [
                     "@public"
@@ -815,7 +815,7 @@
                 "threshold": 8444728,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/d_08"
+                    "model": "custom:item/games/cards/d_08"
                 },
                 "owners": [
                     "@public"
@@ -827,7 +827,7 @@
                 "threshold": 8444729,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/d_09"
+                    "model": "custom:item/games/cards/d_09"
                 },
                 "owners": [
                     "@public"
@@ -839,7 +839,7 @@
                 "threshold": 8444730,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/d_10"
+                    "model": "custom:item/games/cards/d_10"
                 },
                 "owners": [
                     "@public"
@@ -851,7 +851,7 @@
                 "threshold": 8444731,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/d_11"
+                    "model": "custom:item/games/cards/d_11"
                 },
                 "owners": [
                     "@public"
@@ -863,7 +863,7 @@
                 "threshold": 8444732,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/d_12"
+                    "model": "custom:item/games/cards/d_12"
                 },
                 "owners": [
                     "@public"
@@ -875,7 +875,7 @@
                 "threshold": 8444733,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/d_13"
+                    "model": "custom:item/games/cards/d_13"
                 },
                 "owners": [
                     "@public"
@@ -887,7 +887,7 @@
                 "threshold": 8444741,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/h_01"
+                    "model": "custom:item/games/cards/h_01"
                 },
                 "owners": [
                     "@public"
@@ -899,7 +899,7 @@
                 "threshold": 8444742,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/h_02"
+                    "model": "custom:item/games/cards/h_02"
                 },
                 "owners": [
                     "@public"
@@ -911,7 +911,7 @@
                 "threshold": 8444743,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/h_03"
+                    "model": "custom:item/games/cards/h_03"
                 },
                 "owners": [
                     "@public"
@@ -923,7 +923,7 @@
                 "threshold": 8444744,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/h_04"
+                    "model": "custom:item/games/cards/h_04"
                 },
                 "owners": [
                     "@public"
@@ -935,7 +935,7 @@
                 "threshold": 8444745,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/h_05"
+                    "model": "custom:item/games/cards/h_05"
                 },
                 "owners": [
                     "@public"
@@ -947,7 +947,7 @@
                 "threshold": 8444746,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/h_06"
+                    "model": "custom:item/games/cards/h_06"
                 },
                 "owners": [
                     "@public"
@@ -959,7 +959,7 @@
                 "threshold": 8444747,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/h_07"
+                    "model": "custom:item/games/cards/h_07"
                 },
                 "owners": [
                     "@public"
@@ -971,7 +971,7 @@
                 "threshold": 8444748,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/h_08"
+                    "model": "custom:item/games/cards/h_08"
                 },
                 "owners": [
                     "@public"
@@ -983,7 +983,7 @@
                 "threshold": 8444749,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/h_09"
+                    "model": "custom:item/games/cards/h_09"
                 },
                 "owners": [
                     "@public"
@@ -995,7 +995,7 @@
                 "threshold": 8444750,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/h_10"
+                    "model": "custom:item/games/cards/h_10"
                 },
                 "owners": [
                     "@public"
@@ -1007,7 +1007,7 @@
                 "threshold": 8444751,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/h_11"
+                    "model": "custom:item/games/cards/h_11"
                 },
                 "owners": [
                     "@public"
@@ -1019,7 +1019,7 @@
                 "threshold": 8444752,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/h_12"
+                    "model": "custom:item/games/cards/h_12"
                 },
                 "owners": [
                     "@public"
@@ -1031,7 +1031,7 @@
                 "threshold": 8444753,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/h_13"
+                    "model": "custom:item/games/cards/h_13"
                 },
                 "owners": [
                     "@public"
@@ -1043,7 +1043,7 @@
                 "threshold": 8444761,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/s_01"
+                    "model": "custom:item/games/cards/s_01"
                 },
                 "owners": [
                     "@public"
@@ -1055,7 +1055,7 @@
                 "threshold": 8444762,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/s_02"
+                    "model": "custom:item/games/cards/s_02"
                 },
                 "owners": [
                     "@public"
@@ -1067,7 +1067,7 @@
                 "threshold": 8444763,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/s_03"
+                    "model": "custom:item/games/cards/s_03"
                 },
                 "owners": [
                     "@public"
@@ -1079,7 +1079,7 @@
                 "threshold": 8444764,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/s_04"
+                    "model": "custom:item/games/cards/s_04"
                 },
                 "owners": [
                     "@public"
@@ -1091,7 +1091,7 @@
                 "threshold": 8444765,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/s_05"
+                    "model": "custom:item/games/cards/s_05"
                 },
                 "owners": [
                     "@public"
@@ -1103,7 +1103,7 @@
                 "threshold": 8444766,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/s_06"
+                    "model": "custom:item/games/cards/s_06"
                 },
                 "owners": [
                     "@public"
@@ -1115,7 +1115,7 @@
                 "threshold": 8444767,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/s_07"
+                    "model": "custom:item/games/cards/s_07"
                 },
                 "owners": [
                     "@public"
@@ -1127,7 +1127,7 @@
                 "threshold": 8444768,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/s_08"
+                    "model": "custom:item/games/cards/s_08"
                 },
                 "owners": [
                     "@public"
@@ -1139,7 +1139,7 @@
                 "threshold": 8444769,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/s_09"
+                    "model": "custom:item/games/cards/s_09"
                 },
                 "owners": [
                     "@public"
@@ -1151,7 +1151,7 @@
                 "threshold": 8444770,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/s_10"
+                    "model": "custom:item/games/cards/s_10"
                 },
                 "owners": [
                     "@public"
@@ -1163,7 +1163,7 @@
                 "threshold": 8444771,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/s_11"
+                    "model": "custom:item/games/cards/s_11"
                 },
                 "owners": [
                     "@public"
@@ -1175,7 +1175,7 @@
                 "threshold": 8444772,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/s_12"
+                    "model": "custom:item/games/cards/s_12"
                 },
                 "owners": [
                     "@public"
@@ -1187,7 +1187,7 @@
                 "threshold": 8444773,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/s_13"
+                    "model": "custom:item/games/cards/s_13"
                 },
                 "owners": [
                     "@public"
@@ -1199,7 +1199,7 @@
                 "threshold": 8444778,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/joker_red"
+                    "model": "custom:item/games/cards/joker_red"
                 },
                 "owners": [
                     "@public"
@@ -1211,7 +1211,7 @@
                 "threshold": 8444779,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/cards/joker_black"
+                    "model": "custom:item/games/cards/joker_black"
                 },
                 "owners": [
                     "@public"
@@ -1223,7 +1223,7 @@
                 "threshold": 7333501,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/masons_market_sign"
+                    "model": "custom:item/decorations/signs/masons_market_sign"
                 },
                 "owners": [
                     "Dreag19"
@@ -1235,7 +1235,7 @@
                 "threshold": 3341302,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paintings/billboards/barge"
+                    "model": "custom:item/decorations/signs/billboards/barge"
                 },
                 "owners": [
                     "Tolemor"
@@ -1247,7 +1247,7 @@
                 "threshold": 3341303,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paintings/billboards/cs"
+                    "model": "custom:item/decorations/signs/billboards/cs"
                 },
                 "owners": [
                     "Tolemor"
@@ -1259,7 +1259,7 @@
                 "threshold": 3341304,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paintings/billboards/moonlight"
+                    "model": "custom:item/decorations/signs/billboards/moonlight"
                 },
                 "owners": [
                     "Tolemor"
@@ -1271,7 +1271,7 @@
                 "threshold": 3341305,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paintings/billboards/mooshroom"
+                    "model": "custom:item/decorations/signs/billboards/mooshroom"
                 },
                 "owners": [
                     "Tolemor"
@@ -1283,7 +1283,7 @@
                 "threshold": 3341306,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paintings/billboards/pbn"
+                    "model": "custom:item/decorations/signs/billboards/pbn"
                 },
                 "owners": [
                     "Tolemor"
@@ -1295,7 +1295,7 @@
                 "threshold": 3341307,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paintings/billboards/pigston"
+                    "model": "custom:item/decorations/signs/billboards/pigston"
                 },
                 "owners": [
                     "Tolemor"
@@ -1307,7 +1307,7 @@
                 "threshold": 3341308,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paintings/billboards/plunderers"
+                    "model": "custom:item/decorations/signs/billboards/plunderers"
                 },
                 "owners": [
                     "Tolemor"
@@ -1319,7 +1319,7 @@
                 "threshold": 3341309,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paintings/billboards/princess"
+                    "model": "custom:item/decorations/signs/billboards/princess"
                 },
                 "owners": [
                     "Tolemor"
@@ -1331,7 +1331,7 @@
                 "threshold": 3341310,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paintings/billboards/ravager"
+                    "model": "custom:item/decorations/signs/billboards/ravager"
                 },
                 "owners": [
                     "Tolemor"
@@ -1343,7 +1343,7 @@
                 "threshold": 8337101,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/flower/mera_bouquet"
+                    "model": "custom:item/decorations/flowers/mera_bouquet"
                 },
                 "owners": [
                     "xKellfeine"
@@ -1355,7 +1355,7 @@
                 "threshold": 8337102,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/flower/rose_bouquet"
+                    "model": "custom:item/decorations/flowers/rose_bouquet"
                 },
                 "owners": [
                     "xKellfeine"
@@ -1367,7 +1367,7 @@
                 "threshold": 4172001,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_allien"
+                    "model": "custom:item/decorations/plushies/plushie_allien"
                 },
                 "owners": [
                     "xKellfeine"
@@ -1379,7 +1379,7 @@
                 "threshold": 5500901,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blood/blood_drips"
+                    "model": "custom:item/decorations/effects/blood/blood_drips"
                 },
                 "owners": [
                     "Higgsyboy"
@@ -1391,7 +1391,7 @@
                 "threshold": 5500902,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blood/blood_droplets"
+                    "model": "custom:item/decorations/effects/blood/blood_droplets"
                 },
                 "owners": [
                     "Higgsyboy"
@@ -1403,7 +1403,7 @@
                 "threshold": 5500903,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blood/blood_handprint"
+                    "model": "custom:item/decorations/effects/blood/blood_handprint"
                 },
                 "owners": [
                     "Higgsyboy"
@@ -1415,7 +1415,7 @@
                 "threshold": 5500904,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blood/blood_pool"
+                    "model": "custom:item/decorations/effects/blood/blood_pool"
                 },
                 "owners": [
                     "Higgsyboy"
@@ -1427,7 +1427,7 @@
                 "threshold": 5500905,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blood/blood_smear"
+                    "model": "custom:item/decorations/effects/blood/blood_smear"
                 },
                 "owners": [
                     "Higgsyboy"
@@ -1439,7 +1439,7 @@
                 "threshold": 5500906,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blood/blood_splatter"
+                    "model": "custom:item/decorations/effects/blood/blood_splatter"
                 },
                 "owners": [
                     "Higgsyboy"
@@ -1451,7 +1451,7 @@
                 "threshold": 5500907,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blood/rune_compass"
+                    "model": "custom:item/decorations/effects/runes/rune_compass"
                 },
                 "owners": [
                     "Higgsyboy"
@@ -1463,7 +1463,7 @@
                 "threshold": 5500908,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blood/rune_crescent_core"
+                    "model": "custom:item/decorations/effects/runes/rune_crescent_core"
                 },
                 "owners": [
                     "Higgsyboy"
@@ -1475,7 +1475,7 @@
                 "threshold": 5500909,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blood/rune_diamond_cross"
+                    "model": "custom:item/decorations/effects/runes/rune_diamond_cross"
                 },
                 "owners": [
                     "Higgsyboy"
@@ -1487,7 +1487,7 @@
                 "threshold": 5500910,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blood/rune_eye_triangle"
+                    "model": "custom:item/decorations/effects/runes/rune_eye_triangle"
                 },
                 "owners": [
                     "Higgsyboy"
@@ -1499,7 +1499,7 @@
                 "threshold": 5500911,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blood/rune_magic_circle"
+                    "model": "custom:item/decorations/effects/runes/rune_magic_circle"
                 },
                 "owners": [
                     "Higgsyboy"
@@ -1511,7 +1511,7 @@
                 "threshold": 5500912,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blood/rune_maze_square"
+                    "model": "custom:item/decorations/effects/runes/rune_maze_square"
                 },
                 "owners": [
                     "Higgsyboy"
@@ -1523,7 +1523,7 @@
                 "threshold": 5500913,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blood/rune_ritual_star"
+                    "model": "custom:item/decorations/effects/runes/rune_ritual_star"
                 },
                 "owners": [
                     "Higgsyboy"
@@ -1535,7 +1535,7 @@
                 "threshold": 5500914,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/blood/rune_totem"
+                    "model": "custom:item/decorations/effects/runes/rune_totem"
                 },
                 "owners": [
                     "Higgsyboy"

@@ -11,7 +11,7 @@
                 "threshold": 2649601,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/chips/chip_1"
+                    "model": "custom:item/games/chips/chip_1"
                 },
                 "owners": [
                     "@public"
@@ -23,7 +23,7 @@
                 "threshold": 2649602,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/chips/chip_5"
+                    "model": "custom:item/games/chips/chip_5"
                 },
                 "owners": [
                     "@public"
@@ -35,7 +35,7 @@
                 "threshold": 2649603,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/chips/chip_10"
+                    "model": "custom:item/games/chips/chip_10"
                 },
                 "owners": [
                     "@public"
@@ -47,7 +47,7 @@
                 "threshold": 2649604,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/chips/chip_25"
+                    "model": "custom:item/games/chips/chip_25"
                 },
                 "owners": [
                     "@public"
@@ -59,7 +59,7 @@
                 "threshold": 2649605,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/chips/chip_50"
+                    "model": "custom:item/games/chips/chip_50"
                 },
                 "owners": [
                     "@public"
@@ -71,7 +71,7 @@
                 "threshold": 2649606,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/chips/chip_100"
+                    "model": "custom:item/games/chips/chip_100"
                 },
                 "owners": [
                     "@public"
@@ -83,7 +83,7 @@
                 "threshold": 2649607,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/chips/chip_green"
+                    "model": "custom:item/games/chips/chip_green"
                 },
                 "owners": [
                     "@public"
@@ -95,7 +95,7 @@
                 "threshold": 2649608,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/chips/chip_blue"
+                    "model": "custom:item/games/chips/chip_blue"
                 },
                 "owners": [
                     "@public"
@@ -107,7 +107,7 @@
                 "threshold": 2649609,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/chips/chip_purple"
+                    "model": "custom:item/games/chips/chip_purple"
                 },
                 "owners": [
                     "@public"
@@ -119,7 +119,7 @@
                 "threshold": 2649610,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/chips/chip_red"
+                    "model": "custom:item/games/chips/chip_red"
                 },
                 "owners": [
                     "@public"
@@ -131,7 +131,7 @@
                 "threshold": 2649611,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/chips/chip_orange"
+                    "model": "custom:item/games/chips/chip_orange"
                 },
                 "owners": [
                     "@public"
@@ -143,7 +143,7 @@
                 "threshold": 2649612,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/chips/chip_black"
+                    "model": "custom:item/games/chips/chip_black"
                 },
                 "owners": [
                     "@public"

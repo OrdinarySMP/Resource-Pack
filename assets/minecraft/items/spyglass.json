@@ -10,7 +10,7 @@
                     "threshold": 5478001,
                     "model": {
                         "type": "minecraft:model",
-                        "model": "custom:item/tools/cookie/cookie_camera"
+                        "model": "custom:item/equipment/sets/cookie/cookie_camera"
                     },
                     "owners": [
                         "MrCookiePrincess"
@@ -32,7 +32,7 @@
                     "threshold": 5478001,
                     "model": {
                         "type": "minecraft:model",
-                        "model": "custom:item/tools/cookie/cookie_camera"
+                        "model": "custom:item/equipment/sets/cookie/cookie_camera"
                     },
                     "owners": [
                         "MrCookiePrincess"

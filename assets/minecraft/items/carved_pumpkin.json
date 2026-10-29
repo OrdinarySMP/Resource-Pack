@@ -11,7 +11,7 @@
                 "threshold": 3714801,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/pirate_co/oscar_hat"
+                    "model": "custom:item/cosmetics/hats/pirate/oscar_hat"
                 },
                 "owners": ["Chrisable", "ThePianoMann"],
                 "name": "OscarHat",
@@ -21,7 +21,7 @@
                 "threshold": 5478001,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/cookies_hat"
+                    "model": "custom:item/cosmetics/hats/cookies_hat"
                 },
                 "owners": ["MrCookiePrincess"],
                 "name": "CookiesHat",
@@ -31,7 +31,7 @@
                 "threshold": 5550101,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/star_wars/bobafetthelmet"
+                    "model": "custom:item/cosmetics/hats/star_wars/bobafetthelmet"
                 },
                 "owners": ["@public"],
                 "name": "BobafettHelmet",
@@ -41,7 +41,7 @@
                 "threshold": 5550102,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/star_wars/mandalorianhelmet"
+                    "model": "custom:item/cosmetics/hats/star_wars/mandalorianhelmet"
                 },
                 "owners": ["@public"],
                 "name": "MandalorianHelmet",
@@ -51,7 +51,7 @@
                 "threshold": 5550103,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/star_wars/stormtrooper"
+                    "model": "custom:item/cosmetics/hats/star_wars/stormtrooper"
                 },
                 "owners": ["@public"],
                 "name": "Stormtrooper",
@@ -61,7 +61,7 @@
                 "threshold": 5550104,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/star_wars/yodaears"
+                    "model": "custom:item/cosmetics/hats/star_wars/yodaears"
                 },
                 "owners": ["@public"],
                 "name": "YodaEars",
@@ -71,7 +71,7 @@
                 "threshold": 5550105,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/other/wizard_hat"
+                    "model": "custom:item/cosmetics/hats/wizard/wizard_hat"
                 },
                 "owners": ["@public"],
                 "name": "WizzardHat",
@@ -81,7 +81,7 @@
                 "threshold": 5550106,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/other/gift_hat"
+                    "model": "custom:item/cosmetics/hats/gift_hat"
                 },
                 "owners": ["@public"],
                 "name": "GiftHat",
@@ -91,7 +91,7 @@
                 "threshold": 5550107,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/other/merchant_hat"
+                    "model": "custom:item/cosmetics/hats/merchant_hat"
                 },
                 "owners": ["@public"],
                 "name": "MerchantHat",
@@ -101,7 +101,7 @@
                 "threshold": 5550108,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/other/crown"
+                    "model": "custom:item/cosmetics/hats/crown"
                 },
                 "owners": ["@public"],
                 "name": "Crown",
@@ -111,7 +111,7 @@
                 "threshold": 5550109,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/other/fancy_hat"
+                    "model": "custom:item/cosmetics/hats/fancy_hat"
                 },
                 "owners": ["@public"],
                 "name": "FancyHat",
@@ -121,7 +121,7 @@
                 "threshold": 5550110,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/other/very_fancy_hat"
+                    "model": "custom:item/cosmetics/hats/very_fancy_hat"
                 },
                 "owners": ["@public"],
                 "name": "VeryFancyHat",
@@ -131,7 +131,7 @@
                 "threshold": 5550111,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/other/chef_hat"
+                    "model": "custom:item/cosmetics/hats/chef_hat"
                 },
                 "owners": ["@public"],
                 "name": "ChefHat",
@@ -141,7 +141,7 @@
                 "threshold": 5550112,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/other/farmer_hat"
+                    "model": "custom:item/cosmetics/hats/farmer_hat"
                 },
                 "owners": ["@public"],
                 "name": "FarmerHat",
@@ -151,7 +151,7 @@
                 "threshold": 5550113,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/other/top_hat"
+                    "model": "custom:item/cosmetics/hats/top_hat"
                 },
                 "owners": ["@public"],
                 "name": "TopHat",
@@ -161,7 +161,7 @@
                 "threshold": 5550114,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/other/wig"
+                    "model": "custom:item/cosmetics/hats/wig"
                 },
                 "owners": ["@public"],
                 "name": "Wig",
@@ -171,7 +171,7 @@
                 "threshold": 5550115,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/other/wizard_hat_green"
+                    "model": "custom:item/cosmetics/hats/wizard/wizard_hat_green"
                 },
                 "owners": ["@public"],
                 "name": "GreenWizzardHat",
@@ -181,7 +181,7 @@
                 "threshold": 5550116,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/other/joker_hat"
+                    "model": "custom:item/cosmetics/hats/joker_hat"
                 },
                 "owners": ["@public"],
                 "name": "JokerHat",
@@ -191,7 +191,7 @@
                 "threshold": 5550117,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/other/cluckshroom_hat"
+                    "model": "custom:item/cosmetics/hats/cluckshroom_hat"
                 },
                 "owners": ["@public"],
                 "name": "CluckshroomHat",
@@ -201,7 +201,7 @@
                 "threshold": 5550118,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/other/explorer_hat"
+                    "model": "custom:item/cosmetics/hats/explorer_hat"
                 },
                 "owners": ["@public"],
                 "name": "ExplorerHat",
@@ -211,7 +211,7 @@
                 "threshold": 5550119,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/other/detective_hat"
+                    "model": "custom:item/cosmetics/hats/detective_hat"
                 },
                 "owners": ["@public"],
                 "name": "DetectiveHat",
@@ -221,7 +221,7 @@
                 "threshold": 5550120,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/pirate_co/pirate_hat_1"
+                    "model": "custom:item/cosmetics/hats/pirate/pirate_hat_1"
                 },
                 "owners": ["@public"],
                 "name": "PirateHatA",
@@ -231,7 +231,7 @@
                 "threshold": 5550121,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/pirate_co/pirate_hat_2"
+                    "model": "custom:item/cosmetics/hats/pirate/pirate_hat_2"
                 },
                 "owners": ["@public"],
                 "name": "PirateHatB",
@@ -241,7 +241,7 @@
                 "threshold": 5550122,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/cat_ears/jellie_ears_headband"
+                    "model": "custom:item/cosmetics/hats/cat_ears/jellie_ears_headband"
                 },
                 "owners": ["@public"],
                 "name": "JellieEarsHeadband",
@@ -251,7 +251,7 @@
                 "threshold": 5550123,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/cat_ears/jellie_hat"
+                    "model": "custom:item/cosmetics/hats/cat_ears/jellie_hat"
                 },
                 "owners": ["@public"],
                 "name": "JellieHat",
@@ -261,7 +261,7 @@
                 "threshold": 5550124,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/cat_ears/catearsblack"
+                    "model": "custom:item/cosmetics/hats/cat_ears/cat_ears_black"
                 },
                 "owners": ["@public"],
                 "name": "BlackCatEars",
@@ -271,7 +271,7 @@
                 "threshold": 5550125,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/cat_ears/catearscream"
+                    "model": "custom:item/cosmetics/hats/cat_ears/cat_ears_cream"
                 },
                 "owners": ["@public"],
                 "name": "CreamCatEars",
@@ -281,7 +281,7 @@
                 "threshold": 5550126,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/cat_ears/catearsorange"
+                    "model": "custom:item/cosmetics/hats/cat_ears/cat_ears_orange"
                 },
                 "owners": ["@public"],
                 "name": "OrangeCatEars",
@@ -291,7 +291,7 @@
                 "threshold": 5550127,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/cat_ears/catearspink"
+                    "model": "custom:item/cosmetics/hats/cat_ears/cat_ears_pink"
                 },
                 "owners": ["@public"],
                 "name": "PinkCatEars",
@@ -301,7 +301,7 @@
                 "threshold": 5550128,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/cat_ears/catearswhite"
+                    "model": "custom:item/cosmetics/hats/cat_ears/cat_ears_white"
                 },
                 "owners": ["@public"],
                 "name": "WhiteCatEars",
@@ -311,7 +311,7 @@
                 "threshold": 6849601,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/snorkel"
+                    "model": "custom:item/cosmetics/accessories/snorkel"
                 },
                 "owners": ["@public"],
                 "name": "Snorkel",
@@ -321,7 +321,7 @@
                 "threshold": 7083499,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/mooshroom/mushroomhat"
+                    "model": "custom:item/cosmetics/hats/mushroom/mushroom_hat"
                 },
                 "owners": ["PadBro", "xKellfeine", "MrCookiePrincess"],
                 "name": "MushroomHat",
@@ -331,7 +331,7 @@
                 "threshold": 7083500,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/mooshroom/mushroomhatantlers"
+                    "model": "custom:item/cosmetics/hats/mushroom/mushroom_hat_antlers"
                 },
                 "owners": ["PadBro", "xKellfeine", "MrCookiePrincess"],
                 "name": "MushroomHatAntlers",
@@ -341,7 +341,7 @@
                 "threshold": 7083501,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/xmas/antlers"
+                    "model": "custom:item/cosmetics/hats/christmas/antlers"
                 },
                 "owners": ["@public"],
                 "name": "Antlers",
@@ -351,7 +351,7 @@
                 "threshold": 7083502,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/xmas/elfhat"
+                    "model": "custom:item/cosmetics/hats/christmas/elf_hat"
                 },
                 "owners": ["@public"],
                 "name": "ElfHat",
@@ -361,7 +361,7 @@
                 "threshold": 7083503,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/xmas/santahat"
+                    "model": "custom:item/cosmetics/hats/christmas/santa_hat"
                 },
                 "owners": ["@public"],
                 "name": "SantaHat",
@@ -371,7 +371,7 @@
                 "threshold": 7083504,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/astronaut_helmet"
+                    "model": "custom:item/cosmetics/hats/astronaut/helmet"
                 },
                 "owners": ["PadBro", "xKellfeine"],
                 "name": "AstronautHelmet",
@@ -381,7 +381,7 @@
                 "threshold": 7083505,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/astronaut_guest_helmet"
+                    "model": "custom:item/cosmetics/hats/astronaut/guest_helmet"
                 },
                 "owners": ["PadBro", "xKellfeine"],
                 "name": "AstronautGuestHelmet",
@@ -391,7 +391,7 @@
                 "threshold": 7133201,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/eevee_hat"
+                    "model": "custom:item/cosmetics/hats/eevee_hat"
                 },
                 "owners": ["Tolemor", "_Smooch_"],
                 "name": "EeveeHat",
@@ -401,7 +401,7 @@
                 "threshold": 8643001,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/mooshroom/ella_antlers"
+                    "model": "custom:item/cosmetics/hats/mushroom/ella_antlers"
                 },
                 "owners": ["xKellfeine"],
                 "name": "EllaAntlers",
@@ -411,7 +411,7 @@
                 "threshold": 8643002,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/glitter_grove/strawberry"
+                    "model": "custom:item/cosmetics/hats/strawberry"
                 },
                 "owners": ["xKellfeine"],
                 "name": "Strawberry",
@@ -421,7 +421,7 @@
                 "threshold": 8643003,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/glitter_grove/forest_witch"
+                    "model": "custom:item/cosmetics/hats/wizard/forest_witch"
                 },
                 "owners": ["xKellfeine"],
                 "name": "ForestWitch",
@@ -431,7 +431,7 @@
                 "threshold": 8643004,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/glitter_grove/froghat"
+                    "model": "custom:item/cosmetics/hats/frog_hat"
                 },
                 "owners": ["xKellfeine"],
                 "name": "FrogHat",
@@ -441,7 +441,7 @@
                 "threshold": 8643005,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/glitter_grove/marisa_hat"
+                    "model": "custom:item/cosmetics/hats/wizard/marisa_hat"
                 },
                 "owners": ["xKellfeine"],
                 "name": "MarisaHat",
@@ -451,7 +451,7 @@
                 "threshold": 8643006,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/glitter_grove/bear_hat"
+                    "model": "custom:item/cosmetics/hats/bear_hat"
                 },
                 "owners": ["xKellfeine"],
                 "name": "BearHat",
@@ -461,7 +461,7 @@
                 "threshold": 8643007,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/glitter_grove/foxhat"
+                    "model": "custom:item/cosmetics/hats/fox_hat"
                 },
                 "owners": ["xKellfeine"],
                 "name": "FoxHat",
@@ -471,7 +471,7 @@
                 "threshold": 8643008,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/glitter_grove/bunny_mask"
+                    "model": "custom:item/cosmetics/accessories/bunny_mask"
                 },
                 "owners": ["xKellfeine"],
                 "name": "BunnyMask",
@@ -481,7 +481,7 @@
                 "threshold": 8643009,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/glitter_grove/bunny_hat"
+                    "model": "custom:item/cosmetics/hats/bunny_hat"
                 },
                 "owners": ["xKellfeine"],
                 "name": "BunnyHat",
@@ -491,7 +491,7 @@
                 "threshold": 8547801,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/other/dunce_hat"
+                    "model": "custom:item/cosmetics/hats/dunce_hat"
                 },
                 "owners": ["@public"],
                 "name": "DunceHat",
@@ -501,7 +501,7 @@
                 "threshold": 9208801,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/other/spingus_axolotlhat"
+                    "model": "custom:item/cosmetics/hats/spingus_axolotl_hat"
                 },
                 "owners": ["@public"],
                 "name": "AxolotlHat",
@@ -511,7 +511,7 @@
                 "threshold": 9208802,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/other/spingus_cowboyhat"
+                    "model": "custom:item/cosmetics/hats/spingus_cowboy_hat"
                 },
                 "owners": ["@public"],
                 "name": "CowboyHat",
@@ -521,7 +521,7 @@
                 "threshold": 9307201,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/ribbon_hat"
+                    "model": "custom:item/cosmetics/hats/ribbon_hat"
                 },
                 "owners": ["@public"],
                 "name": "RibbonHat",
@@ -531,7 +531,7 @@
                 "threshold": 4944201,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/glitter_grove/xmas/christmas_deer"
+                    "model": "custom:item/cosmetics/hats/christmas/christmas_deer"
                 },
                 "owners": ["xKellfeine"],
                 "name": "ChristmasDeer",
@@ -541,7 +541,7 @@
                 "threshold": 4944202,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/glitter_grove/xmas/christmas_lights"
+                    "model": "custom:item/cosmetics/hats/christmas/christmas_lights"
                 },
                 "owners": ["xKellfeine"],
                 "name": "ChristmasLights",
@@ -551,7 +551,7 @@
                 "threshold": 4944203,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/glitter_grove/xmas/green_dark_elf_hat"
+                    "model": "custom:item/cosmetics/hats/christmas/green_dark_elf_hat"
                 },
                 "owners": ["xKellfeine"],
                 "name": "GreenDarkElfHat",
@@ -561,7 +561,7 @@
                 "threshold": 4944204,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/other/safety_hat"
+                    "model": "custom:item/cosmetics/hats/safety_hat"
                 },
                 "owners": ["@public"],
                 "name": "SafetyHat",
@@ -571,7 +571,7 @@
                 "threshold": 9444201,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/other/wizard_hat_black"
+                    "model": "custom:item/cosmetics/hats/wizard/wizard_hat_black"
                 },
                 "owners": ["@public"],
                 "name": "BlackWizardHat",
@@ -581,7 +581,7 @@
                 "threshold": 9444202,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/suhatsu/conductor_hat"
+                    "model": "custom:item/cosmetics/hats/conductor_hat"
                 },
                 "owners": ["@public"],
                 "name": "ConductorHat",
@@ -591,7 +591,7 @@
                 "threshold": 9444203,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/suhatsu/laurel_bewitching"
+                    "model": "custom:item/cosmetics/hats/laurels/laurel_bewitching"
                 },
                 "owners": ["@public"],
                 "name": "BewitchingLaurel",
@@ -601,7 +601,7 @@
                 "threshold": 9444204,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/suhatsu/laurel_infernal"
+                    "model": "custom:item/cosmetics/hats/laurels/laurel_infernal"
                 },
                 "owners": ["@public"],
                 "name": "InfernalLaurel",
@@ -611,7 +611,7 @@
                 "threshold": 9444205,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/suhatsu/laurel_pink"
+                    "model": "custom:item/cosmetics/hats/laurels/laurel_pink"
                 },
                 "owners": ["@public"],
                 "name": "PinkLaurel",
@@ -621,7 +621,7 @@
                 "threshold": 9444206,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/suhatsu/laurel_gold"
+                    "model": "custom:item/cosmetics/hats/laurels/laurel_gold"
                 },
                 "owners": ["@public"],
                 "name": "GoldLaurel",
@@ -631,7 +631,7 @@
                 "threshold": 4170701,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/bottlers"
+                    "model": "custom:item/cosmetics/hats/bottlers"
                 },
                 "owners": ["Apieboy"],
                 "name": "BottlersHat",
@@ -641,7 +641,7 @@
                 "threshold": 5319601,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/suhatsu/dracatys"
+                    "model": "custom:item/cosmetics/hats/dracatys"
                 },
                 "owners": ["Suhatsu"],
                 "name": "DracatysHat",
@@ -651,7 +651,7 @@
                 "threshold": 5319602,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/suhatsu/kiara"
+                    "model": "custom:item/cosmetics/hats/kiara"
                 },
                 "owners": ["Suhatsu"],
                 "name": "KiaraHat",
@@ -661,7 +661,7 @@
                 "threshold": 5319603,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/suhatsu/mohawk"
+                    "model": "custom:item/cosmetics/hats/mohawk"
                 },
                 "owners": ["Suhatsu"],
                 "name": "Mohawk",
@@ -671,7 +671,7 @@
                 "threshold": 5319604,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/suhatsu/suhatsublink"
+                    "model": "custom:item/cosmetics/hats/suhatsu_blink"
                 },
                 "owners": ["Suhatsu"],
                 "name": "SuhatsuBlink",
@@ -681,7 +681,7 @@
                 "threshold": 9498001,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/other/lilypad_hat"
+                    "model": "custom:item/cosmetics/hats/lilypad_hat"
                 },
                 "owners": ["dylanbr19"],
                 "name": "LilypadHat",
@@ -691,7 +691,7 @@
                 "threshold": 9247201,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/hats/void_pendant"
+                    "model": "custom:item/cosmetics/accessories/void_pendant"
                 },
                 "owners": ["123BEEF321"],
                 "name": "VoidPendant",
@@ -701,7 +701,7 @@
                 "threshold": 4566601,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/bouncepad_target"
+                    "model": "custom:item/decorations/bouncepads/bouncepad_target"
                 },
                 "owners": ["@staff"],
                 "name": "OxidizedCopper",
@@ -711,7 +711,7 @@
                 "threshold": 4566602,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/bouncepad_target_2"
+                    "model": "custom:item/decorations/bouncepads/bouncepad_target_2"
                 },
                 "owners": ["@staff"],
                 "name": "Copper",
@@ -721,7 +721,7 @@
                 "threshold": 4566603,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/bouncepad_target_3"
+                    "model": "custom:item/decorations/bouncepads/bouncepad_target_3"
                 },
                 "owners": ["@staff"],
                 "name": "DeepslateBricks",
@@ -731,7 +731,7 @@
                 "threshold": 4566604,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/bouncepad_target_4"
+                    "model": "custom:item/decorations/bouncepads/bouncepad_target_4"
                 },
                 "owners": ["@staff"],
                 "name": "NetherBricks",

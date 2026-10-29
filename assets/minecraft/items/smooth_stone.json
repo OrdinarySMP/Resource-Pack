@@ -11,7 +11,7 @@
                 "threshold": 1,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/filter_smooth_stone"
+                    "model": "custom:block/filters/smooth_stone"
                 },
                 "owners": [
                     "@unkown"

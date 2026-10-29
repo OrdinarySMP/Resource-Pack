@@ -11,7 +11,7 @@
                 "threshold": 1,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/filter_dirt"
+                    "model": "custom:block/filters/dirt"
                 },
                 "owners": [
                     "@unkown"

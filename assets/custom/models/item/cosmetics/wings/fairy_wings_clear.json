@@ -1,0 +1,7 @@
+{
+    "parent": "custom:item/cosmetics/wings/fairy_wings_purple",
+    "texture_size": [ 32, 32 ],
+    "textures": {
+        "0": "custom:item/cosmetics/wings/fairy_wings_clear"
+    }
+}

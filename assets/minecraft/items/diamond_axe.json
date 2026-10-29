@@ -11,7 +11,7 @@
                 "threshold": 5478002,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/tools/cookie/xadale_axe"
+                    "model": "custom:item/equipment/sets/cookie/xadale_axe"
                 },
                 "owners": [
                     "MrCookiePrincess"
@@ -23,7 +23,7 @@
                 "threshold": 6151001,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/tools/honey/honey_axe"
+                    "model": "custom:item/equipment/sets/honey/honey_axe"
                 },
                 "owners": [
                     "PadBro"
@@ -35,7 +35,7 @@
                 "threshold": 7961301,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/tools/crystal/crystal_axe"
+                    "model": "custom:item/equipment/sets/crystal/crystal_axe"
                 },
                 "owners": [
                     "Apieboy"

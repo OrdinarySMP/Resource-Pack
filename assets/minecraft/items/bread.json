@@ -11,7 +11,7 @@
                 "threshold": 7410801,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/garlic/bread"
+                    "model": "custom:item/food/bakery/garlic_bread"
                 },
                 "owners": [
                     "PadBro",

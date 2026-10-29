@@ -13,21 +13,21 @@
                             "threshold": 1,
                             "model": {
                                 "type": "model",
-                                "model": "custom:item/tools/golden_crossbow_pulling_0"
+                                "model": "custom:item/equipment/weapons/golden_crossbow_pulling_0"
                             }
                         },
                         {
                             "threshold": 13,
                             "model": {
                                 "type": "model",
-                                "model": "custom:item/tools/golden_crossbow_pulling_1"
+                                "model": "custom:item/equipment/weapons/golden_crossbow_pulling_1"
                             }
                         },
                         {
                             "threshold": 18,
                             "model": {
                                 "type": "model",
-                                "model": "custom:item/tools/golden_crossbow_pulling_2"
+                                "model": "custom:item/equipment/weapons/golden_crossbow_pulling_2"
                             }
                         }
                     ],
@@ -40,20 +40,20 @@
                                 "when": "arrow",
                                 "model": {
                                     "type": "model",
-                                    "model": "custom:item/tools/golden_crossbow_arrow"
+                                    "model": "custom:item/equipment/weapons/golden_crossbow_arrow"
                                 }
                             },
                             {
                                 "when": "rocket",
                                 "model": {
                                     "type": "model",
-                                    "model": "custom:item/tools/golden_crossbow_firework"
+                                    "model": "custom:item/equipment/weapons/golden_crossbow_firework"
                                 }
                             }
                         ],
                         "fallback": {
                             "type": "model",
-                            "model": "custom:item/tools/golden_crossbow"
+                            "model": "custom:item/equipment/weapons/golden_crossbow"
                         }
                     }
                 },
@@ -73,21 +73,21 @@
                             "threshold": 1,
                             "model": {
                                 "type": "model",
-                                "model": "custom:item/tools/ender/ender_crossbow_pulling_0"
+                                "model": "custom:item/equipment/sets/ender/ender_crossbow_pulling_0"
                             }
                         },
                         {
                             "threshold": 13,
                             "model": {
                                 "type": "model",
-                                "model": "custom:item/tools/ender/ender_crossbow_pulling_1"
+                                "model": "custom:item/equipment/sets/ender/ender_crossbow_pulling_1"
                             }
                         },
                         {
                             "threshold": 18,
                             "model": {
                                 "type": "model",
-                                "model": "custom:item/tools/ender/ender_crossbow_pulling_2"
+                                "model": "custom:item/equipment/sets/ender/ender_crossbow_pulling_2"
                             }
                         }
                     ],
@@ -100,20 +100,20 @@
                                 "when": "arrow",
                                 "model": {
                                     "type": "model",
-                                    "model": "custom:item/tools/ender/ender_crossbow_arrow"
+                                    "model": "custom:item/equipment/sets/ender/ender_crossbow_arrow"
                                 }
                             },
                             {
                                 "when": "rocket",
                                 "model": {
                                     "type": "model",
-                                    "model": "custom:item/tools/ender/ender_crossbow_firework"
+                                    "model": "custom:item/equipment/sets/ender/ender_crossbow_firework"
                                 }
                             }
                         ],
                         "fallback": {
                             "type": "model",
-                            "model": "custom:item/tools/ender/ender_crossbow"
+                            "model": "custom:item/equipment/sets/ender/ender_crossbow"
                         }
                     }
                 },
@@ -133,21 +133,21 @@
                             "threshold": 1,
                             "model": {
                                 "type": "model",
-                                "model": "custom:item/tools/blossom/blossom_crossbow_pulling_0"
+                                "model": "custom:item/equipment/sets/blossom/blossom_crossbow_pulling_0"
                             }
                         },
                         {
                             "threshold": 13,
                             "model": {
                                 "type": "model",
-                                "model": "custom:item/tools/blossom/blossom_crossbow_pulling_1"
+                                "model": "custom:item/equipment/sets/blossom/blossom_crossbow_pulling_1"
                             }
                         },
                         {
                             "threshold": 18,
                             "model": {
                                 "type": "model",
-                                "model": "custom:item/tools/blossom/blossom_crossbow_pulling_2"
+                                "model": "custom:item/equipment/sets/blossom/blossom_crossbow_pulling_2"
                             }
                         }
                     ],
@@ -160,20 +160,20 @@
                                 "when": "arrow",
                                 "model": {
                                     "type": "model",
-                                    "model": "custom:item/tools/blossom/blossom_crossbow_arrow"
+                                    "model": "custom:item/equipment/sets/blossom/blossom_crossbow_arrow"
                                 }
                             },
                             {
                                 "when": "rocket",
                                 "model": {
                                     "type": "model",
-                                    "model": "custom:item/tools/blossom/blossom_crossbow_firework"
+                                    "model": "custom:item/equipment/sets/blossom/blossom_crossbow_firework"
                                 }
                             }
                         ],
                         "fallback": {
                             "type": "model",
-                            "model": "custom:item/tools/blossom/blossom_crossbow"
+                            "model": "custom:item/equipment/sets/blossom/blossom_crossbow"
                         }
                     }
                 },

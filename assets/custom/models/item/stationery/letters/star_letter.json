@@ -1,0 +1,6 @@
+{
+    "parent": "custom:item/stationery/letters/alarm_letter",
+    "textures": {
+        "layer0": "custom:item/stationery/letters/star_letter"
+    }
+}
