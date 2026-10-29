@@ -11,7 +11,7 @@
                 "threshold": 6151001,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/tools/honey/honey_mace"
+                    "model": "custom:item/equipment/sets/honey/honey_mace"
                 },
                 "owners": [
                     "PadBro"
@@ -23,7 +23,7 @@
                 "threshold": 6151002,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/tools/honor/honor_mace"
+                    "model": "custom:item/equipment/sets/honor/honor_mace"
                 },
                 "owners": [
                     "PadBro"
@@ -35,7 +35,7 @@
                 "threshold": 6151003,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/tools/ender/ender_mace"
+                    "model": "custom:item/equipment/sets/ender/ender_mace"
                 },
                 "owners": [
                     "PadBro"
@@ -47,7 +47,7 @@
                 "threshold": 6151004,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/tools/blossom/blossom_mace"
+                    "model": "custom:item/equipment/sets/blossom/blossom_mace"
                 },
                 "owners": [
                     "PadBro"

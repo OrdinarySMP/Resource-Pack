@@ -11,7 +11,7 @@
                 "threshold": 6390501,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plush_blue_shark"
+                    "model": "custom:item/decorations/plushies/plush_blue_shark"
                 },
                 "owners": [
                     "@public"
@@ -23,7 +23,7 @@
                 "threshold": 6390502,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plush_blue_whale"
+                    "model": "custom:item/decorations/plushies/plush_blue_whale"
                 },
                 "owners": [
                     "@public"
@@ -35,7 +35,7 @@
                 "threshold": 6390503,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plush_gray_shark"
+                    "model": "custom:item/decorations/plushies/plush_gray_shark"
                 },
                 "owners": [
                     "@public"
@@ -47,7 +47,7 @@
                 "threshold": 6390504,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_allay"
+                    "model": "custom:item/decorations/plushies/plushie_allay"
                 },
                 "owners": [
                     "@public"
@@ -59,7 +59,7 @@
                 "threshold": 6390505,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_armadillo"
+                    "model": "custom:item/decorations/plushies/plushie_armadillo"
                 },
                 "owners": [
                     "@public"
@@ -71,7 +71,7 @@
                 "threshold": 6390506,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_axolotl"
+                    "model": "custom:item/decorations/plushies/plushie_axolotl"
                 },
                 "owners": [
                     "@public"
@@ -83,7 +83,7 @@
                 "threshold": 6390507,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_bat"
+                    "model": "custom:item/decorations/plushies/plushie_bat"
                 },
                 "owners": [
                     "@public"
@@ -95,7 +95,7 @@
                 "threshold": 6390508,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_bee"
+                    "model": "custom:item/decorations/plushies/plushie_bee"
                 },
                 "owners": [
                     "@public"
@@ -107,7 +107,7 @@
                 "threshold": 6390509,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_blaze"
+                    "model": "custom:item/decorations/plushies/plushie_blaze"
                 },
                 "owners": [
                     "@public"
@@ -119,7 +119,7 @@
                 "threshold": 6390510,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_breeze"
+                    "model": "custom:item/decorations/plushies/plushie_breeze"
                 },
                 "owners": [
                     "@public"
@@ -131,7 +131,7 @@
                 "threshold": 6390511,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_camel"
+                    "model": "custom:item/decorations/plushies/plushie_camel"
                 },
                 "owners": [
                     "@public"
@@ -143,7 +143,7 @@
                 "threshold": 6390512,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_cat"
+                    "model": "custom:item/decorations/plushies/plushie_cat"
                 },
                 "owners": [
                     "@public"
@@ -155,7 +155,7 @@
                 "threshold": 6390513,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_cave_spider"
+                    "model": "custom:item/decorations/plushies/plushie_cave_spider"
                 },
                 "owners": [
                     "@public"
@@ -167,7 +167,7 @@
                 "threshold": 6390514,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_chicken"
+                    "model": "custom:item/decorations/plushies/plushie_chicken"
                 },
                 "owners": [
                     "@public"
@@ -179,7 +179,7 @@
                 "threshold": 6390515,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_cow"
+                    "model": "custom:item/decorations/plushies/plushie_cow"
                 },
                 "owners": [
                     "@public"
@@ -191,7 +191,7 @@
                 "threshold": 6390516,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_creeper"
+                    "model": "custom:item/decorations/plushies/plushie_creeper"
                 },
                 "owners": [
                     "@public"
@@ -203,7 +203,7 @@
                 "threshold": 6390517,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_dark_father"
+                    "model": "custom:item/decorations/plushies/plushie_dark_father"
                 },
                 "owners": [
                     "@public"
@@ -215,7 +215,7 @@
                 "threshold": 6390518,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_dolphin"
+                    "model": "custom:item/decorations/plushies/plushie_dolphin"
                 },
                 "owners": [
                     "@public"
@@ -227,7 +227,7 @@
                 "threshold": 6390519,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_donkey"
+                    "model": "custom:item/decorations/plushies/plushie_donkey"
                 },
                 "owners": [
                     "@public"
@@ -239,7 +239,7 @@
                 "threshold": 6390520,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_drowned"
+                    "model": "custom:item/decorations/plushies/plushie_drowned"
                 },
                 "owners": [
                     "@public"
@@ -251,7 +251,7 @@
                 "threshold": 6390521,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_elder_guardian"
+                    "model": "custom:item/decorations/plushies/plushie_elder_guardian"
                 },
                 "owners": [
                     "@public"
@@ -263,7 +263,7 @@
                 "threshold": 6390522,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_emperor"
+                    "model": "custom:item/decorations/plushies/plushie_emperor"
                 },
                 "owners": [
                     "@public"
@@ -275,7 +275,7 @@
                 "threshold": 6390523,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_enderdragon"
+                    "model": "custom:item/decorations/plushies/plushie_enderdragon"
                 },
                 "owners": [
                     "@public"
@@ -287,7 +287,7 @@
                 "threshold": 6390524,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_enderman"
+                    "model": "custom:item/decorations/plushies/plushie_enderman"
                 },
                 "owners": [
                     "@public"
@@ -299,7 +299,7 @@
                 "threshold": 6390525,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_evoker"
+                    "model": "custom:item/decorations/plushies/plushie_evoker"
                 },
                 "owners": [
                     "@public"
@@ -311,7 +311,7 @@
                 "threshold": 6390526,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_fox"
+                    "model": "custom:item/decorations/plushies/plushie_fox"
                 },
                 "owners": [
                     "@public"
@@ -323,7 +323,7 @@
                 "threshold": 6390527,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_frog"
+                    "model": "custom:item/decorations/plushies/plushie_frog"
                 },
                 "owners": [
                     "@public"
@@ -335,7 +335,7 @@
                 "threshold": 6390528,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_ghast"
+                    "model": "custom:item/decorations/plushies/plushie_ghast"
                 },
                 "owners": [
                     "@public"
@@ -347,7 +347,7 @@
                 "threshold": 6390529,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_glow_squid"
+                    "model": "custom:item/decorations/plushies/plushie_glow_squid"
                 },
                 "owners": [
                     "@public"
@@ -359,7 +359,7 @@
                 "threshold": 6390530,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_goat"
+                    "model": "custom:item/decorations/plushies/plushie_goat"
                 },
                 "owners": [
                     "@public"
@@ -371,7 +371,7 @@
                 "threshold": 6390531,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_guardian"
+                    "model": "custom:item/decorations/plushies/plushie_guardian"
                 },
                 "owners": [
                     "@public"
@@ -383,7 +383,7 @@
                 "threshold": 6390532,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_hoglin"
+                    "model": "custom:item/decorations/plushies/plushie_hoglin"
                 },
                 "owners": [
                     "@public"
@@ -395,7 +395,7 @@
                 "threshold": 6390533,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_horse"
+                    "model": "custom:item/decorations/plushies/plushie_horse"
                 },
                 "owners": [
                     "@public"
@@ -407,7 +407,7 @@
                 "threshold": 6390534,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_husk"
+                    "model": "custom:item/decorations/plushies/plushie_husk"
                 },
                 "owners": [
                     "@public"
@@ -419,7 +419,7 @@
                 "threshold": 6390535,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_iron_golem"
+                    "model": "custom:item/decorations/plushies/plushie_iron_golem"
                 },
                 "owners": [
                     "@public"
@@ -431,7 +431,7 @@
                 "threshold": 6390536,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_llama"
+                    "model": "custom:item/decorations/plushies/plushie_llama"
                 },
                 "owners": [
                     "@public"
@@ -443,7 +443,7 @@
                 "threshold": 6390537,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_magma_cube"
+                    "model": "custom:item/decorations/plushies/plushie_magma_cube"
                 },
                 "owners": [
                     "@public"
@@ -455,7 +455,7 @@
                 "threshold": 6390538,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_mooshroom"
+                    "model": "custom:item/decorations/plushies/plushie_mooshroom"
                 },
                 "owners": [
                     "@public"
@@ -467,7 +467,7 @@
                 "threshold": 6390539,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_mule"
+                    "model": "custom:item/decorations/plushies/plushie_mule"
                 },
                 "owners": [
                     "@public"
@@ -479,7 +479,7 @@
                 "threshold": 6390540,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_panda"
+                    "model": "custom:item/decorations/plushies/plushie_panda"
                 },
                 "owners": [
                     "@public"
@@ -491,7 +491,7 @@
                 "threshold": 6390541,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_parrot"
+                    "model": "custom:item/decorations/plushies/plushie_parrot"
                 },
                 "owners": [
                     "@public"
@@ -503,7 +503,7 @@
                 "threshold": 6390542,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_phantom"
+                    "model": "custom:item/decorations/plushies/plushie_phantom"
                 },
                 "owners": [
                     "@public"
@@ -515,7 +515,7 @@
                 "threshold": 6390543,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_pig"
+                    "model": "custom:item/decorations/plushies/plushie_pig"
                 },
                 "owners": [
                     "@public"
@@ -527,7 +527,7 @@
                 "threshold": 6390544,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_piglin"
+                    "model": "custom:item/decorations/plushies/plushie_piglin"
                 },
                 "owners": [
                     "@public"
@@ -539,7 +539,7 @@
                 "threshold": 6390545,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_piglin_brute"
+                    "model": "custom:item/decorations/plushies/plushie_piglin_brute"
                 },
                 "owners": [
                     "@public"
@@ -551,7 +551,7 @@
                 "threshold": 6390546,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_pillager"
+                    "model": "custom:item/decorations/plushies/plushie_pillager"
                 },
                 "owners": [
                     "@public"
@@ -563,7 +563,7 @@
                 "threshold": 6390547,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_polar_bear"
+                    "model": "custom:item/decorations/plushies/plushie_polar_bear"
                 },
                 "owners": [
                     "@public"
@@ -575,7 +575,7 @@
                 "threshold": 6390548,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_pufferfish"
+                    "model": "custom:item/decorations/plushies/plushie_pufferfish"
                 },
                 "owners": [
                     "@public"
@@ -587,7 +587,7 @@
                 "threshold": 6390549,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_rabbit"
+                    "model": "custom:item/decorations/plushies/plushie_rabbit"
                 },
                 "owners": [
                     "@public"
@@ -599,7 +599,7 @@
                 "threshold": 6390550,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_ravager"
+                    "model": "custom:item/decorations/plushies/plushie_ravager"
                 },
                 "owners": [
                     "@public"
@@ -611,7 +611,7 @@
                 "threshold": 6390551,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_sheep"
+                    "model": "custom:item/decorations/plushies/plushie_sheep"
                 },
                 "owners": [
                     "@public"
@@ -623,7 +623,7 @@
                 "threshold": 6390552,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_shulker"
+                    "model": "custom:item/decorations/plushies/plushie_shulker"
                 },
                 "owners": [
                     "@public"
@@ -635,7 +635,7 @@
                 "threshold": 6390553,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_skeleton"
+                    "model": "custom:item/decorations/plushies/plushie_skeleton"
                 },
                 "owners": [
                     "@public"
@@ -647,7 +647,7 @@
                 "threshold": 6390554,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_skeleton_horse"
+                    "model": "custom:item/decorations/plushies/plushie_skeleton_horse"
                 },
                 "owners": [
                     "@public"
@@ -659,7 +659,7 @@
                 "threshold": 6390555,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_slime"
+                    "model": "custom:item/decorations/plushies/plushie_slime"
                 },
                 "owners": [
                     "@public"
@@ -671,7 +671,7 @@
                 "threshold": 6390556,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_sniffer"
+                    "model": "custom:item/decorations/plushies/plushie_sniffer"
                 },
                 "owners": [
                     "@public"
@@ -683,7 +683,7 @@
                 "threshold": 6390557,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_spider"
+                    "model": "custom:item/decorations/plushies/plushie_spider"
                 },
                 "owners": [
                     "@public"
@@ -695,7 +695,7 @@
                 "threshold": 6390558,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_squid"
+                    "model": "custom:item/decorations/plushies/plushie_squid"
                 },
                 "owners": [
                     "@public"
@@ -707,7 +707,7 @@
                 "threshold": 6390559,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_storm_soldier"
+                    "model": "custom:item/decorations/plushies/plushie_storm_soldier"
                 },
                 "owners": [
                     "@public"
@@ -719,7 +719,7 @@
                 "threshold": 6390560,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_stray"
+                    "model": "custom:item/decorations/plushies/plushie_stray"
                 },
                 "owners": [
                     "@public"
@@ -731,7 +731,7 @@
                 "threshold": 6390561,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_strider"
+                    "model": "custom:item/decorations/plushies/plushie_strider"
                 },
                 "owners": [
                     "@public"
@@ -743,7 +743,7 @@
                 "threshold": 6390562,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_trader_lama"
+                    "model": "custom:item/decorations/plushies/plushie_trader_lama"
                 },
                 "owners": [
                     "@public"
@@ -755,7 +755,7 @@
                 "threshold": 6390563,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_turtle"
+                    "model": "custom:item/decorations/plushies/plushie_turtle"
                 },
                 "owners": [
                     "@public"
@@ -767,7 +767,7 @@
                 "threshold": 6390564,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_vex"
+                    "model": "custom:item/decorations/plushies/plushie_vex"
                 },
                 "owners": [
                     "@public"
@@ -779,7 +779,7 @@
                 "threshold": 6390565,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_villager"
+                    "model": "custom:item/decorations/plushies/plushie_villager"
                 },
                 "owners": [
                     "@public"
@@ -791,7 +791,7 @@
                 "threshold": 6390566,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_vindicator"
+                    "model": "custom:item/decorations/plushies/plushie_vindicator"
                 },
                 "owners": [
                     "@public"
@@ -803,7 +803,7 @@
                 "threshold": 6390567,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_wandering_trader"
+                    "model": "custom:item/decorations/plushies/plushie_wandering_trader"
                 },
                 "owners": [
                     "@public"
@@ -815,7 +815,7 @@
                 "threshold": 6390568,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_warden"
+                    "model": "custom:item/decorations/plushies/plushie_warden"
                 },
                 "owners": [
                     "@public"
@@ -827,7 +827,7 @@
                 "threshold": 6390569,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_witch"
+                    "model": "custom:item/decorations/plushies/plushie_witch"
                 },
                 "owners": [
                     "@public"
@@ -839,7 +839,7 @@
                 "threshold": 6390570,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_wither"
+                    "model": "custom:item/decorations/plushies/plushie_wither"
                 },
                 "owners": [
                     "@public"
@@ -851,7 +851,7 @@
                 "threshold": 6390571,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_wither_skeleton"
+                    "model": "custom:item/decorations/plushies/plushie_wither_skeleton"
                 },
                 "owners": [
                     "@public"
@@ -863,7 +863,7 @@
                 "threshold": 6390572,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_wolf"
+                    "model": "custom:item/decorations/plushies/plushie_wolf"
                 },
                 "owners": [
                     "@public"
@@ -875,7 +875,7 @@
                 "threshold": 6390573,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_yoda"
+                    "model": "custom:item/decorations/plushies/plushie_yoda"
                 },
                 "owners": [
                     "@public"
@@ -887,7 +887,7 @@
                 "threshold": 6390574,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_zoglin"
+                    "model": "custom:item/decorations/plushies/plushie_zoglin"
                 },
                 "owners": [
                     "@public"
@@ -899,7 +899,7 @@
                 "threshold": 6390575,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_zombie"
+                    "model": "custom:item/decorations/plushies/plushie_zombie"
                 },
                 "owners": [
                     "@public"
@@ -911,7 +911,7 @@
                 "threshold": 6390576,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_zombie_villager"
+                    "model": "custom:item/decorations/plushies/plushie_zombie_villager"
                 },
                 "owners": [
                     "@public"
@@ -923,7 +923,7 @@
                 "threshold": 6390577,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/plushies/plushie_zombified_piglin"
+                    "model": "custom:item/decorations/plushies/plushie_zombified_piglin"
                 },
                 "owners": [
                     "@public"

@@ -11,7 +11,7 @@
                 "threshold": 1,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/filter_diorite"
+                    "model": "custom:block/filters/diorite"
                 },
                 "owners": [
                     "@unkown"

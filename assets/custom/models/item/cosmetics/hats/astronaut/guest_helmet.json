@@ -1,0 +1,7 @@
+{
+	"parent": "custom:item/cosmetics/hats/astronaut/helmet",
+	"textures": {
+		"0": "custom:item/cosmetics/hats/astronaut/guest_helmet",
+		"particle": "custom:item/cosmetics/hats/astronaut/guest_helmet"
+	}
+}

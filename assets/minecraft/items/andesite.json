@@ -11,7 +11,7 @@
                 "threshold": 1,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/filter_andesite"
+                    "model": "custom:block/filters/andesite"
                 },
                 "owners": [
                     "@unkown"

@@ -11,7 +11,7 @@
                 "threshold": 4161901,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/witherbone"
+                    "model": "custom:item/materials/wither_bone"
                 },
                 "owners": [
                     "Hayen92"

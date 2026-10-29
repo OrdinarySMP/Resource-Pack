@@ -1,0 +1,8 @@
+{
+  "credit": "JustTimm's Lightsaber Workshop Resource Pack by JustTimm - https://linktr.ee/JustTimm",
+  "parent": "custom:item/equipment/weapons/lightsabers/blade_obi_wan_kenobi_jedi_master_lightsaber",
+  "textures": {
+    "hilt": "custom:item/equipment/weapons/lightsabers/blade_luke_skywalker_green_lightsaber",
+	"blade_color": "custom:item/equipment/weapons/lightsabers/blade_green"
+  }
+}

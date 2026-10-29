@@ -11,7 +11,7 @@ def generate_models():
         print("Usage:")
         print(
             "python generate_item_models.py "
-            "assets/custom/textures/item/food/pastries/s4"
+            "assets/custom/textures/item/food/bakery"
         )
         input("\nPress Enter to exit...")
         return

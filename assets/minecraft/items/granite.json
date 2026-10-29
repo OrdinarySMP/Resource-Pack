@@ -11,7 +11,7 @@
                 "threshold": 1,
                 "model": {
                     "type": "model",
-                    "model": "custom:block/filter_granite"
+                    "model": "custom:block/filters/granite"
                 },
                 "owners": [
                     "@unkown"

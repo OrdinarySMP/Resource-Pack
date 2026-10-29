@@ -13,27 +13,27 @@
                             "threshold": 1,
                             "model": {
                                 "type": "model",
-                                "model": "custom:item/tools/cookie/cookie_bow_pulling_0"
+                                "model": "custom:item/equipment/sets/cookie/cookie_bow_pulling_0"
                             }
                         },
                         {
                             "threshold": 13,
                             "model": {
                                 "type": "model",
-                                "model": "custom:item/tools/cookie/cookie_bow_pulling_1"
+                                "model": "custom:item/equipment/sets/cookie/cookie_bow_pulling_1"
                             }
                         },
                         {
                             "threshold": 18,
                             "model": {
                                 "type": "model",
-                                "model": "custom:item/tools/cookie/cookie_bow_pulling_2"
+                                "model": "custom:item/equipment/sets/cookie/cookie_bow_pulling_2"
                             }
                         }
                     ],
                     "fallback": {
                         "type": "model",
-                        "model": "custom:item/tools/cookie/cookie_bow"
+                        "model": "custom:item/equipment/sets/cookie/cookie_bow"
                     }
                 },
                 "owners": [
@@ -52,27 +52,27 @@
                             "threshold": 1,
                             "model": {
                                 "type": "model",
-                                "model": "custom:item/tools/ender/ender_bow_pulling_0"
+                                "model": "custom:item/equipment/sets/ender/ender_bow_pulling_0"
                             }
                         },
                         {
                             "threshold": 13,
                             "model": {
                                 "type": "model",
-                                "model": "custom:item/tools/ender/ender_bow_pulling_1"
+                                "model": "custom:item/equipment/sets/ender/ender_bow_pulling_1"
                             }
                         },
                         {
                             "threshold": 18,
                             "model": {
                                 "type": "model",
-                                "model": "custom:item/tools/ender/ender_bow_pulling_2"
+                                "model": "custom:item/equipment/sets/ender/ender_bow_pulling_2"
                             }
                         }
                     ],
                     "fallback": {
                         "type": "model",
-                        "model": "custom:item/tools/ender/ender_bow"
+                        "model": "custom:item/equipment/sets/ender/ender_bow"
                     }
                 },
                 "owners": [
@@ -91,27 +91,27 @@
                             "threshold": 1,
                             "model": {
                                 "type": "model",
-                                "model": "custom:item/tools/blossom/blossom_bow_pulling_0"
+                                "model": "custom:item/equipment/sets/blossom/blossom_bow_pulling_0"
                             }
                         },
                         {
                             "threshold": 13,
                             "model": {
                                 "type": "model",
-                                "model": "custom:item/tools/blossom/blossom_bow_pulling_1"
+                                "model": "custom:item/equipment/sets/blossom/blossom_bow_pulling_1"
                             }
                         },
                         {
                             "threshold": 18,
                             "model": {
                                 "type": "model",
-                                "model": "custom:item/tools/blossom/blossom_bow_pulling_2"
+                                "model": "custom:item/equipment/sets/blossom/blossom_bow_pulling_2"
                             }
                         }
                     ],
                     "fallback": {
                         "type": "model",
-                        "model": "custom:item/tools/blossom/blossom_bow"
+                        "model": "custom:item/equipment/sets/blossom/blossom_bow"
                     }
                 },
                 "owners": [

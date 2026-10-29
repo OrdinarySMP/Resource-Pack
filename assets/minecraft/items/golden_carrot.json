@@ -11,7 +11,7 @@
                 "threshold": 5569101,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/gingerbread"
+                    "model": "custom:item/food/bakery/gingerbread"
                 },
                 "owners": [
                     "MrCookiePrincess"
@@ -35,7 +35,7 @@
                 "threshold": 5569103,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/cheesecake"
+                    "model": "custom:item/food/desserts/cheesecake"
                 },
                 "owners": [
                     "@public"
@@ -47,7 +47,7 @@
                 "threshold": 5569104,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/glazed_donut"
+                    "model": "custom:item/food/desserts/glazed_donut"
                 },
                 "owners": [
                     "@public"
@@ -59,7 +59,7 @@
                 "threshold": 5569105,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/iced_chocolate"
+                    "model": "custom:item/food/drinks/iced_chocolate"
                 },
                 "owners": [
                     "@public"
@@ -71,7 +71,7 @@
                 "threshold": 5569106,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/pineapple_cake"
+                    "model": "custom:item/food/desserts/pineapple_cake"
                 },
                 "owners": [
                     "@public"
@@ -83,7 +83,7 @@
                 "threshold": 5569107,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/grape_jello"
+                    "model": "custom:item/food/desserts/grape_jello"
                 },
                 "owners": [
                     "@public"
@@ -95,7 +95,7 @@
                 "threshold": 5569108,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/strawberry_cinnamon_roll"
+                    "model": "custom:item/food/bakery/strawberry_cinnamon_roll"
                 },
                 "owners": [
                     "@public"
@@ -107,7 +107,7 @@
                 "threshold": 5569109,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/americano"
+                    "model": "custom:item/food/drinks/americano"
                 },
                 "owners": [
                     "@public"
@@ -119,7 +119,7 @@
                 "threshold": 5569110,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/pancakes"
+                    "model": "custom:item/food/desserts/pancakes"
                 },
                 "owners": [
                     "@public"
@@ -131,7 +131,7 @@
                 "threshold": 5569111,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/cherry_pie"
+                    "model": "custom:item/food/desserts/cherry_pie"
                 },
                 "owners": [
                     "@public"
@@ -143,7 +143,7 @@
                 "threshold": 5569112,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/strawberry_shortcake"
+                    "model": "custom:item/food/desserts/strawberry_shortcake"
                 },
                 "owners": [
                     "@public"
@@ -155,7 +155,7 @@
                 "threshold": 5569113,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/matcha_donut"
+                    "model": "custom:item/food/desserts/matcha_donut"
                 },
                 "owners": [
                     "@public"
@@ -167,7 +167,7 @@
                 "threshold": 5569114,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/iced_mocha"
+                    "model": "custom:item/food/drinks/iced_mocha"
                 },
                 "owners": [
                     "@public"
@@ -179,7 +179,7 @@
                 "threshold": 5569115,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/raspberry_tart"
+                    "model": "custom:item/food/desserts/raspberry_tart"
                 },
                 "owners": [
                     "@public"
@@ -191,7 +191,7 @@
                 "threshold": 5569116,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/chocolate_mousse"
+                    "model": "custom:item/food/desserts/chocolate_mousse"
                 },
                 "owners": [
                     "@public"
@@ -203,7 +203,7 @@
                 "threshold": 5569117,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/blueberry_cinnamon_roll"
+                    "model": "custom:item/food/bakery/blueberry_cinnamon_roll"
                 },
                 "owners": [
                     "@public"
@@ -215,7 +215,7 @@
                 "threshold": 5569118,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/cappuccino"
+                    "model": "custom:item/food/drinks/cappuccino"
                 },
                 "owners": [
                     "@public"
@@ -227,7 +227,7 @@
                 "threshold": 5569119,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/maple_pancakes"
+                    "model": "custom:item/food/desserts/maple_pancakes"
                 },
                 "owners": [
                     "@public"
@@ -239,7 +239,7 @@
                 "threshold": 5569120,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/key_lime_pie"
+                    "model": "custom:item/food/desserts/key_lime_pie"
                 },
                 "owners": [
                     "@public"
@@ -251,7 +251,7 @@
                 "threshold": 5569121,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/apple_pie"
+                    "model": "custom:item/food/desserts/apple_pie"
                 },
                 "owners": [
                     "@public"
@@ -263,7 +263,7 @@
                 "threshold": 5569122,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/raspberry_donut"
+                    "model": "custom:item/food/desserts/raspberry_donut"
                 },
                 "owners": [
                     "@public"
@@ -275,7 +275,7 @@
                 "threshold": 5569123,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/iced_catto_latte"
+                    "model": "custom:item/food/drinks/iced_catto_latte"
                 },
                 "owners": [
                     "@public"
@@ -287,7 +287,7 @@
                 "threshold": 5569124,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/french_toast"
+                    "model": "custom:item/food/bakery/french_toast"
                 },
                 "owners": [
                     "@public"
@@ -299,7 +299,7 @@
                 "threshold": 5569125,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/lime_jello"
+                    "model": "custom:item/food/desserts/lime_jello"
                 },
                 "owners": [
                     "@public"
@@ -311,7 +311,7 @@
                 "threshold": 5569126,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/cinnamon_roll"
+                    "model": "custom:item/food/bakery/cinnamon_roll"
                 },
                 "owners": [
                     "@public"
@@ -323,7 +323,7 @@
                 "threshold": 5569127,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/catto_latte"
+                    "model": "custom:item/food/drinks/catto_latte"
                 },
                 "owners": [
                     "@public"
@@ -335,7 +335,7 @@
                 "threshold": 5569128,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/berry_pancakes"
+                    "model": "custom:item/food/desserts/berry_pancakes"
                 },
                 "owners": [
                     "@public"
@@ -347,7 +347,7 @@
                 "threshold": 5569129,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s3/blueberry_cake"
+                    "model": "custom:item/food/desserts/blueberry_cake"
                 },
                 "owners": [
                     "@public"
@@ -359,7 +359,7 @@
                 "threshold": 5569130,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/christmas2025/gingerbreadman"
+                    "model": "custom:item/food/bakery/gingerbreadman"
                 },
                 "owners": [
                     "MrCookiePrincess"
@@ -371,7 +371,7 @@
                 "threshold": 5569131,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/christmas2025/candycane"
+                    "model": "custom:item/food/desserts/candy_cane"
                 },
                 "owners": [
                     "MrCookiePrincess"
@@ -383,7 +383,7 @@
                 "threshold": 5569132,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/christmas2025/hotchocolate"
+                    "model": "custom:item/food/drinks/hot_chocolate"
                 },
                 "owners": [
                     "MrCookiePrincess"
@@ -395,7 +395,7 @@
                 "threshold": 5569133,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/christmas2025/smores"
+                    "model": "custom:item/food/desserts/smores"
                 },
                 "owners": [
                     "MrCookiePrincess"
@@ -407,7 +407,7 @@
                 "threshold": 6042101,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/icecream/banana_cone"
+                    "model": "custom:item/food/ice_cream/banana_cone"
                 },
                 "owners": [
                     "@public"
@@ -419,7 +419,7 @@
                 "threshold": 6042102,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/icecream/banana_milkshake"
+                    "model": "custom:item/food/drinks/banana_milkshake"
                 },
                 "owners": [
                     "@public"
@@ -431,7 +431,7 @@
                 "threshold": 6042103,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/icecream/chocolate_milkshake"
+                    "model": "custom:item/food/drinks/chocolate_milkshake"
                 },
                 "owners": [
                     "@public"
@@ -443,7 +443,7 @@
                 "threshold": 6042104,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/icecream/double_chunk_chocolate_chip_cone"
+                    "model": "custom:item/food/ice_cream/double_chunk_chocolate_chip_cone"
                 },
                 "owners": [
                     "@public"
@@ -455,7 +455,7 @@
                 "threshold": 6042105,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/icecream/mint_chocolate_chip_cone"
+                    "model": "custom:item/food/ice_cream/mint_chocolate_chip_cone"
                 },
                 "owners": [
                     "@public"
@@ -467,7 +467,7 @@
                 "threshold": 6042106,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/icecream/mint_chocolate_chip_milkshake"
+                    "model": "custom:item/food/drinks/mint_chocolate_chip_milkshake"
                 },
                 "owners": [
                     "@public"
@@ -479,7 +479,7 @@
                 "threshold": 6042107,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/icecream/strawberry_cone"
+                    "model": "custom:item/food/ice_cream/strawberry_cone"
                 },
                 "owners": [
                     "@public"
@@ -491,7 +491,7 @@
                 "threshold": 6042108,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/icecream/strawberry_milkshake"
+                    "model": "custom:item/food/drinks/strawberry_milkshake"
                 },
                 "owners": [
                     "@public"
@@ -503,7 +503,7 @@
                 "threshold": 6042109,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/icecream/vanilla_cone"
+                    "model": "custom:item/food/ice_cream/vanilla_cone"
                 },
                 "owners": [
                     "@public"
@@ -515,7 +515,7 @@
                 "threshold": 6042110,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/icecream/vanilla_milkshake"
+                    "model": "custom:item/food/drinks/vanilla_milkshake"
                 },
                 "owners": [
                     "@public"
@@ -527,7 +527,7 @@
                 "threshold": 6042111,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/icecream/mango_slushy"
+                    "model": "custom:item/food/drinks/mango_slushy"
                 },
                 "owners": [
                     "@public"
@@ -539,7 +539,7 @@
                 "threshold": 6042112,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/icecream/mango_sorbet"
+                    "model": "custom:item/food/ice_cream/mango_sorbet"
                 },
                 "owners": [
                     "@public"
@@ -551,7 +551,7 @@
                 "threshold": 7410801,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/garlic/garlic"
+                    "model": "custom:item/food/ingredients/garlic"
                 },
                 "owners": [
                     "@public"
@@ -563,7 +563,7 @@
                 "threshold": 7513201,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/fastfood/burger"
+                    "model": "custom:item/food/meals/burger"
                 },
                 "owners": [
                     "@public"
@@ -575,7 +575,7 @@
                 "threshold": 7513202,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/fastfood/fries"
+                    "model": "custom:item/food/meals/fries"
                 },
                 "owners": [
                     "@public"
@@ -587,7 +587,7 @@
                 "threshold": 7706401,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/cocacola"
+                    "model": "custom:item/food/drinks/coca_cola"
                 },
                 "owners": [
                     "@public"
@@ -599,7 +599,7 @@
                 "threshold": 7706402,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/tea"
+                    "model": "custom:item/food/drinks/tea"
                 },
                 "owners": [
                     "@public"
@@ -611,7 +611,7 @@
                 "threshold": 1346101,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/choco/hot_choco_cyan"
+                    "model": "custom:item/food/drinks/hot_choco_cyan"
                 },
                 "owners": [
                     "@public"
@@ -623,7 +623,7 @@
                 "threshold": 1346102,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/choco/hot_choco_pink"
+                    "model": "custom:item/food/drinks/hot_choco_pink"
                 },
                 "owners": [
                     "@public"
@@ -635,7 +635,7 @@
                 "threshold": 7360901,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/soul_food"
+                    "model": "custom:item/food/meals/soul_food"
                 },
                 "owners": [
                     "Shadew"
@@ -647,7 +647,7 @@
                 "threshold": 5888701,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/mcdevilsmeals/cherry_tarte"
+                    "model": "custom:item/food/desserts/mc_devils_cherry_tarte"
                 },
                 "owners": [
                     "DevilPowers"
@@ -659,7 +659,7 @@
                 "threshold": 5888702,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/mcdevilsmeals/mc_devil_burger"
+                    "model": "custom:item/food/meals/mc_devils_burger"
                 },
                 "owners": [
                     "DevilPowers"
@@ -671,7 +671,7 @@
                 "threshold": 5888703,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/mcdevilsmeals/chips"
+                    "model": "custom:item/food/meals/mc_devils_chips"
                 },
                 "owners": [
                     "DevilPowers"
@@ -683,7 +683,7 @@
                 "threshold": 2106501,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s4/apple_cupcake"
+                    "model": "custom:item/food/desserts/apple_cupcake"
                 },
                 "owners": [
                     "xKellfeine"
@@ -695,7 +695,7 @@
                 "threshold": 2106502,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s4/baguette"
+                    "model": "custom:item/food/bakery/baguette"
                 },
                 "owners": [
                     "xKellfeine"
@@ -707,7 +707,7 @@
                 "threshold": 2106503,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s4/berry_tart_slice"
+                    "model": "custom:item/food/desserts/berry_tart_slice"
                 },
                 "owners": [
                     "xKellfeine"
@@ -719,7 +719,7 @@
                 "threshold": 2106504,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s4/braided_bread"
+                    "model": "custom:item/food/bakery/braided_bread"
                 },
                 "owners": [
                     "xKellfeine"
@@ -731,7 +731,7 @@
                 "threshold": 2106505,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s4/bread"
+                    "model": "custom:item/food/bakery/bread"
                 },
                 "owners": [
                     "xKellfeine"
@@ -743,7 +743,7 @@
                 "threshold": 2106506,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s4/bun"
+                    "model": "custom:item/food/bakery/bun"
                 },
                 "owners": [
                     "xKellfeine"
@@ -755,7 +755,7 @@
                 "threshold": 2106507,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s4/bundt_cake"
+                    "model": "custom:item/food/bakery/bundt_cake"
                 },
                 "owners": [
                     "xKellfeine"
@@ -767,7 +767,7 @@
                 "threshold": 2106508,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s4/chocolate_cake"
+                    "model": "custom:item/food/desserts/chocolate_cake"
                 },
                 "owners": [
                     "xKellfeine"
@@ -779,7 +779,7 @@
                 "threshold": 2106509,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s4/chocolate_gateau"
+                    "model": "custom:item/food/drinks/chocolate_gateau"
                 },
                 "owners": [
                     "xKellfeine"
@@ -791,7 +791,7 @@
                 "threshold": 2106510,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s4/chocolate_glazed_cookie"
+                    "model": "custom:item/food/desserts/chocolate_glazed_cookie"
                 },
                 "owners": [
                     "xKellfeine"
@@ -803,7 +803,7 @@
                 "threshold": 2106511,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s4/chocolate_tart"
+                    "model": "custom:item/food/desserts/chocolate_tart"
                 },
                 "owners": [
                     "xKellfeine"
@@ -815,7 +815,7 @@
                 "threshold": 2106512,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s4/cornet"
+                    "model": "custom:item/food/bakery/cornet"
                 },
                 "owners": [
                     "xKellfeine"
@@ -827,7 +827,7 @@
                 "threshold": 2106513,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s4/croissant"
+                    "model": "custom:item/food/bakery/croissant"
                 },
                 "owners": [
                     "xKellfeine"
@@ -839,7 +839,7 @@
                 "threshold": 2106514,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s4/crusty_bread"
+                    "model": "custom:item/food/bakery/crusty_bread"
                 },
                 "owners": [
                     "xKellfeine"
@@ -851,7 +851,7 @@
                 "threshold": 2106515,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s4/jam_roll"
+                    "model": "custom:item/food/bakery/jam_roll"
                 },
                 "owners": [
                     "xKellfeine"
@@ -863,7 +863,7 @@
                 "threshold": 2106516,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s4/pizza"
+                    "model": "custom:item/food/meals/pizza"
                 },
                 "owners": [
                     "xKellfeine"
@@ -875,7 +875,7 @@
                 "threshold": 2106517,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s4/pudding"
+                    "model": "custom:item/food/desserts/pudding"
                 },
                 "owners": [
                     "xKellfeine"
@@ -887,7 +887,7 @@
                 "threshold": 2106518,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s4/sandwich"
+                    "model": "custom:item/food/meals/sandwich"
                 },
                 "owners": [
                     "xKellfeine"
@@ -899,7 +899,7 @@
                 "threshold": 2106519,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s4/strawberry_cake"
+                    "model": "custom:item/food/desserts/strawberry_cake"
                 },
                 "owners": [
                     "xKellfeine"
@@ -911,7 +911,7 @@
                 "threshold": 2106520,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s4/strawberry_cupcake"
+                    "model": "custom:item/food/desserts/strawberry_cupcake"
                 },
                 "owners": [
                     "xKellfeine"
@@ -923,7 +923,7 @@
                 "threshold": 2106521,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s4/strawberry_glazed_cookie"
+                    "model": "custom:item/food/desserts/strawberry_glazed_cookie"
                 },
                 "owners": [
                     "xKellfeine"
@@ -935,7 +935,7 @@
                 "threshold": 2106522,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s4/toast"
+                    "model": "custom:item/food/bakery/toast"
                 },
                 "owners": [
                     "xKellfeine"
@@ -947,7 +947,7 @@
                 "threshold": 2106523,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s4/vegetable_sandwich"
+                    "model": "custom:item/food/meals/vegetable_sandwich"
                 },
                 "owners": [
                     "xKellfeine"
@@ -959,7 +959,7 @@
                 "threshold": 2106524,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/food/pastries/s4/waffle"
+                    "model": "custom:item/food/desserts/waffle"
                 },
                 "owners": [
                     "xKellfeine"
