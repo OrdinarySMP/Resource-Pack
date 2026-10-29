@@ -5,7 +5,8 @@
         32
     ],
     "textures": {
-        "1": "custom:item/flags/progress_flag"
+        "1": "custom:item/flags/progress_flag",
+        "particle": "#1"
     },
     "elements": [
         {

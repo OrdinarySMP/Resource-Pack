@@ -6,7 +6,8 @@
     ],
     "render_type": "minecraft:cutout",
     "textures": {
-        "1": "custom:item/decorations/plushies/emperor_texture"
+        "1": "custom:item/decorations/plushies/emperor_texture",
+        "particle": "#1"
     },
     "elements": [
         {

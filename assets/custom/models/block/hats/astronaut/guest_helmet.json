@@ -1,0 +1,7 @@
+{
+    "parent": "custom:block/hats/astronaut/helmet",
+    "textures": {
+        "0": "custom:block/hats/astronaut/guest_helmet",
+        "particle": "custom:block/hats/astronaut/guest_helmet"
+    }
+}

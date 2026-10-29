@@ -6,7 +6,8 @@
         64
     ],
     "textures": {
-        "2": "custom:item/decorations/plushies/alien"
+        "2": "custom:item/decorations/plushies/alien",
+        "particle": "#2"
     },
     "elements": [
         {

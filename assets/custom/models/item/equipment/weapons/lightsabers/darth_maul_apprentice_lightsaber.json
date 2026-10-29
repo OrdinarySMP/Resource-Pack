@@ -7,7 +7,8 @@
     "textures": {
         "hilt": "custom:item/equipment/weapons/lightsabers/darth_maul_apprentice_lightsaber",
         "blade_center": "custom:item/equipment/weapons/lightsabers/center_lightsaber",
-        "blade_color": "custom:item/equipment/weapons/lightsabers/red_lightsaber"
+        "blade_color": "custom:item/equipment/weapons/lightsabers/red_lightsaber",
+        "particle": "#hilt"
     },
     "elements": [
         {

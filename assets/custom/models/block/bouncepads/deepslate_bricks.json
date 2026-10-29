@@ -1,0 +1,6 @@
+{
+    "parent": "custom:block/bouncepads/oxidized_copper",
+    "textures": {
+        "2": "custom:block/bouncepads/deepslate_bricks"
+    }
+}

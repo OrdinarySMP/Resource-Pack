@@ -5,7 +5,8 @@
         32
     ],
     "textures": {
-        "0": "custom:item/equipment/sets/cookie/cookie_camera"
+        "0": "custom:item/equipment/sets/cookie/cookie_camera",
+        "particle": "#0"
     },
     "elements": [
         {

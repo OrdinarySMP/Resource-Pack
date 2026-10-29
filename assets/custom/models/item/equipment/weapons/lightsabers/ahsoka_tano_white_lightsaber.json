@@ -7,7 +7,8 @@
     "textures": {
         "hilt": "custom:item/equipment/weapons/lightsabers/ahsoka_tano_white_lightsabers_lightsaber",
         "blade_center": "custom:item/equipment/weapons/lightsabers/center_lightsaber",
-        "blade_color": "custom:item/equipment/weapons/lightsabers/white_lightsaber"
+        "blade_color": "custom:item/equipment/weapons/lightsabers/white_lightsaber",
+        "particle": "#hilt"
     },
     "elements": [
         {
