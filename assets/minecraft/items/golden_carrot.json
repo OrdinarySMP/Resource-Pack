@@ -12,7 +12,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/gingerbread"
-                }
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "Gingerbread",
+                "category": "food"
             },
             {
                 "threshold": 5569102,
@@ -26,217 +31,372 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/cheesecake"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "Cheesecake",
+                "category": "food"
             },
             {
                 "threshold": 5569104,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/glazed_donut"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "GlazedDonut",
+                "category": "food"
             },
             {
                 "threshold": 5569105,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/iced_chocolate"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "IcedChocolate",
+                "category": "food"
             },
             {
                 "threshold": 5569106,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/pineapple_cake"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "PineappleCake",
+                "category": "food"
             },
             {
                 "threshold": 5569107,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/grape_jello"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "GrapeJello",
+                "category": "food"
             },
             {
                 "threshold": 5569108,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/strawberry_cinnamon_roll"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "StrawberryCinnamonRoll",
+                "category": "food"
             },
             {
                 "threshold": 5569109,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/americano"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "Americano",
+                "category": "food"
             },
             {
                 "threshold": 5569110,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/pancakes"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "Pancakes",
+                "category": "food"
             },
             {
                 "threshold": 5569111,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/cherry_pie"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "CherryPie",
+                "category": "food"
             },
             {
                 "threshold": 5569112,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/strawberry_shortcake"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "StrawberryShortcake",
+                "category": "food"
             },
             {
                 "threshold": 5569113,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/matcha_donut"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "MatchaDonut",
+                "category": "food"
             },
             {
                 "threshold": 5569114,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/iced_mocha"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "IcedMocha",
+                "category": "food"
             },
             {
                 "threshold": 5569115,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/raspberry_tart"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "RaspberryTart",
+                "category": "food"
             },
             {
                 "threshold": 5569116,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/chocolate_mousse"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "ChocolateMousse",
+                "category": "food"
             },
             {
                 "threshold": 5569117,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/blueberry_cinnamon_roll"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "BlueberryCinnamonRoll",
+                "category": "food"
             },
             {
                 "threshold": 5569118,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/cappuccino"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "Cappuccino",
+                "category": "food"
             },
             {
                 "threshold": 5569119,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/maple_pancakes"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "MaplePancakes",
+                "category": "food"
             },
             {
                 "threshold": 5569120,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/key_lime_pie"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "KeyLimePie",
+                "category": "food"
             },
             {
                 "threshold": 5569121,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/apple_pie"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "ApplePie",
+                "category": "food"
             },
             {
                 "threshold": 5569122,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/raspberry_donut"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "RaspberryDonut",
+                "category": "food"
             },
             {
                 "threshold": 5569123,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/iced_catto_latte"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "IcedCattoLatte",
+                "category": "food"
             },
             {
                 "threshold": 5569124,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/french_toast"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "FrenchToast",
+                "category": "food"
             },
             {
                 "threshold": 5569125,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/lime_jello"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "LimeJello",
+                "category": "food"
             },
             {
                 "threshold": 5569126,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/cinnamon_roll"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "CinnamonRoll",
+                "category": "food"
             },
             {
                 "threshold": 5569127,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/catto_latte"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "CattoLatte",
+                "category": "food"
             },
             {
                 "threshold": 5569128,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/berry_pancakes"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "BerryPancakes",
+                "category": "food"
             },
             {
                 "threshold": 5569129,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s3/blueberry_cake"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "BlueberryCake",
+                "category": "food"
             },
             {
                 "threshold": 5569130,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/christmas2025/gingerbreadman"
-                }
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "Gingerbreadman",
+                "category": "food"
             },
             {
                 "threshold": 5569131,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/christmas2025/candycane"
-                }
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "Candycane",
+                "category": "food"
             },
             {
                 "threshold": 5569132,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/christmas2025/hotchocolate"
-                }
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "HotChocolate",
+                "category": "food"
             },
             {
                 "threshold": 5569133,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/christmas2025/smores"
-                }
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "Smores",
+                "category": "food"
             },
             {
                 "threshold": 5569134,
@@ -250,84 +410,144 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/icecream/banana_cone"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "BananaCone",
+                "category": "food"
             },
             {
                 "threshold": 6042102,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/icecream/banana_milkshake"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "BananaMilkshake",
+                "category": "food"
             },
             {
                 "threshold": 6042103,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/icecream/chocolate_milkshake"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "ChocolateMilkshake",
+                "category": "food"
             },
             {
                 "threshold": 6042104,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/icecream/double_chunk_chocolate_chip_cone"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "DoubleChunkChocolateChipCone",
+                "category": "food"
             },
             {
                 "threshold": 6042105,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/icecream/mint_chocolate_chip_cone"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "MintChocolateChipCone",
+                "category": "food"
             },
             {
                 "threshold": 6042106,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/icecream/mint_chocolate_chip_milkshake"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "MintChocolateChipMilkshake",
+                "category": "food"
             },
             {
                 "threshold": 6042107,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/icecream/strawberry_cone"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "StrawberryCone",
+                "category": "food"
             },
             {
                 "threshold": 6042108,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/icecream/strawberry_milkshake"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "StrawberryMilkshake",
+                "category": "food"
             },
             {
                 "threshold": 6042109,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/icecream/vanilla_cone"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "VanillaCone",
+                "category": "food"
             },
             {
                 "threshold": 6042110,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/icecream/vanilla_milkshake"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "VanillaMilkshake",
+                "category": "food"
             },
             {
                 "threshold": 6042111,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/icecream/mango_slushy"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "MangoSlushy",
+                "category": "food"
             },
             {
                 "threshold": 6042112,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/icecream/mango_sorbet"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "MangoSorbet",
+                "category": "food"
             },
             {
                 "threshold": 6042113,
@@ -341,7 +561,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/garlic/garlic"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "Garlic",
+                "category": "food"
             },
             {
                 "threshold": 7410802,
@@ -355,14 +580,24 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/fastfood/burger"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "Burger",
+                "category": "food"
             },
             {
                 "threshold": 7513202,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/fastfood/fries"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "Fries",
+                "category": "food"
             },
             {
                 "threshold": 7513203,
@@ -376,14 +611,24 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/cocacola"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "CocaCola",
+                "category": "food"
             },
             {
                 "threshold": 7706402,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/tea"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "Tea",
+                "category": "food"
             },
             {
                 "threshold": 7706403,
@@ -397,14 +642,24 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/choco/hot_choco_cyan"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "HotChocoCyan",
+                "category": "food"
             },
             {
                 "threshold": 1346102,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/choco/hot_choco_pink"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "HotChocoPink",
+                "category": "food"
             },
             {
                 "threshold": 1346103,
@@ -418,7 +673,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/soul_food"
-                }
+                },
+                "owners": [
+                    "Shadew"
+                ],
+                "name": "SoulFood",
+                "category": "food"
             },
             {
                 "threshold": 7360902,
@@ -432,21 +692,36 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/mcdevilsmeals/cherry_tarte"
-                }
+                },
+                "owners": [
+                    "DevilPowers"
+                ],
+                "name": "McDevilsCherryTarte",
+                "category": "food"
             },
             {
                 "threshold": 5888702,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/mcdevilsmeals/mc_devil_burger"
-                }
+                },
+                "owners": [
+                    "DevilPowers"
+                ],
+                "name": "McDevilBurger",
+                "category": "food"
             },
             {
                 "threshold": 5888703,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/mcdevilsmeals/chips"
-                }
+                },
+                "owners": [
+                    "DevilPowers"
+                ],
+                "name": "McDevilsChips",
+                "category": "food"
             },
             {
                 "threshold": 5888704,
@@ -460,168 +735,288 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s4/apple_cupcake"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "AppleCupcake",
+                "category": "food"
             },
             {
                 "threshold": 2106502,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s4/baguette"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Baguette",
+                "category": "food"
             },
             {
                 "threshold": 2106503,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s4/berry_tart_slice"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "BerryTartSlice",
+                "category": "food"
             },
             {
                 "threshold": 2106504,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s4/braided_bread"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "BraidedBread",
+                "category": "food"
             },
             {
                 "threshold": 2106505,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s4/bread"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Bread",
+                "category": "food"
             },
             {
                 "threshold": 2106506,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s4/bun"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Bun",
+                "category": "food"
             },
             {
                 "threshold": 2106507,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s4/bundt_cake"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "BundtCake",
+                "category": "food"
             },
             {
                 "threshold": 2106508,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s4/chocolate_cake"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "ChocolateCake",
+                "category": "food"
             },
             {
                 "threshold": 2106509,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s4/chocolate_gateau"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "ChocolateGateau",
+                "category": "food"
             },
             {
                 "threshold": 2106510,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s4/chocolate_glazed_cookie"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "ChocolateGlazedCookie",
+                "category": "food"
             },
             {
                 "threshold": 2106511,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s4/chocolate_tart"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "ChocolateTart",
+                "category": "food"
             },
             {
                 "threshold": 2106512,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s4/cornet"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Cornet",
+                "category": "food"
             },
             {
                 "threshold": 2106513,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s4/croissant"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Croissant",
+                "category": "food"
             },
             {
                 "threshold": 2106514,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s4/crusty_bread"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "CrustyBread",
+                "category": "food"
             },
             {
                 "threshold": 2106515,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s4/jam_roll"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "JamRoll",
+                "category": "food"
             },
             {
                 "threshold": 2106516,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s4/pizza"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Pizza",
+                "category": "food"
             },
             {
                 "threshold": 2106517,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s4/pudding"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Pudding",
+                "category": "food"
             },
             {
                 "threshold": 2106518,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s4/sandwich"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Sandwich",
+                "category": "food"
             },
             {
                 "threshold": 2106519,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s4/strawberry_cake"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "StrawberryCake",
+                "category": "food"
             },
             {
                 "threshold": 2106520,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s4/strawberry_cupcake"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "StrawberryCupcake",
+                "category": "food"
             },
             {
                 "threshold": 2106521,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s4/strawberry_glazed_cookie"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "StrawberryGlazedCookie",
+                "category": "food"
             },
             {
                 "threshold": 2106522,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s4/toast"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Toast",
+                "category": "food"
             },
             {
                 "threshold": 2106523,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s4/vegetable_sandwich"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "VegetableSandwich",
+                "category": "food"
             },
             {
                 "threshold": 2106524,
                 "model": {
                     "type": "model",
                     "model": "custom:item/food/pastries/s4/waffle"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Waffle",
+                "category": "food"
             },
             {
                 "threshold": 2106525,

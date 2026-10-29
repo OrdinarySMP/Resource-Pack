@@ -12,8 +12,13 @@
                 "model": {
                     "type": "model",
                     "model": "custom:block/filter_stone"
-                }
+                },
+                "owners": [
+                    "@unkown"
+                ],
+                "name": "FilterStone",
+                "category": "filter"
             }
-		]
-	}
+        ]
+    }
 }

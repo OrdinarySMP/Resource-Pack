@@ -12,8 +12,13 @@
                 "model": {
                     "type": "model",
                     "model": "custom:block/filter_stone_bricks"
-                }
+                },
+                "owners": [
+                    "@unkown"
+                ],
+                "name": "FilterStoneBricks",
+                "category": "filter"
             }
-		]
-	}
+        ]
+    }
 }

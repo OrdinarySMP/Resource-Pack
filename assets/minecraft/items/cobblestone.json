@@ -12,8 +12,13 @@
                 "model": {
                     "type": "model",
                     "model": "custom:block/filter_cobblestone"
-                }
+                },
+                "owners": [
+                    "@unkown"
+                ],
+                "name": "FilterCobblestone",
+                "category": "filter"
             }
-		]
-	}
+        ]
+    }
 }

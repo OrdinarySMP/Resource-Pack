@@ -12,9 +12,14 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/cookie/cookie_netherite_shovel"
-                }
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "CookieFrostfireToolShovel",
+                "category": "equipment"
             },
-			{
+            {
                 "threshold": 5478002,
                 "model": {
                     "type": "model",
@@ -26,28 +31,48 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/honey/honey_shovel"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "HoneyShovel",
+                "category": "equipment"
             },
             {
                 "threshold": 6151002,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/honor/honor_shovel"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "HonorShovel",
+                "category": "equipment"
             },
             {
                 "threshold": 6151003,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/ender/ender_shovel"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "EnderShovel",
+                "category": "equipment"
             },
             {
                 "threshold": 6151004,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/blossom/blossom_shovel"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "BlossomShovel",
+                "category": "equipment"
             },
             {
                 "threshold": 6151005,
@@ -61,7 +86,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/crystal/crystal_shovel"
-                }
+                },
+                "owners": [
+                    "Apieboy"
+                ],
+                "name": "CrystalToolsShovel",
+                "category": "equipment"
             },
             {
                 "threshold": 7961302,
@@ -75,7 +105,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/salat/salat_shovel"
-                }
+                },
+                "owners": [
+                    "SalatGurke9440"
+                ],
+                "name": "SalatToolsShovel",
+                "category": "equipment"
             },
             {
                 "threshold": 1532702,

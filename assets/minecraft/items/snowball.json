@@ -12,7 +12,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/snowball/tomato"
-                }
+                },
+                "owners": [
+                    "dylanbr19"
+                ],
+                "name": "Tomato",
+                "category": "snowball"
             },
             {
                 "threshold": 1495102,

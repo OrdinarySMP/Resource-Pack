@@ -12,28 +12,48 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/honey/honey_mace"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "HoneyMace",
+                "category": "equipment"
             },
             {
                 "threshold": 6151002,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/honor/honor_mace"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "HonorMace",
+                "category": "equipment"
             },
             {
                 "threshold": 6151003,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/ender/ender_mace"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "EnderMace",
+                "category": "equipment"
             },
             {
                 "threshold": 6151004,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/blossom/blossom_mace"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "BlossomMace",
+                "category": "equipment"
             },
             {
                 "threshold": 6151005,
@@ -42,6 +62,6 @@
                     "model": "minecraft:item/mace"
                 }
             }
-	]
-	}
+        ]
+    }
 }

@@ -12,7 +12,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/cutlass"
-                }
+                },
+                "owners": [
+                    "ThePianoMann"
+                ],
+                "name": "CutlassSword",
+                "category": "equipment"
             },
             {
                 "threshold": 2690802,
@@ -26,98 +31,163 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/lightsaber/blade_ahsoka_tano_white_lightsaber"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "SabreAhsokaWhiteSword",
+                "category": "equipment"
             },
-			{
+            {
                 "threshold": 2796702,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/lightsaber/blade_anakin_skywalker_jedi_knight_lightsaber"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "SabreAnakingSkywalkerJediKnightSword",
+                "category": "equipment"
             },
-			{
+            {
                 "threshold": 2796703,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/lightsaber/blade_darth_vader_lightsaber"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "SabreDarthVaderSword",
+                "category": "equipment"
             },
-			{
+            {
                 "threshold": 2796704,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/lightsaber/blade_count_dooku_lightsaber"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "SabreCountDookuSword",
+                "category": "equipment"
             },
-			{
+            {
                 "threshold": 2796705,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/lightsaber/blade_darth_maul_apprentice_lightsaber"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "SabreDarthMaulApprenticeSword",
+                "category": "equipment"
             },
-			{
+            {
                 "threshold": 2796706,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/lightsaber/blade_dark_saber"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "SabreDarkSaberSword",
+                "category": "equipment"
             },
-			{
+            {
                 "threshold": 2796707,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/lightsaber/blade_luke_skywalker_green_lightsaber"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "SabreLukeSkywalkerGreenSword",
+                "category": "equipment"
             },
-			{
+            {
                 "threshold": 2796708,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/lightsaber/blade_mace_windu_lightsaber"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "SabreMaceWinduSword",
+                "category": "equipment"
             },
-			{
+            {
                 "threshold": 2796709,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/lightsaber/blade_obi-wan_kenobi_jedi_master_lightsaber"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "SabreObiWanSword",
+                "category": "equipment"
             },
-			{
+            {
                 "threshold": 2796710,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/lightsaber/blade_qui-gon_jinn_lightsaber"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "SabreQuiGonJinnSword",
+                "category": "equipment"
             },
-			{
+            {
                 "threshold": 2796711,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/lightsaber/blade_yoda_lightsaber"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "SabreYodaSword",
+                "category": "equipment"
             },
-			{
+            {
                 "threshold": 2796712,
                 "model": {
                     "type": "model",
                     "model": "minecraft:item/netherite_sword"
                 }
             },
-			{
+            {
                 "threshold": 5478001,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/cookie/cookie_netherite_sword"
-                }
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "CookieFrostfireToolSword",
+                "category": "equipment"
             },
             {
                 "threshold": 5478002,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/cookie/xadale_sword"
-                }
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "XadalesSailorMoonToolSword",
+                "category": "equipment"
             },
             {
                 "threshold": 5478003,
@@ -131,7 +201,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/loud_bloody_scythe"
-                }
+                },
+                "owners": [
+                    "Louddagamer"
+                ],
+                "name": "LoudBloodySchytheSword",
+                "category": "equipment"
             },
             {
                 "threshold": 7125402,
@@ -145,7 +220,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/crab_sword"
-                }
+                },
+                "owners": [
+                    "sUPr3meXBuRRiTo"
+                ],
+                "name": "CrabSwordLegacy",
+                "category": "equipment"
             },
             {
                 "threshold": 8237502,
@@ -159,21 +239,36 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/huntrix/rumi_sword"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "HuntrixRumiSword",
+                "category": "equipment"
             },
             {
                 "threshold": 9222702,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/crab_sword"
-                }
+                },
+                "owners": [
+                    "sUPr3meXBuRRiTo"
+                ],
+                "name": "CrabSword",
+                "category": "equipment"
             },
             {
                 "threshold": 1304101,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/witch_wand"
-                }
+                },
+                "owners": [
+                    "Hot_Chocolateee"
+                ],
+                "name": "WitchWandSword",
+                "category": "equipment"
             },
             {
                 "threshold": 1304102,
@@ -187,28 +282,48 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/honey/honey_sword"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "HoneySword",
+                "category": "equipment"
             },
             {
                 "threshold": 6151002,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/honor/honor_sword"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "HonorSword",
+                "category": "equipment"
             },
             {
                 "threshold": 6151003,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/ender/ender_sword"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "EnderSword",
+                "category": "equipment"
             },
             {
                 "threshold": 6151004,
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/blossom/blossom_sword"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "BlossomSword",
+                "category": "equipment"
             },
             {
                 "threshold": 6151005,
@@ -222,7 +337,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/crystal/crystal_sword"
-                }
+                },
+                "owners": [
+                    "Apieboy"
+                ],
+                "name": "CrystalToolsSword",
+                "category": "equipment"
             },
             {
                 "threshold": 7961302,
@@ -236,7 +356,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/ice_sword"
-                }
+                },
+                "owners": [
+                    "ebnl1"
+                ],
+                "name": "IceSword",
+                "category": "equipment"
             },
             {
                 "threshold": 5319902,
@@ -250,7 +375,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/tools/salat/salat_sword"
-                }
+                },
+                "owners": [
+                    "SalatGurke9440"
+                ],
+                "name": "SalatToolsSword",
+                "category": "equipment"
             },
             {
                 "threshold": 1532702,

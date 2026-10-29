@@ -12,140 +12,240 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/letters/alarm_letter"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "LetterAlarm",
+                "category": "letters"
             },
             {
                 "threshold": 7263702,
                 "model": {
                     "type": "model",
                     "model": "custom:item/letters/blank_letter"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "LetterBlank",
+                "category": "letters"
             },
             {
                 "threshold": 7263703,
                 "model": {
                     "type": "model",
                     "model": "custom:item/letters/bloody_letter"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "LetterBloody",
+                "category": "letters"
             },
             {
                 "threshold": 7263704,
                 "model": {
                     "type": "model",
                     "model": "custom:item/letters/cash_letter"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "LetterCash",
+                "category": "letters"
             },
             {
                 "threshold": 7263705,
                 "model": {
                     "type": "model",
                     "model": "custom:item/letters/clover_letter"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "LetterClover",
+                "category": "letters"
             },
             {
                 "threshold": 7263706,
                 "model": {
                     "type": "model",
                     "model": "custom:item/letters/death_letter"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "LetterDeath",
+                "category": "letters"
             },
             {
                 "threshold": 7263707,
                 "model": {
                     "type": "model",
                     "model": "custom:item/letters/earth_letter"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "LetterEarth",
+                "category": "letters"
             },
             {
                 "threshold": 7263708,
                 "model": {
                     "type": "model",
                     "model": "custom:item/letters/ender_letter"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "LetterEnder",
+                "category": "letters"
             },
             {
                 "threshold": 7263709,
                 "model": {
                     "type": "model",
                     "model": "custom:item/letters/flag_letter"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "LetterFlag",
+                "category": "letters"
             },
             {
                 "threshold": 7263710,
                 "model": {
                     "type": "model",
                     "model": "custom:item/letters/fox_letter"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "LetterFox",
+                "category": "letters"
             },
             {
                 "threshold": 7263711,
                 "model": {
                     "type": "model",
                     "model": "custom:item/letters/frog_letter"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "LetterFrog",
+                "category": "letters"
             },
             {
                 "threshold": 7263712,
                 "model": {
                     "type": "model",
                     "model": "custom:item/letters/ghost_letter"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "LetterGhost",
+                "category": "letters"
             },
             {
                 "threshold": 7263713,
                 "model": {
                     "type": "model",
                     "model": "custom:item/letters/love_letter"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "LetterLove",
+                "category": "letters"
             },
             {
                 "threshold": 7263714,
                 "model": {
                     "type": "model",
                     "model": "custom:item/letters/modern_letter"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "LetterModern",
+                "category": "letters"
             },
             {
                 "threshold": 7263715,
                 "model": {
                     "type": "model",
                     "model": "custom:item/letters/mushroom_letter"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "LetterMushroom",
+                "category": "letters"
             },
             {
                 "threshold": 7263716,
                 "model": {
                     "type": "model",
                     "model": "custom:item/letters/old_letter"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "LetterOld",
+                "category": "letters"
             },
             {
                 "threshold": 7263717,
                 "model": {
                     "type": "model",
                     "model": "custom:item/letters/pumpkin_letter"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "LetterPumpkin",
+                "category": "letters"
             },
             {
                 "threshold": 7263718,
                 "model": {
                     "type": "model",
                     "model": "custom:item/letters/rainbow_letter"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "LetterRainbow",
+                "category": "letters"
             },
             {
                 "threshold": 7263719,
                 "model": {
                     "type": "model",
                     "model": "custom:item/letters/star_letter"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "LetterStar",
+                "category": "letters"
             },
             {
                 "threshold": 7263720,
                 "model": {
                     "type": "model",
                     "model": "custom:item/letters/trident_letter"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "LetterTrident",
+                "category": "letters"
             },
             {
                 "threshold": 7263721,

@@ -12,8 +12,13 @@
                 "model": {
                     "type": "model",
                     "model": "custom:block/filter_smooth_stone"
-                }
+                },
+                "owners": [
+                    "@unkown"
+                ],
+                "name": "FilterSmoothStone",
+                "category": "filter"
             }
-		]
-	}
+        ]
+    }
 }

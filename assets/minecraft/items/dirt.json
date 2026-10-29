@@ -12,8 +12,13 @@
                 "model": {
                     "type": "model",
                     "model": "custom:block/filter_dirt"
-                }
+                },
+                "owners": [
+                    "@unkown"
+                ],
+                "name": "FilterDirt",
+                "category": "filter"
             }
-		]
-	}
+        ]
+    }
 }

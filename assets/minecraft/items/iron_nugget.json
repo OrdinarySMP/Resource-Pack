@@ -12,84 +12,144 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/chips/chip_1"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "GreenChip1",
+                "category": "chips"
             },
             {
                 "threshold": 2649602,
                 "model": {
                     "type": "model",
                     "model": "custom:item/chips/chip_5"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "BlueChip5",
+                "category": "chips"
             },
             {
                 "threshold": 2649603,
                 "model": {
                     "type": "model",
                     "model": "custom:item/chips/chip_10"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "PurpleChip10",
+                "category": "chips"
             },
             {
                 "threshold": 2649604,
                 "model": {
                     "type": "model",
                     "model": "custom:item/chips/chip_25"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "RedChip25",
+                "category": "chips"
             },
             {
                 "threshold": 2649605,
                 "model": {
                     "type": "model",
                     "model": "custom:item/chips/chip_50"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "OrangeChip50",
+                "category": "chips"
             },
             {
                 "threshold": 2649606,
                 "model": {
                     "type": "model",
                     "model": "custom:item/chips/chip_100"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "BlackChip100",
+                "category": "chips"
             },
             {
                 "threshold": 2649607,
                 "model": {
                     "type": "model",
                     "model": "custom:item/chips/chip_green"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "GreenChip",
+                "category": "chips"
             },
             {
                 "threshold": 2649608,
                 "model": {
                     "type": "model",
                     "model": "custom:item/chips/chip_blue"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "BlueChip",
+                "category": "chips"
             },
             {
                 "threshold": 2649609,
                 "model": {
                     "type": "model",
                     "model": "custom:item/chips/chip_purple"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "PurpleChip",
+                "category": "chips"
             },
             {
                 "threshold": 2649610,
                 "model": {
                     "type": "model",
                     "model": "custom:item/chips/chip_red"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "RedChip",
+                "category": "chips"
             },
             {
                 "threshold": 2649611,
                 "model": {
                     "type": "model",
                     "model": "custom:item/chips/chip_orange"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "OrangeChip",
+                "category": "chips"
             },
             {
                 "threshold": 2649612,
                 "model": {
                     "type": "model",
                     "model": "custom:item/chips/chip_black"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "BlackChip",
+                "category": "chips"
             },
             {
                 "threshold": 2649613,

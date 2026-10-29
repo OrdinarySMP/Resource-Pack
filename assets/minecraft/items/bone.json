@@ -12,7 +12,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/witherbone"
-                }
+                },
+                "owners": [
+                    "Hayen92"
+                ],
+                "name": "WitherBone",
+                "category": "bone"
             },
             {
                 "threshold": 4161902,

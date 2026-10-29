@@ -12,105 +12,180 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/easter_eggs/easter_egg_1"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "EasterEgg1",
+                "category": "eastereggs"
             },
             {
                 "threshold": 2682102,
                 "model": {
                     "type": "model",
                     "model": "custom:item/easter_eggs/easter_egg_2"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "EasterEgg2",
+                "category": "eastereggs"
             },
             {
                 "threshold": 2682103,
                 "model": {
                     "type": "model",
                     "model": "custom:item/easter_eggs/easter_egg_3"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "EasterEgg3",
+                "category": "eastereggs"
             },
             {
                 "threshold": 2682104,
                 "model": {
                     "type": "model",
                     "model": "custom:item/easter_eggs/easter_egg_4"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "EasterEgg4",
+                "category": "eastereggs"
             },
             {
                 "threshold": 2682105,
                 "model": {
                     "type": "model",
                     "model": "custom:item/easter_eggs/easter_egg_5"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "EasterEgg5",
+                "category": "eastereggs"
             },
             {
                 "threshold": 2682106,
                 "model": {
                     "type": "model",
                     "model": "custom:item/easter_eggs/easter_egg_6"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "EasterEgg6",
+                "category": "eastereggs"
             },
             {
                 "threshold": 2682107,
                 "model": {
                     "type": "model",
                     "model": "custom:item/easter_eggs/easter_egg_7"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "EasterEgg7",
+                "category": "eastereggs"
             },
             {
                 "threshold": 2682108,
                 "model": {
                     "type": "model",
                     "model": "custom:item/easter_eggs/easter_egg_8"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "EasterEgg8",
+                "category": "eastereggs"
             },
             {
                 "threshold": 2682109,
                 "model": {
                     "type": "model",
                     "model": "custom:item/easter_eggs/easter_egg_9"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "EasterEgg9",
+                "category": "eastereggs"
             },
             {
                 "threshold": 2682110,
                 "model": {
                     "type": "model",
                     "model": "custom:item/easter_eggs/easter_egg_10"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "EasterEgg10",
+                "category": "eastereggs"
             },
             {
                 "threshold": 2682111,
                 "model": {
                     "type": "model",
                     "model": "custom:item/easter_eggs/easter_egg_11"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "EasterEgg11",
+                "category": "eastereggs"
             },
             {
                 "threshold": 2682112,
                 "model": {
                     "type": "model",
                     "model": "custom:item/easter_eggs/easter_egg_12"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "EasterEgg12",
+                "category": "eastereggs"
             },
             {
                 "threshold": 2682113,
                 "model": {
                     "type": "model",
                     "model": "custom:item/easter_eggs/easter_egg_13"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "EasterEgg13",
+                "category": "eastereggs"
             },
             {
                 "threshold": 2682114,
                 "model": {
                     "type": "model",
                     "model": "custom:item/easter_eggs/easter_egg_14"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "EasterEgg14",
+                "category": "eastereggs"
             },
             {
                 "threshold": 2682115,
                 "model": {
                     "type": "model",
                     "model": "custom:item/easter_eggs/easter_egg_15"
-                }
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "EasterEgg15",
+                "category": "eastereggs"
             }
         ]
     }

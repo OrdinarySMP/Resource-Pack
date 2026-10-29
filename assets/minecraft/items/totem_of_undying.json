@@ -12,21 +12,36 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/player/totem_of_undying_m3raluna"
-                }
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "M3raluna",
+                "category": "totem"
             },
             {
                 "threshold": 3222702,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/player/totem_of_undying_hudscraft"
-                }
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "HudsCraft",
+                "category": "totem"
             },
             {
                 "threshold": 3222703,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/gingerbread_man_of_undying"
-                }
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "GingerbreadManOfUndying",
+                "category": "totem"
             },
             {
                 "threshold": 3222704,
@@ -40,14 +55,24 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/fish_of_undying"
-                }
+                },
+                "owners": [
+                    "@staff"
+                ],
+                "name": "FishOfUndying",
+                "category": "totem"
             },
             {
                 "threshold": 3552102,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/totem_of_undying_treasure"
-                }
+                },
+                "owners": [
+                    "@staff"
+                ],
+                "name": "TreasureOfUndying",
+                "category": "totem"
             },
             {
                 "threshold": 3552103,
@@ -61,7 +86,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/seal_of_undying"
-                }
+                },
+                "owners": [
+                    "Dnge"
+                ],
+                "name": "SealOfUndying",
+                "category": "totem"
             },
             {
                 "threshold": 3662002,
@@ -75,91 +105,156 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/devils_toys/toy_of_undying_bleamly"
-                }
+                },
+                "owners": [
+                    "DevilPowers"
+                ],
+                "name": "ToyOfUndyingBleamly",
+                "category": "totem"
             },
             {
                 "threshold": 3854702,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/devils_toys/toy_of_undying_cherry"
-                }
+                },
+                "owners": [
+                    "DevilPowers"
+                ],
+                "name": "ToyOfUndyingCherry",
+                "category": "totem"
             },
             {
                 "threshold": 3854703,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/devils_toys/toy_of_undying_cheter"
-                }
+                },
+                "owners": [
+                    "DevilPowers"
+                ],
+                "name": "ToyOfUndyingCheter",
+                "category": "totem"
             },
             {
                 "threshold": 3854704,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/devils_toys/toy_of_undying_piano"
-                }
+                },
+                "owners": [
+                    "DevilPowers"
+                ],
+                "name": "ToyOfUndyingPiano",
+                "category": "totem"
             },
             {
                 "threshold": 3854705,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/devils_toys/toy_of_undying_smooch"
-                }
+                },
+                "owners": [
+                    "DevilPowers"
+                ],
+                "name": "ToyOfUndyingSmooch",
+                "category": "totem"
             },
             {
                 "threshold": 3854706,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/devils_toys/toy_of_undying_supremeguru"
-                }
+                },
+                "owners": [
+                    "DevilPowers"
+                ],
+                "name": "ToyOfUndyingSupremeGuru",
+                "category": "totem"
             },
             {
                 "threshold": 3854707,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/devils_toys/toy_of_undying_the_devil"
-                }
+                },
+                "owners": [
+                    "DevilPowers"
+                ],
+                "name": "ToyOfUndyingTheDevil",
+                "category": "totem"
             },
             {
                 "threshold": 3854708,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/devils_toys/toy_of_undying_tolemor"
-                }
+                },
+                "owners": [
+                    "DevilPowers"
+                ],
+                "name": "ToyOfUndyingTolemor",
+                "category": "totem"
             },
             {
                 "threshold": 3854709,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/devils_toys/toy_of_undying_worker"
-                }
+                },
+                "owners": [
+                    "DevilPowers"
+                ],
+                "name": "ToyOfUndyingWorker",
+                "category": "totem"
             },
             {
                 "threshold": 3854710,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/devils_toys/toy_of_undying_dapper"
-                }
+                },
+                "owners": [
+                    "DevilPowers"
+                ],
+                "name": "ToyOfUndyingDapper",
+                "category": "totem"
             },
             {
                 "threshold": 3854711,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/devils_toys/toy_of_undying_dylanbr"
-                }
+                },
+                "owners": [
+                    "DevilPowers"
+                ],
+                "name": "ToyOfUndyingDylanbr",
+                "category": "totem"
             },
             {
                 "threshold": 3854712,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/devils_toys/toy_of_undying_lilvyse"
-                }
+                },
+                "owners": [
+                    "DevilPowers"
+                ],
+                "name": "ToyOfUndyingLilvyse",
+                "category": "totem"
             },
             {
                 "threshold": 3854713,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/devils_toys/toy_of_undying_marbles"
-                }
+                },
+                "owners": [
+                    "DevilPowers"
+                ],
+                "name": "ToyOfUndyingMarbles",
+                "category": "totem"
             },
             {
                 "threshold": 3854714,
@@ -173,77 +268,132 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/player/totem_of_undying_mrcookieprincess"
-                }
+                },
+                "owners": [
+                    "@unkown"
+                ],
+                "name": "TotemOfUndyingMrcookieprincess",
+                "category": "totem"
             },
             {
                 "threshold": 8643001,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/player/totem_of_undying_padbro"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "PadBro",
+                "category": "totem"
             },
             {
                 "threshold": 8643002,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/player/totem_of_undying_xkellfeine"
-                }
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "XKellfeine",
+                "category": "totem"
             },
             {
                 "threshold": 8643003,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/glitter_grove/totem_of_undying_bee"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Bee",
+                "category": "totem"
             },
             {
                 "threshold": 8643004,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/glitter_grove/totem_of_undying_panda"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Panda",
+                "category": "totem"
             },
             {
                 "threshold": 8643005,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/glitter_grove/totem_of_undying_pink_panda"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "PinkPanda",
+                "category": "totem"
             },
             {
                 "threshold": 8643006,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/glitter_grove/totem_of_undying_sand_cat"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "SandCat",
+                "category": "totem"
             },
             {
                 "threshold": 8643007,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/glitter_grove/totem_of_undying_shroomie"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Shroomie",
+                "category": "totem"
             },
             {
                 "threshold": 8643008,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/glitter_grove/totem_of_undying_teddy"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Teddy",
+                "category": "totem"
             },
             {
                 "threshold": 8643009,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/player/totem_of_undying_padbro_astronaut"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "PadBroAstonaut",
+                "category": "totem"
             },
             {
                 "threshold": 8643010,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/player/totem_of_undying_xkellfeine_astronaut"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "XKellfeineAstonaut",
+                "category": "totem"
             },
             {
                 "threshold": 8643011,
@@ -257,7 +407,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/player/totem_of_undying_sushikuromi"
-                }
+                },
+                "owners": [
+                    "sUPr3meXBuRRiTo"
+                ],
+                "name": "Sushikuromi",
+                "category": "totem"
             },
             {
                 "threshold": 9108302,
@@ -271,35 +426,60 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/glitter_grove/demonhunter/totem_of_undying_zoey"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Zoey",
+                "category": "totem"
             },
             {
                 "threshold": 9222702,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/glitter_grove/demonhunter/totem_of_undying_mira"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Mira",
+                "category": "totem"
             },
             {
                 "threshold": 9222703,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/glitter_grove/demonhunter/totem_of_undying_derpy"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Derpy",
+                "category": "totem"
             },
             {
                 "threshold": 9222704,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/glitter_grove/demonhunter/totem_of_undying_rumi"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Rumi",
+                "category": "totem"
             },
             {
                 "threshold": 9222705,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/glitter_grove/demonhunter/totem_of_undying_sussie"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Sussie",
+                "category": "totem"
             },
             {
                 "threshold": 9222707,
@@ -313,42 +493,72 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/glitter_grove/halloween/blackcat"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Blackcat",
+                "category": "totem"
             },
             {
                 "threshold": 9223702,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/glitter_grove/halloween/ghostie"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Ghostie",
+                "category": "totem"
             },
             {
                 "threshold": 9223703,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/glitter_grove/halloween/pumpkin"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Pumpkin",
+                "category": "totem"
             },
             {
                 "threshold": 9223704,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/glitter_grove/halloween/skull"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Skull",
+                "category": "totem"
             },
             {
                 "threshold": 9223705,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/glitter_grove/halloween/soul"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Soul",
+                "category": "totem"
             },
             {
                 "threshold": 9223706,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/glitter_grove/halloween/vampire"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Vampie",
+                "category": "totem"
             },
             {
                 "threshold": 9223707,
@@ -362,7 +572,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/totem_of_undying_kitty"
-                }
+                },
+                "owners": [
+                    "Hot_Chocolateee"
+                ],
+                "name": "Kitty",
+                "category": "totem"
             },
             {
                 "threshold": 1300402,
@@ -376,42 +591,72 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/glitter_grove/xmas/totem_of_undying_christmastree"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "ChristmasTree",
+                "category": "totem"
             },
             {
                 "threshold": 8075202,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/glitter_grove/xmas/totem_of_undying_penguin"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Penguin",
+                "category": "totem"
             },
             {
                 "threshold": 8075203,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/glitter_grove/xmas/totem_of_undying_rudolf"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Rudolf",
+                "category": "totem"
             },
             {
                 "threshold": 8075204,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/glitter_grove/xmas/totem_of_undying_santa"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Santa",
+                "category": "totem"
             },
             {
                 "threshold": 8075205,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/glitter_grove/xmas/totem_of_undying_snowflakes"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Snowflakes",
+                "category": "totem"
             },
             {
                 "threshold": 8075206,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/glitter_grove/xmas/totem_of_undying_snowman"
-                }
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "Snowman",
+                "category": "totem"
             },
             {
                 "threshold": 8075207,
@@ -425,28 +670,48 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/mrpablog/totem_of_undying_heart"
-                }
+                },
+                "owners": [
+                    "Mrpablog31"
+                ],
+                "name": "Heart",
+                "category": "totem"
             },
             {
                 "threshold": 9072302,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/mrpablog/totem_of_undying_joker"
-                }
+                },
+                "owners": [
+                    "Mrpablog31"
+                ],
+                "name": "Joker",
+                "category": "totem"
             },
             {
                 "threshold": 9072303,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/mrpablog/totem_of_undying_warden"
-                }
+                },
+                "owners": [
+                    "Mrpablog31"
+                ],
+                "name": "Warden",
+                "category": "totem"
             },
             {
                 "threshold": 9072304,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/mrpablog/totem_of_undying_yoda"
-                }
+                },
+                "owners": [
+                    "Mrpablog31"
+                ],
+                "name": "Yoda",
+                "category": "totem"
             },
             {
                 "threshold": 9072305,
@@ -460,7 +725,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/totem_of_undying_soul"
-                }
+                },
+                "owners": [
+                    "Shadew"
+                ],
+                "name": "TotemOfUndyingSoul",
+                "category": "totem"
             },
             {
                 "threshold": 7360902,
@@ -474,7 +744,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/skull_of_undying"
-                }
+                },
+                "owners": [
+                    "DeadFaceR1P"
+                ],
+                "name": "TotemOfUndyingSkull",
+                "category": "totem"
             },
             {
                 "threshold": 5408602,
@@ -488,7 +763,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/totem_of_golden_snitch"
-                }
+                },
+                "owners": [
+                    "SalatGurke9440"
+                ],
+                "name": "TotemOfGoldenSnitch",
+                "category": "totem"
             },
             {
                 "threshold": 9827602,
@@ -502,14 +782,24 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/totem_of_undying_lilvyse"
-                }
+                },
+                "owners": [
+                    "Lilvyse"
+                ],
+                "name": "TotemOfUndyingLilvyse",
+                "category": "totem"
             },
             {
                 "threshold": 5098602,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/totem_of_undying_lilvyse_2"
-                }
+                },
+                "owners": [
+                    "Lilvyse"
+                ],
+                "name": "TotemOfUndyingLilvyseVariant",
+                "category": "totem"
             },
             {
                 "threshold": 5098603,
@@ -523,14 +813,24 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/player/totem_of_undying_regretrue"
-                }
+                },
+                "owners": [
+                    "@unkown"
+                ],
+                "name": "TotemOfUndyingRegretrue",
+                "category": "totem"
             },
             {
                 "threshold": 4172002,
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/player/totem_of_undying_anminteam0218"
-                }
+                },
+                "owners": [
+                    "@unkown"
+                ],
+                "name": "TotemOfUndyingAnminteam0218",
+                "category": "totem"
             },
             {
                 "threshold": 4172003,
@@ -544,7 +844,12 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/totem/alien_of_undying"
-                }
+                },
+                "owners": [
+                    "@unkown"
+                ],
+                "name": "AlienOfUndying",
+                "category": "totem"
             },
             {
                 "threshold": 8384802,

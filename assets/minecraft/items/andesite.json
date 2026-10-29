@@ -12,8 +12,13 @@
                 "model": {
                     "type": "model",
                     "model": "custom:block/filter_andesite"
-                }
+                },
+                "owners": [
+                    "@unkown"
+                ],
+                "name": "FilterAndesite",
+                "category": "filter"
             }
-		]
-	}
+        ]
+    }
 }
