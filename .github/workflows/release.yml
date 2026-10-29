@@ -1,3 +1,4 @@
+
 name: Release
 
 on:
@@ -21,8 +22,19 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate models.json and prepare resource pack
+        run: python .github/scripts/generate_models.py
+
       - name: Create ZIP Archive
-        run: zip -r OrdinarySMP.zip assets/ pack.mcmeta pack.png
+        run: |
+          set -euo pipefail
+          cd build/release-pack
+          zip -r "$GITHUB_WORKSPACE/OrdinarySMP.zip" assets/ pack.mcmeta pack.png
 
       - name: Semantic Release
         id: semantic
@@ -30,12 +42,27 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Upload files to GitHub Release
+        if: steps.semantic.outputs.new_release_published == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RELEASE_TAG: ${{ steps.semantic.outputs.new_release_git_tag }}
+        run: |
+          set -euo pipefail
+
+          gh release upload "$RELEASE_TAG" \
+            OrdinarySMP.zip \
+            build/release-pack/models.json \
+            --clobber
+
       - name: Save artifacts
         if: steps.semantic.outputs.new_release_published == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: OrdinarySMP
-          path: OrdinarySMP.zip
+          path: |
+            OrdinarySMP.zip
+            build/release-pack/models.json
 
       - name: Upload to Pterodactyl
         if: steps.semantic.outputs.new_release_published == 'true'
@@ -46,6 +73,7 @@ jobs:
           PTERODACTYL_UPLOAD_DIR: ${{ secrets.PTERODACTYL_UPLOAD_DIR }}
         run: |
           set -euo pipefail
+
           HOST="${PTERODACTYL_HOST%/}"
           DIR="${PTERODACTYL_UPLOAD_DIR:-/}"
 
@@ -56,7 +84,7 @@ jobs:
             "${HOST}/api/client/servers/${PTERODACTYL_SERVER_ID}/files/upload" \
             | jq -r '.attributes.url')
 
-          # Upload the ZIP to the target directory (overwrites an existing file)
+          # Upload the ZIP to the target directory
           curl -fsS -X POST \
             -F "files=@OrdinarySMP.zip" \
             "${UPLOAD_URL}&directory=$(jq -rn --arg d "$DIR" '$d|@uri')"
