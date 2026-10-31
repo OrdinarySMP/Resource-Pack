@@ -378,7 +378,7 @@
                     "@public"
                 ],
                 "name": "Snorkel",
-                "category": "accessory"
+                "category": "hat"
             },
             {
                 "threshold": 7083499,
@@ -577,7 +577,7 @@
                     "xKellfeine"
                 ],
                 "name": "BunnyMask",
-                "category": "accessory"
+                "category": "hat"
             },
             {
                 "threshold": 8643009,
@@ -841,7 +841,7 @@
                     "123BEEF321"
                 ],
                 "name": "VoidPendant",
-                "category": "accessory"
+                "category": "hat"
             },
             {
                 "threshold": 4566601,
