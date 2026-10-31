@@ -14,7 +14,7 @@
                     "model": "custom:block/filters/diorite"
                 },
                 "owners": [
-                    "@unkown"
+                    "@public"
                 ],
                 "name": "DioriteFilter",
                 "category": "filter"

@@ -172,7 +172,7 @@
                 "owners": [
                     "MrCookiePrincess"
                 ],
-                "name": "CookieFrostfireSword",
+                "name": "FrostfireSword",
                 "category": "equipment"
             },
             {
@@ -184,7 +184,7 @@
                 "owners": [
                     "MrCookiePrincess"
                 ],
-                "name": "XadaleSailorMoonSword",
+                "name": "SailorMoonSword",
                 "category": "equipment"
             },
             {
@@ -196,7 +196,7 @@
                 "owners": [
                     "Louddagamer"
                 ],
-                "name": "LoudBloodyScythe",
+                "name": "BloodyScythe",
                 "category": "equipment"
             },
             {
@@ -218,7 +218,7 @@
                     "model": "custom:item/equipment/weapons/witch_wand"
                 },
                 "owners": [
-                    "Hot_Chocolateee"
+                    "@public"
                 ],
                 "name": "WitchWand",
                 "category": "equipment"

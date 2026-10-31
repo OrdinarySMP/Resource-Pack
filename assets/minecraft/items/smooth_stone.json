@@ -14,7 +14,7 @@
                     "model": "custom:block/filters/smooth_stone"
                 },
                 "owners": [
-                    "@unkown"
+                    "@public"
                 ],
                 "name": "SmoothStoneFilter",
                 "category": "filter"
