@@ -16,7 +16,7 @@
                 "owners": [
                     "SalatGurke9440"
                 ],
-                "name": "SalatShovel",
+                "name": "Salat",
                 "category": "equipment"
             },
             {
@@ -28,7 +28,7 @@
                 "owners": [
                     "MrCookiePrincess"
                 ],
-                "name": "FrostfireShovel",
+                "name": "Frostfire",
                 "category": "equipment"
             },
             {
@@ -40,7 +40,7 @@
                 "owners": [
                     "MrCookiePrincess"
                 ],
-                "name": "SailorMoonShovel",
+                "name": "SailorMoon",
                 "category": "equipment"
             },
             {
@@ -52,7 +52,7 @@
                 "owners": [
                     "PadBro"
                 ],
-                "name": "HoneyShovel",
+                "name": "Honey",
                 "category": "equipment"
             },
             {
@@ -64,7 +64,7 @@
                 "owners": [
                     "PadBro"
                 ],
-                "name": "HonorShovel",
+                "name": "Honor",
                 "category": "equipment"
             },
             {
@@ -76,7 +76,7 @@
                 "owners": [
                     "PadBro"
                 ],
-                "name": "EnderShovel",
+                "name": "Ender",
                 "category": "equipment"
             },
             {
@@ -88,7 +88,7 @@
                 "owners": [
                     "PadBro"
                 ],
-                "name": "BlossomShovel",
+                "name": "Blossom",
                 "category": "equipment"
             },
             {
@@ -100,7 +100,7 @@
                 "owners": [
                     "Apieboy"
                 ],
-                "name": "CrystalShovel",
+                "name": "Crystal",
                 "category": "equipment"
             }
         ]

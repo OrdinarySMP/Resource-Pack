@@ -28,7 +28,7 @@
                 "owners": [
                     "SalatGurke9440"
                 ],
-                "name": "SalatSword",
+                "name": "Salat",
                 "category": "equipment"
             },
             {
@@ -196,7 +196,7 @@
                 "owners": [
                     "ebnl1"
                 ],
-                "name": "IceSword",
+                "name": "Ice",
                 "category": "equipment"
             },
             {
@@ -208,7 +208,7 @@
                 "owners": [
                     "MrCookiePrincess"
                 ],
-                "name": "FrostfireSword",
+                "name": "Frostfire",
                 "category": "equipment"
             },
             {
@@ -220,7 +220,7 @@
                 "owners": [
                     "MrCookiePrincess"
                 ],
-                "name": "SailorMoonSword",
+                "name": "SailorMoon",
                 "category": "equipment"
             },
             {
@@ -232,7 +232,7 @@
                 "owners": [
                     "PadBro"
                 ],
-                "name": "HoneySword",
+                "name": "Honey",
                 "category": "equipment"
             },
             {
@@ -244,7 +244,7 @@
                 "owners": [
                     "PadBro"
                 ],
-                "name": "HonorSword",
+                "name": "Honor",
                 "category": "equipment"
             },
             {
@@ -256,7 +256,7 @@
                 "owners": [
                     "PadBro"
                 ],
-                "name": "EnderSword",
+                "name": "Ender",
                 "category": "equipment"
             },
             {
@@ -268,7 +268,7 @@
                 "owners": [
                     "PadBro"
                 ],
-                "name": "BlossomSword",
+                "name": "Blossom",
                 "category": "equipment"
             },
             {
@@ -292,7 +292,7 @@
                 "owners": [
                     "Apieboy"
                 ],
-                "name": "CrystalSword",
+                "name": "Crystal",
                 "category": "equipment"
             },
             {
@@ -304,7 +304,7 @@
                 "owners": [
                     "xKellfeine"
                 ],
-                "name": "HuntrixRumiSword",
+                "name": "HuntrixRumi",
                 "category": "equipment"
             }
         ]
