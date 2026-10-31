@@ -334,11 +334,3 @@ See [Texture credits](CREDITS.md) for the credits already recorded. A texture ma
 | [`item/totems/animals/fish.png`](../assets/custom/textures/item/totems/animals/fish.png) | Unknown |
 | [`item/totems/animals/kitty.png`](../assets/custom/textures/item/totems/animals/kitty.png) | Unknown |
 | [`item/totems/animals/seal.png`](../assets/custom/textures/item/totems/animals/seal.png) | Unknown |
-
-## misc
-
-| Texture | Missing credit |
-| --- | --- |
-| [`misc/pumpkinblur.png`](../assets/minecraft/textures/misc/pumpkinblur.png) | Unknown |
-
-The two Jellie models are excluded from the confirmed cat-ear pack attribution.
