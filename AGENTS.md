@@ -34,6 +34,17 @@
   pack. Preserve geometry, UVs, animation data, and existing credits.
 - Asset moves must not change CMDs or owners. Registry renames change lookup names.
 
+## Credits
+
+- Always ask for creator credits and original source links when adding or
+  importing models or textures, unless the user has already supplied them.
+  For adapted assets, ask for both the original creator and the adapter.
+- Record each texture and its credit in `credits/CREDITS.md`. If the user does
+  not know the source, list it in `credits/MISSING_SOURCES.md`; do not guess or
+  assume that an asset's owner is its creator.
+- Keep both credit lists and their texture paths current when assets are moved,
+  removed, or attributed. Shared textures need only one entry per list.
+
 ## Rendering constraints
 
 - Carved-pumpkin models **and textures** use matching `block/hats/`,
