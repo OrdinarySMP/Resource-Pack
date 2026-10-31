@@ -14,7 +14,9 @@
                     "model": "custom:item/totems/players/m3raluna"
                 },
                 "owners": [
-                    "MrCookiePrincess"
+                    "MrCookiePrincess",
+                    "HudsCraft",
+                    "M3raluna"
                 ],
                 "name": "M3ralunaTotem",
                 "category": "totem"
@@ -26,7 +28,9 @@
                     "model": "custom:item/totems/players/hudscraft"
                 },
                 "owners": [
-                    "MrCookiePrincess"
+                    "MrCookiePrincess",
+                    "HudsCraft",
+                    "M3raluna"
                 ],
                 "name": "HudsCraftTotem",
                 "category": "totem"
@@ -74,7 +78,7 @@
                     "model": "custom:item/totems/animals/seal"
                 },
                 "owners": [
-                    "Dnge"
+                    "@public"
                 ],
                 "name": "SealTotem",
                 "category": "totem"
@@ -86,7 +90,8 @@
                     "model": "custom:item/totems/collections/devils_toys/bleamly"
                 },
                 "owners": [
-                    "DevilPowers"
+                    "DevilPowers",
+                    "Cheter0410"
                 ],
                 "name": "ToyBleamlyTotem",
                 "category": "totem"
@@ -98,7 +103,8 @@
                     "model": "custom:item/totems/collections/devils_toys/cherry"
                 },
                 "owners": [
-                    "DevilPowers"
+                    "DevilPowers",
+                    "Cheter0410"
                 ],
                 "name": "ToyCherryTotem",
                 "category": "totem"
@@ -110,7 +116,8 @@
                     "model": "custom:item/totems/collections/devils_toys/cheter"
                 },
                 "owners": [
-                    "DevilPowers"
+                    "DevilPowers",
+                    "Cheter0410"
                 ],
                 "name": "ToyCheterTotem",
                 "category": "totem"
@@ -122,7 +129,8 @@
                     "model": "custom:item/totems/collections/devils_toys/piano"
                 },
                 "owners": [
-                    "DevilPowers"
+                    "DevilPowers",
+                    "Cheter0410"
                 ],
                 "name": "ToyPianoTotem",
                 "category": "totem"
@@ -134,7 +142,8 @@
                     "model": "custom:item/totems/collections/devils_toys/smooch"
                 },
                 "owners": [
-                    "DevilPowers"
+                    "DevilPowers",
+                    "Cheter0410"
                 ],
                 "name": "ToySmoochTotem",
                 "category": "totem"
@@ -146,7 +155,8 @@
                     "model": "custom:item/totems/collections/devils_toys/supreme_guru"
                 },
                 "owners": [
-                    "DevilPowers"
+                    "DevilPowers",
+                    "Cheter0410"
                 ],
                 "name": "ToySupremeGuruTotem",
                 "category": "totem"
@@ -158,7 +168,8 @@
                     "model": "custom:item/totems/collections/devils_toys/the_devil"
                 },
                 "owners": [
-                    "DevilPowers"
+                    "DevilPowers",
+                    "Cheter0410"
                 ],
                 "name": "ToyTheDevilTotem",
                 "category": "totem"
@@ -170,7 +181,8 @@
                     "model": "custom:item/totems/collections/devils_toys/tolemor"
                 },
                 "owners": [
-                    "DevilPowers"
+                    "DevilPowers",
+                    "Cheter0410"
                 ],
                 "name": "ToyTolemorTotem",
                 "category": "totem"
@@ -182,7 +194,8 @@
                     "model": "custom:item/totems/collections/devils_toys/worker"
                 },
                 "owners": [
-                    "DevilPowers"
+                    "DevilPowers",
+                    "Cheter0410"
                 ],
                 "name": "ToyWorkerTotem",
                 "category": "totem"
@@ -194,7 +207,8 @@
                     "model": "custom:item/totems/collections/devils_toys/dapper"
                 },
                 "owners": [
-                    "DevilPowers"
+                    "DevilPowers",
+                    "Cheter0410"
                 ],
                 "name": "ToyDapperTotem",
                 "category": "totem"
@@ -206,7 +220,8 @@
                     "model": "custom:item/totems/collections/devils_toys/dylanbr"
                 },
                 "owners": [
-                    "DevilPowers"
+                    "DevilPowers",
+                    "Cheter0410"
                 ],
                 "name": "ToyDylanbrTotem",
                 "category": "totem"
@@ -218,7 +233,8 @@
                     "model": "custom:item/totems/collections/devils_toys/lilvyse"
                 },
                 "owners": [
-                    "DevilPowers"
+                    "DevilPowers",
+                    "Cheter0410"
                 ],
                 "name": "ToyLilvyseTotem",
                 "category": "totem"
@@ -230,7 +246,8 @@
                     "model": "custom:item/totems/collections/devils_toys/marbles"
                 },
                 "owners": [
-                    "DevilPowers"
+                    "DevilPowers",
+                    "Cheter0410"
                 ],
                 "name": "ToyMarblesTotem",
                 "category": "totem"
@@ -242,7 +259,7 @@
                     "model": "custom:item/totems/players/mrcookieprincess"
                 },
                 "owners": [
-                    "@unkown"
+                    "MrCookiePrincess"
                 ],
                 "name": "MrCookiePrincessTotem",
                 "category": "totem"
@@ -518,7 +535,7 @@
                     "model": "custom:item/totems/animals/kitty"
                 },
                 "owners": [
-                    "Hot_Chocolateee"
+                    "@public"
                 ],
                 "name": "KittyTotem",
                 "category": "totem"
@@ -602,7 +619,7 @@
                     "model": "custom:item/totems/heart"
                 },
                 "owners": [
-                    "Mrpablog31"
+                    "@public"
                 ],
                 "name": "HeartTotem",
                 "category": "totem"
@@ -614,7 +631,7 @@
                     "model": "custom:item/totems/joker"
                 },
                 "owners": [
-                    "Mrpablog31"
+                    "@public"
                 ],
                 "name": "JokerTotem",
                 "category": "totem"
@@ -626,7 +643,7 @@
                     "model": "custom:item/totems/warden"
                 },
                 "owners": [
-                    "Mrpablog31"
+                    "@public"
                 ],
                 "name": "WardenTotem",
                 "category": "totem"
@@ -638,7 +655,7 @@
                     "model": "custom:item/totems/yoda"
                 },
                 "owners": [
-                    "Mrpablog31"
+                    "@public"
                 ],
                 "name": "YodaTotem",
                 "category": "totem"
@@ -662,7 +679,7 @@
                     "model": "custom:item/totems/skull"
                 },
                 "owners": [
-                    "DeadFaceR1P"
+                    "@public"
                 ],
                 "name": "SkullTotem",
                 "category": "totem"
@@ -710,7 +727,7 @@
                     "model": "custom:item/totems/players/regretrue"
                 },
                 "owners": [
-                    "@unkown"
+                    "RegretRue"
                 ],
                 "name": "RegretrueTotem",
                 "category": "totem"
@@ -722,7 +739,7 @@
                     "model": "custom:item/totems/players/anminteam0218"
                 },
                 "owners": [
-                    "@unkown"
+                    "anminteam0218"
                 ],
                 "name": "Anminteam0218Totem",
                 "category": "totem"
@@ -734,7 +751,7 @@
                     "model": "custom:item/totems/alien"
                 },
                 "owners": [
-                    "@unkown"
+                    "xKellfeine"
                 ],
                 "name": "AlienTotem",
                 "category": "totem"

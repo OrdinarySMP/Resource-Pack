@@ -17,7 +17,7 @@
                     "@public"
                 ],
                 "name": "EasterEgg1",
-                "category": "easter_egg"
+                "category": "egg"
             },
             {
                 "threshold": 2682102,
@@ -29,7 +29,7 @@
                     "@public"
                 ],
                 "name": "EasterEgg2",
-                "category": "easter_egg"
+                "category": "egg"
             },
             {
                 "threshold": 2682103,
@@ -41,7 +41,7 @@
                     "@public"
                 ],
                 "name": "EasterEgg3",
-                "category": "easter_egg"
+                "category": "egg"
             },
             {
                 "threshold": 2682104,
@@ -53,7 +53,7 @@
                     "@public"
                 ],
                 "name": "EasterEgg4",
-                "category": "easter_egg"
+                "category": "egg"
             },
             {
                 "threshold": 2682105,
@@ -65,7 +65,7 @@
                     "@public"
                 ],
                 "name": "EasterEgg5",
-                "category": "easter_egg"
+                "category": "egg"
             },
             {
                 "threshold": 2682106,
@@ -77,7 +77,7 @@
                     "@public"
                 ],
                 "name": "EasterEgg6",
-                "category": "easter_egg"
+                "category": "egg"
             },
             {
                 "threshold": 2682107,
@@ -89,7 +89,7 @@
                     "@public"
                 ],
                 "name": "EasterEgg7",
-                "category": "easter_egg"
+                "category": "egg"
             },
             {
                 "threshold": 2682108,
@@ -101,7 +101,7 @@
                     "@public"
                 ],
                 "name": "EasterEgg8",
-                "category": "easter_egg"
+                "category": "egg"
             },
             {
                 "threshold": 2682109,
@@ -113,7 +113,7 @@
                     "@public"
                 ],
                 "name": "EasterEgg9",
-                "category": "easter_egg"
+                "category": "egg"
             },
             {
                 "threshold": 2682110,
@@ -125,7 +125,7 @@
                     "@public"
                 ],
                 "name": "EasterEgg10",
-                "category": "easter_egg"
+                "category": "egg"
             },
             {
                 "threshold": 2682111,
@@ -137,7 +137,7 @@
                     "@public"
                 ],
                 "name": "EasterEgg11",
-                "category": "easter_egg"
+                "category": "egg"
             },
             {
                 "threshold": 2682112,
@@ -149,7 +149,7 @@
                     "@public"
                 ],
                 "name": "EasterEgg12",
-                "category": "easter_egg"
+                "category": "egg"
             },
             {
                 "threshold": 2682113,
@@ -161,7 +161,7 @@
                     "@public"
                 ],
                 "name": "EasterEgg13",
-                "category": "easter_egg"
+                "category": "egg"
             },
             {
                 "threshold": 2682114,
@@ -173,7 +173,7 @@
                     "@public"
                 ],
                 "name": "EasterEgg14",
-                "category": "easter_egg"
+                "category": "egg"
             },
             {
                 "threshold": 2682115,
@@ -185,7 +185,7 @@
                     "@public"
                 ],
                 "name": "EasterEgg15",
-                "category": "easter_egg"
+                "category": "egg"
             }
         ]
     }

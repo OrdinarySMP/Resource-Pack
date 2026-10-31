@@ -12,16 +12,4 @@ Enable this folder as a Minecraft Java resource pack.
 Asset filenames use `snake_case`; registry names use PascalCase. Carved-pumpkin
 models and textures belong under `block/` to keep their atlas consistent.
 
-## Build
-
-From the repository root:
-
-```sh
-python .github/scripts/generate_models.py
-```
-
-The output is `build/release-pack/`: a pack with source metadata removed and a
-separate `models.json` registry. Releases from `main` publish the ZIP and registry
-to GitHub; the workflow uploads the ZIP to Pterodactyl.
-
 See [AGENTS.md](AGENTS.md) for maintenance rules and metadata details.

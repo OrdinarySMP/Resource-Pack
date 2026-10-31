@@ -197,7 +197,7 @@
                     "xKellfeine"
                 ],
                 "name": "PurpleFairyWings",
-                "category": "wing"
+                "category": "wings"
             },
             {
                 "threshold": 5478007,
@@ -209,7 +209,7 @@
                     "xKellfeine"
                 ],
                 "name": "PinkButterflyWings",
-                "category": "wing"
+                "category": "wings"
             },
             {
                 "threshold": 5478008,
@@ -221,7 +221,7 @@
                     "xKellfeine"
                 ],
                 "name": "ClearFairyWings",
-                "category": "wing"
+                "category": "wings"
             },
             {
                 "threshold": 5478009,
@@ -245,7 +245,7 @@
                     "xKellfeine"
                 ],
                 "name": "AngelWings",
-                "category": "wing"
+                "category": "wings"
             },
             {
                 "threshold": 5478011,
@@ -257,7 +257,7 @@
                     "xKellfeine"
                 ],
                 "name": "BeeWings",
-                "category": "wing"
+                "category": "wings"
             },
             {
                 "threshold": 5478012,
@@ -269,7 +269,7 @@
                     "xKellfeine"
                 ],
                 "name": "BlueButterflyWings",
-                "category": "wing"
+                "category": "wings"
             },
             {
                 "threshold": 5478013,
@@ -281,7 +281,7 @@
                     "xKellfeine"
                 ],
                 "name": "DragonWings",
-                "category": "wing"
+                "category": "wings"
             },
             {
                 "threshold": 5478014,
@@ -293,7 +293,7 @@
                     "xKellfeine"
                 ],
                 "name": "EarthWings",
-                "category": "wing"
+                "category": "wings"
             },
             {
                 "threshold": 5478015,
@@ -305,7 +305,7 @@
                     "xKellfeine"
                 ],
                 "name": "FairyWings",
-                "category": "wing"
+                "category": "wings"
             },
             {
                 "threshold": 5478016,
@@ -317,7 +317,7 @@
                     "xKellfeine"
                 ],
                 "name": "NightWings",
-                "category": "wing"
+                "category": "wings"
             },
             {
                 "threshold": 5478017,
@@ -329,7 +329,7 @@
                     "xKellfeine"
                 ],
                 "name": "YellowButterflyWings",
-                "category": "wing"
+                "category": "wings"
             },
             {
                 "threshold": 7263701,
