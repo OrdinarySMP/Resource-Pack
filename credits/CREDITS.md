@@ -41,6 +41,7 @@ Credits supplied by the pack maintainer take precedence over old embedded credit
 | Texture | Credit |
 | --- | --- |
 | [`block/hats/conductor_hat.png`](../assets/custom/textures/block/hats/conductor_hat.png) | Suhatsu |
+| [`block/hats/cookies_hat.png`](../assets/custom/textures/block/hats/cookies_hat.png) | ended4499 |
 | [`block/hats/dracatys_hat.png`](../assets/custom/textures/block/hats/dracatys_hat.png) | Suhatsu |
 | [`block/hats/kiara_hat.png`](../assets/custom/textures/block/hats/kiara_hat.png) | Suhatsu |
 | [`block/hats/mohawk.png`](../assets/custom/textures/block/hats/mohawk.png) | Suhatsu |
@@ -324,6 +325,7 @@ Credits supplied by the pack maintainer take precedence over old embedded credit
 | [`item/equipment/sets/cookie/cookie_bow_pulling_0.png`](../assets/custom/textures/item/equipment/sets/cookie/cookie_bow_pulling_0.png) | Based on [Spryzeen](https://modrinth.com/resourcepack/spryzeens-spectral-pumpkin-tools); adapted by MrCookiePrincess |
 | [`item/equipment/sets/cookie/cookie_bow_pulling_1.png`](../assets/custom/textures/item/equipment/sets/cookie/cookie_bow_pulling_1.png) | Based on [Spryzeen](https://modrinth.com/resourcepack/spryzeens-spectral-pumpkin-tools); adapted by MrCookiePrincess |
 | [`item/equipment/sets/cookie/cookie_bow_pulling_2.png`](../assets/custom/textures/item/equipment/sets/cookie/cookie_bow_pulling_2.png) | Based on [Spryzeen](https://modrinth.com/resourcepack/spryzeens-spectral-pumpkin-tools); adapted by MrCookiePrincess |
+| [`item/equipment/sets/cookie/cookie_camera.png`](../assets/custom/textures/item/equipment/sets/cookie/cookie_camera.png) | ended4499 |
 | [`item/equipment/sets/cookie/cookie_netherite_axe.png`](../assets/custom/textures/item/equipment/sets/cookie/cookie_netherite_axe.png) | Based on [Spryzeen](https://modrinth.com/resourcepack/spryzeens-spectral-pumpkin-tools); adapted by MrCookiePrincess |
 | [`item/equipment/sets/cookie/cookie_netherite_hoe.png`](../assets/custom/textures/item/equipment/sets/cookie/cookie_netherite_hoe.png) | Based on [Spryzeen](https://modrinth.com/resourcepack/spryzeens-spectral-pumpkin-tools); adapted by MrCookiePrincess |
 | [`item/equipment/sets/cookie/cookie_netherite_pickaxe.png`](../assets/custom/textures/item/equipment/sets/cookie/cookie_netherite_pickaxe.png) | Based on [Spryzeen](https://modrinth.com/resourcepack/spryzeens-spectral-pumpkin-tools); adapted by MrCookiePrincess |

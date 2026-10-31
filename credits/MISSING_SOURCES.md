@@ -21,7 +21,6 @@ See [Texture credits](CREDITS.md) for the credits already recorded. A texture ma
 | [`block/hats/chef_hat.png`](../assets/custom/textures/block/hats/chef_hat.png) | Unknown |
 | [`block/hats/cluckshroom_base.png`](../assets/custom/textures/block/hats/cluckshroom_base.png) | Unknown |
 | [`block/hats/cluckshroom_hat.png`](../assets/custom/textures/block/hats/cluckshroom_hat.png) | Unknown |
-| [`block/hats/cookies_hat.png`](../assets/custom/textures/block/hats/cookies_hat.png) | Unknown |
 | [`block/hats/crown_base.png`](../assets/custom/textures/block/hats/crown_base.png) | Unknown |
 | [`block/hats/crown_detail_1.png`](../assets/custom/textures/block/hats/crown_detail_1.png) | Unknown |
 | [`block/hats/crown_detail_2.png`](../assets/custom/textures/block/hats/crown_detail_2.png) | Unknown |
@@ -184,12 +183,6 @@ See [Texture credits](CREDITS.md) for the credits already recorded. A texture ma
 | --- | --- |
 | [`item/equipment/pickaxes/dylan_pickaxe.png`](../assets/custom/textures/item/equipment/pickaxes/dylan_pickaxe.png) | Unknown |
 
-## item/equipment/sets/cookie
-
-| Texture | Missing credit |
-| --- | --- |
-| [`item/equipment/sets/cookie/cookie_camera.png`](../assets/custom/textures/item/equipment/sets/cookie/cookie_camera.png) | Unknown |
-
 ## item/equipment/sets/crystal
 
 | Texture | Missing credit |
@@ -348,4 +341,4 @@ See [Texture credits](CREDITS.md) for the credits already recorded. A texture ma
 | --- | --- |
 | [`misc/pumpkinblur.png`](../assets/minecraft/textures/misc/pumpkinblur.png) | Unknown |
 
-Cookies Hat and Camera remain in this list because their source was not supplied. The two Jellie models are excluded from the confirmed cat-ear pack attribution.
+The two Jellie models are excluded from the confirmed cat-ear pack attribution.
