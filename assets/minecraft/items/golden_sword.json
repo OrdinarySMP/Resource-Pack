@@ -8,6 +8,30 @@
         },
         "entries": [
             {
+                "threshold": 1304101,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/weapons/witch_wand"
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "WitchWand",
+                "category": "equipment"
+            },
+            {
+                "threshold": 1532701,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/salat/salat_sword"
+                },
+                "owners": [
+                    "SalatGurke9440"
+                ],
+                "name": "SalatSword",
+                "category": "equipment"
+            },
+            {
                 "threshold": 2690801,
                 "model": {
                     "type": "model",
@@ -164,27 +188,27 @@
                 "category": "lightsaber"
             },
             {
-                "threshold": 9222701,
+                "threshold": 5319901,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/equipment/sets/huntrix/rumi_sword"
+                    "model": "custom:item/equipment/weapons/ice_sword"
                 },
                 "owners": [
-                    "xKellfeine"
+                    "ebnl1"
                 ],
-                "name": "HuntrixRumiSword",
+                "name": "IceSword",
                 "category": "equipment"
             },
             {
-                "threshold": 1304101,
+                "threshold": 5478001,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/equipment/weapons/witch_wand"
+                    "model": "custom:item/equipment/sets/cookie/cookie_netherite_sword"
                 },
                 "owners": [
-                    "@public"
+                    "MrCookiePrincess"
                 ],
-                "name": "WitchWand",
+                "name": "FrostfireSword",
                 "category": "equipment"
             },
             {
@@ -197,6 +221,90 @@
                     "MrCookiePrincess"
                 ],
                 "name": "SailorMoonSword",
+                "category": "equipment"
+            },
+            {
+                "threshold": 6151001,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/honey/honey_sword"
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "HoneySword",
+                "category": "equipment"
+            },
+            {
+                "threshold": 6151002,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/honor/honor_sword"
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "HonorSword",
+                "category": "equipment"
+            },
+            {
+                "threshold": 6151003,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/ender/ender_sword"
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "EnderSword",
+                "category": "equipment"
+            },
+            {
+                "threshold": 6151004,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/blossom/blossom_sword"
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "BlossomSword",
+                "category": "equipment"
+            },
+            {
+                "threshold": 7125401,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/weapons/loud_bloody_scythe"
+                },
+                "owners": [
+                    "Louddagamer"
+                ],
+                "name": "BloodyScythe",
+                "category": "equipment"
+            },
+            {
+                "threshold": 7961301,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/crystal/crystal_sword"
+                },
+                "owners": [
+                    "Apieboy"
+                ],
+                "name": "CrystalSword",
+                "category": "equipment"
+            },
+            {
+                "threshold": 9222701,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/huntrix/rumi_sword"
+                },
+                "owners": [
+                    "xKellfeine"
+                ],
+                "name": "HuntrixRumiSword",
                 "category": "equipment"
             }
         ]

@@ -8,6 +8,18 @@
         },
         "entries": [
             {
+                "threshold": 5478001,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/cookie/cookie_netherite_hoe"
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "FrostfireHoe",
+                "category": "equipment"
+            },
+            {
                 "threshold": 5478002,
                 "model": {
                     "type": "model",

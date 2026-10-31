@@ -8,6 +8,42 @@
         },
         "entries": [
             {
+                "threshold": 1532701,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/salat/salat_pickaxe"
+                },
+                "owners": [
+                    "SalatGurke9440"
+                ],
+                "name": "SalatPickaxe",
+                "category": "equipment"
+            },
+            {
+                "threshold": 2245501,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/pickaxes/dylan_pickaxe"
+                },
+                "owners": [
+                    "dylanbr19"
+                ],
+                "name": "DylanPickaxe",
+                "category": "equipment"
+            },
+            {
+                "threshold": 5478001,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/cookie/cookie_netherite_pickaxe"
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "FrostfirePickaxe",
+                "category": "equipment"
+            },
+            {
                 "threshold": 5478002,
                 "model": {
                     "type": "model",
@@ -29,6 +65,42 @@
                     "PadBro"
                 ],
                 "name": "HoneyPickaxe",
+                "category": "equipment"
+            },
+            {
+                "threshold": 6151002,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/honor/honor_pickaxe"
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "HonorPickaxe",
+                "category": "equipment"
+            },
+            {
+                "threshold": 6151003,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/ender/ender_pickaxe"
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "EnderPickaxe",
+                "category": "equipment"
+            },
+            {
+                "threshold": 6151004,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/blossom/blossom_pickaxe"
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "BlossomPickaxe",
                 "category": "equipment"
             },
             {

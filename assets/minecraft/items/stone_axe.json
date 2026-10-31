@@ -1,0 +1,108 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/stone_axe"
+        },
+        "entries": [
+            {
+                "threshold": 1532701,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/salat/salat_axe"
+                },
+                "owners": [
+                    "SalatGurke9440"
+                ],
+                "name": "SalatAxe",
+                "category": "equipment"
+            },
+            {
+                "threshold": 5478001,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/cookie/cookie_netherite_axe"
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "FrostfireAxe",
+                "category": "equipment"
+            },
+            {
+                "threshold": 5478002,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/cookie/xadale_axe"
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "SailorMoonAxe",
+                "category": "equipment"
+            },
+            {
+                "threshold": 6151001,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/honey/honey_axe"
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "HoneyAxe",
+                "category": "equipment"
+            },
+            {
+                "threshold": 6151002,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/honor/honor_axe"
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "HonorAxe",
+                "category": "equipment"
+            },
+            {
+                "threshold": 6151003,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/ender/ender_axe"
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "EnderAxe",
+                "category": "equipment"
+            },
+            {
+                "threshold": 6151004,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/blossom/blossom_axe"
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "BlossomAxe",
+                "category": "equipment"
+            },
+            {
+                "threshold": 7961301,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/crystal/crystal_axe"
+                },
+                "owners": [
+                    "Apieboy"
+                ],
+                "name": "CrystalAxe",
+                "category": "equipment"
+            }
+        ]
+    }
+}

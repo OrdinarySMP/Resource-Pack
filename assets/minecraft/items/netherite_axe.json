@@ -8,6 +8,18 @@
         },
         "entries": [
             {
+                "threshold": 1532701,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/salat/salat_axe"
+                },
+                "owners": [
+                    "SalatGurke9440"
+                ],
+                "name": "SalatAxe",
+                "category": "equipment"
+            },
+            {
                 "threshold": 5478001,
                 "model": {
                     "type": "model",
@@ -17,6 +29,18 @@
                     "MrCookiePrincess"
                 ],
                 "name": "FrostfireAxe",
+                "category": "equipment"
+            },
+            {
+                "threshold": 5478002,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/cookie/xadale_axe"
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "SailorMoonAxe",
                 "category": "equipment"
             },
             {
@@ -77,18 +101,6 @@
                     "Apieboy"
                 ],
                 "name": "CrystalAxe",
-                "category": "equipment"
-            },
-            {
-                "threshold": 1532701,
-                "model": {
-                    "type": "model",
-                    "model": "custom:item/equipment/sets/salat/salat_axe"
-                },
-                "owners": [
-                    "SalatGurke9440"
-                ],
-                "name": "SalatAxe",
                 "category": "equipment"
             }
         ]
