@@ -8,6 +8,12 @@ Enable this folder as a Minecraft Java resource pack.
 - `assets/custom/models/` — models grouped by purpose.
 - `assets/custom/textures/` — matching textures and animation sidecars.
 - `assets/minecraft/items/` — base-item definitions, CMD mappings, and metadata.
+- `descriptions.json` — category descriptions included in the generated registry.
+
+Every registered category requires a non-empty description in `descriptions.json`.
+Run `python .github/scripts/generate_models.py` to generate the release pack and
+`build/release-pack/models.json`. CI runs the same validation on pushes and pull
+requests and fails if a category description is missing or blank.
 
 Asset filenames use `snake_case`; registry names use PascalCase. Carved-pumpkin
 models and textures belong under `block/` to keep their atlas consistent.

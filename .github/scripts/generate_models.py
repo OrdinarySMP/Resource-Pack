@@ -12,6 +12,7 @@ ASSETS_DIR = ROOT / "assets"
 OUTPUT_DIR = ROOT / "build" / "release-pack"
 OUTPUT_ASSETS = OUTPUT_DIR / "assets"
 REGISTRY_PATH = OUTPUT_DIR / "models.json"
+DESCRIPTIONS_PATH = ROOT / "descriptions.json"
 
 METADATA_FIELDS = {"owners", "owner", "name", "category"}
 NAME_PATTERN = re.compile(r"^[A-Za-z][A-Za-z0-9_]*$")
@@ -234,6 +235,14 @@ def strip_metadata(value):
 
 
 def main():
+    descriptions = load_json(DESCRIPTIONS_PATH)
+    if not isinstance(descriptions, dict):
+        errors.append("descriptions.json: expected an object mapping categories to descriptions")
+        descriptions = {}
+    for category, description in descriptions.items():
+        if not isinstance(description, str) or not description.strip():
+            errors.append(f"descriptions.json: {category!r} must have a non-empty string description")
+
     if not ASSETS_DIR.is_dir():
         print("ERROR: assets/ directory not found.", file=sys.stderr)
         return 1
@@ -300,7 +309,16 @@ def main():
     }
 
     for (category, name), model in sorted(models.items()):
-        registry["categories"].setdefault(category, {})[name] = {
+        if category not in registry["categories"]:
+            if category not in descriptions:
+                errors.append(f"descriptions.json: missing description for category {category!r}")
+            registry["categories"][category] = {
+                "description": descriptions.get(category),
+            }
+        if name == "description":
+            errors.append(f"{category}/{name}: model name is reserved for the category description")
+            continue
+        registry["categories"][category][name] = {
             "owners": model["owners"],
             "custom_model_data": model["custom_model_data"],
             "items": sorted(model["items"]),
