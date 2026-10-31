@@ -20,6 +20,18 @@
                 "category": "equipment"
             },
             {
+                "threshold": 5478002,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/cookie/xadale_hoe"
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "SailorMoonHoe",
+                "category": "equipment"
+            },
+            {
                 "threshold": 6151001,
                 "model": {
                     "type": "model",

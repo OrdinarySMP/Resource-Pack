@@ -1,0 +1,96 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/copper_hoe"
+        },
+        "entries": [
+            {
+                "threshold": 5478001,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/cookie/cookie_netherite_hoe"
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "FrostfireHoe",
+                "category": "equipment"
+            },
+            {
+                "threshold": 5478002,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/cookie/xadale_hoe"
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "SailorMoonHoe",
+                "category": "equipment"
+            },
+            {
+                "threshold": 6151001,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/honey/honey_hoe"
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "HoneyHoe",
+                "category": "equipment"
+            },
+            {
+                "threshold": 6151002,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/honor/honor_hoe"
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "HonorHoe",
+                "category": "equipment"
+            },
+            {
+                "threshold": 6151003,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/ender/ender_hoe"
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "EnderHoe",
+                "category": "equipment"
+            },
+            {
+                "threshold": 6151004,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/blossom/blossom_hoe"
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "BlossomHoe",
+                "category": "equipment"
+            },
+            {
+                "threshold": 7961301,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/crystal/crystal_hoe"
+                },
+                "owners": [
+                    "Apieboy"
+                ],
+                "name": "CrystalHoe",
+                "category": "equipment"
+            }
+        ]
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/golden_shovel"
+        },
+        "entries": [
+            {
+                "threshold": 1532701,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/salat/salat_shovel"
+                },
+                "owners": [
+                    "SalatGurke9440"
+                ],
+                "name": "SalatShovel",
+                "category": "equipment"
+            },
+            {
+                "threshold": 5478001,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/cookie/cookie_netherite_shovel"
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "FrostfireShovel",
+                "category": "equipment"
+            },
+            {
+                "threshold": 5478002,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/cookie/xadale_shovel"
+                },
+                "owners": [
+                    "MrCookiePrincess"
+                ],
+                "name": "SailorMoonShovel",
+                "category": "equipment"
+            },
+            {
+                "threshold": 6151001,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/honey/honey_shovel"
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "HoneyShovel",
+                "category": "equipment"
+            },
+            {
+                "threshold": 6151002,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/honor/honor_shovel"
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "HonorShovel",
+                "category": "equipment"
+            },
+            {
+                "threshold": 6151003,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/ender/ender_shovel"
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "EnderShovel",
+                "category": "equipment"
+            },
+            {
+                "threshold": 6151004,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/blossom/blossom_shovel"
+                },
+                "owners": [
+                    "PadBro"
+                ],
+                "name": "BlossomShovel",
+                "category": "equipment"
+            },
+            {
+                "threshold": 7961301,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/crystal/crystal_shovel"
+                },
+                "owners": [
+                    "Apieboy"
+                ],
+                "name": "CrystalShovel",
+                "category": "equipment"
+            }
+        ]
+    }
+}
