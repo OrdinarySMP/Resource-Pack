@@ -114,6 +114,18 @@
                 ],
                 "name": "Crystal",
                 "category": "equipment"
+            },
+            {
+                "threshold": 7753601,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/christmas/christmas_pickaxe"
+                },
+                "owners": [
+                    "SalatGurke9440"
+                ],
+                "name": "Christmas",
+                "category": "equipment"
             }
         ]
     }
