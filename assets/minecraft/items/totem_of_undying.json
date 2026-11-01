@@ -755,6 +755,18 @@
                 ],
                 "name": "AlienTotem",
                 "category": "totem"
+            },
+            {
+                "threshold": 7853601,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/totems/collections/christmas/santa2"
+                },
+                "owners": [
+                    "SalatGurke9440"
+                ],
+                "name": "SantaTotem",
+                "category": "totem"
             }
         ]
     }
