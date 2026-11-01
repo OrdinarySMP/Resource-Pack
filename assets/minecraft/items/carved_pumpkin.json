@@ -890,6 +890,30 @@
                 ],
                 "name": "NetherBricksBouncepad",
                 "category": "bouncepad"
+            },
+            {
+                "threshold": 8550201,
+                "model": {
+                    "type": "model",
+                    "model": "custom:block/hats/christmas/red_hat"
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "RedHat",
+                "category": "hat"
+            },
+            {
+                "threshold": 8550202,
+                "model": {
+                    "type": "model",
+                    "model": "custom:block/hats/christmas/christmas_hat"
+                },
+                "owners": [
+                    "@public"
+                ],
+                "name": "ChristmasHat",
+                "category": "hat"
             }
         ]
     }

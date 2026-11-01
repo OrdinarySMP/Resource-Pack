@@ -34,7 +34,7 @@ Credits supplied by the pack maintainer take precedence over old embedded credit
 
 | Texture | Credit |
 | --- | --- |
-| [`block/filters/f.png`](../assets/custom/textures/block/filters/f.png) | MrCookiePrincess (preserved model credit; texture artist not independently confirmed) |
+| [`block/filters/f.png`](../assets/custom/textures/block/filters/f.png) | MrCookiePrincess |
 
 ## block/hats
 
@@ -65,6 +65,13 @@ Credits supplied by the pack maintainer take precedence over old embedded credit
 | [`block/hats/cat_ears/cat_ears_orange.png`](../assets/custom/textures/block/hats/cat_ears/cat_ears_orange.png) | [becca4leafclover](https://www.planetminecraft.com/texture-pack/cat-ears-cit-custom-model-pack/) |
 | [`block/hats/cat_ears/cat_ears_pink.png`](../assets/custom/textures/block/hats/cat_ears/cat_ears_pink.png) | [becca4leafclover](https://www.planetminecraft.com/texture-pack/cat-ears-cit-custom-model-pack/) |
 | [`block/hats/cat_ears/cat_ears_white.png`](../assets/custom/textures/block/hats/cat_ears/cat_ears_white.png) | [becca4leafclover](https://www.planetminecraft.com/texture-pack/cat-ears-cit-custom-model-pack/) |
+
+## block/hats/christmas
+
+| Texture                                                                                                      | Credit                                                      |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| [`block/hats/christmas/christmas_hat.png`](../assets/custom/textures/block/hats/christmas/christmas_hat.png) | [LuckyVIP](https://modrinth.com/resourcepack/christmas-hat) |
+| [`block/hats/christmas/red_hat.png`](../assets/custom/textures/block/hats/christmas/red_hat.png)             | [HeyCronus](https://www.curseforge.com/minecraft/texture-packs/christmas-hat)                                               |
 
 ## block/hats/laurels
 
@@ -319,12 +326,12 @@ Credits supplied by the pack maintainer take precedence over old embedded credit
 
 ## item/equipment/sets/christmas
 
-| Texture                                                                                                                    | Credit         |
-|----------------------------------------------------------------------------------------------------------------------------|----------------|
-| [`item/equipment/sets/christmas/christmas_axe.png`](../assets/custom/textures/item/equipment/sets/salat/salat_axe.png)     | [Kerfuss_](https://modrinth.com/resourcepack/snowys-texturepack)   |
-| [`item/equipment/sets/christmas/christmas_pickaxe.png`](../assets/custom/textures/item/equipment/sets/salat/salat_pickaxe.png) | [Kerfuss_](https://modrinth.com/resourcepack/snowys-texturepack) |
-| [`item/equipment/sets/christmas/christmas_shovel.png`](../assets/custom/textures/item/equipment/sets/salat/salat_shovel.png)   | [Kerfuss_](https://modrinth.com/resourcepack/snowys-texturepack) |
-| [`item/equipment/sets/christmas/christmas_sword.png`](../assets/custom/textures/item/equipment/sets/salat/salat_sword.png)     | [Kerfuss_](https://modrinth.com/resourcepack/snowys-texturepack) |
+| Texture                                                                                                                                | Credit         |
+|----------------------------------------------------------------------------------------------------------------------------------------|----------------|
+| [`item/equipment/sets/christmas/christmas_axe.png`](../assets/custom/textures/item/equipment/sets/christmas/christmas_axe.png)         | [Kerfuss_](https://modrinth.com/resourcepack/snowys-texturepack)   |
+| [`item/equipment/sets/christmas/christmas_pickaxe.png`](../assets/custom/textures/item/equipment/sets/christmas/christmas_pickaxe.png) | [Kerfuss_](https://modrinth.com/resourcepack/snowys-texturepack) |
+| [`item/equipment/sets/christmas/christmas_shovel.png`](../assets/custom/textures/item/equipment/sets/christmas/christmas_shovel.png)   | [Kerfuss_](https://modrinth.com/resourcepack/snowys-texturepack) |
+| [`item/equipment/sets/christmas/christmas_sword.png`](../assets/custom/textures/item/equipment/sets/christmas/christmas_sword.png)     | [Kerfuss_](https://modrinth.com/resourcepack/snowys-texturepack) |
 
 ## item/equipment/sets/cookie
 
@@ -695,7 +702,7 @@ Credits supplied by the pack maintainer take precedence over old embedded credit
 | [`item/totems/collections/christmas/penguin.png`](../assets/custom/textures/item/totems/collections/christmas/penguin.png)                 | xKellfeine   |
 | [`item/totems/collections/christmas/rudolf.png`](../assets/custom/textures/item/totems/collections/christmas/rudolf.png)                   | xKellfeine   |
 | [`item/totems/collections/christmas/santa.png`](../assets/custom/textures/item/totems/collections/christmas/santa.png)                     | xKellfeine   |
-| [`item/totems/collections/christmas/santa2.png`](../assets/custom/textures/item/totems/collections/christmas/santa.png)                    | [Kerfuss_](https://modrinth.com/resourcepack/snowys-texturepack) |
+| [`item/totems/collections/christmas/santa2.png`](../assets/custom/textures/item/totems/collections/christmas/santa2.png)                   | [Kerfuss_](https://modrinth.com/resourcepack/snowys-texturepack) |
 | [`item/totems/collections/christmas/snowflakes.png`](../assets/custom/textures/item/totems/collections/christmas/snowflakes.png)           | xKellfeine   |
 | [`item/totems/collections/christmas/snowman.png`](../assets/custom/textures/item/totems/collections/christmas/snowman.png)                 | xKellfeine   |
 
