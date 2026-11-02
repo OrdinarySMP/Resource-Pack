@@ -39,8 +39,20 @@ def generate_models():
         *parts[textures_index + 1:]
     )
 
+    # Choose the model parent based on the folder path.
+    parent = (
+        "minecraft:item/handheld"
+        if "equipment" in parts
+        else "minecraft:item/generated"
+    )
+
     created = 0
     skipped = 0
+
+    # Get the namespace and textures root.
+    assets_index = parts.index("assets")
+    namespace = parts[assets_index + 1]
+    textures_root = Path(*parts[:textures_index + 1])
 
     for png in texture_folder.rglob("*"):
         if not png.is_file() or png.suffix.lower() != ".png":
@@ -52,25 +64,7 @@ def generate_models():
         json_path = model_folder / relative_path.with_suffix(".json")
         json_path.parent.mkdir(parents=True, exist_ok=True)
 
-        # Build the texture identifier relative to textures/item.
-        texture_relative = png.relative_to(
-            Path(*parts[:textures_index + 1]) / "item"
-        ) if False else None
-
-        texture_path = (
-            f"{NAMESPACE}:item/"
-            f"{texture_folder.relative_to(
-                Path(*parts[:textures_index + 1]) / 'item'
-            ) if False else ''}"
-        )
-
-        # Use the texture's path relative to assets/<namespace>/textures.
-        assets_index = parts.index("assets")
-        namespace = parts[assets_index + 1]
-        textures_root = Path(
-            *parts[:textures_index + 1]
-        )
-
+        # Build the texture identifier.
         texture_path = (
             f"{namespace}:"
             f"{png.relative_to(textures_root).with_suffix('').as_posix()}"
@@ -81,7 +75,7 @@ def generate_models():
             continue
 
         model = {
-            "parent": "minecraft:item/generated",
+            "parent": parent,
             "textures": {
                 "layer0": texture_path
             }
@@ -96,6 +90,7 @@ def generate_models():
         created += 1
 
     print(f"\nDone! Created {created} models, skipped {skipped} existing files.")
+    print(f"Parent used: {parent}")
     print(f"Output folder: {model_folder.resolve()}")
     input("\nPress Enter to exit...")
 
