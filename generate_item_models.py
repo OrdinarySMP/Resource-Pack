@@ -54,7 +54,7 @@ def generate_models():
     namespace = parts[assets_index + 1]
     textures_root = Path(*parts[:textures_index + 1])
 
-    for png in texture_folder.rglob("*"):
+    for png in texture_folder.glob("*.png"):
         if not png.is_file() or png.suffix.lower() != ".png":
             continue
 
