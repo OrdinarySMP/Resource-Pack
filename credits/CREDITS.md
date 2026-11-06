@@ -410,6 +410,20 @@ Credits supplied by the pack maintainer take precedence over old embedded credit
 | [`item/equipment/sets/salat/salat_shovel.png`](../assets/custom/textures/item/equipment/sets/salat/salat_shovel.png) | SalatGurke9440 |
 | [`item/equipment/sets/salat/salat_sword.png`](../assets/custom/textures/item/equipment/sets/salat/salat_sword.png) | SalatGurke9440 |
 
+## item/equipment/sets/zenith
+
+| Texture                                                                                                                                | Credit                                                                          |
+|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| [`item/equipment/sets/zenith/zenith_axe.png`](../assets/custom/textures/item/equipment/sets/zenith/zenith_axe.png)                     | [Mr Thyme](https://www.planetminecraft.com/texture-pack/terraria-zenith-tools/) |
+| [`item/equipment/sets/zenith/zenith_bow.png`](../assets/custom/textures/item/equipment/sets/zenith/zenith_bow.png)                     | [Mr Thyme](https://www.planetminecraft.com/texture-pack/terraria-zenith-tools/) |
+| [`item/equipment/sets/zenith/zenith_bow_pulling_0.png`](../assets/custom/textures/item/equipment/sets/zenith/zenith_bow_pulling_0.png) | [Mr Thyme](https://www.planetminecraft.com/texture-pack/terraria-zenith-tools/) |
+| [`item/equipment/sets/zenith/zenith_bow_pulling_1.png`](../assets/custom/textures/item/equipment/sets/zenith/zenith_bow_pulling_1.png) | [Mr Thyme](https://www.planetminecraft.com/texture-pack/terraria-zenith-tools/) |
+| [`item/equipment/sets/zenith/zenith_bow_pulling_2.png`](../assets/custom/textures/item/equipment/sets/zenith/zenith_bow_pulling_2.png) | [Mr Thyme](https://www.planetminecraft.com/texture-pack/terraria-zenith-tools/) |
+| [`item/equipment/sets/zenith/zenith_hoe.png`](../assets/custom/textures/item/equipment/sets/zenith/zenith_hoe.png)                     | [Mr Thyme](https://www.planetminecraft.com/texture-pack/terraria-zenith-tools/) |
+| [`item/equipment/sets/zenith/zenith_pickaxe.png`](../assets/custom/textures/item/equipment/sets/zenith/zenith_pickaxe.png)             | [Mr Thyme](https://www.planetminecraft.com/texture-pack/terraria-zenith-tools/) |
+| [`item/equipment/sets/zenith/zenith_shovel.png`](../assets/custom/textures/item/equipment/sets/zenith/zenith_shovel.png)               | [Mr Thyme](https://www.planetminecraft.com/texture-pack/terraria-zenith-tools/) |
+| [`item/equipment/sets/zenith/zenith_sword.png`](../assets/custom/textures/item/equipment/sets/zenith/zenith_sword.png)                 | [Mr Thyme](https://www.planetminecraft.com/texture-pack/terraria-zenith-tools/) |
+
 ## item/equipment/weapons
 
 | Texture | Credit |
