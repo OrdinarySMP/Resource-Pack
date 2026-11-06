@@ -318,6 +318,18 @@
                 ],
                 "name": "Christmas",
                 "category": "equipment"
+            },
+            {
+                "threshold": 2046101,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/zenith/zenith_sword"
+                },
+                "owners": [
+                    "Lilvyse"
+                ],
+                "name": "Zenith",
+                "category": "equipment"
             }
         ]
     }
