@@ -374,6 +374,16 @@ Credits supplied by the pack maintainer take precedence over old embedded credit
 | [`item/equipment/sets/ender/ender_shovel.png`](../assets/custom/textures/item/equipment/sets/ender/ender_shovel.png) | [kaufmo](https://modrinth.com/resourcepack/anvil-tools) |
 | [`item/equipment/sets/ender/ender_sword.png`](../assets/custom/textures/item/equipment/sets/ender/ender_sword.png) | [kaufmo](https://modrinth.com/resourcepack/anvil-tools) |
 
+## item/equipment/sets/error
+
+| Texture                                                                                                                | Credit   |
+|------------------------------------------------------------------------------------------------------------------------|----------|
+| [`item/equipment/sets/error/error_axe.png`](../assets/custom/textures/item/equipment/sets/error/error_axe.png)         | IamLolda |
+| [`item/equipment/sets/error/error_hoe.png`](../assets/custom/textures/item/equipment/sets/error/error_hoe.png)         | IamLolda |
+| [`item/equipment/sets/error/error_pickaxe.png`](../assets/custom/textures/item/equipment/sets/error/error_pickaxe.png) | IamLolda |
+| [`item/equipment/sets/error/error_shovel.png`](../assets/custom/textures/item/equipment/sets/error/error_shovel.png)   | IamLolda |
+| [`item/equipment/sets/error/error_sword.png`](../assets/custom/textures/item/equipment/sets/error/error_sword.png)     | IamLolda |
+
 ## item/equipment/sets/honey
 
 | Texture | Credit |
@@ -690,11 +700,12 @@ Credits supplied by the pack maintainer take precedence over old embedded credit
 
 ## item/totems
 
-| Texture | Credit |
-| --- | --- |
-| [`item/totems/alien.png`](../assets/custom/textures/item/totems/alien.png) | xKellfeine |
-| [`item/totems/lilvyse.png`](../assets/custom/textures/item/totems/lilvyse.png) | Lilvyse |
-| [`item/totems/lilvyse_variant.png`](../assets/custom/textures/item/totems/lilvyse_variant.png) | Lilvyse |
+| Texture                                                                                        | Credit     |
+|------------------------------------------------------------------------------------------------|------------|
+| [`item/totems/alien.png`](../assets/custom/textures/item/totems/alien.png)                     | xKellfeine |
+| [`item/totems/error.png`](../assets/custom/textures/item/totems/error.png)                     | IamLolda   |
+| [`item/totems/lilvyse.png`](../assets/custom/textures/item/totems/lilvyse.png)                 | Lilvyse    |
+| [`item/totems/lilvyse_variant.png`](../assets/custom/textures/item/totems/lilvyse_variant.png) | Lilvyse    |
 
 ## item/totems/animals
 
