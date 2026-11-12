@@ -52,7 +52,7 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "AhsokaWhiteLightsaber",
+                "name": "AhsokaWhite",
                 "category": "lightsaber"
             },
             {
@@ -64,7 +64,7 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "AnakinSkywalkerJediKnightLightsaber",
+                "name": "AnakinSkywalkerJediKnight",
                 "category": "lightsaber"
             },
             {
@@ -76,7 +76,7 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "DarthVaderLightsaber",
+                "name": "DarthVader",
                 "category": "lightsaber"
             },
             {
@@ -88,7 +88,7 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "CountDookuLightsaber",
+                "name": "CountDooku",
                 "category": "lightsaber"
             },
             {
@@ -100,7 +100,7 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "DarthMaulApprenticeLightsaber",
+                "name": "DarthMaulApprentice",
                 "category": "lightsaber"
             },
             {
@@ -124,7 +124,7 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "LukeSkywalkerGreenLightsaber",
+                "name": "LukeSkywalkerGreen",
                 "category": "lightsaber"
             },
             {
@@ -136,7 +136,7 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "MaceWinduLightsaber",
+                "name": "MaceWindu",
                 "category": "lightsaber"
             },
             {
@@ -148,7 +148,7 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "ObiWanLightsaber",
+                "name": "ObiWan",
                 "category": "lightsaber"
             },
             {
@@ -160,7 +160,7 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "QuiGonJinnLightsaber",
+                "name": "QuiGonJinn",
                 "category": "lightsaber"
             },
             {
@@ -172,7 +172,7 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "YodaLightsaber",
+                "name": "Yoda",
                 "category": "lightsaber"
             },
             {
@@ -184,7 +184,7 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "AnakinSkywalkerPadawanLightsaber",
+                "name": "AnakinSkywalkerPadawan",
                 "category": "lightsaber"
             },
             {
