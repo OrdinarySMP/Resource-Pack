@@ -689,7 +689,7 @@
                     "xKellfeine"
                 ],
                 "name": "AppleCupcake",
-                "category": "food"
+                "category": "pastries"
             },
             {
                 "threshold": 2106502,
@@ -701,7 +701,7 @@
                     "xKellfeine"
                 ],
                 "name": "Baguette",
-                "category": "food"
+                "category": "pastries"
             },
             {
                 "threshold": 2106503,
@@ -713,7 +713,7 @@
                     "xKellfeine"
                 ],
                 "name": "BerryTartSlice",
-                "category": "food"
+                "category": "pastries"
             },
             {
                 "threshold": 2106504,
@@ -725,7 +725,7 @@
                     "xKellfeine"
                 ],
                 "name": "BraidedBread",
-                "category": "food"
+                "category": "pastries"
             },
             {
                 "threshold": 2106505,
@@ -737,7 +737,7 @@
                     "xKellfeine"
                 ],
                 "name": "Bread",
-                "category": "food"
+                "category": "pastries"
             },
             {
                 "threshold": 2106506,
@@ -749,7 +749,7 @@
                     "xKellfeine"
                 ],
                 "name": "Bun",
-                "category": "food"
+                "category": "pastries"
             },
             {
                 "threshold": 2106507,
@@ -761,7 +761,7 @@
                     "xKellfeine"
                 ],
                 "name": "BundtCake",
-                "category": "food"
+                "category": "pastries"
             },
             {
                 "threshold": 2106508,
@@ -773,7 +773,7 @@
                     "xKellfeine"
                 ],
                 "name": "ChocolateCake",
-                "category": "food"
+                "category": "pastries"
             },
             {
                 "threshold": 2106509,
@@ -785,7 +785,7 @@
                     "xKellfeine"
                 ],
                 "name": "ChocolateGateau",
-                "category": "food"
+                "category": "pastries"
             },
             {
                 "threshold": 2106510,
@@ -797,7 +797,7 @@
                     "xKellfeine"
                 ],
                 "name": "ChocolateGlazedCookie",
-                "category": "food"
+                "category": "pastries"
             },
             {
                 "threshold": 2106511,
@@ -809,7 +809,7 @@
                     "xKellfeine"
                 ],
                 "name": "ChocolateTart",
-                "category": "food"
+                "category": "pastries"
             },
             {
                 "threshold": 2106512,
@@ -821,7 +821,7 @@
                     "xKellfeine"
                 ],
                 "name": "Cornet",
-                "category": "food"
+                "category": "pastries"
             },
             {
                 "threshold": 2106513,
@@ -833,7 +833,7 @@
                     "xKellfeine"
                 ],
                 "name": "Croissant",
-                "category": "food"
+                "category": "pastries"
             },
             {
                 "threshold": 2106514,
@@ -845,7 +845,7 @@
                     "xKellfeine"
                 ],
                 "name": "CrustyBread",
-                "category": "food"
+                "category": "pastries"
             },
             {
                 "threshold": 2106515,
@@ -857,7 +857,7 @@
                     "xKellfeine"
                 ],
                 "name": "JamRoll",
-                "category": "food"
+                "category": "pastries"
             },
             {
                 "threshold": 2106516,
@@ -869,7 +869,7 @@
                     "xKellfeine"
                 ],
                 "name": "Pizza",
-                "category": "food"
+                "category": "pastries"
             },
             {
                 "threshold": 2106517,
@@ -881,7 +881,7 @@
                     "xKellfeine"
                 ],
                 "name": "Pudding",
-                "category": "food"
+                "category": "pastries"
             },
             {
                 "threshold": 2106518,
@@ -893,7 +893,7 @@
                     "xKellfeine"
                 ],
                 "name": "Sandwich",
-                "category": "food"
+                "category": "pastries"
             },
             {
                 "threshold": 2106519,
@@ -905,7 +905,7 @@
                     "xKellfeine"
                 ],
                 "name": "StrawberryCake",
-                "category": "food"
+                "category": "pastries"
             },
             {
                 "threshold": 2106520,
@@ -917,7 +917,7 @@
                     "xKellfeine"
                 ],
                 "name": "StrawberryCupcake",
-                "category": "food"
+                "category": "pastries"
             },
             {
                 "threshold": 2106521,
@@ -929,7 +929,7 @@
                     "xKellfeine"
                 ],
                 "name": "StrawberryGlazedCookie",
-                "category": "food"
+                "category": "pastries"
             },
             {
                 "threshold": 2106522,
@@ -941,7 +941,7 @@
                     "xKellfeine"
                 ],
                 "name": "Toast",
-                "category": "food"
+                "category": "pastries"
             },
             {
                 "threshold": 2106523,
@@ -953,7 +953,7 @@
                     "xKellfeine"
                 ],
                 "name": "VegetableSandwich",
-                "category": "food"
+                "category": "pastries"
             },
             {
                 "threshold": 2106524,
@@ -965,7 +965,7 @@
                     "xKellfeine"
                 ],
                 "name": "Waffle",
-                "category": "food"
+                "category": "pastries"
             }
         ]
     }

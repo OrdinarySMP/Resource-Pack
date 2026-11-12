@@ -108,13 +108,6 @@ See [Texture credits](CREDITS.md) for the credits already recorded. A texture ma
 | [`block/hats/wizard/marisa_hat.png`](../assets/custom/textures/block/hats/wizard/marisa_hat.png) | Unknown |
 | [`block/hats/wizard/wizard_hat.png`](../assets/custom/textures/block/hats/wizard/wizard_hat.png) | Unknown |
 
-## item
-
-| Texture | Missing credit |
-| --- | --- |
-| [`item/spyglass.png`](../assets/minecraft/textures/item/spyglass.png) | Unknown |
-| [`item/spyglass_model.png`](../assets/minecraft/textures/item/spyglass_model.png) | Unknown |
-
 ## item/cosmetics/wings
 
 | Texture | Missing credit |
