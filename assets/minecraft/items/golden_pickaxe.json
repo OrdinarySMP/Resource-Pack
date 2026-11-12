@@ -138,6 +138,18 @@
                 ],
                 "name": "Zenith",
                 "category": "equipment"
+            },
+            {
+                "threshold": 1001,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/error/error_pickaxe"
+                },
+                "owners": [
+                    "IamLolda"
+                ],
+                "name": "Error",
+                "category": "totem"
             }
         ]
     }
