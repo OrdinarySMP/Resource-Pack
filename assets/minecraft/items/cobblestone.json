@@ -16,7 +16,7 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "CobblestoneFilter",
+                "name": "Basic",
                 "category": "filter"
             }
         ]
