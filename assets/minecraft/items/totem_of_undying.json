@@ -767,6 +767,18 @@
                 ],
                 "name": "SantaTotem",
                 "category": "totem"
+            },
+            {
+                "threshold": 1001,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/totems/error"
+                },
+                "owners": [
+                    "IamLolda"
+                ],
+                "name": "Error",
+                "category": "totem"
             }
         ]
     }
