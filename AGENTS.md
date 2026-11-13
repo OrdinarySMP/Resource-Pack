@@ -124,6 +124,9 @@ Each registered custom-model-data dispatch entry carries:
 - `.github/workflows/release.yml` and `.releaserc.json` release from `main`.
   Manual dispatch on another branch does not make it a release branch.
 - Current workflow limitations: duplicate ZIP upload, uploads gated on a newly
-  published release (retry risk), and no registry upload to Pterodactyl.
+  published release (retry risk).
+- The registry is uploaded to every server in the `MODELS_JSON_SERVERS` secret
+  (JSON array with per-server host, ID, token, upload dir and optional console
+  command), separately from the ZIP's Pterodactyl upload.
 - Commit messages follow `@commitlint/config-conventional`, e.g.
   `feat: add a model`, `fix: correct texture references`, `refactor: organize assets`.
