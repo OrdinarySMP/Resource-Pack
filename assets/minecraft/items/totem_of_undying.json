@@ -19,6 +19,7 @@
                     "M3raluna"
                 ],
                 "name": "M3ralunaTotem",
+                "display_name": "M3raluna",
                 "category": "totem"
             },
             {
@@ -33,6 +34,7 @@
                     "M3raluna"
                 ],
                 "name": "HudsCraftTotem",
+                "display_name": "HudsCraft",
                 "category": "totem"
             },
             {
@@ -45,6 +47,7 @@
                     "MrCookiePrincess"
                 ],
                 "name": "ChristmasGingerbreadManTotem",
+                "display_name": "Christmas Gingerbread Man",
                 "category": "totem"
             },
             {
@@ -57,6 +60,7 @@
                     "@staff"
                 ],
                 "name": "FishTotem",
+                "display_name": "Fish",
                 "category": "totem"
             },
             {
@@ -69,6 +73,7 @@
                     "@staff"
                 ],
                 "name": "TreasureTotem",
+                "display_name": "Treasure",
                 "category": "totem"
             },
             {
@@ -81,6 +86,7 @@
                     "@public"
                 ],
                 "name": "SealTotem",
+                "display_name": "Seal",
                 "category": "totem"
             },
             {
@@ -94,6 +100,7 @@
                     "Cheter0410"
                 ],
                 "name": "ToyBleamlyTotem",
+                "display_name": "Toy Bleamly",
                 "category": "totem"
             },
             {
@@ -107,6 +114,7 @@
                     "Cheter0410"
                 ],
                 "name": "ToyCherryTotem",
+                "display_name": "Toy Cherry",
                 "category": "totem"
             },
             {
@@ -120,6 +128,7 @@
                     "Cheter0410"
                 ],
                 "name": "ToyCheterTotem",
+                "display_name": "Toy Cheter",
                 "category": "totem"
             },
             {
@@ -133,6 +142,7 @@
                     "Cheter0410"
                 ],
                 "name": "ToyPianoTotem",
+                "display_name": "Toy Piano",
                 "category": "totem"
             },
             {
@@ -146,6 +156,7 @@
                     "Cheter0410"
                 ],
                 "name": "ToySmoochTotem",
+                "display_name": "Toy Smooch",
                 "category": "totem"
             },
             {
@@ -159,6 +170,7 @@
                     "Cheter0410"
                 ],
                 "name": "ToySupremeGuruTotem",
+                "display_name": "Toy Supreme Guru",
                 "category": "totem"
             },
             {
@@ -172,6 +184,7 @@
                     "Cheter0410"
                 ],
                 "name": "ToyTheDevilTotem",
+                "display_name": "Toy The Devil",
                 "category": "totem"
             },
             {
@@ -185,6 +198,7 @@
                     "Cheter0410"
                 ],
                 "name": "ToyTolemorTotem",
+                "display_name": "Toy Tolemor",
                 "category": "totem"
             },
             {
@@ -198,6 +212,7 @@
                     "Cheter0410"
                 ],
                 "name": "ToyWorkerTotem",
+                "display_name": "Toy Worker",
                 "category": "totem"
             },
             {
@@ -211,6 +226,7 @@
                     "Cheter0410"
                 ],
                 "name": "ToyDapperTotem",
+                "display_name": "Toy Dapper",
                 "category": "totem"
             },
             {
@@ -224,6 +240,7 @@
                     "Cheter0410"
                 ],
                 "name": "ToyDylanbrTotem",
+                "display_name": "Toy Dylanbr",
                 "category": "totem"
             },
             {
@@ -237,6 +254,7 @@
                     "Cheter0410"
                 ],
                 "name": "ToyLilvyseTotem",
+                "display_name": "Toy Lilvyse",
                 "category": "totem"
             },
             {
@@ -250,6 +268,7 @@
                     "Cheter0410"
                 ],
                 "name": "ToyMarblesTotem",
+                "display_name": "Toy Marbles",
                 "category": "totem"
             },
             {
@@ -262,6 +281,7 @@
                     "MrCookiePrincess"
                 ],
                 "name": "MrCookiePrincessTotem",
+                "display_name": "MrCookiePrincess",
                 "category": "totem"
             },
             {
@@ -274,6 +294,7 @@
                     "xKellfeine"
                 ],
                 "name": "PadBroTotem",
+                "display_name": "PadBro",
                 "category": "totem"
             },
             {
@@ -286,6 +307,7 @@
                     "PadBro"
                 ],
                 "name": "XKellfeineTotem",
+                "display_name": "xKellfeine",
                 "category": "totem"
             },
             {
@@ -298,6 +320,7 @@
                     "xKellfeine"
                 ],
                 "name": "BeeTotem",
+                "display_name": "Bee",
                 "category": "totem"
             },
             {
@@ -310,6 +333,7 @@
                     "xKellfeine"
                 ],
                 "name": "PandaTotem",
+                "display_name": "Panda",
                 "category": "totem"
             },
             {
@@ -322,6 +346,7 @@
                     "xKellfeine"
                 ],
                 "name": "PinkPandaTotem",
+                "display_name": "Pink Panda",
                 "category": "totem"
             },
             {
@@ -334,6 +359,7 @@
                     "xKellfeine"
                 ],
                 "name": "SandCatTotem",
+                "display_name": "Sand Cat",
                 "category": "totem"
             },
             {
@@ -346,6 +372,7 @@
                     "xKellfeine"
                 ],
                 "name": "ShroomieTotem",
+                "display_name": "Shroomie",
                 "category": "totem"
             },
             {
@@ -358,6 +385,7 @@
                     "xKellfeine"
                 ],
                 "name": "TeddyTotem",
+                "display_name": "Teddy",
                 "category": "totem"
             },
             {
@@ -370,6 +398,7 @@
                     "xKellfeine"
                 ],
                 "name": "PadBroAstronautTotem",
+                "display_name": "PadBro Astronaut",
                 "category": "totem"
             },
             {
@@ -382,6 +411,7 @@
                     "xKellfeine"
                 ],
                 "name": "XKellfeineAstronautTotem",
+                "display_name": "xKellfeine Astronaut",
                 "category": "totem"
             },
             {
@@ -394,6 +424,7 @@
                     "sUPr3meXBuRRiTo"
                 ],
                 "name": "SushikuromiTotem",
+                "display_name": "Sushikuromi",
                 "category": "totem"
             },
             {
@@ -406,6 +437,7 @@
                     "xKellfeine"
                 ],
                 "name": "DemonHunterZoeyTotem",
+                "display_name": "Demon Hunter Zoey",
                 "category": "totem"
             },
             {
@@ -418,6 +450,7 @@
                     "xKellfeine"
                 ],
                 "name": "DemonHunterMiraTotem",
+                "display_name": "Demon Hunter Mira",
                 "category": "totem"
             },
             {
@@ -430,6 +463,7 @@
                     "xKellfeine"
                 ],
                 "name": "DemonHunterDerpyTotem",
+                "display_name": "Demon Hunter Derpy",
                 "category": "totem"
             },
             {
@@ -442,6 +476,7 @@
                     "xKellfeine"
                 ],
                 "name": "DemonHunterRumiTotem",
+                "display_name": "Demon Hunter Rumi",
                 "category": "totem"
             },
             {
@@ -454,6 +489,7 @@
                     "xKellfeine"
                 ],
                 "name": "DemonHunterSussieTotem",
+                "display_name": "Demon Hunter Sussie",
                 "category": "totem"
             },
             {
@@ -466,6 +502,7 @@
                     "xKellfeine"
                 ],
                 "name": "HalloweenBlackCatTotem",
+                "display_name": "Halloween Black Cat",
                 "category": "totem"
             },
             {
@@ -478,6 +515,7 @@
                     "xKellfeine"
                 ],
                 "name": "HalloweenGhostieTotem",
+                "display_name": "Halloween Ghostie",
                 "category": "totem"
             },
             {
@@ -490,6 +528,7 @@
                     "xKellfeine"
                 ],
                 "name": "HalloweenPumpkinTotem",
+                "display_name": "Halloween Pumpkin",
                 "category": "totem"
             },
             {
@@ -502,6 +541,7 @@
                     "xKellfeine"
                 ],
                 "name": "HalloweenSkullTotem",
+                "display_name": "Halloween Skull",
                 "category": "totem"
             },
             {
@@ -514,6 +554,7 @@
                     "xKellfeine"
                 ],
                 "name": "HalloweenSoulTotem",
+                "display_name": "Halloween Soul",
                 "category": "totem"
             },
             {
@@ -526,6 +567,7 @@
                     "xKellfeine"
                 ],
                 "name": "HalloweenVampireTotem",
+                "display_name": "Halloween Vampire",
                 "category": "totem"
             },
             {
@@ -538,6 +580,7 @@
                     "@public"
                 ],
                 "name": "KittyTotem",
+                "display_name": "Kitty",
                 "category": "totem"
             },
             {
@@ -550,6 +593,7 @@
                     "xKellfeine"
                 ],
                 "name": "ChristmasTreeTotem",
+                "display_name": "Christmas Tree",
                 "category": "totem"
             },
             {
@@ -562,6 +606,7 @@
                     "xKellfeine"
                 ],
                 "name": "ChristmasPenguinTotem",
+                "display_name": "Christmas Penguin",
                 "category": "totem"
             },
             {
@@ -574,6 +619,7 @@
                     "xKellfeine"
                 ],
                 "name": "ChristmasRudolfTotem",
+                "display_name": "Christmas Rudolf",
                 "category": "totem"
             },
             {
@@ -586,6 +632,7 @@
                     "xKellfeine"
                 ],
                 "name": "ChristmasSantaTotem",
+                "display_name": "Christmas Santa",
                 "category": "totem"
             },
             {
@@ -598,6 +645,7 @@
                     "xKellfeine"
                 ],
                 "name": "ChristmasSnowflakesTotem",
+                "display_name": "Christmas Snowflakes",
                 "category": "totem"
             },
             {
@@ -610,6 +658,7 @@
                     "xKellfeine"
                 ],
                 "name": "ChristmasSnowmanTotem",
+                "display_name": "Christmas Snowman",
                 "category": "totem"
             },
             {
@@ -622,6 +671,7 @@
                     "@public"
                 ],
                 "name": "HeartTotem",
+                "display_name": "Heart",
                 "category": "totem"
             },
             {
@@ -634,6 +684,7 @@
                     "@public"
                 ],
                 "name": "JokerTotem",
+                "display_name": "Joker",
                 "category": "totem"
             },
             {
@@ -646,6 +697,7 @@
                     "@public"
                 ],
                 "name": "WardenTotem",
+                "display_name": "Warden",
                 "category": "totem"
             },
             {
@@ -658,6 +710,7 @@
                     "@public"
                 ],
                 "name": "YodaTotem",
+                "display_name": "Yoda",
                 "category": "totem"
             },
             {
@@ -670,6 +723,7 @@
                     "Shadew"
                 ],
                 "name": "SoulTotem",
+                "display_name": "Soul",
                 "category": "totem"
             },
             {
@@ -682,6 +736,7 @@
                     "@public"
                 ],
                 "name": "SkullTotem",
+                "display_name": "Skull",
                 "category": "totem"
             },
             {
@@ -694,6 +749,7 @@
                     "SalatGurke9440"
                 ],
                 "name": "GoldenSnitchTotem",
+                "display_name": "Golden Snitch",
                 "category": "totem"
             },
             {
@@ -706,6 +762,7 @@
                     "Lilvyse"
                 ],
                 "name": "LilvyseTotem",
+                "display_name": "Lilvyse",
                 "category": "totem"
             },
             {
@@ -718,6 +775,7 @@
                     "Lilvyse"
                 ],
                 "name": "LilvyseVariantTotem",
+                "display_name": "Lilvyse Variant",
                 "category": "totem"
             },
             {
@@ -730,6 +788,7 @@
                     "RegretRue"
                 ],
                 "name": "RegretrueTotem",
+                "display_name": "RegretRue",
                 "category": "totem"
             },
             {
@@ -742,6 +801,7 @@
                     "anminteam0218"
                 ],
                 "name": "Anminteam0218Totem",
+                "display_name": "anminteam0218",
                 "category": "totem"
             },
             {
@@ -754,6 +814,7 @@
                     "xKellfeine"
                 ],
                 "name": "AlienTotem",
+                "display_name": "Alien",
                 "category": "totem"
             },
             {
@@ -766,6 +827,7 @@
                     "SalatGurke9440"
                 ],
                 "name": "SantaTotem",
+                "display_name": "Santa",
                 "category": "totem"
             },
             {
@@ -778,6 +840,7 @@
                     "IamLolda"
                 ],
                 "name": "Error",
+                "display_name": "Error",
                 "category": "totem"
             }
         ]

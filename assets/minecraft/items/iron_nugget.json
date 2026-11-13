@@ -17,6 +17,7 @@
                     "@public"
                 ],
                 "name": "GreenChip1",
+                "display_name": "Green Chip",
                 "category": "chip"
             },
             {
@@ -29,6 +30,7 @@
                     "@public"
                 ],
                 "name": "BlueChip5",
+                "display_name": "Blue Chip",
                 "category": "chip"
             },
             {
@@ -41,6 +43,7 @@
                     "@public"
                 ],
                 "name": "PurpleChip10",
+                "display_name": "Purple Chip",
                 "category": "chip"
             },
             {
@@ -53,6 +56,7 @@
                     "@public"
                 ],
                 "name": "RedChip25",
+                "display_name": "Red Chip",
                 "category": "chip"
             },
             {
@@ -65,6 +69,7 @@
                     "@public"
                 ],
                 "name": "OrangeChip50",
+                "display_name": "Orange Chip",
                 "category": "chip"
             },
             {
@@ -77,6 +82,7 @@
                     "@public"
                 ],
                 "name": "BlackChip100",
+                "display_name": "Black Chip",
                 "category": "chip"
             },
             {
@@ -89,6 +95,7 @@
                     "@public"
                 ],
                 "name": "GreenChip",
+                "display_name": "Green Chip",
                 "category": "chip"
             },
             {
@@ -101,6 +108,7 @@
                     "@public"
                 ],
                 "name": "BlueChip",
+                "display_name": "Blue Chip",
                 "category": "chip"
             },
             {
@@ -113,6 +121,7 @@
                     "@public"
                 ],
                 "name": "PurpleChip",
+                "display_name": "Purple Chip",
                 "category": "chip"
             },
             {
@@ -125,6 +134,7 @@
                     "@public"
                 ],
                 "name": "RedChip",
+                "display_name": "Red Chip",
                 "category": "chip"
             },
             {
@@ -137,6 +147,7 @@
                     "@public"
                 ],
                 "name": "OrangeChip",
+                "display_name": "Orange Chip",
                 "category": "chip"
             },
             {
@@ -149,6 +160,7 @@
                     "@public"
                 ],
                 "name": "BlackChip",
+                "display_name": "Black Chip",
                 "category": "chip"
             }
         ]

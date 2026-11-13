@@ -17,6 +17,7 @@
                     "MrCookiePrincess"
                 ],
                 "name": "Gingerbread",
+                "display_name": "Gingerbread",
                 "category": "food"
             },
             {
@@ -29,6 +30,7 @@
                     "PadBro"
                 ],
                 "name": "Bamboo",
+                "display_name": "Bamboo",
                 "category": "food"
             },
             {
@@ -41,6 +43,7 @@
                     "@public"
                 ],
                 "name": "Cheesecake",
+                "display_name": "Cheesecake",
                 "category": "food"
             },
             {
@@ -53,6 +56,7 @@
                     "@public"
                 ],
                 "name": "GlazedDonut",
+                "display_name": "Glazed Donut",
                 "category": "food"
             },
             {
@@ -65,6 +69,7 @@
                     "@public"
                 ],
                 "name": "IcedChocolate",
+                "display_name": "Iced Chocolate",
                 "category": "food"
             },
             {
@@ -77,6 +82,7 @@
                     "@public"
                 ],
                 "name": "PineappleCake",
+                "display_name": "Pineapple Cake",
                 "category": "food"
             },
             {
@@ -89,6 +95,7 @@
                     "@public"
                 ],
                 "name": "GrapeJello",
+                "display_name": "Grape Jello",
                 "category": "food"
             },
             {
@@ -101,6 +108,7 @@
                     "@public"
                 ],
                 "name": "StrawberryCinnamonRoll",
+                "display_name": "Strawberry Cinnamon Roll",
                 "category": "food"
             },
             {
@@ -113,6 +121,7 @@
                     "@public"
                 ],
                 "name": "Americano",
+                "display_name": "Americano",
                 "category": "food"
             },
             {
@@ -125,6 +134,7 @@
                     "@public"
                 ],
                 "name": "Pancakes",
+                "display_name": "Pancakes",
                 "category": "food"
             },
             {
@@ -137,6 +147,7 @@
                     "@public"
                 ],
                 "name": "CherryPie",
+                "display_name": "Cherry Pie",
                 "category": "food"
             },
             {
@@ -149,6 +160,7 @@
                     "@public"
                 ],
                 "name": "StrawberryShortcake",
+                "display_name": "Strawberry Shortcake",
                 "category": "food"
             },
             {
@@ -161,6 +173,7 @@
                     "@public"
                 ],
                 "name": "MatchaDonut",
+                "display_name": "Matcha Donut",
                 "category": "food"
             },
             {
@@ -173,6 +186,7 @@
                     "@public"
                 ],
                 "name": "IcedMocha",
+                "display_name": "Iced Mocha",
                 "category": "food"
             },
             {
@@ -185,6 +199,7 @@
                     "@public"
                 ],
                 "name": "RaspberryTart",
+                "display_name": "Raspberry Tart",
                 "category": "food"
             },
             {
@@ -197,6 +212,7 @@
                     "@public"
                 ],
                 "name": "ChocolateMousse",
+                "display_name": "Chocolate Mousse",
                 "category": "food"
             },
             {
@@ -209,6 +225,7 @@
                     "@public"
                 ],
                 "name": "BlueberryCinnamonRoll",
+                "display_name": "Blueberry Cinnamon Roll",
                 "category": "food"
             },
             {
@@ -221,6 +238,7 @@
                     "@public"
                 ],
                 "name": "Cappuccino",
+                "display_name": "Cappuccino",
                 "category": "food"
             },
             {
@@ -233,6 +251,7 @@
                     "@public"
                 ],
                 "name": "MaplePancakes",
+                "display_name": "Maple Pancakes",
                 "category": "food"
             },
             {
@@ -245,6 +264,7 @@
                     "@public"
                 ],
                 "name": "KeyLimePie",
+                "display_name": "Key Lime Pie",
                 "category": "food"
             },
             {
@@ -257,6 +277,7 @@
                     "@public"
                 ],
                 "name": "ApplePie",
+                "display_name": "Apple Pie",
                 "category": "food"
             },
             {
@@ -269,6 +290,7 @@
                     "@public"
                 ],
                 "name": "RaspberryDonut",
+                "display_name": "Raspberry Donut",
                 "category": "food"
             },
             {
@@ -281,6 +303,7 @@
                     "@public"
                 ],
                 "name": "IcedCattoLatte",
+                "display_name": "Iced Catto Latte",
                 "category": "food"
             },
             {
@@ -293,6 +316,7 @@
                     "@public"
                 ],
                 "name": "FrenchToast",
+                "display_name": "French Toast",
                 "category": "food"
             },
             {
@@ -305,6 +329,7 @@
                     "@public"
                 ],
                 "name": "LimeJello",
+                "display_name": "Lime Jello",
                 "category": "food"
             },
             {
@@ -317,6 +342,7 @@
                     "@public"
                 ],
                 "name": "CinnamonRoll",
+                "display_name": "Cinnamon Roll",
                 "category": "food"
             },
             {
@@ -329,6 +355,7 @@
                     "@public"
                 ],
                 "name": "CattoLatte",
+                "display_name": "Catto Latte",
                 "category": "food"
             },
             {
@@ -341,6 +368,7 @@
                     "@public"
                 ],
                 "name": "BerryPancakes",
+                "display_name": "Berry Pancakes",
                 "category": "food"
             },
             {
@@ -353,6 +381,7 @@
                     "@public"
                 ],
                 "name": "BlueberryCake",
+                "display_name": "Blueberry Cake",
                 "category": "food"
             },
             {
@@ -365,6 +394,7 @@
                     "MrCookiePrincess"
                 ],
                 "name": "GingerbreadMan",
+                "display_name": "Gingerbread Man",
                 "category": "food"
             },
             {
@@ -377,6 +407,7 @@
                     "MrCookiePrincess"
                 ],
                 "name": "CandyCane",
+                "display_name": "Candy Cane",
                 "category": "food"
             },
             {
@@ -389,6 +420,7 @@
                     "MrCookiePrincess"
                 ],
                 "name": "HotChocolate",
+                "display_name": "Hot Chocolate",
                 "category": "food"
             },
             {
@@ -401,6 +433,7 @@
                     "MrCookiePrincess"
                 ],
                 "name": "Smores",
+                "display_name": "Smores",
                 "category": "food"
             },
             {
@@ -413,6 +446,7 @@
                     "@public"
                 ],
                 "name": "BananaCone",
+                "display_name": "Banana Cone",
                 "category": "food"
             },
             {
@@ -425,6 +459,7 @@
                     "@public"
                 ],
                 "name": "BananaMilkshake",
+                "display_name": "Banana Milkshake",
                 "category": "food"
             },
             {
@@ -437,6 +472,7 @@
                     "@public"
                 ],
                 "name": "ChocolateMilkshake",
+                "display_name": "Chocolate Milkshake",
                 "category": "food"
             },
             {
@@ -449,6 +485,7 @@
                     "@public"
                 ],
                 "name": "DoubleChunkChocolateChipCone",
+                "display_name": "Double Chunk Chocolate Chip Cone",
                 "category": "food"
             },
             {
@@ -461,6 +498,7 @@
                     "@public"
                 ],
                 "name": "MintChocolateChipCone",
+                "display_name": "Mint Chocolate Chip Cone",
                 "category": "food"
             },
             {
@@ -473,6 +511,7 @@
                     "@public"
                 ],
                 "name": "MintChocolateChipMilkshake",
+                "display_name": "Mint Chocolate Chip Milkshake",
                 "category": "food"
             },
             {
@@ -485,6 +524,7 @@
                     "@public"
                 ],
                 "name": "StrawberryCone",
+                "display_name": "Strawberry Cone",
                 "category": "food"
             },
             {
@@ -497,6 +537,7 @@
                     "@public"
                 ],
                 "name": "StrawberryMilkshake",
+                "display_name": "Strawberry Milkshake",
                 "category": "food"
             },
             {
@@ -509,6 +550,7 @@
                     "@public"
                 ],
                 "name": "VanillaCone",
+                "display_name": "Vanilla Cone",
                 "category": "food"
             },
             {
@@ -521,6 +563,7 @@
                     "@public"
                 ],
                 "name": "VanillaMilkshake",
+                "display_name": "Vanilla Milkshake",
                 "category": "food"
             },
             {
@@ -533,6 +576,7 @@
                     "@public"
                 ],
                 "name": "MangoSlushy",
+                "display_name": "Mango Slushy",
                 "category": "food"
             },
             {
@@ -545,6 +589,7 @@
                     "@public"
                 ],
                 "name": "MangoSorbet",
+                "display_name": "Mango Sorbet",
                 "category": "food"
             },
             {
@@ -557,6 +602,7 @@
                     "@public"
                 ],
                 "name": "Garlic",
+                "display_name": "Garlic",
                 "category": "food"
             },
             {
@@ -569,6 +615,7 @@
                     "@public"
                 ],
                 "name": "Burger",
+                "display_name": "Burger",
                 "category": "food"
             },
             {
@@ -581,6 +628,7 @@
                     "@public"
                 ],
                 "name": "Fries",
+                "display_name": "Fries",
                 "category": "food"
             },
             {
@@ -593,6 +641,7 @@
                     "@public"
                 ],
                 "name": "CocaCola",
+                "display_name": "Coca Cola",
                 "category": "food"
             },
             {
@@ -605,6 +654,7 @@
                     "@public"
                 ],
                 "name": "Tea",
+                "display_name": "Tea",
                 "category": "food"
             },
             {
@@ -617,6 +667,7 @@
                     "@public"
                 ],
                 "name": "HotChocolateCyan",
+                "display_name": "Hot Chocolate Cyan",
                 "category": "food"
             },
             {
@@ -629,6 +680,7 @@
                     "@public"
                 ],
                 "name": "HotChocolatePink",
+                "display_name": "Hot Chocolate Pink",
                 "category": "food"
             },
             {
@@ -641,6 +693,7 @@
                     "Shadew"
                 ],
                 "name": "SoulFood",
+                "display_name": "Soul Food",
                 "category": "food"
             },
             {
@@ -653,6 +706,7 @@
                     "DevilPowers"
                 ],
                 "name": "McDevilsCherryTart",
+                "display_name": "McDevils Cherry Tart",
                 "category": "food"
             },
             {
@@ -665,6 +719,7 @@
                     "DevilPowers"
                 ],
                 "name": "McDevilsBurger",
+                "display_name": "McDevils Burger",
                 "category": "food"
             },
             {
@@ -677,6 +732,7 @@
                     "DevilPowers"
                 ],
                 "name": "McDevilsChips",
+                "display_name": "McDevils Chips",
                 "category": "food"
             },
             {
@@ -689,6 +745,7 @@
                     "xKellfeine"
                 ],
                 "name": "AppleCupcake",
+                "display_name": "Apple Cupcake",
                 "category": "pastries"
             },
             {
@@ -701,6 +758,7 @@
                     "xKellfeine"
                 ],
                 "name": "Baguette",
+                "display_name": "Baguette",
                 "category": "pastries"
             },
             {
@@ -713,6 +771,7 @@
                     "xKellfeine"
                 ],
                 "name": "BerryTartSlice",
+                "display_name": "Berry Tart Slice",
                 "category": "pastries"
             },
             {
@@ -725,6 +784,7 @@
                     "xKellfeine"
                 ],
                 "name": "BraidedBread",
+                "display_name": "Braided Bread",
                 "category": "pastries"
             },
             {
@@ -737,6 +797,7 @@
                     "xKellfeine"
                 ],
                 "name": "Bread",
+                "display_name": "Bread",
                 "category": "pastries"
             },
             {
@@ -749,6 +810,7 @@
                     "xKellfeine"
                 ],
                 "name": "Bun",
+                "display_name": "Bun",
                 "category": "pastries"
             },
             {
@@ -761,6 +823,7 @@
                     "xKellfeine"
                 ],
                 "name": "BundtCake",
+                "display_name": "Bundt Cake",
                 "category": "pastries"
             },
             {
@@ -773,6 +836,7 @@
                     "xKellfeine"
                 ],
                 "name": "ChocolateCake",
+                "display_name": "Chocolate Cake",
                 "category": "pastries"
             },
             {
@@ -785,6 +849,7 @@
                     "xKellfeine"
                 ],
                 "name": "ChocolateGateau",
+                "display_name": "Chocolate Gateau",
                 "category": "pastries"
             },
             {
@@ -797,6 +862,7 @@
                     "xKellfeine"
                 ],
                 "name": "ChocolateGlazedCookie",
+                "display_name": "Chocolate Glazed Cookie",
                 "category": "pastries"
             },
             {
@@ -809,6 +875,7 @@
                     "xKellfeine"
                 ],
                 "name": "ChocolateTart",
+                "display_name": "Chocolate Tart",
                 "category": "pastries"
             },
             {
@@ -821,6 +888,7 @@
                     "xKellfeine"
                 ],
                 "name": "Cornet",
+                "display_name": "Cornet",
                 "category": "pastries"
             },
             {
@@ -833,6 +901,7 @@
                     "xKellfeine"
                 ],
                 "name": "Croissant",
+                "display_name": "Croissant",
                 "category": "pastries"
             },
             {
@@ -845,6 +914,7 @@
                     "xKellfeine"
                 ],
                 "name": "CrustyBread",
+                "display_name": "Crusty Bread",
                 "category": "pastries"
             },
             {
@@ -857,6 +927,7 @@
                     "xKellfeine"
                 ],
                 "name": "JamRoll",
+                "display_name": "Jam Roll",
                 "category": "pastries"
             },
             {
@@ -869,6 +940,7 @@
                     "xKellfeine"
                 ],
                 "name": "Pizza",
+                "display_name": "Pizza",
                 "category": "pastries"
             },
             {
@@ -881,6 +953,7 @@
                     "xKellfeine"
                 ],
                 "name": "Pudding",
+                "display_name": "Pudding",
                 "category": "pastries"
             },
             {
@@ -893,6 +966,7 @@
                     "xKellfeine"
                 ],
                 "name": "Sandwich",
+                "display_name": "Sandwich",
                 "category": "pastries"
             },
             {
@@ -905,6 +979,7 @@
                     "xKellfeine"
                 ],
                 "name": "StrawberryCake",
+                "display_name": "Strawberry Cake",
                 "category": "pastries"
             },
             {
@@ -917,6 +992,7 @@
                     "xKellfeine"
                 ],
                 "name": "StrawberryCupcake",
+                "display_name": "Strawberry Cupcake",
                 "category": "pastries"
             },
             {
@@ -929,6 +1005,7 @@
                     "xKellfeine"
                 ],
                 "name": "StrawberryGlazedCookie",
+                "display_name": "Strawberry Glazed Cookie",
                 "category": "pastries"
             },
             {
@@ -941,6 +1018,7 @@
                     "xKellfeine"
                 ],
                 "name": "Toast",
+                "display_name": "Toast",
                 "category": "pastries"
             },
             {
@@ -953,6 +1031,7 @@
                     "xKellfeine"
                 ],
                 "name": "VegetableSandwich",
+                "display_name": "Vegetable Sandwich",
                 "category": "pastries"
             },
             {
@@ -965,6 +1044,7 @@
                     "xKellfeine"
                 ],
                 "name": "Waffle",
+                "display_name": "Waffle",
                 "category": "pastries"
             }
         ]
