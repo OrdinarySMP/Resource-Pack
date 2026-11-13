@@ -502,7 +502,7 @@
                     "xKellfeine"
                 ],
                 "name": "HalloweenBlackCatTotem",
-                "display_name": "Halloween Black Cat",
+                "display_name": "Black Cat",
                 "category": "totem"
             },
             {
@@ -515,7 +515,7 @@
                     "xKellfeine"
                 ],
                 "name": "HalloweenGhostieTotem",
-                "display_name": "Halloween Ghostie",
+                "display_name": "Ghostie",
                 "category": "totem"
             },
             {
@@ -528,7 +528,7 @@
                     "xKellfeine"
                 ],
                 "name": "HalloweenPumpkinTotem",
-                "display_name": "Halloween Pumpkin",
+                "display_name": "Pumpkin",
                 "category": "totem"
             },
             {
@@ -541,7 +541,7 @@
                     "xKellfeine"
                 ],
                 "name": "HalloweenSkullTotem",
-                "display_name": "Halloween Skull",
+                "display_name": "Skull",
                 "category": "totem"
             },
             {
@@ -554,7 +554,7 @@
                     "xKellfeine"
                 ],
                 "name": "HalloweenSoulTotem",
-                "display_name": "Halloween Soul",
+                "display_name": "Soul",
                 "category": "totem"
             },
             {
@@ -567,7 +567,7 @@
                     "xKellfeine"
                 ],
                 "name": "HalloweenVampireTotem",
-                "display_name": "Halloween Vampire",
+                "display_name": "Vampire",
                 "category": "totem"
             },
             {
@@ -606,7 +606,7 @@
                     "xKellfeine"
                 ],
                 "name": "ChristmasPenguinTotem",
-                "display_name": "Christmas Penguin",
+                "display_name": "Penguin",
                 "category": "totem"
             },
             {
@@ -619,7 +619,7 @@
                     "xKellfeine"
                 ],
                 "name": "ChristmasRudolfTotem",
-                "display_name": "Christmas Rudolf",
+                "display_name": "Rudolf",
                 "category": "totem"
             },
             {
@@ -632,7 +632,7 @@
                     "xKellfeine"
                 ],
                 "name": "ChristmasSantaTotem",
-                "display_name": "Christmas Santa",
+                "display_name": "Santa",
                 "category": "totem"
             },
             {
@@ -645,7 +645,7 @@
                     "xKellfeine"
                 ],
                 "name": "ChristmasSnowflakesTotem",
-                "display_name": "Christmas Snowflakes",
+                "display_name": "Snowflakes",
                 "category": "totem"
             },
             {
@@ -658,7 +658,7 @@
                     "xKellfeine"
                 ],
                 "name": "ChristmasSnowmanTotem",
-                "display_name": "Christmas Snowman",
+                "display_name": "Snowman",
                 "category": "totem"
             },
             {
@@ -775,7 +775,7 @@
                     "Lilvyse"
                 ],
                 "name": "LilvyseVariantTotem",
-                "display_name": "Lilvyse Variant",
+                "display_name": "Lilvyse",
                 "category": "totem"
             },
             {

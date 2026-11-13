@@ -407,7 +407,7 @@
                     "@public"
                 ],
                 "name": "SimplifiedGayFlag",
-                "display_name": "Simplified Gay Flag",
+                "display_name": "Gay Flag",
                 "category": "flag"
             },
             {
@@ -420,7 +420,7 @@
                     "@public"
                 ],
                 "name": "SimplifiedLesbianFlag",
-                "display_name": "Simplified Lesbian Flag",
+                "display_name": "Lesbian Flag",
                 "category": "flag"
             },
             {

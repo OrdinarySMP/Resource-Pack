@@ -291,7 +291,7 @@
                     "@public"
                 ],
                 "name": "PirateHat1",
-                "display_name": "Pirate Hat 1",
+                "display_name": "Pirate Hat",
                 "category": "hat"
             },
             {
@@ -304,7 +304,7 @@
                     "@public"
                 ],
                 "name": "PirateHat2",
-                "display_name": "Pirate Hat 2",
+                "display_name": "Pirate Hat",
                 "category": "hat"
             },
             {
@@ -661,8 +661,8 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "SpingusAxolotlHat",
-                "display_name": "Spingus Axolotl Hat",
+                "name": "AxolotlHat",
+                "display_name": "Axolotl Hat",
                 "category": "hat"
             },
             {
@@ -674,8 +674,8 @@
                 "owners": [
                     "@public"
                 ],
-                "name": "SpingusCowboyHat",
-                "display_name": "Spingus Cowboy Hat",
+                "name": "CowboyHat",
+                "display_name": "Cowboy Hat",
                 "category": "hat"
             },
             {
