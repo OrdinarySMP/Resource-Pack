@@ -80,6 +80,9 @@ Each registered custom-model-data dispatch entry carries:
 - `name` uses PascalCase: `BeePlushie`, `AlarmLetter`, `FishTrophy`,
   `PrincessBillboard`, `HoneyPickaxe`, `AceOfSpades`, `MonaLisa1x2Painting`.
   Preserve proper-name capitalization.
+- Optional `display_name` is a non-empty string applied as the item's custom name
+  after the texture is applied. It is emitted as `"name"` in `models.json` and
+  omitted when unset. Grouped entries must share the same `display_name`.
 - Totem names use `<Subject>Totem`, with `Christmas`, `Halloween`, `DemonHunter`,
   or `Toy` prefixes where needed. Keep `SoulTotem` and `HalloweenSoulTotem`
   distinct; the second Lilvyse variant is `LilvyseVariantTotem`.

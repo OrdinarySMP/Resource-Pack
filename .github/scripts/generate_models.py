@@ -14,7 +14,7 @@ OUTPUT_ASSETS = OUTPUT_DIR / "assets"
 REGISTRY_PATH = OUTPUT_DIR / "models.json"
 DESCRIPTIONS_PATH = ROOT / "descriptions.json"
 
-METADATA_FIELDS = {"owners", "owner", "name", "category"}
+METADATA_FIELDS = {"owners", "owner", "name", "category", "display_name"}
 NAME_PATTERN = re.compile(r"^[A-Za-z][A-Za-z0-9_]*$")
 GROUP_PATTERN = re.compile(r"^[a-z][a-z0-9_]*$")
 USERNAME_PATTERN = re.compile(r"^[A-Za-z0-9_]{1,16}$")
@@ -163,10 +163,19 @@ def process_entry(entry, item_id, path):
         errors.append(f"{location}: duplicate owners in owners array")
         return
 
+    # Optional name applied to the item after the texture is applied.
+    display_name = entry.get("display_name")
+    if "display_name" in entry and (
+        not isinstance(display_name, str) or not display_name.strip()
+    ):
+        errors.append(f"{location}: display_name must be a non-empty string")
+        return
+
     key = (category, name)
     model = {
         "owners": owners,
         "custom_model_data": threshold,
+        "display_name": display_name,
         "items": {item_id},
     }
 
@@ -176,6 +185,7 @@ def process_entry(entry, item_id, path):
         if (
             existing["owners"] != owners
             or existing["custom_model_data"] != threshold
+            or existing["display_name"] != display_name
         ):
             errors.append(
                 f"{location}: conflicting definitions for "
@@ -318,11 +328,12 @@ def main():
         if name == "description":
             errors.append(f"{category}/{name}: model name is reserved for the category description")
             continue
-        registry["categories"][category][name] = {
-            "owners": model["owners"],
-            "custom_model_data": model["custom_model_data"],
-            "items": sorted(model["items"]),
-        }
+        registry_model = {"owners": model["owners"]}
+        if model["display_name"] is not None:
+            registry_model["name"] = model["display_name"]
+        registry_model["custom_model_data"] = model["custom_model_data"]
+        registry_model["items"] = sorted(model["items"])
+        registry["categories"][category][name] = registry_model
 
     with REGISTRY_PATH.open("w", encoding="utf-8", newline="\n") as file:
         json.dump(registry, file, indent=2, ensure_ascii=False)
