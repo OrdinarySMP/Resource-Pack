@@ -88,3 +88,74 @@ jobs:
           curl -fsS -X POST \
             -F "files=@OrdinarySMP.zip" \
             "${UPLOAD_URL}&directory=$(jq -rn --arg d "$DIR" '$d|@uri')"
+
+      # MODELS_JSON_SERVERS is a JSON array, one object per target server:
+      # [{"name": "lobby", "host": "https://panel.example.com", "server_id": "abcd1234",
+      #   "token": "ptlc_...", "upload_dir": "/plugins/CMXBro", "command": "cmxbro reload"}]
+      # "name", "upload_dir" (default "/") and "command" (skipped if empty) are optional.
+      - name: Upload models.json to servers
+        if: steps.semantic.outputs.new_release_published == 'true'
+        env:
+          MODELS_JSON_SERVERS: ${{ secrets.MODELS_JSON_SERVERS }}
+        run: |
+          set -euo pipefail
+
+          if [ -z "${MODELS_JSON_SERVERS:-}" ]; then
+            echo "MODELS_JSON_SERVERS is not set; skipping."
+            exit 0
+          fi
+
+          # Mask each token individually so it never appears in logs
+          jq -r '.[].token' <<< "$MODELS_JSON_SERVERS" | while read -r t; do
+            echo "::add-mask::$t"
+          done
+
+          FAILED=0
+          COUNT=$(jq 'length' <<< "$MODELS_JSON_SERVERS")
+
+          for i in $(seq 0 $((COUNT - 1))); do
+            SERVER=$(jq -c ".[$i]" <<< "$MODELS_JSON_SERVERS")
+            NAME=$(jq -r --arg i "$i" '.name // "server \($i)"' <<< "$SERVER")
+            HOST=$(jq -r '.host | rtrimstr("/")' <<< "$SERVER")
+            SERVER_ID=$(jq -r '.server_id' <<< "$SERVER")
+            TOKEN=$(jq -r '.token' <<< "$SERVER")
+            DIR=$(jq -r '.upload_dir // "/"' <<< "$SERVER")
+            COMMAND=$(jq -r '.command // ""' <<< "$SERVER")
+            API="${HOST}/api/client/servers/${SERVER_ID}"
+
+            echo "::group::${NAME}"
+            if (
+              set -euo pipefail
+
+              # Request a signed upload URL and upload models.json
+              UPLOAD_URL=$(curl -fsS \
+                -H "Authorization: Bearer ${TOKEN}" \
+                -H "Accept: application/json" \
+                "${API}/files/upload" \
+                | jq -r '.attributes.url')
+
+              curl -fsS -X POST \
+                -F "files=@build/release-pack/models.json" \
+                "${UPLOAD_URL}&directory=$(jq -rn --arg d "$DIR" '$d|@uri')"
+              echo "Uploaded models.json to ${DIR}"
+
+              # Send a console command, e.g. to reload the registry
+              if [ -n "$COMMAND" ]; then
+                curl -fsS -X POST \
+                  -H "Authorization: Bearer ${TOKEN}" \
+                  -H "Accept: application/json" \
+                  -H "Content-Type: application/json" \
+                  -d "$(jq -n --arg c "$COMMAND" '{command: $c}')" \
+                  "${API}/command"
+                echo "Ran command: ${COMMAND}"
+              fi
+            ); then
+              echo "::endgroup::"
+            else
+              echo "::endgroup::"
+              echo "::error::Failed to update ${NAME}"
+              FAILED=1
+            fi
+          done
+
+          exit "$FAILED"
