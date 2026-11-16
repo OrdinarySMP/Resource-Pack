@@ -581,6 +581,7 @@
                     "@public"
                 ],
                 "name": "AceOfClubs",
+                "display_name": "♣ Ace of Clubs ♣",
                 "category": "card"
             },
             {
@@ -593,6 +594,7 @@
                     "@public"
                 ],
                 "name": "TwoOfClubs",
+                "display_name": "♣ Two of Clubs ♣",
                 "category": "card"
             },
             {
@@ -605,6 +607,7 @@
                     "@public"
                 ],
                 "name": "ThreeOfClubs",
+                "display_name": "♣ Three of Clubs ♣",
                 "category": "card"
             },
             {
@@ -617,6 +620,7 @@
                     "@public"
                 ],
                 "name": "FourOfClubs",
+                "display_name": "♣ Four of Clubs ♣",
                 "category": "card"
             },
             {
@@ -629,6 +633,7 @@
                     "@public"
                 ],
                 "name": "FiveOfClubs",
+                "display_name": "♣ Five of Clubs ♣",
                 "category": "card"
             },
             {
@@ -641,6 +646,7 @@
                     "@public"
                 ],
                 "name": "SixOfClubs",
+                "display_name": "♣ Six of Clubs ♣",
                 "category": "card"
             },
             {
@@ -653,6 +659,7 @@
                     "@public"
                 ],
                 "name": "SevenOfClubs",
+                "display_name": "♣ Seven of Clubs ♣",
                 "category": "card"
             },
             {
@@ -665,6 +672,7 @@
                     "@public"
                 ],
                 "name": "EightOfClubs",
+                "display_name": "♣ Eight of Clubs ♣",
                 "category": "card"
             },
             {
@@ -677,6 +685,7 @@
                     "@public"
                 ],
                 "name": "NineOfClubs",
+                "display_name": "♣ Nine of Clubs ♣",
                 "category": "card"
             },
             {
@@ -689,6 +698,7 @@
                     "@public"
                 ],
                 "name": "TenOfClubs",
+                "display_name": "♣ Ten of Clubs ♣",
                 "category": "card"
             },
             {
@@ -701,6 +711,7 @@
                     "@public"
                 ],
                 "name": "JackOfClubs",
+                "display_name": "♣ Jack of Clubs ♣",
                 "category": "card"
             },
             {
@@ -713,6 +724,7 @@
                     "@public"
                 ],
                 "name": "QueenOfClubs",
+                "display_name": "♣ Queen of Clubs ♣",
                 "category": "card"
             },
             {
@@ -725,6 +737,7 @@
                     "@public"
                 ],
                 "name": "KingOfClubs",
+                "display_name": "♣ King of Clubs ♣",
                 "category": "card"
             },
             {
@@ -737,6 +750,7 @@
                     "@public"
                 ],
                 "name": "AceOfDiamonds",
+                "display_name": "♦ Ace of Diamonds ♦",
                 "category": "card"
             },
             {
@@ -749,6 +763,7 @@
                     "@public"
                 ],
                 "name": "TwoOfDiamonds",
+                "display_name": "♦ Two of Diamonds ♦",
                 "category": "card"
             },
             {
@@ -761,6 +776,7 @@
                     "@public"
                 ],
                 "name": "ThreeOfDiamonds",
+                "display_name": "♦ Three of Diamonds ♦",
                 "category": "card"
             },
             {
@@ -773,6 +789,7 @@
                     "@public"
                 ],
                 "name": "FourOfDiamonds",
+                "display_name": "♦ Four of Diamonds ♦",
                 "category": "card"
             },
             {
@@ -785,6 +802,7 @@
                     "@public"
                 ],
                 "name": "FiveOfDiamonds",
+                "display_name": "♦ Five of Diamonds ♦",
                 "category": "card"
             },
             {
@@ -797,6 +815,7 @@
                     "@public"
                 ],
                 "name": "SixOfDiamonds",
+                "display_name": "♦ Six of Diamonds ♦",
                 "category": "card"
             },
             {
@@ -809,6 +828,7 @@
                     "@public"
                 ],
                 "name": "SevenOfDiamonds",
+                "display_name": "♦ Seven of Diamonds ♦",
                 "category": "card"
             },
             {
@@ -821,6 +841,7 @@
                     "@public"
                 ],
                 "name": "EightOfDiamonds",
+                "display_name": "♦ Eight of Diamonds ♦",
                 "category": "card"
             },
             {
@@ -833,6 +854,7 @@
                     "@public"
                 ],
                 "name": "NineOfDiamonds",
+                "display_name": "♦ Nine of Diamonds ♦",
                 "category": "card"
             },
             {
@@ -845,6 +867,7 @@
                     "@public"
                 ],
                 "name": "TenOfDiamonds",
+                "display_name": "♦ Ten of Diamonds ♦",
                 "category": "card"
             },
             {
@@ -857,6 +880,7 @@
                     "@public"
                 ],
                 "name": "JackOfDiamonds",
+                "display_name": "♦ Jack of Diamonds ♦",
                 "category": "card"
             },
             {
@@ -869,6 +893,7 @@
                     "@public"
                 ],
                 "name": "QueenOfDiamonds",
+                "display_name": "♦ Queen of Diamonds ♦",
                 "category": "card"
             },
             {
@@ -881,6 +906,7 @@
                     "@public"
                 ],
                 "name": "KingOfDiamonds",
+                "display_name": "♦ King of Diamonds ♦",
                 "category": "card"
             },
             {
@@ -893,6 +919,7 @@
                     "@public"
                 ],
                 "name": "AceOfHearts",
+                "display_name": "♥ Ace of Hearts ♥",
                 "category": "card"
             },
             {
@@ -905,6 +932,7 @@
                     "@public"
                 ],
                 "name": "TwoOfHearts",
+                "display_name": "♥ Two of Hearts ♥",
                 "category": "card"
             },
             {
@@ -917,6 +945,7 @@
                     "@public"
                 ],
                 "name": "ThreeOfHearts",
+                "display_name": "♥ Three of Hearts ♥",
                 "category": "card"
             },
             {
@@ -929,6 +958,7 @@
                     "@public"
                 ],
                 "name": "FourOfHearts",
+                "display_name": "♥ Four of Hearts ♥",
                 "category": "card"
             },
             {
@@ -941,6 +971,7 @@
                     "@public"
                 ],
                 "name": "FiveOfHearts",
+                "display_name": "♥ Five of Hearts ♥",
                 "category": "card"
             },
             {
@@ -953,6 +984,7 @@
                     "@public"
                 ],
                 "name": "SixOfHearts",
+                "display_name": "♥ Six of Hearts ♥",
                 "category": "card"
             },
             {
@@ -965,6 +997,7 @@
                     "@public"
                 ],
                 "name": "SevenOfHearts",
+                "display_name": "♥ Seven of Hearts ♥",
                 "category": "card"
             },
             {
@@ -977,6 +1010,7 @@
                     "@public"
                 ],
                 "name": "EightOfHearts",
+                "display_name": "♥ Eight of Hearts ♥",
                 "category": "card"
             },
             {
@@ -989,6 +1023,7 @@
                     "@public"
                 ],
                 "name": "NineOfHearts",
+                "display_name": "♥ Nine of Hearts ♥",
                 "category": "card"
             },
             {
@@ -1001,6 +1036,7 @@
                     "@public"
                 ],
                 "name": "TenOfHearts",
+                "display_name": "♥ Ten of Hearts ♥",
                 "category": "card"
             },
             {
@@ -1013,6 +1049,7 @@
                     "@public"
                 ],
                 "name": "JackOfHearts",
+                "display_name": "♥ Jack of Hearts ♥",
                 "category": "card"
             },
             {
@@ -1025,6 +1062,7 @@
                     "@public"
                 ],
                 "name": "QueenOfHearts",
+                "display_name": "♥ Queen of Hearts ♥",
                 "category": "card"
             },
             {
@@ -1037,6 +1075,7 @@
                     "@public"
                 ],
                 "name": "KingOfHearts",
+                "display_name": "♥ King of Hearts ♥",
                 "category": "card"
             },
             {
@@ -1049,6 +1088,7 @@
                     "@public"
                 ],
                 "name": "AceOfSpades",
+                "display_name": "♠ Ace of Spades ♠",
                 "category": "card"
             },
             {
@@ -1061,6 +1101,7 @@
                     "@public"
                 ],
                 "name": "TwoOfSpades",
+                "display_name": "♠ Two of Spades ♠",
                 "category": "card"
             },
             {
@@ -1073,6 +1114,7 @@
                     "@public"
                 ],
                 "name": "ThreeOfSpades",
+                "display_name": "♠ Three of Spades ♠",
                 "category": "card"
             },
             {
@@ -1085,6 +1127,7 @@
                     "@public"
                 ],
                 "name": "FourOfSpades",
+                "display_name": "♠ Four of Spades ♠",
                 "category": "card"
             },
             {
@@ -1097,6 +1140,7 @@
                     "@public"
                 ],
                 "name": "FiveOfSpades",
+                "display_name": "♠ Five of Spades ♠",
                 "category": "card"
             },
             {
@@ -1109,6 +1153,7 @@
                     "@public"
                 ],
                 "name": "SixOfSpades",
+                "display_name": "♠ Six of Spades ♠",
                 "category": "card"
             },
             {
@@ -1121,6 +1166,7 @@
                     "@public"
                 ],
                 "name": "SevenOfSpades",
+                "display_name": "♠ Seven of Spades ♠",
                 "category": "card"
             },
             {
@@ -1133,6 +1179,7 @@
                     "@public"
                 ],
                 "name": "EightOfSpades",
+                "display_name": "♠ Eight of Spades ♠",
                 "category": "card"
             },
             {
@@ -1145,6 +1192,7 @@
                     "@public"
                 ],
                 "name": "NineOfSpades",
+                "display_name": "♠ Nine of Spades ♠",
                 "category": "card"
             },
             {
@@ -1157,6 +1205,7 @@
                     "@public"
                 ],
                 "name": "TenOfSpades",
+                "display_name": "♠ Ten of Spades ♠",
                 "category": "card"
             },
             {
@@ -1169,6 +1218,7 @@
                     "@public"
                 ],
                 "name": "JackOfSpades",
+                "display_name": "♠ Jack of Spades ♠",
                 "category": "card"
             },
             {
@@ -1181,6 +1231,7 @@
                     "@public"
                 ],
                 "name": "QueenOfSpades",
+                "display_name": "♠ Queen of Spades ♠",
                 "category": "card"
             },
             {
@@ -1193,6 +1244,7 @@
                     "@public"
                 ],
                 "name": "KingOfSpades",
+                "display_name": "♠ King of Spades ♠",
                 "category": "card"
             },
             {
@@ -1205,6 +1257,7 @@
                     "@public"
                 ],
                 "name": "RedJoker",
+                "display_name": "Red Joker",
                 "category": "card"
             },
             {
@@ -1217,6 +1270,7 @@
                     "@public"
                 ],
                 "name": "BlackJoker",
+                "display_name": "Black Joker",
                 "category": "card"
             },
             {
@@ -1373,6 +1427,7 @@
                     "xKellfeine"
                 ],
                 "name": "AlienPlushie",
+                "display_name": "Alien Plushie",
                 "category": "plushie"
             },
             {

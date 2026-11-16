@@ -17,6 +17,7 @@
                     "@public"
                 ],
                 "name": "BlahajPlushie",
+                "display_name": "Blahaj",
                 "category": "plushie"
             },
             {
@@ -29,6 +30,7 @@
                     "@public"
                 ],
                 "name": "BlavingadPlushie",
+                "display_name": "Blavingad",
                 "category": "plushie"
             },
             {
@@ -41,6 +43,7 @@
                     "@public"
                 ],
                 "name": "GrossbyPlushie",
+                "display_name": "Grossby",
                 "category": "plushie"
             },
             {
@@ -53,6 +56,7 @@
                     "@public"
                 ],
                 "name": "AllayPlushie",
+                "display_name": "Allay Plushie",
                 "category": "plushie"
             },
             {
@@ -65,6 +69,7 @@
                     "@public"
                 ],
                 "name": "ArmadilloPlushie",
+                "display_name": "Armadillo Plushie",
                 "category": "plushie"
             },
             {
@@ -77,6 +82,7 @@
                     "@public"
                 ],
                 "name": "AxolotlPlushie",
+                "display_name": "Axolotl Plushie",
                 "category": "plushie"
             },
             {
@@ -89,6 +95,7 @@
                     "@public"
                 ],
                 "name": "BatPlushie",
+                "display_name": "Bat Plushie",
                 "category": "plushie"
             },
             {
@@ -101,6 +108,7 @@
                     "@public"
                 ],
                 "name": "BeePlushie",
+                "display_name": "Bee Plushie",
                 "category": "plushie"
             },
             {
@@ -113,6 +121,7 @@
                     "@public"
                 ],
                 "name": "BlazePlushie",
+                "display_name": "Blaze Plushie",
                 "category": "plushie"
             },
             {
@@ -125,6 +134,7 @@
                     "@public"
                 ],
                 "name": "BreezePlushie",
+                "display_name": "Breeze Plushie",
                 "category": "plushie"
             },
             {
@@ -137,6 +147,7 @@
                     "@public"
                 ],
                 "name": "CamelPlushie",
+                "display_name": "Camel Plushie",
                 "category": "plushie"
             },
             {
@@ -149,6 +160,7 @@
                     "@public"
                 ],
                 "name": "CatPlushie",
+                "display_name": "Cat Plushie",
                 "category": "plushie"
             },
             {
@@ -161,6 +173,7 @@
                     "@public"
                 ],
                 "name": "CaveSpiderPlushie",
+                "display_name": "Cave Spider Plushie",
                 "category": "plushie"
             },
             {
@@ -173,6 +186,7 @@
                     "@public"
                 ],
                 "name": "ChickenPlushie",
+                "display_name": "Chicken Plushie",
                 "category": "plushie"
             },
             {
@@ -185,6 +199,7 @@
                     "@public"
                 ],
                 "name": "CowPlushie",
+                "display_name": "Cow Plushie",
                 "category": "plushie"
             },
             {
@@ -197,6 +212,7 @@
                     "@public"
                 ],
                 "name": "CreeperPlushie",
+                "display_name": "Creeper Plushie",
                 "category": "plushie"
             },
             {
@@ -209,6 +225,7 @@
                     "@public"
                 ],
                 "name": "DarkFatherPlushie",
+                "display_name": "Dark Father Plushie",
                 "category": "plushie"
             },
             {
@@ -221,6 +238,7 @@
                     "@public"
                 ],
                 "name": "DolphinPlushie",
+                "display_name": "Dolphin Plushie",
                 "category": "plushie"
             },
             {
@@ -233,6 +251,7 @@
                     "@public"
                 ],
                 "name": "DonkeyPlushie",
+                "display_name": "Donkey Plushie",
                 "category": "plushie"
             },
             {
@@ -245,6 +264,7 @@
                     "@public"
                 ],
                 "name": "DrownedPlushie",
+                "display_name": "Drowned Plushie",
                 "category": "plushie"
             },
             {
@@ -257,6 +277,7 @@
                     "@public"
                 ],
                 "name": "ElderGuardianPlushie",
+                "display_name": "Elder Guardian Plushie",
                 "category": "plushie"
             },
             {
@@ -269,6 +290,7 @@
                     "@public"
                 ],
                 "name": "EmperorPlushie",
+                "display_name": "Emperor Plushie",
                 "category": "plushie"
             },
             {
@@ -281,6 +303,7 @@
                     "@public"
                 ],
                 "name": "EnderDragonPlushie",
+                "display_name": "Ender Dragon Plushie",
                 "category": "plushie"
             },
             {
@@ -293,6 +316,7 @@
                     "@public"
                 ],
                 "name": "EndermanPlushie",
+                "display_name": "Enderman Plushie",
                 "category": "plushie"
             },
             {
@@ -305,6 +329,7 @@
                     "@public"
                 ],
                 "name": "EvokerPlushie",
+                "display_name": "Evoker Plushie",
                 "category": "plushie"
             },
             {
@@ -317,6 +342,7 @@
                     "@public"
                 ],
                 "name": "FoxPlushie",
+                "display_name": "Fox Plushie",
                 "category": "plushie"
             },
             {
@@ -329,6 +355,7 @@
                     "@public"
                 ],
                 "name": "FrogPlushie",
+                "display_name": "Frog Plushie",
                 "category": "plushie"
             },
             {
@@ -341,6 +368,7 @@
                     "@public"
                 ],
                 "name": "GhastPlushie",
+                "display_name": "Ghast Plushie",
                 "category": "plushie"
             },
             {
@@ -353,6 +381,7 @@
                     "@public"
                 ],
                 "name": "GlowSquidPlushie",
+                "display_name": "Glow Squid Plushie",
                 "category": "plushie"
             },
             {
@@ -365,6 +394,7 @@
                     "@public"
                 ],
                 "name": "GoatPlushie",
+                "display_name": "Goat Plushie",
                 "category": "plushie"
             },
             {
@@ -377,6 +407,7 @@
                     "@public"
                 ],
                 "name": "GuardianPlushie",
+                "display_name": "Guardian Plushie",
                 "category": "plushie"
             },
             {
@@ -389,6 +420,7 @@
                     "@public"
                 ],
                 "name": "HoglinPlushie",
+                "display_name": "Hoglin Plushie",
                 "category": "plushie"
             },
             {
@@ -401,6 +433,7 @@
                     "@public"
                 ],
                 "name": "HorsePlushie",
+                "display_name": "Horse Plushie",
                 "category": "plushie"
             },
             {
@@ -413,6 +446,7 @@
                     "@public"
                 ],
                 "name": "HuskPlushie",
+                "display_name": "Husk Plushie",
                 "category": "plushie"
             },
             {
@@ -425,6 +459,7 @@
                     "@public"
                 ],
                 "name": "IronGolemPlushie",
+                "display_name": "Iron Golem Plushie",
                 "category": "plushie"
             },
             {
@@ -437,6 +472,7 @@
                     "@public"
                 ],
                 "name": "LlamaPlushie",
+                "display_name": "Llama Plushie",
                 "category": "plushie"
             },
             {
@@ -449,6 +485,7 @@
                     "@public"
                 ],
                 "name": "MagmaCubePlushie",
+                "display_name": "Magma Cube Plushie",
                 "category": "plushie"
             },
             {
@@ -461,6 +498,7 @@
                     "@public"
                 ],
                 "name": "MooshroomPlushie",
+                "display_name": "Mooshroom Plushie",
                 "category": "plushie"
             },
             {
@@ -473,6 +511,7 @@
                     "@public"
                 ],
                 "name": "MulePlushie",
+                "display_name": "Mule Plushie",
                 "category": "plushie"
             },
             {
@@ -485,6 +524,7 @@
                     "@public"
                 ],
                 "name": "PandaPlushie",
+                "display_name": "Panda Plushie",
                 "category": "plushie"
             },
             {
@@ -497,6 +537,7 @@
                     "@public"
                 ],
                 "name": "ParrotPlushie",
+                "display_name": "Parrot Plushie",
                 "category": "plushie"
             },
             {
@@ -509,6 +550,7 @@
                     "@public"
                 ],
                 "name": "PhantomPlushie",
+                "display_name": "Phantom Plushie",
                 "category": "plushie"
             },
             {
@@ -521,6 +563,7 @@
                     "@public"
                 ],
                 "name": "PigPlushie",
+                "display_name": "Pig Plushie",
                 "category": "plushie"
             },
             {
@@ -533,6 +576,7 @@
                     "@public"
                 ],
                 "name": "PiglinPlushie",
+                "display_name": "Piglin Plushie",
                 "category": "plushie"
             },
             {
@@ -545,6 +589,7 @@
                     "@public"
                 ],
                 "name": "PiglinBrutePlushie",
+                "display_name": "Piglin Brute Plushie",
                 "category": "plushie"
             },
             {
@@ -557,6 +602,7 @@
                     "@public"
                 ],
                 "name": "PillagerPlushie",
+                "display_name": "Pillager Plushie",
                 "category": "plushie"
             },
             {
@@ -569,6 +615,7 @@
                     "@public"
                 ],
                 "name": "PolarBearPlushie",
+                "display_name": "Polar Bear Plushie",
                 "category": "plushie"
             },
             {
@@ -581,6 +628,7 @@
                     "@public"
                 ],
                 "name": "PufferfishPlushie",
+                "display_name": "Pufferfish Plushie",
                 "category": "plushie"
             },
             {
@@ -593,6 +641,7 @@
                     "@public"
                 ],
                 "name": "RabbitPlushie",
+                "display_name": "Rabbit Plushie",
                 "category": "plushie"
             },
             {
@@ -605,6 +654,7 @@
                     "@public"
                 ],
                 "name": "RavagerPlushie",
+                "display_name": "Ravager Plushie",
                 "category": "plushie"
             },
             {
@@ -617,6 +667,7 @@
                     "@public"
                 ],
                 "name": "SheepPlushie",
+                "display_name": "Sheep Plushie",
                 "category": "plushie"
             },
             {
@@ -629,6 +680,7 @@
                     "@public"
                 ],
                 "name": "ShulkerPlushie",
+                "display_name": "Shulker Plushie",
                 "category": "plushie"
             },
             {
@@ -641,6 +693,7 @@
                     "@public"
                 ],
                 "name": "SkeletonPlushie",
+                "display_name": "Skeleton Plushie",
                 "category": "plushie"
             },
             {
@@ -653,6 +706,7 @@
                     "@public"
                 ],
                 "name": "SkeletonHorsePlushie",
+                "display_name": "Skeleton Horse Plushie",
                 "category": "plushie"
             },
             {
@@ -665,6 +719,7 @@
                     "@public"
                 ],
                 "name": "SlimePlushie",
+                "display_name": "Slime Plushie",
                 "category": "plushie"
             },
             {
@@ -677,6 +732,7 @@
                     "@public"
                 ],
                 "name": "SnifferPlushie",
+                "display_name": "Sniffer Plushie",
                 "category": "plushie"
             },
             {
@@ -689,6 +745,7 @@
                     "@public"
                 ],
                 "name": "SpiderPlushie",
+                "display_name": "Spider Plushie",
                 "category": "plushie"
             },
             {
@@ -701,6 +758,7 @@
                     "@public"
                 ],
                 "name": "SquidPlushie",
+                "display_name": "Squid Plushie",
                 "category": "plushie"
             },
             {
@@ -713,6 +771,7 @@
                     "@public"
                 ],
                 "name": "StormSoldierPlushie",
+                "display_name": "Storm Soldier Plushie",
                 "category": "plushie"
             },
             {
@@ -725,6 +784,7 @@
                     "@public"
                 ],
                 "name": "StrayPlushie",
+                "display_name": "Stray Plushie",
                 "category": "plushie"
             },
             {
@@ -737,6 +797,7 @@
                     "@public"
                 ],
                 "name": "StriderPlushie",
+                "display_name": "Strider Plushie",
                 "category": "plushie"
             },
             {
@@ -749,6 +810,7 @@
                     "@public"
                 ],
                 "name": "TraderLlamaPlushie",
+                "display_name": "Trader Llama Plushie",
                 "category": "plushie"
             },
             {
@@ -761,6 +823,7 @@
                     "@public"
                 ],
                 "name": "TurtlePlushie",
+                "display_name": "Turtle Plushie",
                 "category": "plushie"
             },
             {
@@ -773,6 +836,7 @@
                     "@public"
                 ],
                 "name": "VexPlushie",
+                "display_name": "Vex Plushie",
                 "category": "plushie"
             },
             {
@@ -785,6 +849,7 @@
                     "@public"
                 ],
                 "name": "VillagerPlushie",
+                "display_name": "Villager Plushie",
                 "category": "plushie"
             },
             {
@@ -797,6 +862,7 @@
                     "@public"
                 ],
                 "name": "VindicatorPlushie",
+                "display_name": "Vindicator Plushie",
                 "category": "plushie"
             },
             {
@@ -809,6 +875,7 @@
                     "@public"
                 ],
                 "name": "WanderingTraderPlushie",
+                "display_name": "Wandering Trader Plushie",
                 "category": "plushie"
             },
             {
@@ -821,6 +888,7 @@
                     "@public"
                 ],
                 "name": "WardenPlushie",
+                "display_name": "Warden Plushie",
                 "category": "plushie"
             },
             {
@@ -833,6 +901,7 @@
                     "@public"
                 ],
                 "name": "WitchPlushie",
+                "display_name": "Witch Plushie",
                 "category": "plushie"
             },
             {
@@ -845,6 +914,7 @@
                     "@public"
                 ],
                 "name": "WitherPlushie",
+                "display_name": "Wither Plushie",
                 "category": "plushie"
             },
             {
@@ -857,6 +927,7 @@
                     "@public"
                 ],
                 "name": "WitherSkeletonPlushie",
+                "display_name": "Wither Skeleton Plushie",
                 "category": "plushie"
             },
             {
@@ -869,6 +940,7 @@
                     "@public"
                 ],
                 "name": "WolfPlushie",
+                "display_name": "Wolf Plushie",
                 "category": "plushie"
             },
             {
@@ -881,6 +953,7 @@
                     "@public"
                 ],
                 "name": "YodaPlushie",
+                "display_name": "Yoda Plushie",
                 "category": "plushie"
             },
             {
@@ -893,6 +966,7 @@
                     "@public"
                 ],
                 "name": "ZoglinPlushie",
+                "display_name": "Zoglin Plushie",
                 "category": "plushie"
             },
             {
@@ -905,6 +979,7 @@
                     "@public"
                 ],
                 "name": "ZombiePlushie",
+                "display_name": "Zombie Plushie",
                 "category": "plushie"
             },
             {
@@ -917,6 +992,7 @@
                     "@public"
                 ],
                 "name": "ZombieVillagerPlushie",
+                "display_name": "Zombie Villager Plushie",
                 "category": "plushie"
             },
             {
@@ -929,6 +1005,7 @@
                     "@public"
                 ],
                 "name": "ZombifiedPiglinPlushie",
+                "display_name": "Zombified Piglin Plushie",
                 "category": "plushie"
             }
         ]

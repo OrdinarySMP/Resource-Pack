@@ -17,6 +17,7 @@
                     "@public"
                 ],
                 "name": "AbroFlag",
+                "display_name": "Abro Flag",
                 "category": "flag"
             },
             {
@@ -29,6 +30,7 @@
                     "@public"
                 ],
                 "name": "AceFlag",
+                "display_name": "Ace Flag",
                 "category": "flag"
             },
             {
@@ -41,6 +43,7 @@
                     "@public"
                 ],
                 "name": "AgenderFlag",
+                "display_name": "Agender Flag",
                 "category": "flag"
             },
             {
@@ -53,6 +56,7 @@
                     "@public"
                 ],
                 "name": "AroaceFlag",
+                "display_name": "Aroace Flag",
                 "category": "flag"
             },
             {
@@ -65,6 +69,7 @@
                     "@public"
                 ],
                 "name": "AroFlag",
+                "display_name": "Aro Flag",
                 "category": "flag"
             },
             {
@@ -77,6 +82,7 @@
                     "@public"
                 ],
                 "name": "BearFlag",
+                "display_name": "Bear Flag",
                 "category": "flag"
             },
             {
@@ -89,6 +95,7 @@
                     "@public"
                 ],
                 "name": "BiFlag",
+                "display_name": "Bi Flag",
                 "category": "flag"
             },
             {
@@ -101,6 +108,7 @@
                     "@public"
                 ],
                 "name": "BigenderFlag",
+                "display_name": "Bigender Flag",
                 "category": "flag"
             },
             {
@@ -113,6 +121,7 @@
                     "@public"
                 ],
                 "name": "DemiboyFlag",
+                "display_name": "Demiboy Flag",
                 "category": "flag"
             },
             {
@@ -125,6 +134,7 @@
                     "@public"
                 ],
                 "name": "DemigirlFlag",
+                "display_name": "Demigirl Flag",
                 "category": "flag"
             },
             {
@@ -137,6 +147,7 @@
                     "@public"
                 ],
                 "name": "DemiromanticFlag",
+                "display_name": "Demiromantic Flag",
                 "category": "flag"
             },
             {
@@ -149,6 +160,7 @@
                     "@public"
                 ],
                 "name": "DemisexualFlag",
+                "display_name": "Demisexual Flag",
                 "category": "flag"
             },
             {
@@ -161,6 +173,7 @@
                     "@public"
                 ],
                 "name": "GayFlag",
+                "display_name": "Gay Flag",
                 "category": "flag"
             },
             {
@@ -173,6 +186,7 @@
                     "@public"
                 ],
                 "name": "GenderfluidFlag",
+                "display_name": "Genderfluid Flag",
                 "category": "flag"
             },
             {
@@ -185,6 +199,7 @@
                     "@public"
                 ],
                 "name": "GenderqueerFlag",
+                "display_name": "Genderqueer Flag",
                 "category": "flag"
             },
             {
@@ -197,6 +212,7 @@
                     "@public"
                 ],
                 "name": "IntersexFlag",
+                "display_name": "Intersex Flag",
                 "category": "flag"
             },
             {
@@ -209,6 +225,7 @@
                     "@public"
                 ],
                 "name": "LabrysFlag",
+                "display_name": "Labrys Flag",
                 "category": "flag"
             },
             {
@@ -221,6 +238,7 @@
                     "@public"
                 ],
                 "name": "LesbianFlag",
+                "display_name": "Lesbian Flag",
                 "category": "flag"
             },
             {
@@ -233,6 +251,7 @@
                     "@public"
                 ],
                 "name": "MinecraftHeartFlag",
+                "display_name": "Minecraft Heart Flag",
                 "category": "flag"
             },
             {
@@ -245,6 +264,7 @@
                     "@public"
                 ],
                 "name": "NonbinaryFlag",
+                "display_name": "Nonbinary Flag",
                 "category": "flag"
             },
             {
@@ -257,6 +277,7 @@
                     "@public"
                 ],
                 "name": "OmnisexualFlag",
+                "display_name": "Omnisexual Flag",
                 "category": "flag"
             },
             {
@@ -269,6 +290,7 @@
                     "@public"
                 ],
                 "name": "PanFlag",
+                "display_name": "Pan Flag",
                 "category": "flag"
             },
             {
@@ -281,6 +303,7 @@
                     "@public"
                 ],
                 "name": "PangenderFlag",
+                "display_name": "Pangender Flag",
                 "category": "flag"
             },
             {
@@ -293,6 +316,7 @@
                     "@public"
                 ],
                 "name": "PolyamoryFlag",
+                "display_name": "Polyamory Flag",
                 "category": "flag"
             },
             {
@@ -305,6 +329,7 @@
                     "@public"
                 ],
                 "name": "PolysexualFlag",
+                "display_name": "Polysexual Flag",
                 "category": "flag"
             },
             {
@@ -317,6 +342,7 @@
                     "@public"
                 ],
                 "name": "PrideFlag",
+                "display_name": "Pride Flag",
                 "category": "flag"
             },
             {
@@ -329,6 +355,7 @@
                     "@public"
                 ],
                 "name": "ProgressFlag",
+                "display_name": "Progress Flag",
                 "category": "flag"
             },
             {
@@ -341,6 +368,7 @@
                     "@public"
                 ],
                 "name": "ProgressPrideFlag",
+                "display_name": "Progress Pride Flag",
                 "category": "flag"
             },
             {
@@ -353,6 +381,7 @@
                     "@public"
                 ],
                 "name": "QueerFlag",
+                "display_name": "Queer Flag",
                 "category": "flag"
             },
             {
@@ -365,6 +394,7 @@
                     "@public"
                 ],
                 "name": "RainbowFlag",
+                "display_name": "Rainbow Flag",
                 "category": "flag"
             },
             {
@@ -377,6 +407,7 @@
                     "@public"
                 ],
                 "name": "SimplifiedGayFlag",
+                "display_name": "Gay Flag",
                 "category": "flag"
             },
             {
@@ -389,6 +420,7 @@
                     "@public"
                 ],
                 "name": "SimplifiedLesbianFlag",
+                "display_name": "Lesbian Flag",
                 "category": "flag"
             },
             {
@@ -401,6 +433,7 @@
                     "@public"
                 ],
                 "name": "TransFlag",
+                "display_name": "Trans Flag",
                 "category": "flag"
             }
         ]
