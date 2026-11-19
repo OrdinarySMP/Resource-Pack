@@ -1,30 +1,63 @@
 # OrdinarySMP Resource Pack
 
-Custom hats, tools, food, totems, decorations, and other models for OrdinarySMP.
-Enable this folder as a Minecraft Java resource pack.
+Custom hats, tools, food, totems, decorations, trophies, and other models for OrdinarySMP.
 
-## Files
+This repository contains the assets for the OrdinarySMP Minecraft Java resource pack.
 
-- `assets/custom/models/` — models grouped by purpose.
-- `assets/custom/textures/` — matching textures and animation sidecars.
-- `assets/minecraft/items/` — base-item definitions, CMD mappings, and metadata.
-- `descriptions.json` — category descriptions included in the generated registry.
+## Contribution Guidelines
 
-Every registered category requires a non-empty description in `descriptions.json`.
-Run `python .github/scripts/generate_models.py` to generate the release pack and
-`build/release-pack/models.json`. CI runs the same validation on pushes and pull
-requests and fails if a category description is missing or blank.
+All contributions should follow these guidelines to keep the pack consistent with the spirit of OrdinarySMP.
 
-Asset filenames use `snake_case`; registry names use PascalCase. Carved-pumpkin
-models and textures belong under `block/` to keep their atlas consistent.
+### What We're Looking For
 
-See [AGENTS.md](AGENTS.md) for maintenance rules and metadata details.
+- **Cosmetic Items:** Hats, gear, trophies, banners, decorations, and other visual items.
+- **Event & Achievement Rewards:** Custom items earned through events or completing challenges.
+- **Easter Eggs:** Fun, hidden items that don't affect gameplay or cause confusion.
+- **Other Creative Ideas:** Unique additions that fit the server's overall style.
+
+### General Rules
+
+- All submissions must follow our community guidelines and be suitable for all ages.
+- Items should fit the vanilla Minecraft aesthetic and our HermitCraft-like server atmosphere.
+- Items must not give players an unfair gameplay advantage.
+- Avoid visuals that could be confused with existing Minecraft items or mislead players during gameplay.
+- Avoid unnecessarily large textures, models, or other assets that could impact pack size or performance.
+
+## Adding Content
+
+When contributing new items or models, please follow these conventions:
+
+- Asset filenames must use `snake_case`.
+- Registry names must use `PascalCase`.
+- Place models and textures in the appropriate category folders.
+- Carved-pumpkin models and textures must go under `block/` to keep their atlas consistent.
+- Every category must have a non-empty description in `descriptions.json`.
+- All textures must be credited in credits/CREDITS.md.
+
+### CustomModelData
+
+CustomModelData values must be assigned sequentially, starting at `1001`.
+
+- Each new model gets the next available value.
+- Every model must have its own unique CustomModelData value.
+- Never reuse a value already assigned to another model.
+- Do not renumber existing models, even if values are removed or gaps appear.
+
+**Note:** Older models may still use randomly assigned CustomModelData values from our previous system. These are kept for compatibility and should not be changed. The sequential numbering rule applies to all new models.
+
+## Submitting Your Contribution
+
+1. Create your design and prepare the necessary models and textures.
+2. Submit your contribution through a pull request or the designated Discord ticket.
+3. The admin team will review submissions to make sure they follow the guidelines.
+
+Approved contributions may be added to the resource pack!
 
 ## Credits
 
 Thank you to the artists and creators whose textures and models appear in this pack.
-See [Texture credits](credits/CREDITS.md) for individual credits and original sources,
-and [Missing texture credits](credits/MISSING_SOURCES.md) for credits we are still recovering.
 
-If your textures are included in this pack and your credit is missing or incorrect,
-please let us know so we can give you proper credit.
+- [Texture credits](credits/CREDITS.md) - Individual credits and original sources.
+- [Missing texture credits](credits/MISSING_SOURCES.md) - Credits and sources we are still working to recover.
+
+If your textures are included in this pack and your credit is missing or incorrect, please let us know so we can give you proper credit.
