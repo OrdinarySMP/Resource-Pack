@@ -18,6 +18,7 @@
   - Other item categories: `games/cards`, `games/chips`, `stationery/letters`,
     `flags`, `collectibles/easter_eggs`, `materials`, `enchanted_books`.
 - Keep equipment sets and their animation states together.
+- When adding a new tool model, apply it to all applicable vanilla material variants of that tool.
 
 ## Naming and references
 
@@ -60,11 +61,25 @@
 
 ## CMD metadata
 
+### CustomModelData numbering
+
+- New models must use sequential CustomModelData values, starting at `1001`.
+- Each new model gets the next available value. Values are assigned per model,
+  not per item.
+- Never reuse an existing value for another model on the same base item.
+- Do not renumber existing models, even if values are removed or gaps appear.
+- Older models may still use randomly assigned CustomModelData values from the
+  previous system. Keep these values unchanged for compatibility.
+- The sequential numbering convention applies to all newly added models.
+
+CMD values may repeat across different base items, but distinct registry models
+must not claim the same base-item/CMD pair.
+
 Each registered custom-model-data dispatch entry carries:
 
 ```json
 {
-  "threshold": 8643003,
+  "threshold": 1001,
   "model": {"type": "model", "model": "custom:item/totems/animals/bee"},
   "owners": ["xKellfeine"],
   "name": "BeeTotem",
@@ -73,8 +88,7 @@ Each registered custom-model-data dispatch entry carries:
 ```
 
 - `owners` is a non-empty array of player usernames or `@group` identifiers.
-  Use `@public` for public access and `@staff` for staff access. The intentional
-  placeholder for undocumented ownership is **`@unkown`**; keep that spelling.
+  Use `@public` for public access and `@staff` for staff access.
 - `category` uses singular `snake_case`, based on purpose rather than base item:
   `plushie`, `card`, `letter`, `material`, `blood_effect`, `easter_egg`, etc.
 - `name` uses PascalCase: `BeePlushie`, `AlarmLetter`, `FishTrophy`,
@@ -88,35 +102,11 @@ Each registered custom-model-data dispatch entry carries:
   distinct; the second Lilvyse variant is `LilvyseVariantTotem`.
 - The generator groups entries by `(category, name)`. Grouped entries must have
   identical owners and CMDs; their base items are combined in the registry.
-- Different equipment types use separate names, e.g. `BlossomSword` and
-  `BlossomPickaxe`. CMDs may repeat across different base items, but distinct
-  registry models must not claim the same base-item/CMD pair.
 - Untagged custom entries are audited but omitted from the registry. Partially
   tagged entries fail validation. Check the audit even when the build exits zero.
-- Vanilla reset thresholds are excluded from the registry. Existing resets were
-  removed: CMDs between thresholds select the preceding entry. Keep dispatch-level
-  fallbacks intact; do not assume every threshold selects only one exact integer.
-
-## Imported data and intentional exceptions
-
-- Initial metadata came from `Custom Model Data - OSMP S2.csv`, matched by base
-  item and CMD. Public access overrides an owner/creator listed in a public row.
-  Private comma/slash-separated owners become separate usernames.
-- Import corrections: `ThePianoMan` → `ThePianoMann` and `SalatFurke9440` →
-  `SalatGurke9440`. Existing branch metadata took precedence over the CSV.
-- Additional mappings of documented models reuse established ownership. Honey,
-  Honor, Ender, and Blossom equipment additions use PadBro.
-- Bamboo at golden-carrot CMD `5569102` intentionally uses `minecraft:item/bamboo`
-  and is registered as `food/Bamboo`, owned by PadBro. A vanilla texture does not
-  automatically make an entry a reset.
-- The CSV's Anubis Hat has no matching model. Spingus Coin, Crab Sword, and Honor
-  Mace were removed; do not recreate them merely to match the historical CSV.
-- The public Padawan lightsaber uses CMD `2796712` on all seven sword types.
 
 ## Validation and release
 
-- Run `python .github/scripts/generate_models.py` from the repository root after
-  asset or metadata changes, unless the user requests inspection only.
 - Review errors and missing-metadata counts. Verify affected model/parent/texture
   paths, inherited variables, atlas consistency, and state-dependent rendering.
   The generator validates metadata and JSON, not all rendering constraints.
@@ -124,12 +114,5 @@ Each registered custom-model-data dispatch entry carries:
   `build/release-pack/models.json`; do not remove metadata from source entries.
 - Keep the ZIP root as `assets/`, `pack.mcmeta`, and `pack.png`; the registry is
   currently a separate release asset.
-- `.github/workflows/release.yml` and `.releaserc.json` release from `main`.
-  Manual dispatch on another branch does not make it a release branch.
-- Current workflow limitations: duplicate ZIP upload, uploads gated on a newly
-  published release (retry risk).
-- The registry is uploaded to every server in the `MODELS_JSON_SERVERS` secret
-  (JSON array with per-server host, ID, token, upload dir and optional console
-  command), separately from the ZIP's Pterodactyl upload.
 - Commit messages follow `@commitlint/config-conventional`, e.g.
   `feat: add a model`, `fix: correct texture references`, `refactor: organize assets`.
