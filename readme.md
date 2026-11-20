@@ -1,12 +1,12 @@
-# OrdinarySMP Resource Pack
+# Ordinary SMP Resource Pack
 
-Custom hats, tools, food, totems, decorations, trophies, and other models for OrdinarySMP.
+Custom hats, tools, food, totems, decorations, trophies, and other models for Ordinary SMP.
 
-This repository contains the assets for the OrdinarySMP Minecraft Java resource pack.
+This repository contains the assets for the Ordinary SMP Minecraft Java resource pack.
 
 ## Contribution Guidelines
 
-All contributions should follow these guidelines to keep the pack consistent with the spirit of OrdinarySMP.
+All contributions should follow these guidelines to keep the pack consistent with the spirit of Ordinary SMP.
 
 ### What We're Looking For
 

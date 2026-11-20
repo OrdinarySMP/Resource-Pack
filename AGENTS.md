@@ -88,8 +88,7 @@ Each registered custom-model-data dispatch entry carries:
 ```
 
 - `owners` is a non-empty array of player usernames or `@group` identifiers.
-  Use `@public` for public access and `@staff` for staff access. The intentional
-  placeholder for undocumented ownership is **`@unknown`**.
+  Use `@public` for public access and `@staff` for staff access.
 - `category` uses singular `snake_case`, based on purpose rather than base item:
   `plushie`, `card`, `letter`, `material`, `blood_effect`, `easter_egg`, etc.
 - `name` uses PascalCase: `BeePlushie`, `AlarmLetter`, `FishTrophy`,
