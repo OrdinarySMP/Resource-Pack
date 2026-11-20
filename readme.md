@@ -32,7 +32,8 @@ When contributing new items or models, please follow these conventions:
 - Place models and textures in the appropriate category folders.
 - Carved-pumpkin models and textures must go under `block/` to keep their atlas consistent.
 - Every category must have a non-empty description in `descriptions.json`.
-- All textures must be credited in credits/CREDITS.md.
+- All textures must be credited in [CREDITS.md](credits/CREDITS.md).
+- **Tools:** When adding a new tool model, make sure it is applied to all material variants of that tool (wooden, stone, copper, iron, golden, diamond, and netherite).
 
 ### CustomModelData
 
@@ -41,6 +42,8 @@ CustomModelData values must be assigned sequentially, starting at `1001`.
 - Each new model gets the next available value.
 - Every model must have its own unique CustomModelData value.
 - Never reuse a value already assigned to another model.
+- CMD values may repeat across different base items, but distinct registry models
+  must not claim the same base-item/CMD pair.
 - Do not renumber existing models, even if values are removed or gaps appear.
 
 **Note:** Older models may still use randomly assigned CustomModelData values from our previous system. These are kept for compatibility and should not be changed. The sequential numbering rule applies to all new models.
@@ -48,7 +51,7 @@ CustomModelData values must be assigned sequentially, starting at `1001`.
 ## Submitting Your Contribution
 
 1. Create your design and prepare the necessary models and textures.
-2. Submit your contribution through a pull request or the designated Discord ticket.
+2. Submit your contribution through a pull request or the designated [Discord ticket](https://discord.com/channels/1216052687645184010/1216108845831688262).
 3. The admin team will review submissions to make sure they follow the guidelines.
 
 Approved contributions may be added to the resource pack!

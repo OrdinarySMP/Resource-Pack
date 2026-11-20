@@ -18,6 +18,7 @@
   - Other item categories: `games/cards`, `games/chips`, `stationery/letters`,
     `flags`, `collectibles/easter_eggs`, `materials`, `enchanted_books`.
 - Keep equipment sets and their animation states together.
+- When adding a new tool model, apply it to all applicable vanilla material variants of that tool.
 
 ## Naming and references
 
@@ -107,8 +108,6 @@ Each registered custom-model-data dispatch entry carries:
 
 ## Validation and release
 
-- Run `python .github/scripts/generate_models.py` from the repository root after
-  asset or metadata changes, unless the user requests inspection only.
 - Review errors and missing-metadata counts. Verify affected model/parent/texture
   paths, inherited variables, atlas consistency, and state-dependent rendering.
   The generator validates metadata and JSON, not all rendering constraints.
@@ -116,12 +115,5 @@ Each registered custom-model-data dispatch entry carries:
   `build/release-pack/models.json`; do not remove metadata from source entries.
 - Keep the ZIP root as `assets/`, `pack.mcmeta`, and `pack.png`; the registry is
   currently a separate release asset.
-- `.github/workflows/release.yml` and `.releaserc.json` release from `main`.
-  Manual dispatch on another branch does not make it a release branch.
-- Current workflow limitations: duplicate ZIP upload, uploads gated on a newly
-  published release (retry risk).
-- The registry is uploaded to every server in the `MODELS_JSON_SERVERS` secret
-  (JSON array with per-server host, ID, token, upload dir and optional console
-  command), separately from the ZIP's Pterodactyl upload.
 - Commit messages follow `@commitlint/config-conventional`, e.g.
   `feat: add a model`, `fix: correct texture references`, `refactor: organize assets`.
