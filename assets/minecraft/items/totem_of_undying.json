@@ -842,6 +842,19 @@
                 "name": "Error",
                 "display_name": "Error",
                 "category": "totem"
+            },
+            {
+                "threshold": 1002,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/totems/animals/hello_kitty"
+                },
+                "owners": [
+                    "IamLolda"
+                ],
+                "name": "HelloKitty",
+                "display_name": "Hello Kitty",
+                "category": "totem"
             }
         ]
     }
