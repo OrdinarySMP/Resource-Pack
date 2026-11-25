@@ -138,6 +138,18 @@
                 ],
                 "name": "Error",
                 "category": "equipment"
+            },
+            {
+                "threshold": 1002,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/equipment/sets/frost/frost_shovel"
+                },
+                "owners": [
+                    "IamLolda"
+                ],
+                "name": "Frost",
+                "category": "equipment"
             }
         ]
     }
