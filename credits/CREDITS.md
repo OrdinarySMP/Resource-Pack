@@ -384,6 +384,16 @@ Credits supplied by the pack maintainer take precedence over old embedded credit
 | [`item/equipment/sets/error/error_shovel.png`](../assets/custom/textures/item/equipment/sets/error/error_shovel.png)   | IamLolda |
 | [`item/equipment/sets/error/error_sword.png`](../assets/custom/textures/item/equipment/sets/error/error_sword.png)     | IamLolda |
 
+## item/equipment/sets/frost
+
+| Texture | Credit |
+|---|---|
+| [`item/equipment/sets/frost/frost_axe.png`](../assets/custom/textures/item/equipment/sets/frost/frost_axe.png) | IamLolda |
+| [`item/equipment/sets/frost/frost_hoe.png`](../assets/custom/textures/item/equipment/sets/frost/frost_hoe.png) | IamLolda |
+| [`item/equipment/sets/frost/frost_pickaxe.png`](../assets/custom/textures/item/equipment/sets/frost/frost_pickaxe.png) | IamLolda |
+| [`item/equipment/sets/frost/frost_shovel.png`](../assets/custom/textures/item/equipment/sets/frost/frost_shovel.png) | IamLolda |
+| [`item/equipment/sets/frost/frost_sword.png`](../assets/custom/textures/item/equipment/sets/frost/frost_sword.png) | IamLolda |
+
 ## item/equipment/sets/honey
 
 | Texture | Credit |
@@ -709,14 +719,15 @@ Credits supplied by the pack maintainer take precedence over old embedded credit
 
 ## item/totems/animals
 
-| Texture | Credit |
-| --- | --- |
-| [`item/totems/animals/bee.png`](../assets/custom/textures/item/totems/animals/bee.png) | xKellfeine |
-| [`item/totems/animals/panda.png`](../assets/custom/textures/item/totems/animals/panda.png) | xKellfeine |
-| [`item/totems/animals/pink_panda.png`](../assets/custom/textures/item/totems/animals/pink_panda.png) | xKellfeine |
-| [`item/totems/animals/sand_cat.png`](../assets/custom/textures/item/totems/animals/sand_cat.png) | xKellfeine |
-| [`item/totems/animals/shroomie.png`](../assets/custom/textures/item/totems/animals/shroomie.png) | xKellfeine |
-| [`item/totems/animals/teddy.png`](../assets/custom/textures/item/totems/animals/teddy.png) | xKellfeine |
+| Texture                                                                                                | Credit                                                                                    |
+|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| [`item/totems/animals/bee.png`](../assets/custom/textures/item/totems/animals/bee.png)                 | xKellfeine                                                                                |
+| [`item/totems/animals/hello_kitty.png`](../assets/custom/textures/item/totems/animals/hello_kitty.png) | Based on [Entraut](https://es.pinterest.com/pin/919930661421549286/); adapted by IamLolda |
+| [`item/totems/animals/panda.png`](../assets/custom/textures/item/totems/animals/panda.png)             | xKellfeine                                                                                |
+| [`item/totems/animals/pink_panda.png`](../assets/custom/textures/item/totems/animals/pink_panda.png)   | xKellfeine                                                                                |
+| [`item/totems/animals/sand_cat.png`](../assets/custom/textures/item/totems/animals/sand_cat.png)       | xKellfeine                                                                                |
+| [`item/totems/animals/shroomie.png`](../assets/custom/textures/item/totems/animals/shroomie.png)       | xKellfeine                                                                                |
+| [`item/totems/animals/teddy.png`](../assets/custom/textures/item/totems/animals/teddy.png)             | xKellfeine                                                                                |
 
 ## item/totems/collections/christmas
 
